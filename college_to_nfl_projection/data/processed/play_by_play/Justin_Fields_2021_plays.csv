@@ -1,0 +1,238 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401240173.0,Pass Incompletion,,,69.0,69,-1.655072808265686,False,Clemson,Ohio State,49.0,28.0,4,9,49,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Incompletion,,,69.0,69,-0.7113664150238037,False,Clemson,Ohio State,49.0,28.0,4,9,55,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Passing Touchdown,,,45.0,45,2.9343209266662598,True,Clemson,Ohio State,49.0,21.0,4,14,3,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Sack,,,45.0,45,-2.196352005004883,False,Clemson,Ohio State,42.0,21.0,3,1,53,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,46.0,46,-0.6280670166015625,False,Clemson,Ohio State,42.0,21.0,3,3,18,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,57.0,57,0.504371166229248,False,Clemson,Ohio State,42.0,21.0,3,3,47,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Passing Touchdown,,,56.0,56,3.3374695777893066,True,Clemson,Ohio State,42.0,21.0,3,4,55,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,91.0,91,2.405669927597046,False,Clemson,Ohio State,35.0,21.0,3,7,1,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Incompletion,,,91.0,91,-0.8192375302314758,False,Clemson,Ohio State,35.0,21.0,3,7,47,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Interception Return,,,12.0,12,-2.805429220199585,False,Clemson,Ohio State,35.0,14.0,3,11,45,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,50.0,50,1.8017094135284424,False,Clemson,Ohio State,35.0,14.0,3,13,23,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Passing Touchdown,,,12.0,12,3.31170392036438,True,Clemson,Ohio State,35.0,14.0,2,0,11,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,38.0,38,2.6044912338256836,False,Clemson,Ohio State,28.0,14.0,2,0,20,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Incompletion,,,38.0,38,-0.4604792594909668,False,Clemson,Ohio State,28.0,14.0,2,0,27,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,44.0,44,0.3405942916870117,False,Clemson,Ohio State,28.0,14.0,2,1,0,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,51.0,51,0.17221152782440186,False,Clemson,Ohio State,28.0,14.0,2,1,18,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Sack,,,58.0,58,-0.5663853883743286,False,Clemson,Ohio State,28.0,14.0,2,1,46,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Passing Touchdown,,,9.0,9,2.2969799041748047,True,Clemson,Ohio State,28.0,14.0,2,5,12,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,63.0,63,0.29590439796447754,False,Clemson,Ohio State,21.0,14.0,2,8,24,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,72.0,72,0.9528495073318481,False,Clemson,Ohio State,21.0,14.0,2,8,51,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,75.0,75,-0.8194385766983032,False,Clemson,Ohio State,21.0,14.0,2,9,28,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Passing Touchdown,,,17.0,17,2.3559823036193848,True,Clemson,Ohio State,21.0,14.0,2,10,35,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,48.0,48,1.8021724224090576,False,Clemson,Ohio State,14.0,14.0,2,12,30,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Incompletion,,,54.0,54,-0.6293854713439941,False,Clemson,Ohio State,14.0,14.0,2,13,9,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,73.0,73,-0.0681159496307373,False,Clemson,Ohio State,14.0,14.0,2,14,10,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,84.0,84,0.7123186588287354,False,Clemson,Ohio State,14.0,14.0,2,14,44,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Passing Touchdown,,,8.0,8,3.042232036590576,True,Clemson,Ohio State,14.0,14.0,1,1,36,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,55.0,55,3.538618564605713,False,Clemson,Ohio State,7.0,14.0,1,3,50,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,66.0,66,1.5436768531799316,False,Clemson,Ohio State,0.0,7.0,1,8,29,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240173.0,Pass Reception,,,77.0,77,1.0110235214233398,False,Clemson,Ohio State,0.0,7.0,1,9,4,1,Clemson,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,52.0,52,-1.1473264694213867,False,Alabama,Ohio State,24.0,52.0,4,5,1,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,53.0,53,-0.3029266595840454,False,Alabama,Ohio State,24.0,52.0,4,5,30,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Sack,,,47.0,47,-1.3991386890411377,False,Alabama,Ohio State,24.0,52.0,4,6,9,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,6.0,6,-2.9671506881713867,False,Alabama,Ohio State,24.0,52.0,4,7,52,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,6.0,6,-1.6431540250778198,False,Alabama,Ohio State,24.0,52.0,4,7,58,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,6.0,6,-0.6641173362731934,False,Alabama,Ohio State,24.0,52.0,4,8,7,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,20.0,12,0.6641173362731934,False,Alabama,Ohio State,24.0,52.0,4,8,26,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,20.0,20,-0.8233935832977295,False,Alabama,Ohio State,24.0,52.0,4,8,32,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,26.0,26,0.587160587310791,False,Alabama,Ohio State,24.0,52.0,4,8,54,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,54.0,54,2.6213035583496094,False,Alabama,Ohio State,24.0,52.0,4,11,6,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,54.0,54,0.13726532459259033,False,Alabama,Ohio State,24.0,52.0,4,11,41,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,54.0,54,-0.6381950974464417,False,Alabama,Ohio State,24.0,52.0,4,11,51,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,64.0,64,0.7854921221733093,False,Alabama,Ohio State,24.0,52.0,4,12,4,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,78.0,78,2.7839431762695312,False,Alabama,Ohio State,24.0,52.0,4,12,21,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,75.0,75,-1.1481142044067383,False,Alabama,Ohio State,24.0,52.0,4,12,48,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,75.0,75,0.9502072334289551,False,Alabama,Ohio State,24.0,45.0,3,2,46,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Passing Touchdown,,,20.0,20,2.9428510665893555,True,Alabama,Ohio State,24.0,38.0,3,6,45,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,75.0,75,1.3729100227355957,False,Alabama,Ohio State,17.0,38.0,3,7,41,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,75.0,75,-0.6799983978271484,False,Alabama,Ohio State,17.0,28.0,2,3,2,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,75.0,75,-0.5578141212463379,False,Alabama,Ohio State,17.0,28.0,2,3,14,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,6.0,6,-1.4673340320587158,False,Alabama,Ohio State,14.0,21.0,2,5,26,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,44.0,44,-1.7336279153823853,False,Alabama,Ohio State,7.0,14.0,2,12,40,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,58.0,58,2.2702929973602295,False,Alabama,Ohio State,7.0,14.0,2,13,33,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,58.0,58,-0.8899214267730713,False,Alabama,Ohio State,7.0,14.0,2,13,44,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,75.0,75,1.0591018199920654,False,Alabama,Ohio State,7.0,14.0,2,14,45,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,44.0,44,2.662153720855713,False,Alabama,Ohio State,0.0,7.0,1,5,25,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,64.0,64,2.01102614402771,False,Alabama,Ohio State,0.0,7.0,1,6,40,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,64.0,64,-0.6080613732337952,False,Alabama,Ohio State,0.0,7.0,1,6,45,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Reception,,,69.0,69,0.1312783658504486,False,Alabama,Ohio State,0.0,7.0,1,7,37,1,Alabama,2020,Ohio State,Justin Fields,2021
+401240174.0,Pass Incompletion,,,73.0,73,-1.078819990158081,False,Alabama,Ohio State,0.0,0.0,1,14,24,1,Alabama,2020,Ohio State,Justin Fields,2021
+401247293.0,Passing Touchdown,,,5.0,95,1.0199518203735352,True,Ohio State,Nebraska,45.0,17.0,4,9,58,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,11.0,89,0.7214040756225586,False,Ohio State,Nebraska,38.0,17.0,4,10,7,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,49.0,51,0.47286272048950195,False,Ohio State,Nebraska,38.0,17.0,4,12,3,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Sack,,,42.0,58,-1.23042893409729,False,Ohio State,Nebraska,38.0,17.0,4,12,56,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Sack,,,90.0,10,-2.155327320098877,False,Ohio State,Nebraska,38.0,17.0,3,3,45,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,42.0,58,0.7932233810424805,False,Ohio State,Nebraska,24.0,14.0,3,12,30,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,54.0,46,0.6509273052215576,False,Ohio State,Nebraska,24.0,14.0,3,13,23,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,70.0,30,2.001448631286621,False,Ohio State,Nebraska,24.0,14.0,3,13,51,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,77.0,23,0.17275911569595337,False,Ohio State,Nebraska,24.0,14.0,3,14,25,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,43.0,57,1.5551096200942993,False,Ohio State,Nebraska,17.0,14.0,2,1,45,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Incompletion,,,43.0,57,-0.4780418872833252,False,Ohio State,Nebraska,17.0,14.0,2,1,52,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,35.0,65,0.6093213558197021,False,Ohio State,Nebraska,14.0,14.0,2,5,7,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,64.0,36,1.9755743741989136,False,Ohio State,Nebraska,14.0,14.0,2,5,40,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,72.0,28,0.10560786724090576,False,Ohio State,Nebraska,14.0,14.0,2,7,5,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,88.0,12,0.7640842199325562,False,Ohio State,Nebraska,14.0,14.0,2,8,12,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,76.0,24,-1.0880770683288574,False,Ohio State,Nebraska,14.0,7.0,2,14,50,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,90.0,10,1.054063320159912,False,Ohio State,Nebraska,14.0,7.0,1,0,51,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Passing Touchdown,,,42.0,58,3.2650225162506104,True,Ohio State,Nebraska,14.0,7.0,1,4,2,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,64.0,36,1.0519567728042603,False,Ohio State,Nebraska,7.0,7.0,1,4,54,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,30.0,70,3.962216377258301,False,Ohio State,Nebraska,0.0,7.0,1,9,30,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Sack,,,35.0,65,-1.4631037712097168,False,Ohio State,Nebraska,0.0,7.0,1,10,58,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,59.0,41,2.2638444900512695,False,Ohio State,Nebraska,0.0,7.0,1,11,54,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247293.0,Pass Reception,,,75.0,25,1.1665152311325073,False,Ohio State,Nebraska,0.0,7.0,1,13,0,8,Nebraska,2020,Ohio State,Justin Fields,2021
+401247306.0,Sack,,,32.0,32,-1.9552528858184814,False,Penn State,Ohio State,38.0,25.0,4,3,59,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,45.0,45,1.70980703830719,False,Penn State,Ohio State,38.0,25.0,4,4,55,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Passing Touchdown,,,1.0,1,1.8233180046081543,True,Penn State,Ohio State,38.0,19.0,4,9,14,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,25.0,25,2.365248441696167,False,Penn State,Ohio State,31.0,19.0,4,10,59,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Incompletion,,,29.0,29,-0.8571815490722656,False,Penn State,Ohio State,31.0,19.0,4,11,56,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,60.0,60,2.666766405105591,False,Penn State,Ohio State,31.0,19.0,4,13,4,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,75.0,75,0.730543851852417,False,Penn State,Ohio State,31.0,19.0,4,14,24,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,9.0,9,-1.2207417488098145,False,Penn State,Ohio State,28.0,13.0,3,1,22,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Incompletion,,,9.0,9,-0.8654370307922363,False,Penn State,Ohio State,28.0,13.0,3,1,40,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,24.0,24,0.8993711471557617,False,Penn State,Ohio State,28.0,13.0,3,2,39,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,45.0,45,1.1081840991973877,False,Penn State,Ohio State,28.0,13.0,3,4,20,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Passing Touchdown,,,49.0,49,3.7255117893218994,True,Penn State,Ohio State,28.0,13.0,3,8,41,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,51.0,51,-1.2427783012390137,False,Penn State,Ohio State,21.0,13.0,3,9,9,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,64.0,64,0.3672943115234375,False,Penn State,Ohio State,21.0,13.0,3,9,59,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Incompletion,,,64.0,64,-0.5711884498596191,False,Penn State,Ohio State,21.0,13.0,3,10,5,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,69.0,69,1.2806957960128784,False,Penn State,Ohio State,21.0,13.0,3,10,15,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,76.0,76,0.3574671745300293,False,Penn State,Ohio State,21.0,13.0,3,10,49,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Incompletion,,,63.0,63,-0.23319792747497559,False,Penn State,Ohio State,21.0,3.0,2,0,50,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Passing Touchdown,,,10.0,10,3.625112533569336,True,Penn State,Ohio State,21.0,3.0,2,2,23,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,14.0,14,0.36790895462036133,False,Penn State,Ohio State,14.0,3.0,2,2,25,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,31.0,31,2.0727996826171875,False,Penn State,Ohio State,14.0,3.0,2,5,9,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,27.0,27,-1.2136273384094238,False,Penn State,Ohio State,14.0,3.0,2,5,45,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,43.0,43,0.9819955825805664,False,Penn State,Ohio State,14.0,3.0,2,6,17,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,47.0,47,-0.08581757545471191,False,Penn State,Ohio State,14.0,3.0,2,6,35,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,63.0,63,1.4218308925628662,False,Penn State,Ohio State,14.0,3.0,2,6,55,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Incompletion,,,63.0,63,-0.5959320068359375,False,Penn State,Ohio State,14.0,3.0,2,7,10,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Sack,,,68.0,68,-1.7237707376480103,False,Penn State,Ohio State,14.0,3.0,2,11,5,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,69.0,69,-0.6676278114318848,False,Penn State,Ohio State,14.0,3.0,2,11,50,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Incompletion,,,3.0,3,-1.9532718658447266,False,Penn State,Ohio State,14.0,3.0,2,13,28,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,37.0,17,0.050914764404296875,False,Penn State,Ohio State,14.0,3.0,2,14,45,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,46.0,46,0.17164063453674316,False,Penn State,Ohio State,14.0,3.0,1,1,5,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,75.0,75,0.5543718338012695,False,Penn State,Ohio State,14.0,3.0,1,2,40,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Passing Touchdown,,,26.0,26,2.197678565979004,True,Penn State,Ohio State,14.0,0.0,1,8,39,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,33.0,33,0.1626267433166504,False,Penn State,Ohio State,7.0,0.0,1,9,8,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Fumble Recovery (Own),,,45.0,45,0.6895506381988525,False,Penn State,Ohio State,7.0,0.0,1,10,20,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247306.0,Pass Reception,,,45.0,45,0.10311555862426758,False,Penn State,Ohio State,7.0,0.0,1,11,15,9,Penn State,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,69.0,31,0.1953885555267334,False,Ohio State,Rutgers,49.0,27.0,4,6,30,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Passing Touchdown,,,33.0,67,2.4425339698791504,True,Ohio State,Rutgers,49.0,21.0,4,11,15,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,44.0,56,0.13257837295532227,False,Ohio State,Rutgers,42.0,21.0,4,12,0,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Passing Touchdown,,,7.0,93,1.4831199645996094,True,Ohio State,Rutgers,42.0,9.0,3,4,49,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,8.0,92,0.3542919158935547,False,Ohio State,Rutgers,35.0,9.0,3,5,55,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,17.0,83,0.0012412071228027344,False,Ohio State,Rutgers,35.0,9.0,3,6,53,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,20.0,80,-0.04924154281616211,False,Ohio State,Rutgers,35.0,9.0,3,7,5,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Incompletion,,,47.0,53,-1.2489863634109497,False,Ohio State,Rutgers,35.0,3.0,3,10,38,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,42.0,58,-0.9307682514190674,False,Ohio State,Rutgers,35.0,3.0,3,11,13,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Incompletion,,,49.0,51,-0.9883027076721191,False,Ohio State,Rutgers,35.0,3.0,3,13,23,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,56.0,44,0.7157430648803711,False,Ohio State,Rutgers,35.0,3.0,3,14,55,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,32.0,68,2.274761915206909,False,Ohio State,Rutgers,28.0,3.0,2,1,40,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,40.0,60,0.5483808517456055,False,Ohio State,Rutgers,28.0,3.0,2,1,51,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,67.0,33,1.6138834953308105,False,Ohio State,Rutgers,28.0,3.0,2,2,55,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Sack,,,74.0,26,-0.6916989088058472,False,Ohio State,Rutgers,28.0,3.0,2,3,50,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Passing Touchdown,,,8.0,92,2.958892345428467,True,Ohio State,Rutgers,28.0,3.0,2,5,42,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,12.0,88,-0.4432642459869385,False,Ohio State,Rutgers,21.0,3.0,2,6,2,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,45.0,55,2.0603952407836914,False,Ohio State,Rutgers,21.0,3.0,2,7,31,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Passing Touchdown,,,6.0,94,1.7550840377807617,True,Ohio State,Rutgers,21.0,3.0,2,9,30,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Incompletion,,,64.0,36,-1.340441346168518,False,Ohio State,Rutgers,14.0,3.0,2,12,29,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,76.0,24,0.2512470483779907,False,Ohio State,Rutgers,14.0,3.0,2,13,5,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Incompletion,,,66.0,34,-0.5809856653213501,False,Ohio State,Rutgers,14.0,3.0,2,13,41,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,41.0,59,1.6850090026855469,False,Ohio State,Rutgers,7.0,3.0,1,0,7,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,50.0,50,1.1567294597625732,False,Ohio State,Rutgers,7.0,3.0,1,0,25,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Sack,,,34.0,66,-2.0407047271728516,False,Ohio State,Rutgers,7.0,3.0,1,5,0,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,42.0,58,0.6622204780578613,False,Ohio State,Rutgers,7.0,3.0,1,5,35,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,75.0,25,0.9271506071090698,False,Ohio State,Rutgers,7.0,3.0,1,5,55,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Passing Touchdown,,,38.0,62,2.845353603363037,True,Ohio State,Rutgers,7.0,0.0,1,10,5,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,53.0,47,0.8111693859100342,False,Ohio State,Rutgers,0.0,0.0,1,10,30,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247310.0,Pass Reception,,,64.0,36,0.07352852821350098,False,Ohio State,Rutgers,0.0,0.0,1,12,20,10,Rutgers,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,7.0,93,-3.4321885108947754,False,Ohio State,Indiana,42.0,35.0,4,4,39,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,43.0,57,2.3941237926483154,False,Ohio State,Indiana,42.0,35.0,4,7,20,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Sack,,,40.0,60,-1.0528924465179443,False,Ohio State,Indiana,42.0,35.0,4,7,55,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,50.0,50,1.3824222087860107,False,Ohio State,Indiana,42.0,35.0,4,8,25,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,77.0,23,-1.2746471166610718,False,Ohio State,Indiana,42.0,28.0,4,10,50,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,27.0,73,-1.0382739305496216,False,Ohio State,Indiana,35.0,21.0,3,1,9,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Sack,,,19.0,81,-2.0701279640197754,False,Ohio State,Indiana,35.0,21.0,3,1,50,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,75.0,25,0.38318824768066406,False,Ohio State,Indiana,35.0,21.0,3,5,0,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Interception Return,,,74.0,26,-5.924374580383301,False,Ohio State,Indiana,35.0,14.0,3,9,22,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,74.0,26,-0.3908355236053467,False,Ohio State,Indiana,35.0,14.0,3,9,54,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Passing Touchdown,,,9.0,91,1.121185302734375,True,Ohio State,Indiana,35.0,7.0,3,12,10,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,24.0,76,-0.08657598495483398,False,Ohio State,Indiana,28.0,7.0,3,13,15,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,63.0,37,1.7868385314941406,False,Ohio State,Indiana,28.0,7.0,3,13,55,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,75.0,25,0.5884585380554199,False,Ohio State,Indiana,28.0,7.0,3,14,55,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,22.0,78,1.020738124847412,False,Ohio State,Indiana,21.0,7.0,2,0,35,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,30.0,70,0.7514450550079346,False,Ohio State,Indiana,21.0,7.0,2,0,40,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,43.0,57,1.0939881801605225,False,Ohio State,Indiana,21.0,7.0,2,0,55,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,87.0,13,1.345707654953003,False,Ohio State,Indiana,21.0,7.0,2,2,0,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,43.0,57,0.705535888671875,False,Ohio State,Indiana,14.0,7.0,2,5,15,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,55.0,45,1.4202461242675781,False,Ohio State,Indiana,14.0,7.0,2,6,0,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Sack,,,53.0,47,-1.3079752922058105,False,Ohio State,Indiana,14.0,7.0,2,6,35,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,49.0,51,1.3567359447479248,False,Ohio State,Indiana,7.0,7.0,2,9,15,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,69.0,31,1.972093105316162,False,Ohio State,Indiana,7.0,7.0,2,10,15,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,75.0,25,-0.6002668738365173,False,Ohio State,Indiana,7.0,7.0,2,11,0,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,60.0,40,-0.9944204092025757,False,Ohio State,Indiana,7.0,0.0,2,14,55,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Sack,,,42.0,58,-1.5148236751556396,False,Ohio State,Indiana,7.0,0.0,1,0,40,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,83.0,17,0.5054934024810791,False,Ohio State,Indiana,7.0,0.0,1,1,40,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Interception Return,,,50.0,50,-5.022912502288818,False,Ohio State,Indiana,7.0,0.0,1,2,54,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Incompletion,,,69.0,31,-0.6502339839935303,False,Ohio State,Indiana,7.0,0.0,1,3,45,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Sack,,,75.0,25,-1.180299997329712,False,Ohio State,Indiana,7.0,0.0,1,8,15,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Interception Return,,,51.0,49,-6.095159530639648,False,Ohio State,Indiana,7.0,0.0,1,10,21,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Passing Touchdown,,,10.0,90,1.5946321487426758,True,Ohio State,Indiana,7.0,0.0,1,12,32,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247326.0,Pass Reception,,,75.0,25,2.947049140930176,False,Ohio State,Indiana,0.0,0.0,1,12,55,12,Indiana,2020,Ohio State,Justin Fields,2021
+401247340.0,Passing Touchdown,,,41.0,41,3.499523639678955,True,Michigan State,Ohio State,45.0,10.0,4,8,16,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Sack,,,75.0,75,-0.9226908683776855,False,Michigan State,Ohio State,38.0,10.0,4,11,55,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,10.0,10,-1.4061002731323242,False,Michigan State,Ohio State,35.0,7.0,3,1,12,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,10.0,10,-0.7954483032226562,False,Michigan State,Ohio State,35.0,7.0,3,1,16,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,51.0,51,0.16902685165405273,False,Michigan State,Ohio State,35.0,7.0,3,3,38,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Fumble Recovery (Opponent),,,77.0,77,-4.682062149047852,False,Michigan State,Ohio State,35.0,7.0,3,4,48,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Sack,,,74.0,74,-0.9161465167999268,False,Michigan State,Ohio State,35.0,7.0,3,5,25,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,71.0,71,0.38887929916381836,False,Michigan State,Ohio State,28.0,0.0,3,6,50,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,81.0,81,0.49120211601257324,False,Michigan State,Ohio State,28.0,0.0,3,7,45,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,67.0,67,-1.7471179962158203,False,Michigan State,Ohio State,28.0,0.0,3,14,10,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,75.0,75,0.11909294128417969,False,Michigan State,Ohio State,28.0,0.0,3,14,25,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,81.0,81,-0.659498393535614,False,Michigan State,Ohio State,28.0,0.0,2,3,0,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,81.0,81,-0.36903125047683716,False,Michigan State,Ohio State,28.0,0.0,2,3,26,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Sack,,,27.0,36,-0.1943659782409668,False,Michigan State,Ohio State,21.0,0.0,2,6,40,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,61.0,61,0.5745127201080322,False,Michigan State,Ohio State,21.0,0.0,2,9,0,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,80.0,80,0.6649079322814941,False,Michigan State,Ohio State,21.0,0.0,2,9,15,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,52.0,52,0.14005637168884277,False,Michigan State,Ohio State,14.0,0.0,2,12,15,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,63.0,39,1.0633552074432373,False,Michigan State,Ohio State,14.0,0.0,2,13,15,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,71.0,71,1.8046375513076782,False,Michigan State,Ohio State,14.0,0.0,2,14,15,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,73.0,73,-0.6888583898544312,False,Michigan State,Ohio State,14.0,0.0,2,14,58,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Passing Touchdown,,,28.0,28,2.7953944206237793,True,Michigan State,Ohio State,14.0,0.0,1,2,1,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,28.0,28,-0.5959138870239258,False,Michigan State,Ohio State,7.0,0.0,1,2,8,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,72.0,72,-1.1157711744308472,False,Michigan State,Ohio State,7.0,0.0,1,4,57,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,76.0,76,-0.8459485173225403,False,Michigan State,Ohio State,7.0,0.0,1,6,0,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,29.0,29,1.0421662330627441,False,Michigan State,Ohio State,0.0,0.0,1,10,49,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Incompletion,,,67.0,67,-0.7383297681808472,False,Michigan State,Ohio State,0.0,0.0,1,13,7,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247340.0,Pass Reception,,,83.0,83,1.076642394065857,False,Michigan State,Ohio State,0.0,0.0,1,13,20,14,Michigan State,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,49.0,51,0.7710540294647217,False,Ohio State,Northwestern,16.0,10.0,4,7,38,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,6.0,94,-1.6487045288085938,False,Ohio State,Northwestern,13.0,10.0,4,12,41,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,39.0,61,-1.9081509113311768,False,Ohio State,Northwestern,13.0,10.0,3,1,10,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,43.0,57,-0.246781587600708,False,Ohio State,Northwestern,13.0,10.0,3,1,38,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,25.0,75,-1.3417898416519165,False,Ohio State,Northwestern,6.0,10.0,3,7,31,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Interception Return,,,55.0,45,-5.243527412414551,False,Ohio State,Northwestern,6.0,10.0,3,10,37,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Interception Return,,,9.0,91,-4.6996588706970215,False,Ohio State,Northwestern,6.0,10.0,2,0,28,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,14.0,86,0.21109485626220703,False,Ohio State,Northwestern,6.0,10.0,2,0,57,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,25.0,75,1.1254823207855225,False,Ohio State,Northwestern,6.0,10.0,2,1,7,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,25.0,75,-0.32715868949890137,False,Ohio State,Northwestern,6.0,10.0,2,1,12,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,64.0,36,-0.4435389041900635,False,Ohio State,Northwestern,6.0,10.0,2,2,3,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,26.0,74,-1.220182180404663,False,Ohio State,Northwestern,3.0,10.0,2,5,27,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Sack,,,25.0,75,-1.6290504932403564,False,Ohio State,Northwestern,3.0,10.0,2,6,53,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,48.0,52,1.2901511192321777,False,Ohio State,Northwestern,3.0,10.0,2,7,27,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,69.0,31,2.6058735847473145,False,Ohio State,Northwestern,3.0,10.0,2,7,52,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,69.0,31,-2.6058735847473145,False,Ohio State,Northwestern,3.0,10.0,2,8,13,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,49.0,51,-1.796980381011963,False,Ohio State,Northwestern,3.0,7.0,2,14,57,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Sack,,,75.0,25,-1.7012763023376465,False,Ohio State,Northwestern,3.0,7.0,1,3,42,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,75.0,25,-0.957294225692749,False,Ohio State,Northwestern,3.0,7.0,1,3,53,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,75.0,25,-0.5799916386604309,False,Ohio State,Northwestern,3.0,7.0,1,3,57,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Sack,,,9.0,91,-1.7581148147583008,False,Ohio State,Northwestern,0.0,0.0,1,7,6,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,17.0,83,-0.6368300914764404,False,Ohio State,Northwestern,0.0,0.0,1,8,26,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,52.0,48,1.0474644899368286,False,Ohio State,Northwestern,0.0,0.0,1,12,26,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,59.0,41,1.4292469024658203,False,Ohio State,Northwestern,0.0,0.0,1,13,26,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,59.0,41,-0.6505899429321289,False,Ohio State,Northwestern,0.0,0.0,1,13,31,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,67.0,33,1.3833520412445068,False,Ohio State,Northwestern,0.0,0.0,1,14,1,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Reception,,,75.0,25,0.3615206480026245,False,Ohio State,Northwestern,0.0,0.0,1,14,47,16,Northwestern,2020,Ohio State,Justin Fields,2021
+401247349.0,Pass Incompletion,,,75.0,25,-0.39190489053726196,False,Ohio State,Northwestern,0.0,0.0,1,14,56,16,Northwestern,2020,Ohio State,Justin Fields,2021

@@ -1,0 +1,485 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401234562.0,Pass Incompletion,,,75.0,75,-0.23851770162582397,False,Wake Forest,Clemson,37.0,13.0,4,2,27,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Interception Return,,,69.0,69,-3.995027780532837,False,Wake Forest,Clemson,37.0,6.0,4,5,3,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,82.0,82,-0.12240803241729736,False,Wake Forest,Clemson,37.0,6.0,4,6,30,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,85.0,85,-0.5876579284667969,False,Wake Forest,Clemson,37.0,6.0,4,7,5,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Incompletion,,,46.0,46,-1.3629107475280762,False,Wake Forest,Clemson,37.0,3.0,4,13,51,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,52.0,52,-0.4471919536590576,False,Wake Forest,Clemson,37.0,3.0,4,14,19,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,69.0,69,0.703463077545166,False,Wake Forest,Clemson,37.0,3.0,3,1,1,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,69.0,69,1.5835626125335693,False,Wake Forest,Clemson,34.0,3.0,3,6,35,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,29.0,29,0.44138240814208984,False,Wake Forest,Clemson,27.0,3.0,3,11,46,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,48.0,48,0.547004222869873,False,Wake Forest,Clemson,27.0,3.0,3,12,23,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,69.0,69,0.9041318893432617,False,Wake Forest,Clemson,27.0,3.0,3,12,48,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,41.0,41,0.4448120594024658,False,Wake Forest,Clemson,24.0,0.0,2,0,4,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,46.0,46,-0.0035330653190612793,False,Wake Forest,Clemson,24.0,0.0,2,0,6,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Incompletion,,,46.0,46,-0.03759032487869263,False,Wake Forest,Clemson,24.0,0.0,2,0,11,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,72.0,72,0.479841947555542,False,Wake Forest,Clemson,24.0,0.0,2,0,16,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Sack,,,66.0,66,-0.4771019220352173,False,Wake Forest,Clemson,24.0,0.0,2,0,37,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Passing Touchdown,,,12.0,12,3.8298916816711426,True,Wake Forest,Clemson,24.0,0.0,2,1,21,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,31.0,31,1.4311912059783936,False,Wake Forest,Clemson,17.0,0.0,2,2,43,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,53.0,53,1.190729022026062,False,Wake Forest,Clemson,17.0,0.0,2,3,23,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,75.0,75,0.8315664529800415,False,Wake Forest,Clemson,17.0,0.0,2,4,22,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,89.0,89,1.2001386880874634,False,Wake Forest,Clemson,17.0,0.0,2,4,40,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Incompletion,,,42.0,42,-1.6231920719146729,False,Wake Forest,Clemson,17.0,0.0,2,7,22,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,59.0,59,1.1363306045532227,False,Wake Forest,Clemson,17.0,0.0,2,9,2,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Incompletion,,,59.0,59,-0.5532863140106201,False,Wake Forest,Clemson,17.0,0.0,2,9,10,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,38.0,38,0.26015377044677734,False,Wake Forest,Clemson,14.0,0.0,2,11,25,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,51.0,51,0.9126126766204834,False,Wake Forest,Clemson,14.0,0.0,2,13,37,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Incompletion,,,65.0,65,-0.714308500289917,False,Wake Forest,Clemson,14.0,0.0,2,14,57,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,74.0,74,0.6064901351928711,False,Wake Forest,Clemson,14.0,0.0,1,0,1,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,55.0,55,0.1475372314453125,False,Wake Forest,Clemson,7.0,0.0,1,5,26,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,80.0,80,1.3462185859680176,False,Wake Forest,Clemson,7.0,0.0,1,5,45,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,13.0,13,-0.4671483039855957,False,Wake Forest,Clemson,0.0,0.0,1,8,48,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,35.0,35,0.30295825004577637,False,Wake Forest,Clemson,0.0,0.0,1,10,14,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,56.0,56,1.227407693862915,False,Wake Forest,Clemson,0.0,0.0,1,11,5,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Reception,,,92.0,92,2.580129623413086,False,Wake Forest,Clemson,0.0,0.0,1,11,24,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Sack,,,71.0,71,-2.4964418411254883,False,Wake Forest,Clemson,0.0,0.0,1,14,27,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234562.0,Pass Incompletion,,,71.0,71,-1.0515897274017334,False,Wake Forest,Clemson,0.0,0.0,1,14,37,2,Wake Forest,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,34.0,66,-1.4218509197235107,False,Clemson,Virginia,41.0,23.0,4,0,43,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,44.0,56,0.5719344615936279,False,Clemson,Virginia,34.0,17.0,4,7,27,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,71.0,29,2.082124710083008,False,Clemson,Virginia,34.0,17.0,4,7,58,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,67.0,33,-1.1138055324554443,False,Clemson,Virginia,34.0,17.0,4,13,40,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,67.0,33,-1.0081654787063599,False,Clemson,Virginia,34.0,17.0,4,13,45,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,65.0,35,-1.152489423751831,False,Clemson,Virginia,34.0,17.0,4,14,19,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,80.0,20,0.7590994834899902,False,Clemson,Virginia,34.0,17.0,4,14,46,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Passing Touchdown,,,4.0,96,1.1359128952026367,True,Clemson,Virginia,34.0,17.0,3,3,54,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,32.0,68,1.4790825843811035,False,Clemson,Virginia,27.0,17.0,3,4,44,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,53.0,47,1.1394002437591553,False,Clemson,Virginia,27.0,17.0,3,5,5,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,64.0,36,1.0699052810668945,False,Clemson,Virginia,27.0,17.0,3,5,32,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,25.0,75,-1.341766357421875,False,Clemson,Virginia,24.0,10.0,3,10,38,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,28.0,72,-0.6853563785552979,False,Clemson,Virginia,24.0,10.0,3,11,16,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,28.0,72,-0.5829367637634277,False,Clemson,Virginia,24.0,10.0,3,11,20,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,74.0,26,4.284538269042969,False,Clemson,Virginia,24.0,10.0,3,11,30,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Sack,,,68.0,32,-1.8800580501556396,False,Clemson,Virginia,24.0,10.0,3,12,9,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,68.0,32,-0.5928270816802979,False,Clemson,Virginia,24.0,10.0,3,12,15,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,78.0,22,1.365701675415039,False,Clemson,Virginia,24.0,10.0,2,0,3,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,71.0,29,-0.7477091550827026,False,Clemson,Virginia,24.0,3.0,2,1,26,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,71.0,29,-0.40525615215301514,False,Clemson,Virginia,24.0,3.0,2,1,33,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,71.0,29,-0.7272429466247559,False,Clemson,Virginia,24.0,3.0,2,1,40,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Passing Touchdown,,,9.0,91,1.7126274108886719,True,Clemson,Virginia,24.0,3.0,2,3,25,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Passing Touchdown,,,27.0,73,4.536418914794922,True,Clemson,Virginia,17.0,3.0,2,5,23,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,30.0,70,-0.5626604557037354,False,Clemson,Virginia,10.0,3.0,2,5,57,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,22.0,85,1.1218996047973633,False,Clemson,Virginia,10.0,3.0,2,6,16,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,36.0,64,-0.8537807464599609,False,Clemson,Virginia,10.0,3.0,2,6,44,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,56.0,44,2.472747325897217,False,Clemson,Virginia,10.0,3.0,2,7,44,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,57.0,43,-0.47945237159729004,False,Clemson,Virginia,10.0,3.0,2,8,21,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,75.0,25,1.4688321352005005,False,Clemson,Virginia,10.0,3.0,2,8,53,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,75.0,25,-0.15829980373382568,False,Clemson,Virginia,10.0,3.0,2,9,33,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,24.0,76,0.21660709381103516,False,Clemson,Virginia,3.0,0.0,1,1,26,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,34.0,66,0.7286567687988281,False,Clemson,Virginia,3.0,0.0,1,2,25,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,39.0,61,1.0767312049865723,False,Clemson,Virginia,3.0,0.0,1,3,5,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,41.0,59,-0.5329608917236328,False,Clemson,Virginia,3.0,0.0,1,3,42,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,77.0,23,3.8104681968688965,False,Clemson,Virginia,3.0,0.0,1,8,15,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,77.0,23,-1.01084566116333,False,Clemson,Virginia,3.0,0.0,1,8,22,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,96.0,4,3.3607563972473145,False,Clemson,Virginia,3.0,0.0,1,9,34,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Incompletion,,,29.0,71,-1.5128107070922852,False,Clemson,Virginia,0.0,0.0,1,13,29,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234598.0,Pass Reception,,,33.0,67,-0.13890981674194336,False,Clemson,Virginia,0.0,0.0,1,14,25,5,Virginia,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,31.0,69,-0.43094396591186523,False,Clemson,Miami,42.0,17.0,4,3,9,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Passing Touchdown,,,22.0,78,3.8006985187530518,True,Clemson,Miami,42.0,17.0,4,4,32,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,65.0,35,1.0185022354125977,False,Clemson,Miami,35.0,17.0,4,8,30,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,67.0,33,-1.0625247955322266,False,Clemson,Miami,35.0,10.0,4,14,1,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,64.0,36,-1.1222186088562012,False,Clemson,Miami,35.0,10.0,4,14,34,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,72.0,28,0.6532249450683594,False,Clemson,Miami,35.0,10.0,4,15,0,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,15.0,85,-1.4437007904052734,False,Clemson,Miami,28.0,10.0,3,5,39,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,19.0,81,-0.5369696617126465,False,Clemson,Miami,28.0,10.0,3,6,55,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,64.0,36,-0.9476882815361023,False,Clemson,Miami,21.0,10.0,3,10,28,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,64.0,36,-0.5383074283599854,False,Clemson,Miami,21.0,10.0,3,10,42,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,72.0,28,-1.1399325132369995,False,Clemson,Miami,21.0,10.0,3,13,12,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,48.0,52,-0.20475858449935913,False,Clemson,Miami,21.0,3.0,2,0,13,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,48.0,52,-0.10967046022415161,False,Clemson,Miami,21.0,3.0,2,0,17,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,66.0,34,0.38721975684165955,False,Clemson,Miami,21.0,3.0,2,0,20,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,77.0,23,-0.0031494498252868652,False,Clemson,Miami,21.0,3.0,2,0,30,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Passing Touchdown,,,11.0,89,2.68723201751709,True,Clemson,Miami,21.0,3.0,2,1,14,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,22.0,78,1.3528497219085693,False,Clemson,Miami,14.0,3.0,2,1,20,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,45.0,55,0.8988316059112549,False,Clemson,Miami,14.0,3.0,2,1,55,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,70.0,30,0.7798484563827515,False,Clemson,Miami,14.0,3.0,2,3,0,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,19.0,81,-0.7905459403991699,False,Clemson,Miami,14.0,0.0,2,7,10,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,22.0,78,-0.5408551692962646,False,Clemson,Miami,14.0,0.0,2,7,20,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,26.0,74,1.8774425983428955,False,Clemson,Miami,14.0,0.0,2,9,15,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,26.0,74,-0.7678368091583252,False,Clemson,Miami,14.0,0.0,2,9,23,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,68.0,32,2.8798320293426514,False,Clemson,Miami,14.0,0.0,2,10,5,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,68.0,32,-1.016538143157959,False,Clemson,Miami,14.0,0.0,2,10,25,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,67.0,33,-1.11589515209198,False,Clemson,Miami,14.0,0.0,2,12,8,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Sack,,,61.0,39,-0.9073281288146973,False,Clemson,Miami,14.0,0.0,2,13,0,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,24.0,76,3.5226938724517822,False,Clemson,Miami,7.0,0.0,1,0,8,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,20.0,80,-0.5477175712585449,False,Clemson,Miami,7.0,0.0,1,0,58,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,29.0,71,-0.013632774353027344,False,Clemson,Miami,7.0,0.0,1,1,25,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,46.0,54,1.1335546970367432,False,Clemson,Miami,7.0,0.0,1,2,30,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,46.0,54,-0.5756769180297852,False,Clemson,Miami,7.0,0.0,1,3,15,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Incompletion,,,52.0,48,-0.578249454498291,False,Clemson,Miami,7.0,0.0,1,4,4,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,88.0,12,2.264249801635742,False,Clemson,Miami,7.0,0.0,1,5,20,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,89.0,11,-0.8888245820999146,False,Clemson,Miami,7.0,0.0,1,5,55,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Passing Touchdown,,,24.0,76,2.0775928497314453,True,Clemson,Miami,7.0,0.0,1,9,50,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,43.0,57,-0.38831639289855957,False,Clemson,Miami,0.0,0.0,1,11,35,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,49.0,51,0.019317150115966797,False,Clemson,Miami,0.0,0.0,1,12,30,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,58.0,42,1.016427993774414,False,Clemson,Miami,0.0,0.0,1,12,45,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,69.0,31,1.8609185218811035,False,Clemson,Miami,0.0,0.0,1,13,20,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,75.0,25,-0.007736146450042725,False,Clemson,Miami,0.0,0.0,1,13,50,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234604.0,Pass Reception,,,75.0,25,-0.6019947528839111,False,Clemson,Miami,0.0,0.0,1,14,35,6,Miami,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,46.0,46,-0.30538687109947205,False,Georgia Tech,Clemson,73.0,7.0,4,2,29,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,53.0,53,0.9333541393280029,False,Georgia Tech,Clemson,73.0,7.0,4,4,8,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,56.0,56,-0.38045942783355713,False,Georgia Tech,Clemson,73.0,7.0,4,5,8,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,35.0,35,3.759582996368408,True,Georgia Tech,Clemson,73.0,7.0,4,7,41,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,44.0,44,-0.6003162860870361,False,Georgia Tech,Clemson,66.0,7.0,4,9,0,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,53.0,53,0.38405418395996094,False,Georgia Tech,Clemson,66.0,7.0,4,9,15,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,7.0,7,1.573967456817627,True,Georgia Tech,Clemson,66.0,7.0,4,11,38,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,18.0,18,-0.8536005020141602,False,Georgia Tech,Clemson,59.0,7.0,4,12,15,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,35.0,35,3.087538242340088,False,Georgia Tech,Clemson,59.0,7.0,4,13,33,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,35.0,35,-1.472813606262207,False,Georgia Tech,Clemson,59.0,7.0,4,13,39,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,51.0,51,-0.23907828330993652,False,Georgia Tech,Clemson,59.0,7.0,3,1,15,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,57.0,57,-0.4758009910583496,False,Georgia Tech,Clemson,59.0,7.0,3,1,58,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,57.0,57,-0.8030314445495605,False,Georgia Tech,Clemson,59.0,7.0,3,2,9,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,71.0,71,-1.2764283418655396,False,Georgia Tech,Clemson,59.0,7.0,3,5,37,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,71.0,71,-0.8407304286956787,False,Georgia Tech,Clemson,59.0,7.0,3,5,42,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,6.0,6,-0.7802834510803223,False,Georgia Tech,Clemson,52.0,7.0,3,8,26,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Sack,,,57.0,57,-1.10646390914917,False,Georgia Tech,Clemson,52.0,7.0,3,9,7,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,57.0,57,-1.1048657894134521,False,Georgia Tech,Clemson,52.0,7.0,3,9,21,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,78.0,78,-0.9490680694580078,False,Georgia Tech,Clemson,52.0,7.0,3,13,6,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,78.0,78,-0.412736177444458,False,Georgia Tech,Clemson,52.0,7.0,3,13,16,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,86.0,86,1.1418423652648926,False,Georgia Tech,Clemson,52.0,7.0,3,13,44,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,92.0,92,-2.933248281478882,False,Georgia Tech,Clemson,52.0,7.0,3,14,48,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,16.0,16,4.207313537597656,True,Georgia Tech,Clemson,52.0,7.0,2,0,16,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,47.0,47,2.332730293273926,False,Georgia Tech,Clemson,45.0,7.0,2,0,23,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,8.0,8,1.9546661376953125,True,Georgia Tech,Clemson,38.0,7.0,2,3,14,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,28.0,28,2.3747830390930176,False,Georgia Tech,Clemson,31.0,7.0,2,3,50,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,35.0,35,0.9466757774353027,False,Georgia Tech,Clemson,31.0,7.0,2,4,33,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,42.0,42,0.1956958770751953,False,Georgia Tech,Clemson,31.0,7.0,2,5,5,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,54.0,54,0.1541757583618164,False,Georgia Tech,Clemson,31.0,7.0,2,5,41,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,68.0,68,0.32505035400390625,False,Georgia Tech,Clemson,31.0,7.0,2,6,4,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,36.0,36,3.18591046333313,False,Georgia Tech,Clemson,24.0,7.0,2,7,45,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,51.0,51,0.41321587562561035,False,Georgia Tech,Clemson,24.0,7.0,2,9,30,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,51.0,51,-0.4750208854675293,False,Georgia Tech,Clemson,24.0,7.0,2,9,49,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,73.0,73,1.893458366394043,False,Georgia Tech,Clemson,24.0,7.0,2,10,17,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,34.0,34,2.6646556854248047,True,Georgia Tech,Clemson,24.0,7.0,2,12,43,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,47.0,47,0.726536750793457,False,Georgia Tech,Clemson,17.0,7.0,2,13,10,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,55.0,55,1.3089206218719482,False,Georgia Tech,Clemson,17.0,7.0,2,14,10,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Interception Return,,,70.0,70,-4.822605609893799,False,Georgia Tech,Clemson,17.0,7.0,1,1,45,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,77.0,77,1.8565839529037476,False,Georgia Tech,Clemson,17.0,7.0,1,2,11,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,77.0,77,-1.0021778345108032,False,Georgia Tech,Clemson,17.0,7.0,1,2,16,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Sack,,,14.0,14,-1.7899134159088135,False,Georgia Tech,Clemson,14.0,7.0,1,5,20,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,16.0,16,-0.5282731056213379,False,Georgia Tech,Clemson,14.0,7.0,1,6,0,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,83.0,83,5.135283470153809,True,Georgia Tech,Clemson,14.0,7.0,1,6,14,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Passing Touchdown,,,5.0,5,0.954068660736084,True,Georgia Tech,Clemson,7.0,0.0,1,7,55,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,24.0,24,1.6669540405273438,False,Georgia Tech,Clemson,0.0,0.0,1,8,21,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,41.0,41,1.5102710723876953,False,Georgia Tech,Clemson,0.0,0.0,1,9,13,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,41.0,41,-0.6472511291503906,False,Georgia Tech,Clemson,0.0,0.0,1,9,30,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,32.0,32,-0.5220167636871338,False,Georgia Tech,Clemson,0.0,0.0,1,12,14,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Reception,,,61.0,61,2.5706982612609863,False,Georgia Tech,Clemson,0.0,0.0,1,12,49,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234610.0,Pass Incompletion,,,67.0,67,-0.8051127791404724,False,Georgia Tech,Clemson,0.0,0.0,1,13,55,7,Georgia Tech,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,59.0,41,-0.9618684649467468,False,Clemson,Syracuse,47.0,21.0,4,4,40,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,59.0,41,-0.49146538972854614,False,Clemson,Syracuse,47.0,21.0,4,4,46,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,74.0,26,0.175246000289917,False,Clemson,Syracuse,47.0,21.0,4,5,52,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,21.0,79,0.4301595687866211,False,Clemson,Syracuse,34.0,21.0,4,13,56,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,44.0,64,-0.7170534133911133,False,Clemson,Syracuse,34.0,21.0,4,14,13,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,67.0,33,0.9797148704528809,False,Clemson,Syracuse,34.0,21.0,4,14,41,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,75.0,25,-1.162370204925537,False,Clemson,Syracuse,27.0,21.0,3,2,29,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,84.0,16,-0.43103495240211487,False,Clemson,Syracuse,27.0,21.0,3,3,1,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,86.0,14,0.7219212055206299,False,Clemson,Syracuse,27.0,21.0,3,4,8,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,93.0,7,2.1089441776275635,False,Clemson,Syracuse,27.0,21.0,3,4,30,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Sack,,,76.0,24,-1.5183227062225342,False,Clemson,Syracuse,27.0,21.0,3,8,20,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,76.0,24,-0.9903556108474731,False,Clemson,Syracuse,27.0,21.0,3,8,26,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,76.0,24,-0.6658410429954529,False,Clemson,Syracuse,27.0,21.0,3,8,31,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,62.0,38,-0.20390021800994873,False,Clemson,Syracuse,27.0,14.0,3,11,24,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,57.0,43,-0.43003153800964355,False,Clemson,Syracuse,27.0,14.0,3,12,15,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,24.0,76,2.648062229156494,False,Clemson,Syracuse,24.0,14.0,2,0,6,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,31.0,69,0.45230937004089355,False,Clemson,Syracuse,24.0,14.0,2,0,10,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,42.0,58,0.3147469758987427,False,Clemson,Syracuse,24.0,14.0,2,0,25,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,54.0,46,-0.25276654958724976,False,Clemson,Syracuse,24.0,14.0,2,0,44,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,62.0,38,0.10822319984436035,False,Clemson,Syracuse,24.0,14.0,2,1,0,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,67.0,33,-0.0802079439163208,False,Clemson,Syracuse,24.0,14.0,2,1,7,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,75.0,25,0.2862420082092285,False,Clemson,Syracuse,24.0,14.0,2,1,13,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Interception Return Touchdown,,,88.0,12,-7.3334641456604,True,Clemson,Syracuse,24.0,14.0,2,1,18,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Passing Touchdown,,,17.0,83,3.173973798751831,True,Clemson,Syracuse,24.0,7.0,2,2,54,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,39.0,61,0.6508243083953857,False,Clemson,Syracuse,17.0,7.0,2,4,1,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,60.0,40,1.4607828855514526,False,Clemson,Syracuse,17.0,7.0,2,5,1,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,60.0,40,-0.452689528465271,False,Clemson,Syracuse,17.0,7.0,2,5,7,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,65.0,35,-0.8155804872512817,False,Clemson,Syracuse,17.0,7.0,2,6,21,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,87.0,13,1.48469078540802,False,Clemson,Syracuse,17.0,7.0,2,7,18,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,87.0,13,-0.5685387253761292,False,Clemson,Syracuse,17.0,7.0,2,7,26,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,20.0,80,-1.5631022453308105,False,Clemson,Syracuse,17.0,7.0,2,9,13,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,26.0,74,0.47933244705200195,False,Clemson,Syracuse,17.0,7.0,2,10,33,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,34.0,66,0.8556051254272461,False,Clemson,Syracuse,17.0,7.0,2,11,19,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,43.0,57,-1.9258602857589722,False,Clemson,Syracuse,17.0,7.0,2,12,18,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,71.0,29,1.4478020668029785,False,Clemson,Syracuse,17.0,7.0,2,13,40,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,64.0,36,-1.3829773664474487,False,Clemson,Syracuse,17.0,0.0,1,0,41,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,64.0,36,-0.9380987882614136,False,Clemson,Syracuse,17.0,0.0,1,0,45,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,64.0,36,-0.5478453636169434,False,Clemson,Syracuse,17.0,0.0,1,0,49,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,77.0,23,-0.05877494812011719,False,Clemson,Syracuse,17.0,0.0,1,1,51,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,35.0,65,1.6846723556518555,False,Clemson,Syracuse,10.0,0.0,1,5,13,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,35.0,65,-0.7252750396728516,False,Clemson,Syracuse,10.0,0.0,1,5,19,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,14.0,86,-0.5328748226165771,False,Clemson,Syracuse,7.0,0.0,1,9,16,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,64.0,36,-1.302316427230835,False,Clemson,Syracuse,7.0,0.0,1,10,50,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,64.0,36,-0.5506958961486816,False,Clemson,Syracuse,7.0,0.0,1,11,41,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Passing Touchdown,,,25.0,75,3.6505239009857178,True,Clemson,Syracuse,7.0,0.0,1,13,37,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Incompletion,,,27.0,73,-0.6037020683288574,False,Clemson,Syracuse,0.0,0.0,1,13,59,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,37.0,63,0.7476396560668945,False,Clemson,Syracuse,0.0,0.0,1,14,20,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234618.0,Pass Reception,,,47.0,53,0.5188698768615723,False,Clemson,Syracuse,0.0,0.0,1,14,45,8,Syracuse,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,71.0,29,-0.8665560483932495,False,Clemson,Boston College,32.0,28.0,4,10,56,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,71.0,29,-0.675081729888916,False,Clemson,Boston College,32.0,28.0,4,11,0,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,23.0,77,0.3624534606933594,False,Clemson,Boston College,26.0,28.0,4,11,53,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,49.0,62,-0.3624534606933594,False,Clemson,Boston College,26.0,28.0,4,12,29,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,49.0,51,-0.6409473419189453,False,Clemson,Boston College,26.0,28.0,4,12,41,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,66.0,34,0.4421129822731018,False,Clemson,Boston College,26.0,28.0,4,13,50,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,64.0,36,-0.48026585578918457,False,Clemson,Boston College,26.0,28.0,4,14,55,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,91.0,9,0.564797043800354,False,Clemson,Boston College,26.0,28.0,3,0,39,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Passing Touchdown,,,8.0,92,0.5808229446411133,True,Clemson,Boston College,26.0,28.0,3,6,16,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,18.0,82,0.6948339939117432,False,Clemson,Boston College,20.0,28.0,3,7,20,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,18.0,82,-0.8031399250030518,False,Clemson,Boston College,20.0,28.0,3,7,28,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,62.0,38,3.870692491531372,False,Clemson,Boston College,20.0,28.0,3,8,29,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,39.0,61,0.8171555995941162,False,Clemson,Boston College,13.0,28.0,3,13,36,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,53.0,47,2.8626606464385986,False,Clemson,Boston College,13.0,28.0,3,14,2,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,33.0,67,-0.6433731913566589,False,Clemson,Boston College,10.0,28.0,2,0,13,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,33.0,67,-0.40093719959259033,False,Clemson,Boston College,10.0,28.0,2,0,17,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,48.0,52,1.358335256576538,False,Clemson,Boston College,10.0,28.0,2,0,25,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,48.0,52,-0.2421327829360962,False,Clemson,Boston College,10.0,28.0,2,0,31,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,63.0,37,0.6728386878967285,False,Clemson,Boston College,10.0,28.0,2,0,35,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,63.0,37,-0.0349791944026947,False,Clemson,Boston College,10.0,28.0,2,0,40,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,63.0,37,-0.2345702052116394,False,Clemson,Boston College,10.0,28.0,2,0,46,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,75.0,25,0.31728819012641907,False,Clemson,Boston College,10.0,28.0,2,0,56,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,23.0,77,-0.6887826919555664,False,Clemson,Boston College,7.0,21.0,2,9,17,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,39.0,61,1.02740478515625,False,Clemson,Boston College,7.0,21.0,2,10,33,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,72.0,28,3.890146255493164,False,Clemson,Boston College,7.0,21.0,2,10,58,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,75.0,25,-0.28526729345321655,False,Clemson,Boston College,7.0,21.0,2,11,30,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,11.0,89,1.7592754364013672,False,Clemson,Boston College,7.0,14.0,2,14,9,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,65.0,35,3.2145910263061523,False,Clemson,Boston College,7.0,14.0,1,0,46,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,74.0,26,-0.015471339225769043,False,Clemson,Boston College,7.0,14.0,1,1,33,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,74.0,26,-0.7933269739151001,False,Clemson,Boston College,7.0,14.0,1,1,41,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,68.0,32,2.242708206176758,False,Clemson,Boston College,7.0,14.0,1,2,31,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Incompletion,,,68.0,32,-0.8517508506774902,False,Clemson,Boston College,7.0,14.0,1,2,36,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Sack,,,51.0,49,-2.6655473709106445,False,Clemson,Boston College,7.0,14.0,1,5,7,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,54.0,46,-0.560226559638977,False,Clemson,Boston College,7.0,14.0,1,5,47,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,61.0,39,1.236734390258789,False,Clemson,Boston College,7.0,14.0,1,6,33,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,67.0,33,0.24544323980808258,False,Clemson,Boston College,7.0,14.0,1,7,1,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,68.0,32,-0.5931922793388367,False,Clemson,Boston College,7.0,14.0,1,7,31,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,76.0,24,1.45558762550354,False,Clemson,Boston College,7.0,14.0,1,8,1,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Passing Touchdown,,,35.0,65,3.2029669284820557,True,Clemson,Boston College,7.0,7.0,1,10,54,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,50.0,50,1.2661629915237427,False,Clemson,Boston College,0.0,7.0,1,11,25,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234624.0,Pass Reception,,,63.0,37,0.7917754054069519,False,Clemson,Boston College,0.0,7.0,1,12,37,9,Boston College,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,25.0,25,2.4025893211364746,False,Notre Dame,Clemson,33.0,33.0,5,0,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Sack,,,25.0,25,-0.5180248022079468,False,Notre Dame,Clemson,40.0,47.0,6,0,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Sack,,,34.0,34,-0.0985916256904602,False,Notre Dame,Clemson,40.0,47.0,6,0,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,39.0,39,-0.06276637315750122,False,Notre Dame,Clemson,40.0,47.0,6,0,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Fumble Recovery (Opponent),,,39.0,39,-0.6928891539573669,False,Notre Dame,Clemson,40.0,47.0,6,0,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,57.0,57,-0.5020877122879028,False,Notre Dame,Clemson,33.0,26.0,4,1,54,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,18.0,18,2.285055160522461,False,Notre Dame,Clemson,26.0,26.0,4,4,20,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,36.0,36,-0.43837642669677734,False,Notre Dame,Clemson,26.0,26.0,4,5,34,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,52.0,52,1.9830703735351562,False,Notre Dame,Clemson,26.0,26.0,4,6,11,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,74.0,74,0.8104173541069031,False,Notre Dame,Clemson,26.0,26.0,4,9,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,74.0,74,-0.8167982697486877,False,Notre Dame,Clemson,26.0,26.0,4,9,11,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,71.0,71,3.205653190612793,False,Notre Dame,Clemson,23.0,26.0,4,11,30,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Passing Touchdown,,,10.0,10,2.4082937240600586,True,Notre Dame,Clemson,23.0,23.0,3,4,12,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,17.0,17,0.26844191551208496,False,Notre Dame,Clemson,16.0,23.0,3,5,50,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,27.0,27,1.6349873542785645,False,Notre Dame,Clemson,16.0,23.0,3,7,40,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,27.0,27,-0.8274087905883789,False,Notre Dame,Clemson,16.0,23.0,3,7,45,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,32.0,32,0.0913534164428711,False,Notre Dame,Clemson,16.0,23.0,3,8,15,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,40.0,40,0.7994744777679443,False,Notre Dame,Clemson,16.0,23.0,3,9,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,52.0,52,0.43938350677490234,False,Notre Dame,Clemson,16.0,23.0,3,10,20,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,60.0,60,0.7543363571166992,False,Notre Dame,Clemson,16.0,23.0,3,10,35,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,29.0,29,-0.9522163271903992,False,Notre Dame,Clemson,13.0,23.0,3,12,20,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,29.0,29,-0.8074429035186768,False,Notre Dame,Clemson,13.0,23.0,3,12,25,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,30.0,30,-0.5534758567810059,False,Notre Dame,Clemson,13.0,23.0,3,12,55,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,41.0,41,1.3576135635375977,False,Notre Dame,Clemson,13.0,23.0,3,13,5,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,41.0,41,-0.617927074432373,False,Notre Dame,Clemson,13.0,23.0,3,13,11,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,56.0,56,1.480355143547058,False,Notre Dame,Clemson,13.0,23.0,3,13,55,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,64.0,64,0.845104455947876,False,Notre Dame,Clemson,13.0,23.0,3,14,30,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,28.0,28,-0.6078697443008423,False,Notre Dame,Clemson,10.0,23.0,2,1,13,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,28.0,28,-0.4154524803161621,False,Notre Dame,Clemson,10.0,23.0,2,1,18,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,48.0,48,1.280900478363037,False,Notre Dame,Clemson,10.0,23.0,2,2,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,75.0,75,1.1925806999206543,False,Notre Dame,Clemson,10.0,23.0,2,2,35,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Fumble Recovery (Opponent),,,82.0,82,-3.3622097969055176,False,Notre Dame,Clemson,10.0,20.0,2,5,6,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,8.0,8,-1.4368906021118164,False,Notre Dame,Clemson,7.0,13.0,2,8,36,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,29.0,29,2.8813250064849854,False,Notre Dame,Clemson,7.0,13.0,2,10,29,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,29.0,29,-0.999624490737915,False,Notre Dame,Clemson,7.0,13.0,2,10,35,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,62.0,62,3.0428879261016846,False,Notre Dame,Clemson,7.0,13.0,2,11,50,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,88.0,88,2.482609987258911,False,Notre Dame,Clemson,7.0,13.0,2,12,53,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Incompletion,,,88.0,88,-0.7058961391448975,False,Notre Dame,Clemson,7.0,13.0,2,13,1,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Passing Touchdown,,,53.0,53,4.672016143798828,True,Notre Dame,Clemson,7.0,10.0,1,4,11,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,67.0,67,1.1650680303573608,False,Notre Dame,Clemson,0.0,10.0,1,4,50,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,75.0,75,0.6412595510482788,False,Notre Dame,Clemson,0.0,10.0,1,5,45,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,77.0,77,-0.30619001388549805,False,Notre Dame,Clemson,0.0,7.0,1,13,30,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234632.0,Pass Reception,,,84.0,84,0.22950631380081177,False,Notre Dame,Clemson,0.0,7.0,1,14,0,10,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,55.0,45,-0.6504018902778625,False,Clemson,Pittsburgh,52.0,17.0,4,2,6,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,55.0,45,-0.30060112476348877,False,Clemson,Pittsburgh,52.0,17.0,4,2,30,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,59.0,41,-0.34877991676330566,False,Clemson,Pittsburgh,52.0,17.0,4,3,0,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,58.0,42,-0.8924962878227234,False,Clemson,Pittsburgh,52.0,17.0,4,4,54,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,58.0,42,-0.5032297968864441,False,Clemson,Pittsburgh,52.0,17.0,4,4,59,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,66.0,34,1.0280972719192505,False,Clemson,Pittsburgh,52.0,17.0,4,5,45,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,73.0,27,-0.5363705158233643,False,Clemson,Pittsburgh,52.0,17.0,4,6,56,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,81.0,19,-0.833958089351654,False,Clemson,Pittsburgh,52.0,17.0,4,9,1,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,87.0,13,-0.1707381010055542,False,Clemson,Pittsburgh,52.0,17.0,4,9,18,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Passing Touchdown,,,9.0,91,4.044178009033203,True,Clemson,Pittsburgh,52.0,17.0,4,10,48,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,16.0,84,-0.8062295913696289,False,Clemson,Pittsburgh,45.0,17.0,4,11,22,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,15.0,85,-1.081425666809082,False,Clemson,Pittsburgh,45.0,17.0,4,11,58,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,15.0,85,-0.5274109840393066,False,Clemson,Pittsburgh,45.0,17.0,4,12,7,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,17.0,83,-0.42674684524536133,False,Clemson,Pittsburgh,45.0,17.0,4,12,49,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,41.0,59,-0.8475000858306885,False,Clemson,Pittsburgh,45.0,17.0,4,13,52,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,50.0,50,0.29145383834838867,False,Clemson,Pittsburgh,38.0,17.0,3,2,28,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,77.0,23,-0.4912874698638916,False,Clemson,Pittsburgh,38.0,17.0,3,3,43,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,89.0,11,-0.03313946723937988,False,Clemson,Pittsburgh,38.0,17.0,3,4,29,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,67.0,33,-0.4206352233886719,False,Clemson,Pittsburgh,38.0,17.0,3,7,47,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,41.0,59,1.8571126461029053,False,Clemson,Pittsburgh,38.0,17.0,3,10,18,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,43.0,57,-0.6384074687957764,False,Clemson,Pittsburgh,38.0,17.0,3,11,32,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,55.0,45,0.35805463790893555,False,Clemson,Pittsburgh,38.0,17.0,3,12,5,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,67.0,33,1.4475457668304443,False,Clemson,Pittsburgh,38.0,17.0,3,13,1,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,73.0,27,-1.003043293952942,False,Clemson,Pittsburgh,38.0,17.0,3,13,28,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,85.0,15,0.2747480869293213,False,Clemson,Pittsburgh,38.0,17.0,3,13,48,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Fumble Recovery (Opponent),,,80.0,20,-3.5803699493408203,False,Clemson,Pittsburgh,38.0,10.0,3,14,47,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,82.0,18,-0.1839156448841095,False,Clemson,Pittsburgh,38.0,10.0,2,0,37,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Sack,,,75.0,25,-0.5815298557281494,False,Clemson,Pittsburgh,38.0,10.0,2,1,0,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,70.0,30,-0.5535445809364319,False,Clemson,Pittsburgh,38.0,3.0,2,5,6,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,70.0,30,-0.4138756990432739,False,Clemson,Pittsburgh,38.0,3.0,2,5,27,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,78.0,22,1.0618010759353638,False,Clemson,Pittsburgh,38.0,3.0,2,5,43,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,84.0,16,-0.6316325664520264,False,Clemson,Pittsburgh,38.0,3.0,2,6,25,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,8.0,92,-0.889045238494873,False,Clemson,Pittsburgh,31.0,3.0,2,8,16,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,75.0,25,3.7638473510742188,False,Clemson,Pittsburgh,31.0,3.0,2,9,1,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Sack,,,75.0,25,-2.1793503761291504,False,Clemson,Pittsburgh,31.0,0.0,2,12,50,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,75.0,25,-0.7531558275222778,False,Clemson,Pittsburgh,31.0,0.0,2,12,55,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,42.0,58,1.2887773513793945,False,Clemson,Pittsburgh,24.0,0.0,1,1,55,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,68.0,32,0.7610933780670166,False,Clemson,Pittsburgh,24.0,0.0,1,2,25,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,87.0,13,0.825331449508667,False,Clemson,Pittsburgh,24.0,0.0,1,2,55,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,35.0,65,0.8584609031677246,False,Clemson,Pittsburgh,17.0,0.0,1,7,3,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Passing Touchdown,,,43.0,57,3.2122209072113037,True,Clemson,Pittsburgh,17.0,0.0,1,7,35,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,48.0,52,-0.5238091945648193,False,Clemson,Pittsburgh,10.0,0.0,1,8,12,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,60.0,40,0.8352713584899902,False,Clemson,Pittsburgh,10.0,0.0,1,8,42,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,65.0,35,-0.0650031566619873,False,Clemson,Pittsburgh,10.0,0.0,1,9,8,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,29.0,71,-1.1009087562561035,False,Clemson,Pittsburgh,7.0,0.0,1,9,31,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,29.0,71,-0.8570170402526855,False,Clemson,Pittsburgh,7.0,0.0,1,9,38,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,63.0,37,1.5486054420471191,False,Clemson,Pittsburgh,7.0,0.0,1,10,23,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,81.0,19,1.0130047798156738,False,Clemson,Pittsburgh,7.0,0.0,1,10,48,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Passing Touchdown,,,5.0,95,0.9235620498657227,True,Clemson,Pittsburgh,7.0,0.0,1,11,36,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Reception,,,16.0,84,-0.5738096237182617,False,Clemson,Pittsburgh,0.0,0.0,1,12,30,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,55.0,45,-1.9761533737182617,False,Clemson,Pittsburgh,0.0,0.0,1,13,11,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234651.0,Pass Incompletion,,,62.0,38,-0.6566582918167114,False,Clemson,Pittsburgh,0.0,0.0,1,13,47,13,Pittsburgh,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Passing Touchdown,,,65.0,65,4.787562370300293,True,Virginia Tech,Clemson,38.0,10.0,4,10,16,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,75.0,75,-1.2504329681396484,False,Virginia Tech,Clemson,24.0,10.0,3,2,28,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Interception Return,,,8.0,8,-3.8648295402526855,False,Virginia Tech,Clemson,17.0,10.0,3,5,30,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,31.0,31,1.7017624378204346,False,Virginia Tech,Clemson,17.0,10.0,3,9,2,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,35.0,35,-0.42469096183776855,False,Virginia Tech,Clemson,17.0,10.0,3,9,43,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,35.0,35,-0.6060323715209961,False,Virginia Tech,Clemson,17.0,10.0,3,9,53,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,50.0,50,1.7887790203094482,False,Virginia Tech,Clemson,17.0,10.0,3,10,8,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,74.0,74,-1.187021017074585,False,Virginia Tech,Clemson,17.0,10.0,3,13,25,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,47.0,47,0.7546839714050293,False,Virginia Tech,Clemson,10.0,10.0,2,1,45,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,76.0,76,-1.43398118019104,False,Virginia Tech,Clemson,10.0,7.0,2,7,8,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,80.0,80,-0.598792314529419,False,Virginia Tech,Clemson,10.0,7.0,2,7,52,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,37.0,37,1.2815964221954346,False,Virginia Tech,Clemson,3.0,7.0,1,0,56,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,49.0,49,0.8510923385620117,False,Virginia Tech,Clemson,3.0,7.0,1,1,35,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,49.0,49,-0.6154165267944336,False,Virginia Tech,Clemson,3.0,7.0,1,2,0,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,62.0,62,-0.6230577230453491,False,Virginia Tech,Clemson,3.0,7.0,1,2,42,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,70.0,70,0.8908274173736572,False,Virginia Tech,Clemson,3.0,7.0,1,3,7,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,12.0,12,-0.9997570514678955,False,Virginia Tech,Clemson,0.0,0.0,1,9,1,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Incompletion,,,12.0,12,-0.8158018589019775,False,Virginia Tech,Clemson,0.0,0.0,1,9,11,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,62.0,62,2.947211980819702,False,Virginia Tech,Clemson,0.0,0.0,1,10,0,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401234657.0,Pass Reception,,,72.0,72,-0.06048142910003662,False,Virginia Tech,Clemson,0.0,0.0,1,11,5,14,Virginia Tech,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Sack,,,47.0,53,-0.6494653224945068,False,Clemson,The Citadel,49.0,0.0,4,5,30,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Fumble Recovery (Own),,,45.0,55,-0.5746452212333679,False,Clemson,The Citadel,49.0,0.0,4,6,0,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,43.0,57,-0.21140789985656738,False,Clemson,The Citadel,49.0,0.0,4,6,45,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,70.0,30,-0.8615776300430298,False,Clemson,The Citadel,49.0,0.0,4,12,15,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,70.0,30,-0.44777536392211914,False,Clemson,The Citadel,49.0,0.0,4,12,30,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,34.0,66,-1.47013521194458,False,Clemson,The Citadel,49.0,0.0,4,14,49,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,34.0,66,-1.6867411136627197,False,Clemson,The Citadel,49.0,0.0,4,14,55,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,41.0,59,-0.5674142837524414,False,Clemson,The Citadel,49.0,0.0,3,0,15,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,60.0,40,1.3901407718658447,False,Clemson,The Citadel,49.0,0.0,3,0,30,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,64.0,36,-0.4106266498565674,False,Clemson,The Citadel,49.0,0.0,3,6,42,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,40.0,60,-0.3743271827697754,False,Clemson,The Citadel,49.0,0.0,3,9,45,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,78.0,22,2.5768814086914062,False,Clemson,The Citadel,49.0,0.0,3,10,20,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,78.0,22,-0.8318791389465332,False,Clemson,The Citadel,49.0,0.0,3,10,48,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,78.0,22,-0.2446739673614502,False,Clemson,The Citadel,49.0,0.0,3,11,10,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,85.0,15,-0.0834273099899292,False,Clemson,The Citadel,49.0,0.0,2,0,20,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,22.0,78,1.7765753269195557,False,Clemson,The Citadel,42.0,0.0,2,6,45,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,22.0,78,-0.807959794998169,False,Clemson,The Citadel,42.0,0.0,2,6,59,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Passing Touchdown,,,54.0,46,4.262139797210693,True,Clemson,The Citadel,42.0,0.0,2,9,55,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,66.0,34,1.0306036472320557,False,Clemson,The Citadel,35.0,0.0,2,10,7,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,6.0,94,-0.10238456726074219,False,Clemson,The Citadel,28.0,0.0,2,14,0,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,26.0,74,-0.6017582416534424,False,Clemson,The Citadel,14.0,0.0,1,3,47,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,47.0,53,1.6669104099273682,False,Clemson,The Citadel,14.0,0.0,1,5,0,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Passing Touchdown,,,44.0,56,2.631476402282715,True,Clemson,The Citadel,14.0,0.0,1,9,41,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Passing Touchdown,,,17.0,83,1.692345142364502,True,Clemson,The Citadel,7.0,0.0,1,12,36,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,28.0,72,0.3284440040588379,False,Clemson,The Citadel,0.0,0.0,1,13,0,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Reception,,,41.0,59,2.347290515899658,False,Clemson,The Citadel,0.0,0.0,1,13,15,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401237492.0,Pass Incompletion,,,44.0,56,-0.6944363117218018,False,Clemson,The Citadel,0.0,0.0,1,13,57,3,The Citadel,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Interception Return,,,8.0,92,-3.831845760345459,False,Clemson,Ohio State,28.0,49.0,4,1,30,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,12.0,88,0.8924405574798584,False,Clemson,Ohio State,28.0,49.0,4,1,52,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,35.0,65,2.0179667472839355,False,Clemson,Ohio State,28.0,49.0,4,2,42,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,40.0,60,0.1295003890991211,False,Clemson,Ohio State,28.0,49.0,4,3,3,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,53.0,47,2.0665457248687744,False,Clemson,Ohio State,28.0,49.0,4,3,21,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,54.0,46,-0.5123608112335205,False,Clemson,Ohio State,28.0,49.0,4,3,35,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,63.0,37,0.34535646438598633,False,Clemson,Ohio State,28.0,49.0,4,4,0,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,72.0,28,0.768966019153595,False,Clemson,Ohio State,28.0,49.0,4,4,30,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,33.0,67,-2.300893783569336,False,Clemson,Ohio State,28.0,49.0,4,7,43,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,33.0,67,-1.691041111946106,False,Clemson,Ohio State,28.0,49.0,4,8,0,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,48.0,52,1.0584230422973633,False,Clemson,Ohio State,28.0,49.0,4,8,30,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Fumble Recovery (Own),,,35.0,65,-2.3914477825164795,False,Clemson,Ohio State,28.0,49.0,4,9,0,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,46.0,54,0.6882456541061401,False,Clemson,Ohio State,28.0,49.0,4,9,29,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Passing Touchdown,,,26.0,74,6.474994659423828,True,Clemson,Ohio State,28.0,49.0,4,10,42,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Fumble Recovery (Own),,,20.0,80,-2.003345012664795,False,Clemson,Ohio State,21.0,49.0,4,10,54,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,35.0,65,-1.1653289794921875,False,Clemson,Ohio State,21.0,49.0,4,11,47,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,35.0,65,-0.7018285989761353,False,Clemson,Ohio State,21.0,49.0,4,11,53,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,46.0,54,0.8974010944366455,False,Clemson,Ohio State,21.0,49.0,4,12,15,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,47.0,53,-0.8214450478553772,False,Clemson,Ohio State,21.0,49.0,4,13,0,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,56.0,44,1.2278358936309814,False,Clemson,Ohio State,21.0,49.0,4,13,34,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,75.0,29,-1.227836012840271,False,Clemson,Ohio State,21.0,49.0,4,13,56,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,64.0,36,2.284445285797119,False,Clemson,Ohio State,21.0,42.0,3,4,24,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,75.0,25,0.9491669535636902,False,Clemson,Ohio State,21.0,42.0,3,4,45,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Passing Touchdown,,,10.0,90,2.9146389961242676,True,Clemson,Ohio State,21.0,35.0,3,7,56,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,39.0,61,2.032820224761963,False,Clemson,Ohio State,14.0,35.0,3,8,32,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,58.0,42,0.3579246997833252,False,Clemson,Ohio State,14.0,35.0,3,10,47,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,67.0,33,1.2967772483825684,False,Clemson,Ohio State,14.0,35.0,3,11,17,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,80.0,20,0.8824883103370667,False,Clemson,Ohio State,14.0,35.0,3,11,40,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,72.0,28,0.5206451416015625,False,Clemson,Ohio State,14.0,28.0,2,4,3,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,64.0,36,-1.3751986026763916,False,Clemson,Ohio State,14.0,28.0,2,4,42,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,64.0,36,-0.559593915939331,False,Clemson,Ohio State,14.0,28.0,2,4,50,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,63.0,37,-1.5407068729400635,False,Clemson,Ohio State,14.0,21.0,2,9,45,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,69.0,31,0.19468557834625244,False,Clemson,Ohio State,14.0,21.0,2,10,12,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,69.0,31,-0.6558248996734619,False,Clemson,Ohio State,14.0,21.0,2,10,22,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,63.0,37,-0.7110593318939209,False,Clemson,Ohio State,14.0,14.0,1,0,0,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,27.0,73,0.8069086074829102,False,Clemson,Ohio State,7.0,7.0,1,5,58,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,43.0,57,1.6346280574798584,False,Clemson,Ohio State,7.0,7.0,1,6,24,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,60.0,40,1.0765318870544434,False,Clemson,Ohio State,7.0,7.0,1,7,10,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,75.0,25,1.165149211883545,False,Clemson,Ohio State,7.0,7.0,1,7,51,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,78.0,22,-1.3154072761535645,False,Clemson,Ohio State,7.0,0.0,1,9,24,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,32.0,68,2.855272054672241,False,Clemson,Ohio State,0.0,0.0,1,13,5,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Incompletion,,,32.0,68,-0.9093387126922607,False,Clemson,Ohio State,0.0,0.0,1,13,11,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,63.0,37,1.5912210941314697,False,Clemson,Ohio State,0.0,0.0,1,13,59,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,74.0,26,0.6900711059570312,False,Clemson,Ohio State,0.0,0.0,1,14,24,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401240173.0,Pass Reception,,,82.0,18,0.7392022609710693,False,Clemson,Ohio State,0.0,0.0,1,14,55,1,Ohio State,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,46.0,46,-1.0196131467819214,False,Notre Dame,Clemson,34.0,10.0,4,4,27,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,74.0,74,1.8793704509735107,False,Notre Dame,Clemson,34.0,10.0,4,6,30,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,78.0,78,-0.594654381275177,False,Notre Dame,Clemson,34.0,10.0,4,7,15,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,75.0,75,-0.6181565523147583,False,Notre Dame,Clemson,34.0,10.0,4,8,2,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,21.0,21,-1.182762861251831,False,Notre Dame,Clemson,31.0,3.0,4,11,12,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,23.0,23,-0.5885429382324219,False,Notre Dame,Clemson,31.0,3.0,4,11,56,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,46.0,46,2.2899649143218994,False,Notre Dame,Clemson,31.0,3.0,4,12,27,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Sack,,,41.0,41,-1.6864221096038818,False,Notre Dame,Clemson,31.0,3.0,4,12,58,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,60.0,60,0.4828176498413086,False,Notre Dame,Clemson,31.0,3.0,4,14,14,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,70.0,70,0.18532299995422363,False,Notre Dame,Clemson,31.0,3.0,4,14,55,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,83.0,83,0.6767799854278564,False,Notre Dame,Clemson,31.0,3.0,3,1,8,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,86.0,86,-0.40659284591674805,False,Notre Dame,Clemson,31.0,3.0,3,1,47,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,43.0,43,-0.5693068504333496,False,Notre Dame,Clemson,24.0,3.0,3,4,28,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,60.0,60,-0.5436503887176514,False,Notre Dame,Clemson,24.0,3.0,3,5,5,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,82.0,82,2.3202149868011475,False,Notre Dame,Clemson,24.0,3.0,3,5,35,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,83.0,83,-0.6331255435943604,False,Notre Dame,Clemson,24.0,3.0,3,6,16,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,56.0,56,-0.1566483974456787,False,Notre Dame,Clemson,24.0,3.0,3,9,57,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Sack,,,62.0,62,-0.4981081485748291,False,Notre Dame,Clemson,24.0,3.0,3,11,18,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,55.0,52,0.4981081485748291,False,Notre Dame,Clemson,24.0,3.0,3,11,38,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,55.0,55,-1.6636959314346313,False,Notre Dame,Clemson,24.0,3.0,3,13,37,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,60.0,60,0.40886354446411133,False,Notre Dame,Clemson,24.0,3.0,3,14,45,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,44.0,44,-0.8921659588813782,False,Notre Dame,Clemson,17.0,3.0,2,0,29,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,53.0,53,0.3019890785217285,False,Notre Dame,Clemson,17.0,3.0,2,0,31,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,53.0,53,-0.21427524089813232,False,Notre Dame,Clemson,17.0,3.0,2,0,42,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,65.0,65,0.05969893932342529,False,Notre Dame,Clemson,17.0,3.0,2,0,51,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,70.0,70,-0.11002957820892334,False,Notre Dame,Clemson,17.0,3.0,2,0,59,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,93.0,93,-0.30480366945266724,False,Notre Dame,Clemson,17.0,3.0,2,2,4,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,10.0,10,-1.289914846420288,False,Notre Dame,Clemson,14.0,3.0,2,4,31,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,10.0,10,-0.7620785236358643,False,Notre Dame,Clemson,14.0,3.0,2,4,35,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,47.0,47,1.2170820236206055,False,Notre Dame,Clemson,14.0,3.0,2,6,7,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,73.0,73,0.6174477338790894,False,Notre Dame,Clemson,14.0,3.0,2,6,59,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Passing Touchdown,,,33.0,33,2.7552719116210938,True,Notre Dame,Clemson,14.0,3.0,2,9,24,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,43.0,43,-0.80008864402771,False,Notre Dame,Clemson,7.0,3.0,2,10,48,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,72.0,72,1.1133536100387573,False,Notre Dame,Clemson,7.0,3.0,2,12,2,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Passing Touchdown,,,67.0,67,4.8449201583862305,True,Notre Dame,Clemson,7.0,3.0,1,0,41,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Interception Return,,,34.0,34,-5.90360164642334,False,Notre Dame,Clemson,0.0,3.0,1,5,20,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,39.0,39,0.13286781311035156,False,Notre Dame,Clemson,0.0,3.0,1,6,2,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Incompletion,,,64.0,64,-0.6180082559585571,False,Notre Dame,Clemson,0.0,3.0,1,6,40,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,79.0,79,2.78690767288208,False,Notre Dame,Clemson,0.0,3.0,1,6,57,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,77.0,77,-1.082374930381775,False,Notre Dame,Clemson,0.0,3.0,1,7,40,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021
+401256001.0,Pass Reception,,,80.0,80,-0.4454180598258972,False,Notre Dame,Clemson,0.0,3.0,1,8,5,16,Notre Dame,2020,Clemson,Trevor Lawrence,2021

@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College QB LEAF Explorer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            min-height: 100vh;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 30px 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        .controls {
+            background: #1e293b;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        }
+
+        .controls-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 200px;
+            gap: 20px;
+            align-items: end;
+        }
+
+        .control-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #cbd5e1;
+            font-size: 0.9em;
+        }
+
+        .control-group select,
+        .control-group input {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #334155;
+            border-radius: 8px;
+            background: #0f172a;
+            color: #e2e8f0;
+            font-size: 1em;
+            transition: border-color 0.2s;
+        }
+
+        .control-group select:focus,
+        .control-group input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .search-container {
+            position: relative;
+        }
+
+        .search-results {
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            background: #0f172a;
+            border: 2px solid #667eea;
+            border-top: none;
+            border-radius: 0 0 8px 8px;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            display: none;
+        }
+
+        .search-results.show {
+            display: block;
+        }
+
+        .search-result-item {
+            padding: 12px;
+            cursor: pointer;
+            border-bottom: 1px solid #334155;
+            transition: background 0.2s;
+        }
+
+        .search-result-item:hover {
+            background: #1e293b;
+        }
+
+        .search-result-item:last-child {
+            border-bottom: none;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .info-panel {
+            background: #1e293b;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        }
+
+        .info-panel h2 {
+            margin-bottom: 20px;
+            color: #f1f5f9;
+            border-bottom: 2px solid #334155;
+            padding-bottom: 10px;
+        }
+
+        .player-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-group {
+            padding: 15px;
+            background: #0f172a;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .stat-label {
+            font-size: 0.85em;
+            color: #94a3b8;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .stat-value {
+            font-size: 1.5em;
+            font-weight: 700;
+            color: #f1f5f9;
+        }
+
+        .probability-bars {
+            margin-top: 20px;
+        }
+
+        .prob-item {
+            margin-bottom: 15px;
+        }
+
+        .prob-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .prob-label span:first-child {
+            cursor: help;
+            position: relative;
+            text-decoration: underline dotted;
+        }
+
+        /* Tooltip styles */
+        .tooltip {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 300px;
+            background-color: #0f172a;
+            color: #e2e8f0;
+            text-align: left;
+            border-radius: 8px;
+            padding: 12px;
+            position: absolute;
+            z-index: 1000;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            border: 2px solid #667eea;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            font-size: 0.9em;
+            line-height: 1.4;
+        }
+
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -8px;
+            border-width: 8px;
+            border-style: solid;
+            border-color: #667eea transparent transparent transparent;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .prob-bar-container {
+            width: 100%;
+            height: 30px;
+            background: #0f172a;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .prob-bar {
+            height: 100%;
+            transition: width 0.5s ease-out;
+            border-radius: 15px;
+        }
+
+        .prob-bar.elite {
+            background: linear-gradient(90deg, #f093fb 0%, #f5576c 100%);
+        }
+
+        .prob-bar.solid-starter {
+            background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        .prob-bar.journeyman {
+            background: linear-gradient(90deg, #43e97b 0%, #38f9d7 100%);
+        }
+
+        .prob-bar.bust {
+            background: linear-gradient(90deg, #fa709a 0%, #fee140 100%);
+        }
+
+        .prob-bar.backup {
+            background: linear-gradient(90deg, #30cfd0 0%, #330867 100%);
+        }
+
+        .actual-outcome {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px solid #334155;
+        }
+
+        .actual-outcome h3 {
+            color: #f1f5f9;
+            margin-bottom: 15px;
+        }
+
+        @media (max-width: 768px) {
+            .controls-row {
+                grid-template-columns: 1fr;
+            }
+
+            .player-info {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>College QB LEAF Explorer</h1>
+        <p>NFL starter probability from opponent-adjusted college performance &mdash; validated out-of-sample</p>
+    </div>
+
+    <div class="container">
+        <div class="controls">
+            <div class="controls-row">
+                <div class="control-group">
+                    <label for="playerSearch">Search Player (Type or Select)</label>
+                    <div class="search-container">
+                        <input type="text" id="playerSearch" placeholder="Type to search..." autocomplete="off">
+                        <div id="searchResults" class="search-results"></div>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <label for="playerSelect">Or Select from Dropdown</label>
+                    <select id="playerSelect">
+                        <option value="">-- Select a QB --</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="yearFilter">Filter by Draft Year</label>
+                    <select id="yearFilter">
+                        <option value="">All Years</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="outcomeFilter">Filter by Starter Probability</label>
+                    <select id="outcomeFilter">
+                        <option value="">All Tiers</option>
+                        <option value="likely">Likely Starter (&ge;50%)</option>
+                        <option value="tossup">Toss-up (25&ndash;50%)</option>
+                        <option value="unlikely">Unlikely (&lt;25%)</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label>&nbsp;</label>
+                    <button class="btn" onclick="randomPlayer()">Random QB</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-panel">
+            <h2 id="playerTitle">Select a player to view projection</h2>
+            <div id="playerData"></div>
+        </div>
+    </div>
+
+    <script>
+        let allProjections = [];
+        let filteredProjections = [];
+        let currentProjection = null;
+        let modelMeta = null;
+
+        // Definitions for ACTUAL career outcomes (observed, not projected)
+        const outcomeDefinitions = {
+            'Elite': 'Achieved elite peak performance (10-game rolling >0.15 EPA/play), 85+ starts, and a strong rookie season. Very rare.',
+            'Solid Starter': 'Quality starter with longevity - 85+ career starts OR a sustained 30+ game starting streak.',
+            'Journeyman': 'Moderate playing time (16-84 starts) without a sustained starting role.',
+            'Bust': 'Failed to establish a career - fewer than 16 starts.',
+            'TBD': 'Too early to call: this QB\'s draft class hasn\'t had enough NFL seasons for the career outcome to be observable. Only irreversible achievements (Elite / Solid Starter) are shown for recent classes.'
+        };
+
+        const probDefinitions = {
+            college: 'Probability of a primary-starter season (10+ starts) within 5 years of the draft, from a survival model on college data only: age at draft, rushing share, completion %, opponent-adjusted EPA (shrunk for sample size), success rate, volume. Out-of-sample CV AUC 0.74 [0.67-0.81]. Recalibrated and capped at 99%.',
+            combined: 'Same survival model with draft position added. Out-of-sample CV AUC 0.89 - but draft position ALONE scores 0.88, a statistical tie (DeLong p = 0.77). The market has already priced the college resume; the interesting cases are where these two bars disagree.'
+        };
+
+        function starterTier(p) {
+            if (p.starter_prob_college >= 0.5) return 'likely';
+            if (p.starter_prob_college >= 0.25) return 'tossup';
+            return 'unlikely';
+        }
+
+        // Load projections
+        fetch('data/projections/all_projections.json')
+            .then(response => response.json())
+            .then(data => {
+                modelMeta = data.meta;
+                allProjections = data.projections;
+                filteredProjections = allProjections;
+                initializeFilters();
+                populatePlayerSelect();
+
+                if (allProjections.length > 0) {
+                    loadPlayer(0);
+                }
+            })
+            .catch(error => {
+                console.error('Error loading projections:', error);
+                document.getElementById('playerData').innerHTML =
+                    '<p style="color: #ef4444;">Error loading projection data. Please check the console.</p>';
+            });
+
+        function initializeFilters() {
+            // Populate year filter
+            const years = [...new Set(allProjections.map(p => p.draft_year))].sort();
+            const yearFilter = document.getElementById('yearFilter');
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearFilter.appendChild(option);
+            });
+
+            // Add filter change listeners
+            document.getElementById('yearFilter').addEventListener('change', applyFilters);
+            document.getElementById('outcomeFilter').addEventListener('change', applyFilters);
+        }
+
+        function applyFilters() {
+            const yearFilter = document.getElementById('yearFilter').value;
+            const outcomeFilter = document.getElementById('outcomeFilter').value;
+
+            filteredProjections = allProjections.filter(p => {
+                const yearMatch = !yearFilter || p.draft_year == yearFilter;
+                const outcomeMatch = !outcomeFilter || starterTier(p) === outcomeFilter;
+                return yearMatch && outcomeMatch;
+            });
+
+            populatePlayerSelect();
+        }
+
+        function populatePlayerSelect() {
+            const selectElement = document.getElementById('playerSelect');
+
+            // Clear existing options except the first one
+            selectElement.innerHTML = '<option value="">-- Select a QB --</option>';
+
+            // Populate with filtered players
+            filteredProjections.forEach((p, idx) => {
+                const option = document.createElement('option');
+                option.value = idx;
+                option.textContent = `${p.player_name} (${p.draft_year}) - ${p.college}`;
+                selectElement.appendChild(option);
+            });
+
+            // Update search placeholder
+            document.getElementById('playerSearch').placeholder = `${filteredProjections.length} players available - type to search`;
+        }
+
+        // Search functionality
+        const searchInput = document.getElementById('playerSearch');
+        const searchResults = document.getElementById('searchResults');
+
+        searchInput.addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase().trim();
+
+            if (query.length === 0) {
+                searchResults.classList.remove('show');
+                return;
+            }
+
+            // Filter players
+            const matches = filteredProjections.filter(p =>
+                p.player_name.toLowerCase().includes(query) ||
+                p.college.toLowerCase().includes(query) ||
+                p.draft_year.toString().includes(query)
+            ).slice(0, 10); // Limit to 10 results
+
+            if (matches.length === 0) {
+                searchResults.innerHTML = '<div class="search-result-item">No matches found</div>';
+                searchResults.classList.add('show');
+                return;
+            }
+
+            searchResults.innerHTML = matches.map((p, idx) => {
+                const actualIdx = filteredProjections.indexOf(p);
+                return `<div class="search-result-item" data-index="${actualIdx}">
+                    ${p.player_name} (${p.draft_year}) - ${p.college}
+                </div>`;
+            }).join('');
+
+            searchResults.classList.add('show');
+
+            // Add click handlers
+            searchResults.querySelectorAll('.search-result-item').forEach(item => {
+                item.addEventListener('click', () => {
+                    const index = parseInt(item.dataset.index);
+                    if (!isNaN(index)) {
+                        loadPlayer(index);
+                        searchInput.value = filteredProjections[index].player_name;
+                        document.getElementById('playerSelect').value = index;
+                        searchResults.classList.remove('show');
+                    }
+                });
+            });
+        });
+
+        // Close search results when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!e.target.closest('.search-container')) {
+                searchResults.classList.remove('show');
+            }
+        });
+
+        // Dropdown selector change handler
+        document.getElementById('playerSelect').addEventListener('change', (e) => {
+            const index = parseInt(e.target.value);
+            if (!isNaN(index) && index >= 0) {
+                loadPlayer(index);
+                // Update search input to match selected player
+                searchInput.value = filteredProjections[index].player_name;
+            }
+        });
+
+        function randomPlayer() {
+            const randomIndex = Math.floor(Math.random() * filteredProjections.length);
+            loadPlayer(randomIndex);
+            document.getElementById('playerSearch').value = filteredProjections[randomIndex].player_name;
+            document.getElementById('playerSelect').value = randomIndex;
+            searchResults.classList.remove('show');
+        }
+
+        function loadPlayer(index) {
+            currentProjection = filteredProjections[index];
+            if (!currentProjection) return;
+            const p = currentProjection;
+
+            document.getElementById('playerTitle').textContent =
+                `${p.player_name} (${p.draft_year})`;
+
+            const epaAdj = p.college_epa_adj !== null ? p.college_epa_adj.toFixed(3) : 'N/A';
+            const sos = p.sos_percentile !== null ? `${Math.round(p.sos_percentile)}th pct` : 'N/A';
+            const pickLabel = p.draft_pick !== null ? `#${p.draft_pick}` : 'Undrafted / pre-draft';
+            const compPct = p.comp_pct !== null ? `${(p.comp_pct * 100).toFixed(1)}%` : 'N/A';
+            const rushShare = p.rush_share !== null ? `${(p.rush_share * 100).toFixed(0)}%` : 'N/A';
+            const age = p.age_at_draft !== null ? p.age_at_draft.toFixed(1) : 'N/A';
+
+            let html = `
+                <div class="player-info">
+                    <div class="stat-group">
+                        <div class="stat-label">College</div>
+                        <div class="stat-value">${p.college || 'Unknown'}${p.is_fcs ? ' <span style="font-size:0.6em;color:#94a3b8;">(non-FBS)</span>' : ''}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">Adjusted EPA/play${p.game_level_adj ? '' : ' <span style="text-transform:none;">(season-level adj)</span>'}</div>
+                        <div class="stat-value">${epaAdj}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">Completion %</div>
+                        <div class="stat-value">${compPct}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">Rushing Share</div>
+                        <div class="stat-value">${rushShare}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">Age at Draft</div>
+                        <div class="stat-value">${age}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">Schedule Strength</div>
+                        <div class="stat-value">${sos}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">College Attempts</div>
+                        <div class="stat-value">${p.college_attempts || 'N/A'}</div>
+                    </div>
+                    <div class="stat-group">
+                        <div class="stat-label">Draft Pick</div>
+                        <div class="stat-value">${pickLabel}</div>
+                    </div>
+                </div>
+
+                <div class="probability-bars">
+                    <h3 style="margin-bottom: 15px;">P(Primary Starter Within 5 Years)</h3>
+            `;
+
+            const bars = [
+                ['College stats only', p.starter_prob_college, 'solid-starter', probDefinitions.college],
+            ];
+            if (p.starter_prob_combined !== null) {
+                bars.push(['College stats + draft position', p.starter_prob_combined, 'elite', probDefinitions.combined]);
+            }
+
+            bars.forEach(([label, prob, cssClass, definition]) => {
+                html += `
+                    <div class="prob-item">
+                        <div class="prob-label">
+                            <span class="tooltip">
+                                ${label}
+                                <span class="tooltiptext">${definition}</span>
+                            </span>
+                            <span>${(prob * 100).toFixed(1)}%</span>
+                        </div>
+                        <div class="prob-bar-container">
+                            <div class="prob-bar ${cssClass}" style="width: ${prob * 100}%"></div>
+                        </div>
+                    </div>
+                `;
+            });
+
+            html += `</div>`;
+
+            // Show actual outcome if available
+            if (p.actual_outcome) {
+                const def = outcomeDefinitions[p.actual_outcome] || '';
+                html += `
+                    <div class="actual-outcome">
+                        <h3>Actual NFL Outcome</h3>
+                        <div class="stat-label">Career Outcome</div>
+                        <div class="stat-value" style="color: #f093fb; margin-bottom: 15px;">
+                            <span class="tooltip">${p.actual_outcome}<span class="tooltiptext">${def}</span></span>
+                        </div>
+                `;
+
+                if (p.actual_rookie_leaf !== null) {
+                    html += `
+                        <div class="stat-label">Actual Rookie LEAF</div>
+                        <div class="stat-value">${p.actual_rookie_leaf.toFixed(3)}</div>
+                    `;
+                }
+
+                if (p.actual_total_starts !== null) {
+                    html += `
+                        <div class="stat-label">Total NFL Starts</div>
+                        <div class="stat-value">${p.actual_total_starts}</div>
+                    `;
+                }
+
+                if (p.became_starter_5yr !== null) {
+                    html += `
+                        <div class="stat-label">Primary Starter Within 5 Years (model target)</div>
+                        <div class="stat-value">${p.became_starter_5yr ? 'YES' : 'NO / not yet'}</div>
+                    `;
+                }
+
+                html += `</div>`;
+            }
+
+            // Methodology footnote (honest, out-of-sample numbers)
+            if (modelMeta && modelMeta.cv) {
+                const ci = modelMeta.cv.starter_auc_college_ci || [null, null];
+                html += `
+                    <div style="margin-top: 25px; padding: 15px; background: #0f172a; border-radius: 8px; font-size: 0.85em; color: #94a3b8; line-height: 1.5;">
+                        <strong style="color:#cbd5e1;">Model honesty note (v3, pre-registered spec).</strong>
+                        Target: a primary-starter season (10+ starts) within 5 years of the draft; ~48% of drafted QBs get there.
+                        Discrete-time survival model, censoring-aware, all metrics out-of-sample (leave-one-draft-class-out, classes 2007&ndash;2021):
+                        college-only AUC ${modelMeta.cv.starter_auc_college.toFixed(2)} [${ci[0]?.toFixed(2)}&ndash;${ci[1]?.toFixed(2)}],
+                        college+draft ${modelMeta.cv.starter_auc_combined.toFixed(2)},
+                        draft position alone ${modelMeta.cv.starter_auc_pick_only.toFixed(2)}
+                        (combined vs. draft-only: statistical tie, DeLong p = ${modelMeta.cv.delong_combined_vs_pick_p.toFixed(2)}).
+                        Strongest college signals are age at draft, rushing share, and completion % &mdash; not box-score EPA.
+                        Probabilities are recalibrated and capped at 99%. Rookie-season performance is not predictable out-of-sample and is not projected.
+                    </div>
+                `;
+            }
+
+            document.getElementById('playerData').innerHTML = html;
+        }
+
+    </script>
+</body>
+</html>

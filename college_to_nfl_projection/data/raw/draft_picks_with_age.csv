@@ -1,0 +1,608 @@
+draft_year,round,pick,player_name,college,age,pfr_player_id,gsis_id
+1980,1,15,Marc Wilson,BYU,23.0,WilsMa00,WIL749592
+1980,1,28,Mark Malone,Arizona St.,21.0,MaloMa00,MAL711918
+1980,2,37,Gene Bradley,Arkansas St.,,,
+1980,4,85,Eric Hipple,Utah St.,22.0,HippEr00,HIP498348
+1980,4,89,Rusty Lisch,Notre Dame,23.0,LiscRu00,LIS237308
+1980,4,101,Ed Luther,San Jose St.,23.0,LuthEd00,LUT276861
+1980,4,109,Paul McDonald,USC,22.0,McDoPa00,MCD494375
+1980,5,133,Gary Hogeboom,Central Michigan,22.0,HogeGa00,HOG484505
+1980,6,145,Scott Brunner,Delaware,23.0,BrunSc00,BRU683984
+1980,7,182,Craig Bradshaw,Utah St.,23.0,BradCr20,BRA321842
+1980,8,202,Todd Krueger,Northern Michigan,,,
+1980,8,214,David Woodley,LSU,21.0,WoodDa00,WOO320562
+1980,9,237,Dan Hartwig,California Lutheran,,,
+1980,9,242,Turk Schonert,Stanford,23.0,SchoTu00,SCH469430
+1980,12,308,Mike Wright,Vanderbilt,,,
+1980,12,320,Jimmy Jordan,Florida St.,,,
+1980,12,332,Kevin Scanlon,Arkansas,,,
+1981,1,6,Rich Campbell,California,22.0,CampRi00,CAM579450
+1981,2,33,Neil Lomax,Portland St.,22.0,LomaNe00,LOM692150
+1981,4,90,Tom Flick,Washington,23.0,FlicTo00,FLI207645
+1981,4,96,Brad Wright,New Mexico,,,
+1981,4,98,Mark Herrmann,Purdue,22.0,HerrMa00,00-0007340
+1981,8,207,Mark Reed,Moorhead State (MN),22.0,ReedMa20,REE344386
+1981,8,210,Wade Wilson,Texas A&M-Commerce,22.0,WilsWa00,00-0018073
+1981,9,228,Mike Ford,SMU,,,
+1981,10,255,Nickie Hall,Tulane,,,
+1981,10,257,Phil Kessel,Northern Michigan,,,
+1981,10,260,Tim Clifford,Indiana,,,
+1981,11,292,Rick Trocano,Pittsburgh,22.0,TrocRi20,TRO103822
+1981,11,295,Brian Buckley,Harvard,,,
+1981,12,312,Mark O'Connell,Ball St.,,,
+1981,12,319,Bob Gagliano,Utah St.,23.0,GaglBo00,00-0005676
+1981,12,322,Joe Adams,Tennessee St.,,,
+1982,1,4,Art Schlichter,Ohio St.,22.0,SchlAr00,SCH223882
+1982,1,5,Jim McMahon,BYU,23.0,McMaJi00,00-0010997
+1982,2,44,Oliver Luck,West Virginia,22.0,LuckOl00,LUC533943
+1982,2,48,Matt Kofler,San Diego St.,23.0,KoflMa00,KOF415291
+1982,4,84,Mike Pagel,Arizona St.,21.0,PageMi00,PAG498348
+1982,6,149,Mike Kelley,Georgia Tech,22.0,KellMi21,KEL298998
+1982,6,154,Mike Machurek,Idaho St.,22.0,MachMi00,MAC240427
+1982,8,218,Luc Tousignant,Fairmont St.,,,
+1982,9,242,Bob Lane,La-Monroe,,,
+1982,9,251,Bryan Clark,Michigan St.,22.0,ClarBr22,CLA487491
+1982,10,261,Ron Reeves,Texas Tech,,,
+1982,11,282,Steve Michuta,Grand Valley St.,,,
+1982,11,291,Bob Holly,Princeton,22.0,HollBo00,HOL421464
+1982,11,296,Steve Sandon,Northern Iowa,,,
+1982,12,333,Dan Feraday,Toronto,,,
+1983,1,1,John Elway,Stanford,23.0,ElwaJo00,00-0004884
+1983,1,7,Todd Blackledge,Penn St.,22.0,BlacTo00,BLA224939
+1983,1,14,Jim Kelly,Miami (FL),23.0,KellJi00,00-0009111
+1983,1,15,Tony Eason,Illinois,23.0,EasoTo00,EAS332232
+1983,1,24,Ken O'Brien,UC Davis,22.0,OBriKe00,00-0012246
+1983,1,27,Dan Marino,Pittsburgh,21.0,MariDa00,00-0010379
+1983,5,137,Jeff Christensen,Eastern Illinois,23.0,ChriJe20,CHR207645
+1983,6,162,Reggie Collier,Southern Miss,22.0,CollRe20,COL430668
+1983,6,168,Babe Laufenberg,Indiana,23.0,LaufBa00,LAU276860
+1983,8,197,Gary Kubiak,Texas A&M,22.0,KubiGa00,00-0009490
+1983,10,267,Tom Ramsey,UCLA,22.0,RamsTo00,RAM726754
+1983,10,272,Bruce Mathison,Nebraska,24.0,MathBr00,MAT266407
+1983,11,280,Jim Bob Taylor,Georgia Tech,23.0,TaylJi20,TAY328800
+1983,12,311,Clete Casper,Washington St.,,,
+1983,12,312,David Mangrum,Baylor,,,
+1983,12,333,Scott Lindquist,Northern Arizona,,,
+1984,2,38,Boomer Esiason,Maryland,23.0,EsiaBo00,00-0004937
+1984,3,59,Jeff Hostetler,West Virginia,23.0,HostJe00,00-0007765
+1984,3,80,Rick McIvor,Texas,23.0,McIvRi20,MCI775208
+1984,3,83,Jay Schroeder,UCLA,23.0,SchrJa00,00-0014490
+1984,5,113,Steve Pelluer,Washington,22.0,PellSt00,00-0012748
+1984,5,138,Dean May,Louisville,22.0,MayxDe20,MAY050338
+1984,6,148,Ben Bennett,Duke,22.0,BennBe20,BEN212831
+1984,6,153,Randy Wright,Wisconsin,23.0,WrigRa00,WRI629225
+1984,6,158,Terry Nugent,Colorado St.,22.0,NugeTe20,NUG664464
+1984,6,160,John Witkowski,Columbia,22.0,WitkJo00,WIT259555
+1984,7,191,Scott Campbell,Purdue,22.0,CampSc00,CAM598765
+1984,9,244,Mark Casale,Montclair St.,,,
+1984,11,281,Blair Kiel,Notre Dame,22.0,KielBl00,00-0009209
+1984,11,296,Kyle Mackey,Texas A&M-Commerce,22.0,MackKy00,MAC546425
+1984,12,336,Randy Essington,Colorado,,,
+1985,2,37,Randall Cunningham,UNLV,22.0,CunnRa00,00-0003761
+1985,3,57,Frank Reich,Maryland,23.0,ReicFr00,00-0013558
+1985,6,142,Steve Bono,UCLA,23.0,BonoSt00,00-0001471
+1985,6,143,Rusty Hilger,Oklahoma St.,23.0,HilgRu00,00-0007413
+1985,6,168,Scott Barry,UC Davis,,,
+1985,9,232,Steve Calabria,Colgate,,,
+1985,9,234,Paul Berner,Pacific,,,
+1985,10,269,Buddy Funck,New Mexico,,,
+1985,10,277,John Conner,Arizona,,,
+1985,11,285,Doug Flutie,Boston Col.,22.0,FlutDo00,00-0005363
+1985,11,294,Joe Shield,Trinity (CT),23.0,ShieJo20,SHI075506
+1986,1,3,Jim Everett,Purdue,23.0,EverJi00,00-0005015
+1986,1,12,Chuck Long,Iowa,23.0,LongCh00,00-0010054
+1986,2,47,Jack Trudeau,Illinois,23.0,TrudJa00,00-0016628
+1986,3,67,Bubby Brister,La-Monroe,24.0,BrisBu00,00-0001785
+1986,3,71,Hugh Millen,Washington,22.0,MillHu00,00-0011230
+1986,3,72,Robbie Bosco,BYU,,,
+1986,4,99,Doug Gaynor,Long Beach St.,23.0,GaynDo20,GAY747522
+1986,6,146,Mark Rypien,Washington St.,23.0,RypiMa00,00-0014234
+1986,6,150,Stan Gelbaugh,Maryland,23.0,GelbSt00,00-0005869
+1986,7,174,Mike Norseth,Kansas,22.0,NorsMi20,00-0012188
+1986,10,274,Jeff Wickersham,LSU,,,
+1986,11,280,Chris Hegg,Truman St.,,,
+1986,11,291,David Norrie,UCLA,22.0,NorrDa20,NOR397232
+1986,12,312,Kent Austin,Mississippi,23.0,AustKe20,AUS622932
+1986,12,313,Brian McClure,Bowling Green,22.0,McClBr20,MCC440165
+1986,12,316,Steve Bradley,Indiana,23.0,BradSt20,BRA238786
+1987,1,1,Vinny Testaverde,Miami (FL),23.0,TestVi00,00-0016193
+1987,1,6,Kelly Stouffer,Colorado St.,23.0,StouKe00,00-0015778
+1987,1,13,Chris Miller,Oregon,22.0,MillCh00,00-0011244
+1987,1,26,Jim Harbaugh,Michigan,23.0,HarbJi00,00-0006808
+1987,3,64,Cody Carlson,Baylor,23.0,CarlCo00,00-0002642
+1987,4,88,Mark Vlasic,Iowa,23.0,VlasMa00,00-0016942
+1987,4,98,Rich Gannon,Delaware,21.0,GannRi00,00-0005741
+1987,4,110,Steve Beuerlein,Notre Dame,22.0,BeueSt00,00-0001218
+1987,7,180,Kevin Sweeney,Fresno St.,23.0,SweeKe00,SWE237308
+1987,7,186,Doug Hudson,Nicholls St.,22.0,HudsDo20,HUD237805
+1987,8,216,Sammy Garza,Texas-El Paso,22.0,GarzSa20,GAR799221
+1987,9,232,Ken Lambiotte,William & Mary,,,
+1987,10,255,Don Majkowski,Virginia,23.0,MajkDo00,00-0010284
+1987,10,275,John Paye,Stanford,,,
+1987,11,295,Brent Pease,Montana,22.0,PeasBr00,PEA657533
+1987,11,307,Dave Walter,Michigan Tech,22.0,WaltDa20,WAL638880
+1987,12,313,Mike Shula,Alabama,,,
+1987,12,322,Jim Karsatos,Ohio St.,,,
+1987,12,327,Bill Ransdell,Kentucky,,,
+1988,3,68,Tom Tupa,Ohio St.,22.0,TupaTo20,00-0016683
+1988,3,76,Chris Chandler,Washington,22.0,ChanCh00,00-0002876
+1988,6,149,Don McPherson,Syracuse,,,
+1988,6,151,Scott Secules,Virginia,23.0,SecuSc00,00-0014630
+1988,6,159,Stan Humphries,La-Monroe,23.0,HumpSt00,00-0007921
+1988,7,175,Mike Perez,San Jose St.,,,
+1988,7,180,Kerwin Bell,Florida,23.0,BellKe00,00-0001034
+1988,10,256,Bud Keyes,Wisconsin,,,
+1988,10,274,Todd Santos,San Diego St.,,,
+1988,11,281,Danny McCoin,Cincinnati,,,
+1988,11,282,Danny McManus,Florida St.,,,
+1988,11,283,David Weber,,,,
+1988,12,328,Steve Slayden,Duke,,,
+1989,1,1,Troy Aikman,UCLA,22.0,AikmTr00,00-0000104
+1989,2,32,Mike Elkins,Wake Forest,23.0,ElkiMi00,00-0004828
+1989,2,51,Billy Joe Tolliver,Texas Tech,23.0,TollBi00,00-0016534
+1989,3,74,Anthony Dilweg,Duke,24.0,DilwAn00,DIL646009
+1989,3,83,Erik Wilhelm,Oregon St.,23.0,WilhEr00,00-0017673
+1989,4,87,Jeff Graham,Long Beach St.,,,
+1989,4,102,Jeff Carlson,Weber St.,23.0,CarlJe00,00-0002644
+1989,6,140,Jeff Francis,Tennessee,23.0,FranJe20,00-0005505
+1989,6,141,Rodney Peete,USC,23.0,PeetRo00,00-0012732
+1989,7,192,Brent Snyder,Utah St.,,,
+1989,7,195,Terrence Jones,Tulane,,,
+1989,8,202,Paul Singer,Western Illinois,,,
+1989,10,278,Bob Jean,New Hampshire,,,
+1989,11,296,Wayne Johnson,Georgia,,,
+1989,12,323,Steve Taylor,Nebraska,,,
+1989,12,325,Chuck Hartlieb,Iowa,,,
+1990,1,1,Jeff George,Illinois,22.0,GeorJe00,00-0005885
+1990,1,7,Andre Ware,Houston,22.0,WareAn00,00-0017178
+1990,3,59,Tom Hodson,LSU,23.0,HodsTo00,00-0007547
+1990,3,63,Peter Tom Willis,Florida St.,23.0,WillPe00,00-0017984
+1990,3,70,Neil O'Donnell,Maryland,24.0,ODonNe00,00-0012261
+1990,4,84,Troy Taylor,California,22.0,TaylTr00,00-0016151
+1990,4,86,Cary Conklin,Washington,22.0,ConkCa00,00-0003367
+1990,4,93,Scott Mitchell,Utah,22.0,MitcSc00,00-0011434
+1990,5,135,Craig Kupp,Pacific Lutheran,23.0,KuppCr20,KUP540972
+1990,6,138,John Friesz,Idaho,23.0,FrieJo00,00-0005600
+1990,6,156,Mike Buck,Maine,23.0,BuckMi00,00-0002174
+1990,8,207,Gerry Gdowski,Nebraska,,,
+1990,9,242,Kirk Baumgartner,Wisconsin–Stevens Point,,,
+1990,9,247,Todd Ellis,South Carolina,,,
+1990,11,296,Clemente Gordon,Grambling St.,,,
+1990,12,307,Todd Hammel,S.F. Austin,,,
+1990,12,311,Gene Benhart,Western Illinois,,,
+1990,12,312,John Gromos,Vanderbilt,,,
+1990,12,317,Major Harris,West Virginia,,,
+1990,12,321,Reggie Slack,Auburn,,,
+1991,1,16,Dan McGwire,San Diego St.,23.0,McGwDa00,00-0010904
+1991,1,24,Todd Marinovich,USC,22.0,MariTo00,MAR159727
+1991,2,33,Brett Favre,Southern Miss,21.0,FavrBr00,00-0005106
+1991,2,34,Browning Nagle,Louisville,23.0,NaglBr00,00-0011907
+1991,4,84,Scott Zolak,Maryland,23.0,ZolaSc00,00-0018518
+1991,4,99,Donald Hollas,Rice,23.0,HollDo00,00-0007601
+1991,4,106,Bill Musgrave,Oregon,23.0,MusgBi00,00-0011873
+1991,5,131,Craig Erickson,Miami (FL),22.0,EricCr00,00-0004925
+1991,7,190,Paul Justin,Arizona St.,23.0,JustPa00,00-0008970
+1991,10,260,Pat O'Hara,USC,,,
+1991,11,284,Shawn Moore,Virginia,23.0,MoorSh00,00-0011611
+1991,12,309,Jeff Bridewell,UC Davis,,,
+1991,12,334,Larry Wanke,John Carroll,,,
+1992,1,6,David Klingler,Houston,23.0,KlinDa00,00-0009331
+1992,1,25,Tommy Maddox,UCLA,21.0,MaddTo00,00-0010261
+1992,2,40,Matt Blundin,Virginia,23.0,BlunMa00,00-0001387
+1992,2,46,Tony Sacca,Penn St.,22.0,SaccTo00,SAC090322
+1992,4,86,Craig Erickson,Miami (FL),23.0,EricCr00,00-0004925
+1992,4,102,Casey Weldon,Florida St.,23.0,WeldCa00,00-0017415
+1992,4,107,Will Furrer,Virginia Tech,24.0,FurrWi00,00-0005656
+1992,4,112,Chris Hakel,William & Mary,,,
+1992,6,166,Jeff Blake,East Carolina,21.0,BlakJe00,00-0001335
+1992,8,198,Ricky Jones,Alabama St.,,,
+1992,8,211,Kent Graham,Ohio St.,23.0,GrahKe00,00-0006212
+1992,8,220,Bucky Richardson,Texas A&M,23.0,RichBu00,00-0013671
+1992,8,222,Mike Pawlawski,California,,,
+1992,9,227,Brad Johnson,Florida St.,23.0,JohnBr00,00-0008442
+1992,9,228,T.J. Rubley,Tulsa,23.0,RublTJ00,00-0014129
+1992,9,230,Ty Detmer,BYU,24.0,DetmTy00,00-0004230
+1992,9,242,Darian Hagan,Colorado,,,
+1992,11,296,Mark Barsotti,Fresno St.,,,
+1992,12,316,Keithen McCant,Nebraska,,,
+1992,12,318,Cornelius Benton,Connecticut,,,
+1992,12,335,Matt Rodgers,Iowa,,,
+1993,1,1,Drew Bledsoe,Washington St.,21.0,BledDr00,00-0001361
+1993,1,2,Rick Mirer,Notre Dame,23.0,MireRi00,00-0011378
+1993,3,58,Billy Joe Hobert,Washington,22.0,HobeBi00,00-0007530
+1993,5,118,Mark Brunell,Washington,22.0,BrunMa00,00-0002110
+1993,7,192,Gino Torretta,Miami (FL),23.0,ToreGi00,00-0016560
+1993,8,216,Alex Van Pelt,Pittsburgh,23.0,VanPAl00,00-0016838
+1993,8,219,Elvis Grbac,Michigan,23.0,GrbaEl00,00-0006300
+1993,8,222,Trent Green,Indiana,23.0,GreeTr00,00-0006355
+1994,1,3,Heath Shuler,Tennessee,22.0,ShulHe00,00-0014843
+1994,1,6,Trent Dilfer,Fresno St.,22.0,DilfTr00,00-0004293
+1994,4,111,Perry Klein,C.W. Post,23.0,KleiPe20,00-0009321
+1994,4,116,Doug Nussmeier,Idaho,23.0,NussDo00,00-0012226
+1994,6,178,Jim Miller,Michigan St.,23.0,MillJi00,
+1994,7,197,Gus Frerotte,Tulsa,23.0,FrerGu00,00-0005589
+1994,7,198,Jay Walker,Howard,22.0,WalkJa22,WAL223608
+1994,7,199,Steve Matthews,Memphis,23.0,MattSt00,00-0010561
+1994,7,208,Glenn Foley,Boston Col.,23.0,FoleGl00,00-0005379
+1995,1,3,Steve McNair,Alcorn St.,22.0,McNaSt00,00-0011024
+1995,1,5,Kerry Collins,Penn St.,22.0,CollKe00,00-0003292
+1995,2,45,Todd Collins,Michigan,23.0,CollTo00,00-0003315
+1995,2,60,Kordell Stewart,Colorado,22.0,StewKo00,00-0015700
+1995,3,80,Stoney Case,New Mexico,23.0,CaseSt00,00-0002787
+1995,3,84,Eric Zeier,Georgia,23.0,ZeieEr00,00-0018483
+1995,4,99,Rob Johnson,USC,22.0,JohnRo00,00-0008612
+1995,4,111,Chad May,Kansas St.,,,
+1995,4,119,Dave Barr,California,23.0,BarrDa20,00-0000819
+1995,4,134,Steve Stenstrom,Stanford,23.0,StenSt00,00-0015627
+1995,5,160,Jay Barker,Alabama,,,
+1995,6,191,Jerry Colquitt,Tennessee,,,
+1995,6,197,Craig Whelihan,Pacific,24.0,WhelCr00,00-0017497
+1995,7,213,John Walsh,BYU,,,
+1996,2,42,Tony Banks,Michigan St.,23.0,BankTo00,00-0000722
+1996,3,85,Bobby Hoying,Ohio St.,23.0,HoyiBo00,00-0007832
+1996,4,100,Jeff Lewis,Northern Arizona,23.0,LewiJe01,00-0009868
+1996,4,130,Danny Kanell,Florida St.,22.0,KaneDa00,00-0009007
+1996,6,203,Spence Fischer,Duke,,,
+1996,6,205,Mike Cawley,James Madison,,,
+1996,7,238,Jon Stark,,,,
+1996,7,240,Kyle Wachholtz,USC,,,
+1997,1,26,Jim Druckenmiller,Virginia Tech,24.0,DrucJi00,00-0004546
+1997,2,42,Jake Plummer,Arizona St.,22.0,PlumJa00,00-0013042
+1997,4,99,Danny Wuerffel,Florida,23.0,WuerDa00,00-0018333
+1997,4,110,Pat Barnes,California,22.0,BarnPa20,00-0000785
+1997,6,171,Mike Cherry,Murray St.,23.0,CherMi00,00-0002930
+1997,6,191,Chuck Clements,Houston,23.0,ClemCh21,00-0003108
+1997,7,204,Tony Graziani,Oregon,23.0,GrazTo00,00-0006299
+1997,7,207,Koy Detmer,Colorado,24.0,DetmKo00,00-0004229
+1997,7,234,Wally Richardson,Penn St.,23.0,RichWa00,00-0013695
+1997,7,237,Tony Corbin,Sacramento St.,,,
+1997,7,240,Ron McAda,Army,,,
+1998,1,1,Peyton Manning,Tennessee,22.0,MannPe00,00-0010346
+1998,1,2,Ryan Leaf,Washington St.,22.0,LeafRy00,00-0009715
+1998,2,60,Charlie Batch,Eastern Michigan,23.0,BatcCh00,00-0000865
+1998,3,86,Jonathan Quinn,Middle Tenn. St.,23.0,QuinJo00,00-0013338
+1998,3,91,Brian Griese,Michigan,23.0,GrieBr00,00-0006423
+1998,6,172,John Dutton,Nevada,,,
+1998,6,187,Matt Hasselbeck,Boston Col.,22.0,HassMa00,00-0007091
+1998,7,232,Moses Moreno,Colorado St.,23.0,MoreMo00,00-0011640
+1999,1,1,Tim Couch,Kentucky,22.0,CoucTi00,00-0003535
+1999,1,2,Donovan McNabb,Syracuse,22.0,McNaDo00,00-0011022
+1999,1,3,Akili Smith,Oregon,24.0,SmitAk00,00-0015082
+1999,1,11,Daunte Culpepper,Central Florida,22.0,CulpDa00,00-0003739
+1999,1,12,Cade McNown,UCLA,22.0,McNoCa00,00-0011044
+1999,2,50,Shaun King,Tulane,22.0,KingSh00,00-0009266
+1999,3,77,Brock Huard,Washington,23.0,HuarBr00,00-0007834
+1999,4,101,Joe Germaine,Ohio St.,24.0,GermJo00,00-0005902
+1999,4,131,Aaron Brooks,Virginia,23.0,BrooAa00,00-0001823
+1999,5,151,Kevin Daft,UC Davis,,,
+1999,7,227,Michael Bishop,Kansas St.,23.0,BishMi00,00-0001272
+1999,7,239,Chris Greisen,NW Missouri St.,23.0,GreiCh00,00-0006410
+1999,7,245,Scott Covington,Miami (FL),23.0,CoviSc00,00-0003557
+2000,1,18,Chad Pennington,Marshall,24.0,PennCh01,00-0019559
+2000,3,65,Giovanni Carmazzi,Hofstra,,,
+2000,3,75,Chris Redman,Louisville,23.0,RedmCh00,00-0019709
+2000,5,163,Tee Martin,Tennessee,22.0,MartTe00,00-0019633
+2000,6,168,Marc Bulger,West Virginia,23.0,BulgMa00,00-0019599
+2000,6,183,Spergon Wynn,Texas St.,22.0,WynnSp00,00-0019553
+2000,6,199,Tom Brady,Michigan,23.0,BradTo00,00-0019596
+2000,6,202,Todd Husak,Stanford,22.0,HusaTo20,00-0019622
+2000,6,205,JaJuan Seider,Florida A&M,,,
+2000,7,212,Tim Rattay,Louisiana Tech,23.0,RattTi00,00-0019623
+2000,7,214,Jarious Jackson,Notre Dame,23.0,JackJa01,00-0019682
+2000,7,234,Joe Hamilton,Georgia Tech,23.0,HamiJo20,00-0019579
+2001,1,1,Michael Vick,Virginia Tech,21.0,VickMi00,00-0020245
+2001,2,32,Drew Brees,Purdue,22.0,BreeDr00,00-0020531
+2001,2,53,Quincy Carter,Georgia,23.0,CartQu00,00-0020404
+2001,2,59,Marques Tuiasosopo,Washington,22.0,TuiaMa00,00-0020405
+2001,4,106,Chris Weinke,Florida St.,29.0,WeinCh00,00-0020434
+2001,4,109,Sage Rosenfels,Iowa St.,23.0,RoseSa00,00-0020480
+2001,4,125,Jesse Palmer,Florida,22.0,PalmJe00,00-0020483
+2001,5,149,Mike McMahon,Rutgers,22.0,McMaMi00,00-0020308
+2001,5,155,A.J. Feeley,Oregon,24.0,FeelA.00,00-0020305
+2001,6,172,Josh Booty,LSU,,,
+2001,6,177,Josh Heupel,Oklahoma,,,
+2002,1,1,David Carr,Fresno St.,23.0,CarrDa00,00-0020608
+2002,1,3,Joey Harrington,Oregon,23.0,HarrJo00,00-0021141
+2002,1,32,Patrick Ramsey,Tulane,23.0,RamsPa00,00-0021379
+2002,3,81,Josh McCown,Sam Houston St.,23.0,McCoJo01,00-0021206
+2002,4,108,David Garrard,East Carolina,24.0,GarrDa00,00-0021231
+2002,4,117,Rohan Davey,LSU,24.0,DaveRo01,00-0021238
+2002,5,137,Randy Fasani,Stanford,23.0,FasaRa00,00-0021254
+2002,5,158,Kurt Kittner,Illinois,22.0,KittKu00,00-0021271
+2002,5,163,Brandon Doman,BYU,,,
+2002,5,164,Craig Nall,LSU,23.0,NallCr00,00-0021277
+2002,6,186,J.T. O'Sullivan,UC Davis,23.0,OSulJ.00,00-0021296
+2002,6,205,Steve Bellisari,Ohio St.,,,
+2002,7,216,Seth Burford,Cal Poly-San Luis Obispo,,,
+2002,7,232,Jeff Kelly,Southern Miss,23.0,KellJe21,00-0021334
+2002,7,236,Wes Pate,S.F. Austin,,,
+2003,1,1,Carson Palmer,USC,23.0,PalmCa00,00-0021429
+2003,1,7,Byron Leftwich,Marshall,23.0,LeftBy00,00-0022177
+2003,1,19,Kyle Boller,California,22.0,BollKy00,00-0022164
+2003,1,22,Rex Grossman,Florida,23.0,GrosRe00,00-0022121
+2003,3,88,Dave Ragone,Louisville,23.0,RagoDa00,00-0022091
+2003,3,97,Chris Simms,Texas,23.0,SimmCh00,00-0022005
+2003,4,110,Seneca Wallace,Iowa St.,23.0,WallSe00,00-0022055
+2003,5,163,Brian St. Pierre,Boston Col.,23.0,St.PBr20,00-0022101
+2003,6,192,Drew Henson,Michigan,23.0,HensDr00,00-0022181
+2003,6,200,Brooks Bollinger,Wisconsin,23.0,BollBr00,00-0022026
+2003,6,201,Kliff Kingsbury,Texas Tech,24.0,KingKl00,00-0022027
+2003,7,232,Gibran Hamdan,Indiana,22.0,HamdGi00,00-0022112
+2003,7,241,Ken Dorsey,Miami (FL),22.0,DorsKe00,00-0022039
+2004,1,1,Eli Manning,Mississippi,23.0,MannEl00,00-0022803
+2004,1,4,Philip Rivers,North Carolina St.,22.0,RivePh00,00-0022942
+2004,1,11,Ben Roethlisberger,Miami (OH),22.0,RoetBe00,00-0022924
+2004,1,22,J.P. Losman,Tulane,23.0,LosmJ.00,00-0022912
+2004,3,90,Matt Schaub,Virginia,23.0,SchaMa00,00-0022787
+2004,4,106,Luke McCown,Louisiana Tech,23.0,McCoLu00,00-0022864
+2004,5,148,Craig Krenzel,Ohio St.,23.0,KrenCr00,00-0022818
+2004,6,185,Andy Hall,Delaware,23.0,HallAn00,00-0022761
+2004,6,187,Josh Harris,Bowling Green,,,
+2004,6,193,Jim Sorgi,Wisconsin,23.0,SorgJi00,00-0022744
+2004,6,201,Jeff Smoker,Michigan St.,,,
+2004,7,202,John Navarre,Michigan,23.0,NavaJo00,00-0022827
+2004,7,217,Cody Pickett,Washington,24.0,PickCo00,00-0022731
+2004,7,218,Casey Bramlet,Wyoming,,,
+2004,7,225,Matt Mauck,LSU,25.0,MaucMa00,00-0022768
+2004,7,248,B.J. Symons,Texas Tech,,,
+2004,7,250,Bradlee Van Pelt,Colorado St.,24.0,VanPBr00,00-0022774
+2005,1,1,Alex Smith,Utah,21.0,SmitAl03,00-0023436
+2005,1,24,Aaron Rodgers,California,21.0,RodgAa00,00-0023459
+2005,1,25,Jason Campbell,Auburn,23.0,CampJa00,00-0023460
+2005,3,67,Charlie Frye,Akron,24.0,FryeCh00,00-0023502
+2005,3,69,Andrew Walter,Arizona St.,23.0,WaltAn00,00-0023504
+2005,3,85,David Greene,Georgia,,,
+2005,4,106,Kyle Orton,Purdue,22.0,OrtoKy00,00-0023541
+2005,4,121,Stefan Lefors,Louisville,,,
+2005,5,145,Dan Orlovsky,Connecticut,22.0,OrloDa00,00-0023578
+2005,5,152,Adrian McPherson,Florida St.,,,
+2005,6,213,Derek Anderson,Oregon St.,22.0,AndeDe00,00-0023645
+2005,7,229,James Kilian,Tulsa,,,
+2005,7,230,Matt Cassel,USC,23.0,CassMa00,00-0023662
+2005,7,250,Ryan Fitzpatrick,Harvard,22.0,FitzRy00,00-0023682
+2006,1,3,Vince Young,Texas,23.0,YounVi00,00-0024218
+2006,1,10,Matt Leinart,USC,23.0,LeinMa00,00-0024225
+2006,1,11,Jay Cutler,Vanderbilt,23.0,CutlJa00,00-0024226
+2006,2,49,Kellen Clemens,Oregon,23.0,ClemKe00,00-0024264
+2006,2,64,Tarvaris Jackson,Alabama St.,23.0,JackTa00,00-0024279
+2006,3,81,Charlie Whitehurst,Clemson,24.0,WhitCh02,00-0024296
+2006,3,85,Brodie Croyle,Alabama,23.0,CroyBr00,00-0024300
+2006,4,103,Brad Smith,Missouri,22.0,SmitBr01,00-0024318
+2006,5,148,Ingle Martin,Furman,24.0,MartIn00,00-0024362
+2006,5,164,Omar Jacobs,Bowling Green,,,
+2006,6,193,Reggie McNeal,Texas A&M,22.0,McNeRe00,00-0024407
+2006,6,194,Bruce Gradkowski,Toledo,23.0,GradBr00,00-0024408
+2006,7,223,D.J. Shockley,Georgia,,,
+2007,1,1,JaMarcus Russell,LSU,22.0,RussJa00,00-0025388
+2007,1,22,Brady Quinn,Notre Dame,22.0,QuinBr00,00-0025409
+2007,2,36,Kevin Kolb,Houston,23.0,KolbKe00,00-0025423
+2007,2,40,John Beck,BYU,26.0,BeckJo00,00-0025427
+2007,2,43,Drew Stanton,Michigan St.,23.0,StanDr00,00-0025430
+2007,3,92,Trent Edwards,Stanford,23.0,EdwaTr01,00-0025479
+2007,4,103,Isaiah Stanback,Washington,23.0,StanIs00,00-0025490
+2007,5,151,Jeff Rowe,Nevada,23.0,RoweJe00,00-0025538
+2007,5,174,Troy Smith,Ohio St.,23.0,SmitTr02,00-0025561
+2007,6,205,Jordan Palmer,Texas-El Paso,23.0,PalmJo20,00-0025592
+2007,7,217,Tyler Thigpen,Coastal Carolina,23.0,ThigTy00,00-0025604
+2008,1,3,Matt Ryan,Boston Col.,23.0,RyanMa00,00-0026143
+2008,1,18,Joe Flacco,Delaware,23.0,FlacJo00,00-0026158
+2008,2,56,Brian Brohm,Louisville,22.0,BrohBr00,00-0026196
+2008,2,57,Chad Henne,Michigan,23.0,HennCh01,00-0026197
+2008,3,94,Kevin O'Connell,San Diego St.,23.0,OConKe00,00-0026234
+2008,5,137,John David Booty,USC,,,
+2008,5,156,Dennis Dixon,Oregon,23.0,DixoDe00,00-0026296
+2008,5,160,Josh Johnson,San Diego,22.0,JohnJo05,00-0026300
+2008,5,162,Erik Ainge,Tennessee,22.0,AingEr00,00-0026302
+2008,6,186,Colt Brennan,Hawaii,25.0,BrenCo00,00-0026326
+2008,6,198,Andre Woodson,Kentucky,24.0,WoodAn00,00-0026338
+2008,7,209,Matt Flynn,LSU,23.0,FlynMa00,00-0026349
+2008,7,223,Alex Brink,Washington St.,23.0,BrinAl00,00-0026363
+2009,1,1,Matthew Stafford,Georgia,21.0,StafMa00,00-0026498
+2009,1,5,Mark Sanchez,USC,22.0,SancMa00,00-0026898
+2009,1,17,Josh Freeman,Kansas St.,21.0,FreeJo00,00-0026993
+2009,2,44,Pat White,West Virginia,23.0,WhitPa01,00-0027020
+2009,4,101,Stephen McGee,Texas A&M,23.0,McGeSt00,00-0027071
+2009,5,151,Rhett Bomar,Sam Houston St.,24.0,BomaRh00,00-0026916
+2009,5,171,Nate Davis,Ball St.,22.0,DaviNa00,00-0027118
+2009,6,174,Tom Brandstater,Fresno St.,24.0,BranTo00,00-0027121
+2009,6,178,Mike Teel,Rutgers,23.0,TeelMi00,00-0026927
+2009,6,196,Keith Null,West Texas A&M,23.0,NullKe00,00-0027131
+2009,6,201,Curtis Painter,Purdue,24.0,PainCu00,00-0027134
+2010,1,1,Sam Bradford,Oklahoma,22.0,BradSa00,00-0027854
+2010,1,25,Tim Tebow,Florida,23.0,TeboTi00,00-0027876
+2010,2,48,Jimmy Clausen,Notre Dame,22.0,ClauJi00,00-0027659
+2010,3,85,Colt McCoy,Texas,24.0,McCoCo00,00-0027688
+2010,4,122,Mike Kafka,Northwestern,23.0,KafkMi00,00-0027722
+2010,5,155,John Skelton,Fordham,22.0,SkelJo00,00-0027754
+2010,5,168,Jonathan Crompton,Tennessee,23.0,CromJo00,00-0027767
+2010,6,176,Rusty Smith,Florida Atlantic,23.0,SmitRu01,00-0027775
+2010,6,181,Dan LeFevour,Central Michigan,23.0,LeFeDa00,00-0027605
+2010,6,204,Tony Pike,Cincinnati,24.0,PikeTo00,00-0027801
+2010,7,209,Levi Brown,Troy,23.0,BrowLe00,00-0027804
+2010,7,239,Sean Canfield,Oregon St.,24.0,CanfSe00,00-0027830
+2010,7,250,Zac Robinson,Oklahoma St.,23.0,RobiZa00,00-0027841
+2011,1,1,Cam Newton,Auburn,22.0,NewtCa00,00-0027939
+2011,1,8,Jake Locker,Washington,23.0,LockJa00,00-0027946
+2011,1,10,Blaine Gabbert,Missouri,21.0,GabbBl00,00-0027948
+2011,1,12,Christian Ponder,Florida St.,23.0,PondCh00,00-0027950
+2011,2,35,Andy Dalton,TCU,23.0,DaltAn00,00-0027973
+2011,2,36,Colin Kaepernick,Nevada,23.0,KaepCo00,00-0027974
+2011,3,74,Ryan Mallett,Arkansas,23.0,MallRy00,00-0028012
+2011,5,135,Ricky Stanzi,Iowa,24.0,StanRi00,00-0028073
+2011,5,152,T.J. Yates,North Carolina,24.0,YateT.00,00-0028090
+2011,5,160,Nathan Enderle,Idaho,23.0,EndeNa00,00-0028098
+2011,6,180,Tyrod Taylor,Virginia Tech,22.0,TaylTy00,00-0028118
+2011,7,208,Greg McElroy,Alabama,23.0,McElGr00,00-0028146
+2012,1,1,Andrew Luck,Stanford,22.0,LuckAn00,00-0029668
+2012,1,2,Robert Griffin III,Baylor,22.0,GrifRo01,00-0029665
+2012,1,8,Ryan Tannehill,Texas A&M,24.0,TannRy00,00-0029701
+2012,1,22,Brandon Weeden,Oklahoma St.,28.0,WeedBr00,00-0029677
+2012,2,57,Brock Osweiler,Arizona St.,21.0,OsweBr00,00-0029682
+2012,3,75,Russell Wilson,Wisconsin,23.0,WilsRu00,00-0029263
+2012,3,88,Nick Foles,Arizona,23.0,FoleNi00,00-0029567
+2012,4,102,Kirk Cousins,Michigan St.,24.0,CousKi00,00-0029604
+2012,6,185,Ryan Lindley,San Diego St.,23.0,LindRy00,00-0029531
+2012,7,243,B.J. Coleman,Chattanooga,23.0,ColeB.00,00-0029219
+2012,7,253,Chandler Harnish,Northern Illinois,24.0,HarnCh00,00-0029554
+2013,1,16,EJ Manuel,Florida St.,23.0,ManuEJ00,00-0030526
+2013,2,39,Geno Smith,West Virginia,22.0,SmitGe00,00-0030565
+2013,3,73,Mike Glennon,North Carolina St.,23.0,GlenMi00,00-0030520
+2013,4,98,Matt Barkley,USC,22.0,BarkMa00,00-0030533
+2013,4,110,Ryan Nassib,Syracuse,23.0,NassRy00,00-0030586
+2013,4,112,Tyler Wilson,Arkansas,24.0,WilsTy00,00-0030568
+2013,4,115,Landry Jones,Oklahoma,24.0,JoneLa02,00-0030524
+2013,7,221,Brad Sorensen,Southern Utah,25.0,SoreBr00,00-0030292
+2013,7,234,Zac Dysert,Miami (OH),23.0,DyseZa00,00-0030394
+2013,7,237,B.J. Daniels,South Florida,24.0,DaniB.00,00-0030120
+2013,7,249,Sean Renfree,Duke,23.0,RenfSe00,00-0030569
+2014,1,3,Blake Bortles,Central Florida,22.0,BortBl00,00-0031407
+2014,1,22,Johnny Manziel,Texas A&M,21.0,ManzJo00,00-0031409
+2014,1,32,Teddy Bridgewater,Louisville,21.0,BridTe00,00-0031237
+2014,2,36,Derek Carr,Fresno St.,23.0,CarrDe02,00-0031280
+2014,2,62,Jimmy Garoppolo,Eastern Illinois,22.0,GaroJi00,00-0031345
+2014,4,120,Logan Thomas,Virginia Tech,23.0,ThomLo00,00-0031260
+2014,4,135,Tom Savage,Pittsburgh,24.0,SavaTo00,00-0031064
+2014,5,163,Aaron Murray,Georgia,23.0,MurrAa00,00-0031287
+2014,5,164,A.J. McCarron,Alabama,23.0,McCaA.00,00-0031288
+2014,6,178,Zach Mettenberger,LSU,23.0,MettZa00,00-0031266
+2014,6,183,David Fales,San Jose St.,23.0,FaleDa00,00-0031076
+2014,6,194,Keith Wenning,Ball St.,23.0,WennKe00,00-0030998
+2014,6,213,Tajh Boyd,Clemson,23.0,BoydTa00,
+2014,6,214,Garrett Gilbert,SMU,23.0,GilbGa01,00-0031395
+2015,1,1,Jameis Winston,Florida St.,21.0,WinsJa00,00-0031503
+2015,1,2,Marcus Mariota,Oregon,21.0,MariMa01,00-0032268
+2015,3,75,Garrett Grayson,Colorado St.,24.0,GrayGa00,00-0032148
+2015,3,89,Sean Mannion,Oregon St.,23.0,MannSe00,00-0032245
+2015,4,103,Bryce Petty,Baylor,24.0,PettBr01,00-0031568
+2015,5,147,Brett Hundley,UCLA,22.0,HundBr00,00-0031589
+2015,7,250,Trevor Siemian,Northwestern,23.0,SiemTr00,00-0032156
+2016,1,1,Jared Goff,California,21.0,GoffJa00,00-0033106
+2016,1,2,Carson Wentz,North Dakota St.,23.0,WentCa00,00-0032950
+2016,1,26,Paxton Lynch,Memphis,22.0,LyncPa00,00-0033108
+2016,2,51,Christian Hackenberg,Penn St.,21.0,HackCh01,00-0032953
+2016,3,91,Jacoby Brissett,North Carolina St.,23.0,BrisJa00,00-0033119
+2016,3,93,Cody Kessler,USC,23.0,KessCo00,00-0033104
+2016,4,100,Connor Cook,Michigan St.,23.0,CookCo00,00-0032893
+2016,4,135,Dak Prescott,Mississippi St.,23.0,PresDa01,00-0033077
+2016,4,139,Cardale Jones,Ohio St.,23.0,JoneCa01,00-0033098
+2016,5,162,Kevin Hogan,Stanford,23.0,HogaKe00,00-0032784
+2016,6,187,Nate Sudfeld,Indiana,22.0,SudfNa00,00-0032792
+2016,6,191,Jake Rudock,Michigan,23.0,RudoJa00,00-0032431
+2016,6,201,Brandon Allen,Arkansas,24.0,AlleBr00,00-0032434
+2016,6,207,Jeff Driskel,Louisiana Tech,23.0,DrisJe00,00-0032436
+2016,7,223,Brandon Doughty,Western Kentucky,24.0,DougBr00,00-0032446
+2017,1,2,Mitchell Trubisky,North Carolina,23.0,TrubMi00,00-0033869
+2017,1,10,Patrick Mahomes,Texas Tech,21.0,MahoPa00,00-0033873
+2017,1,12,Deshaun Watson,Clemson,21.0,WatsDe00,00-0033537
+2017,2,52,DeShone Kizer,Notre Dame,21.0,KizeDe00,00-0033899
+2017,3,87,Davis Webb,California,22.0,WebbDa00,00-0033550
+2017,3,104,C.J. Beathard,Iowa,23.0,BeatC.00,00-0033936
+2017,4,135,Joshua Dobbs,Tennessee,22.0,DobbJo00,00-0033949
+2017,5,171,Nathan Peterman,Pittsburgh,23.0,PeteNa00,00-0033958
+2017,6,215,Brad Kaaya,Miami (FL),22.0,KaayBr00,00-0033585
+2017,7,253,Chad Kelly,Mississippi,23.0,KellCh00,00-0033597
+2018,1,1,Baker Mayfield,Oklahoma,23.0,MayfBa00,00-0034855
+2018,1,3,Sam Darnold,USC,21.0,DarnSa00,00-0034869
+2018,1,7,Josh Allen,Wyoming,22.0,AlleJo02,00-0034857
+2018,1,10,Josh Rosen,UCLA,21.0,RoseJo01,00-0034343
+2018,1,32,Lamar Jackson,Louisville,21.0,JackLa00,00-0034796
+2018,3,76,Mason Rudolph,Oklahoma St.,23.0,RudoMa00,00-0034771
+2018,4,108,Kyle Lauletta,Richmond,23.0,LaulKy00,00-0034369
+2018,5,171,Mike White,Western Kentucky,23.0,WhitMi01,00-0034401
+2018,6,199,Luke Falk,Washington St.,23.0,FalkLu00,00-0034412
+2018,6,203,Tanner Lee,Nebraska,23.0,LeexTa00,00-0034416
+2018,7,219,Danny Etling,LSU,24.0,EtliDa00,00-0034423
+2018,7,220,Alex McGough,Florida International,22.0,McGoAl00,00-0034732
+2018,7,249,Logan Woodside,Toledo,23.0,WoodLo00,00-0034438
+2019,1,1,Kyler Murray,Oklahoma,22.0,MurrKy00,00-0035228
+2019,1,6,Daniel Jones,Duke,22.0,JoneDa05,00-0035710
+2019,1,15,Dwayne Haskins,Ohio St.,22.0,HaskDw00,00-0035232
+2019,2,42,Drew Lock,Missouri,22.0,LockDr00,00-0035704
+2019,3,100,Will Grier,West Virginia,24.0,GrieWi00,00-0035251
+2019,4,104,Ryan Finley,North Carolina St.,24.0,FinlRy00,00-0035652
+2019,4,133,Jarrett Stidham,Auburn,23.0,StidJa00,00-0035264
+2019,5,166,Easton Stick,North Dakota St.,23.0,SticEa00,00-0035282
+2019,5,167,Clayton Thorson,Northwestern,24.0,ThorCl00,00-0035283
+2019,6,178,Gardner Minshew II,Washington St.,23.0,MinsGa00,00-0035289
+2019,6,197,Trace McSorley,Penn St.,24.0,McSoTr00,00-0035146
+2020,1,1,Joe Burrow,LSU,23.0,BurrJo01,00-0036442
+2020,1,5,Tua Tagovailoa,Alabama,22.0,TagoTu00,00-0036212
+2020,1,6,Justin Herbert,Oregon,22.0,HerbJu00,00-0036355
+2020,1,26,Jordan Love,Utah St.,21.0,LoveJo03,00-0036264
+2020,2,53,Jalen Hurts,Oklahoma,22.0,HurtJa00,00-0036389
+2020,4,122,Jacob Eason,Washington,22.0,EasoJa00,00-0036226
+2020,4,125,James Morgan,Florida International,23.0,MorgJa00,00-0036301
+2020,5,167,Jake Fromm,Georgia,22.0,FromJa00,00-0036197
+2020,6,189,Jake Luton,Oregon St.,24.0,LutoJa00,00-0036312
+2020,7,224,Cole McDonald,Hawaii,22.0,McDoCo00,
+2020,7,231,Ben DiNucci,James Madison,23.0,DiNuBe00,00-0036384
+2020,7,240,Tommy Stevens,Mississippi St.,23.0,StevTo01,00-0036433
+2020,7,244,Nate Stanley,Iowa,23.0,StanNa00,00-0036279
+2021,1,1,Trevor Lawrence,Clemson,21.0,LawrTr00,00-0036971
+2021,1,2,Zach Wilson,BYU,22.0,WilsZa00,00-0037013
+2021,1,3,Trey Lance,North Dakota St.,21.0,LancTr00,00-0037012
+2021,1,11,Justin Fields,Ohio St.,22.0,FielJu00,00-0036945
+2021,1,15,Mac Jones,Alabama,23.0,JoneMa05,00-0036972
+2021,2,64,Kyle Trask,Florida,23.0,TrasKy00,00-0036928
+2021,3,66,Kellen Mond,Texas A&M,22.0,MondKe00,00-0036946
+2021,3,67,Davis Mills,Stanford,22.0,MillDa02,00-0036898
+2021,4,133,Ian Book,Notre Dame,23.0,BookIa00,00-0036929
+2021,6,218,Sam Ehlinger,Texas,22.0,EhliSa00,00-0036879
+2022,1,20,Kenny Pickett,Pittsburgh,24.0,PickKe00,00-0038102
+2022,3,74,Desmond Ridder,Cincinnati,23.0,RiddDe00,00-0038122
+2022,3,86,Malik Willis,Liberty,23.0,WillMa12,00-0038128
+2022,3,94,Matt Corral,Mississippi,23.0,CorrMa00,00-0038132
+2022,4,137,Bailey Zappe,Western Kentucky,23.0,ZappBa00,00-0038108
+2022,5,144,Sam Howell,North Carolina,21.0,HoweSa00,00-0037077
+2022,7,241,Chris Oladokun,South Dakota St.,25.0,OladCh00,00-0037324
+2022,7,247,Skylar Thompson,Kansas St.,25.0,ThomSk00,00-0037327
+2022,7,262,Brock Purdy,Iowa St.,22.0,PurdBr00,00-0037834
+2023,1,1,Bryce Young,Alabama,22.0,YounBr01,00-0039150
+2023,1,2,C.J. Stroud,Ohio St.,21.0,StroCJ00,00-0039163
+2023,1,4,Anthony Richardson,Florida,21.0,RichAn03,00-0039164
+2023,2,33,Will Levis,Kentucky,24.0,LeviWi00,00-0039152
+2023,3,68,Hendon Hooker,Tennessee,25.0,HookHe00,00-0038550
+2023,4,127,Jake Haener,Fresno St.,24.0,HaenJa00,00-0038998
+2023,4,128,Stetson Bennett,Georgia,25.0,BennSt00,00-0039107
+2023,4,135,Aidan O'Connell,Purdue,25.0,OConAi00,00-0038579
+2023,5,139,Clayton Tune,Houston,24.0,TuneCl00,00-0038582
+2023,5,140,Dorian Thompson-Robinson,UCLA,23.0,ThomDo02,00-0038583
+2023,5,149,Sean Clifford,Penn St.,25.0,ClifSe00,00-0038391
+2023,5,164,Jaren Hall,BYU,25.0,HallJa00,00-0038598
+2023,6,188,Tanner McKee,Stanford,23.0,McKeTa01,00-0038400
+2023,7,239,Max Duggan,TCU,22.0,DuggMa00,00-0038637
+2024,1,1,Caleb Williams,USC,22.0,WillCa03,00-0039918
+2024,1,2,Jayden Daniels,LSU,23.0,DaniJa02,00-0039910
+2024,1,3,Drake Maye,North Carolina,22.0,MayeDr00,00-0039851
+2024,1,8,Michael Penix,Washington,24.0,PeniMi00,00-0039917
+2024,1,10,J.J. McCarthy,Michigan,21.0,McCaJJ00,00-0039923
+2024,1,12,Bo Nix,Oregon,24.0,NixxBo00,00-0039732
+2024,5,150,Spencer Rattler,South Carolina,23.0,RattSp00,00-0039376
+2024,5,171,Jordan Travis,Florida St.,24.0,TravJo00,00-0039797
+2024,6,193,Joe Milton,Tennessee,24.0,MiltJo00,00-0039398
+2024,6,218,Devin Leary,Kentucky,24.0,LearDe00,00-0039801
+2024,7,245,Michael Pratt,Tulane,22.0,PratMi00,00-0039238
+2025,1,1,Cam Ward,Miami (FL),23.0,WardCa00,00-0040676
+2025,1,25,Jaxson Dart,Mississippi,22.0,DartJa00,00-0040691
+2025,2,40,Tyler Shough,Louisville,25.0,ShouTy00,00-0040743
+2025,3,92,Jalen Milroe,Alabama,22.0,MilrJa00,00-0040673
+2025,3,94,Dillon Gabriel,Oregon,24.0,GabrDi00,00-0040704
+2025,5,144,Shedeur Sanders,Colorado,23.0,SandSh00,00-0040668
+2025,6,181,Kyle McCord,Syracuse,22.0,McCoKy00,00-0040014
+2025,6,185,Will Howard,Ohio St.,23.0,HowaWi01,00-0040203
+2025,6,189,Riley Leonard,Notre Dame,22.0,LeonRi02,00-0040206
+2025,6,197,Graham Mertz,Florida,24.0,MertGr00,00-0040211
+2025,6,213,Tommy Mellott,Montana St.,,MellTo00,00-0040220
+2025,6,215,Cam Miller,North Dakota St.,24.0,MillCa00,00-0040222
+2025,7,227,Kurtis Rourke,Indiana,24.0,RourKu01,00-0040589
+2025,7,231,Quinn Ewers,Texas,22.0,EwerQu00,00-0040234
+2026,1,1,Fernando Mendoza,Indiana,22.0,MendFe00,MEN516487
+2026,1,13,Ty Simpson,Alabama,23.0,SimpTy00,SIM639376
+2026,3,65,Carson Beck,Miami (FL),24.0,BeckCa01,
+2026,3,76,Drew Allar,Penn St.,22.0,AllaDr00,ALL015451
+2026,4,110,Cade Klubnik,Clemson,22.0,KlubCa00,KLU066027
+2026,5,178,Cole Payton,North Dakota St.,23.0,PaytCo00,PAY546690
+2026,6,182,Taylen Green,Arkansas,23.0,GreeTa00,GRE361852
+2026,7,223,Athan Kaliakmanis,Rutgers,,KaliAt00,KAL252591
+2026,7,234,Behren Morton,Texas Tech,,MortBe00,MOR767384
+2026,7,249,Garrett Nussmeier,LSU,,NussGa00,NUS440041

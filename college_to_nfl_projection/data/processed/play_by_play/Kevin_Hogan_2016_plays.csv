@@ -1,0 +1,295 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400756891101916201,Pass Incompletion,3,8,12,12,-0.4449278047871825,False,Northwestern,Stanford,0,0,1,8,37,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891101899401,Pass Reception,1,10,14,14,-0.2453531896168325,False,Northwestern,Stanford,0,0,1,10,5,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891101884401,Pass Reception,1,10,49,49,0.7515524566234523,False,Northwestern,Stanford,0,0,1,11,55,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891101876901,Pass Reception,2,10,61,61,2.200453220874504,False,Northwestern,Stanford,0,0,1,12,30,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891101858401,Pass Reception,2,11,77,77,0.5567573786944058,False,Northwestern,Stanford,0,0,1,14,15,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891101939901,Pass Reception,2,12,69,69,-0.5042293578827906,False,Northwestern,Stanford,3,0,1,6,0,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891102869901,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Northwestern,Stanford,3,3,2,13,0,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891102878401,Pass Reception,3,7,54,54,2.5620545363254585,False,Northwestern,Stanford,3,3,2,12,15,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891102939901,Pass Reception,1,10,68,68,0.3855228600463665,False,Northwestern,Stanford,3,10,2,6,0,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891102986101,Pass Incompletion,3,5,64,64,-0.5147129574042966,False,Northwestern,Stanford,3,10,2,1,38,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891102977401,Pass Reception,1,10,69,69,0.1043573190685727,False,Northwestern,Stanford,3,10,2,2,25,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891103875802,Pass Incompletion,2,5,37,37,-0.9292260343548175,False,Northwestern,Stanford,3,10,3,12,41,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891103876302,Pass Incompletion,3,5,37,37,-1.0644495812891197,False,Northwestern,Stanford,3,10,3,12,36,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891103919701,Pass Incompletion,2,14,63,63,-0.4835980441297698,False,Northwestern,Stanford,3,10,3,8,2,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891103906401,Pass Reception,1,10,70,70,0.6714265021529684,False,Northwestern,Stanford,3,10,3,9,35,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891103924401,Pass Incompletion,3,14,63,63,-0.23906521094490252,False,Northwestern,Stanford,3,10,3,7,55,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891103974901,Pass Incompletion,3,6,76,76,-0.2368142460140934,False,Northwestern,Stanford,3,10,3,2,50,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104915301,Pass Incompletion,3,5,36,36,-1.0514080750440902,False,Northwestern,Stanford,3,13,4,8,46,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104919201,Pass Incompletion,2,10,26,26,-0.6385710457423314,False,Northwestern,Stanford,3,13,4,8,7,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104919901,Pass Reception,3,10,26,26,0.2028697871862414,False,Northwestern,Stanford,3,13,4,8,0,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104918601,Pass Incompletion,1,10,26,26,-0.4710467974920665,False,Northwestern,Stanford,3,13,4,8,13,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104896901,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Northwestern,Stanford,3,13,4,10,30,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104885401,Pass Incompletion,1,10,62,62,-1.087995077167328,False,Northwestern,Stanford,3,13,4,11,45,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104886901,Pass Reception,2,10,62,62,1.0314656054463285,False,Northwestern,Stanford,3,13,4,11,30,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104915901,Pass Reception,4,5,36,36,2.3811753139493117,False,Northwestern,Stanford,3,13,4,8,40,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104878401,Pass Reception,1,10,75,75,1.124751479041831,False,Northwestern,Stanford,3,13,4,12,15,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104975901,Pass Reception,1,10,57,57,-0.6861929923492786,False,Northwestern,Stanford,6,16,4,2,40,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104978301,Pass Reception,3,10,57,57,0.3672326468171869,False,Northwestern,Stanford,6,16,4,2,16,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104984401,Pass Reception,1,10,34,34,0.2727484828424415,False,Northwestern,Stanford,6,16,4,1,55,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104968901,Pass Reception,2,6,68,68,1.5203304878767716,False,Northwestern,Stanford,6,16,4,3,10,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104966901,Pass Reception,1,10,72,72,-0.1300144731220457,False,Northwestern,Stanford,6,16,4,3,30,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104987901,Pass Reception,1,10,10,10,0.075249150719522,False,Northwestern,Stanford,6,16,4,1,20,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104989401,Pass Incompletion,2,5,5,5,-0.32302193763867,False,Northwestern,Stanford,6,16,4,1,5,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104994201,Pass Interception Return,3,5,5,5,-4.23840037083141,False,Northwestern,Stanford,6,16,4,0,57,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400756891104979001,Pass Reception,4,3,50,50,3.1700331815627676,False,Northwestern,Stanford,6,16,4,2,9,1,Northwestern,2015,Stanford,Kevin Hogan,2016
+400757023101849904,Pass Incompletion,3,14,82,18,-0.0641979154217891,False,Stanford,UCF,0,0,1,15,0,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101904808,Pass Incompletion,3,17,33,67,-0.9284598594271305,False,Stanford,UCF,0,0,1,9,51,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101869905,Pass Reception,1,10,60,40,1.2803865190766075,False,Stanford,UCF,0,0,1,13,0,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101904805,Pass Reception,2,17,33,67,1.4265543989788882,False,Stanford,UCF,0,0,1,9,51,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101904802,Pass Reception,2,12,47,53,2.2129489524766903,False,Stanford,UCF,0,0,1,9,51,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101869903,Pass Incompletion,1,10,73,27,-0.766047035673644,False,Stanford,UCF,0,0,1,13,0,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101939605,Pass Incompletion,3,8,65,35,-0.3653640252162109,False,Stanford,UCF,0,0,1,6,3,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101939604,Pass Incompletion,2,8,65,35,-0.7094238664971115,False,Stanford,UCF,0,0,1,6,3,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102849903,Pass Incompletion,3,1,44,56,-1.1956699663571655,False,Stanford,UCF,0,0,2,15,0,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102876503,Pass Incompletion,3,7,38,62,-1.0529820372453802,False,Stanford,UCF,0,0,2,12,34,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101989201,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Stanford,UCF,0,0,1,1,7,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023101989203,Pass Reception,3,8,63,37,2.5516314288211603,False,Stanford,UCF,0,0,1,1,7,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102849902,Pass Reception,2,7,50,50,0.3648357612345876,False,Stanford,UCF,0,0,2,15,0,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102957601,Passing Touchdown,1,10,53,47,4.095299433573308,True,Stanford,UCF,7,0,2,4,23,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102945702,Pass Incompletion,2,1,55,45,-1.435971808205819,False,Stanford,UCF,0,0,2,5,42,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102978104,Pass Incompletion,2,10,39,61,-1.008878077670078,False,Stanford,UCF,7,0,2,2,18,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102967302,Pass Reception,2,9,66,34,0.265946963322377,False,Stanford,UCF,7,0,2,3,26,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102967303,Pass Reception,3,3,60,40,2.0292862760456885,False,Stanford,UCF,7,0,2,3,26,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102978102,Pass Reception,2,4,45,55,0.429711666642431,False,Stanford,UCF,7,0,2,2,18,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102967304,Pass Reception,1,10,51,49,0.353216982318957,False,Stanford,UCF,7,0,2,3,26,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102978105,Pass Reception,3,10,39,61,-0.1659631310574896,False,Stanford,UCF,7,0,2,2,18,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023102978103,Pass Incompletion,1,10,39,61,-0.814236079442537,False,Stanford,UCF,7,0,2,2,18,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023103875502,Pass Reception,2,7,96,4,0.5093940370581596,False,Stanford,UCF,10,0,3,12,44,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023103875508,Pass Incompletion,3,7,51,49,-0.8111373026616951,False,Stanford,UCF,10,0,3,12,44,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023103875505,Pass Reception,3,5,79,21,2.8223658836989687,False,Stanford,UCF,10,0,3,12,44,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023103947401,Pass Reception,1,10,80,20,3.291465147019915,False,Stanford,UCF,10,0,3,5,25,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023103947406,Pass Reception,2,6,22,78,0.236292474320383,False,Stanford,UCF,10,0,3,5,25,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023103988401,Passing Touchdown,2,6,7,93,2.537345696992022,True,Stanford,UCF,17,0,3,1,15,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023104909301,Passing Touchdown,3,20,93,7,7.382808820681768,True,Stanford,UCF,24,0,4,9,6,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757023104939906,Pass Reception,4,4,40,60,2.7425501169888555,False,Stanford,UCF,24,0,4,6,0,2,UCF,2015,Stanford,Kevin Hogan,2016
+400757026101918801,Pass Incompletion,3,10,54,54,-0.5798306702788407,False,USC,Stanford,0,7,1,8,11,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101895401,Pass Reception,1,10,69,69,0.6816920045798367,False,USC,Stanford,0,7,1,10,45,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101898901,Pass Reception,2,3,62,62,0.740701462850005,False,USC,Stanford,0,7,1,10,10,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101879901,Pass Reception,1,10,82,82,1.0529514774102369,False,USC,Stanford,0,7,1,12,0,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101974401,Pass Incompletion,1,10,16,16,-0.3301132067544156,False,USC,Stanford,0,7,1,2,55,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101966901,Pass Reception,1,10,37,37,0.4826859101843688,False,USC,Stanford,0,7,1,3,30,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101965401,Pass Reception,3,3,48,48,1.8160104520339733,False,USC,Stanford,0,7,1,3,45,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026101975001,Passing Touchdown,2,10,16,16,2.89883592804679,True,USC,Stanford,7,7,1,2,49,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102868401,Pass Reception,2,19,33,33,0.7443912257859022,False,USC,Stanford,7,14,2,13,15,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102874902,Pass Incompletion,3,10,24,24,-0.8529890865505045,False,USC,Stanford,7,14,2,12,50,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102849901,Pass Reception,1,10,65,65,2.5612790620843597,False,USC,Stanford,7,14,2,15,0,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102955401,Pass Reception,2,5,25,25,1.798546836623613,False,USC,Stanford,10,21,2,4,45,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102927901,Pass Reception,2,2,53,53,0.5895279933397859,False,USC,Stanford,10,21,2,7,20,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102999101,Pass Incompletion,1,10,17,17,-0.340019558909725,False,USC,Stanford,17,21,2,0,8,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102997502,Pass Incompletion,2,8,49,49,-1.100103954902016,False,USC,Stanford,17,21,2,0,24,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102999601,Passing Touchdown,2,10,17,17,2.919922661694139,True,USC,Stanford,24,21,2,0,3,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102989401,Pass Reception,2,7,75,75,2.6081509355921426,False,USC,Stanford,17,21,2,1,5,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026102998901,Pass Reception,1,10,39,39,0.560535452147137,False,USC,Stanford,17,21,2,0,10,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026103926401,Pass Incompletion,1,10,54,54,-1.1590089706435955,False,USC,Stanford,24,28,3,7,35,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026103915901,Pass Reception,3,3,70,70,1.228514298253378,False,USC,Stanford,24,28,3,8,40,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026103977901,Pass Reception,2,15,51,51,1.1902245292925269,False,USC,Stanford,31,28,3,2,20,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026103979901,Pass Reception,3,5,41,41,1.653450070112802,False,USC,Stanford,31,28,3,2,0,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026104876901,Pass Reception,3,9,16,16,2.282847064852339,False,USC,Stanford,31,28,4,12,30,3,USC,2015,Stanford,Kevin Hogan,2016
+400757026104949901,Pass Reception,3,7,54,54,3.002348110058524,False,USC,Stanford,38,31,4,5,0,3,USC,2015,Stanford,Kevin Hogan,2016
+400757035101885401,Pass Reception,3,4,18,18,0.912016462048536,False,Oregon State,Stanford,0,0,1,11,45,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035101925401,Pass Reception,1,10,55,55,-2.111527409982788,False,Oregon State,Stanford,7,0,1,7,45,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035101935101,Pass Interception Return,3,9,54,54,-0.8138202533060728,False,Oregon State,Stanford,7,0,1,6,48,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035101926901,Pass Reception,2,15,60,60,0.2019609006052257,False,Oregon State,Stanford,7,0,1,7,30,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035101987901,Passing Touchdown,1,10,42,42,3.294935471572124,True,Oregon State,Stanford,14,7,1,1,20,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035102898401,Pass Incompletion,3,8,48,48,-0.8552184337457032,False,Oregon State,Stanford,14,14,2,10,15,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035102889801,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Oregon State,Stanford,14,14,2,11,1,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035102886401,Pass Reception,2,7,58,58,1.442585560473681,False,Oregon State,Stanford,14,14,2,11,35,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035102955401,Pass Reception,1,10,43,43,1.4685892473719802,False,Oregon State,Stanford,14,14,2,4,45,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035103874201,Pass Incompletion,3,11,11,11,-0.485959022955045,False,Oregon State,Stanford,21,17,3,12,57,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035103909401,Pass Reception,3,1,72,72,0.9222728093062331,False,Oregon State,Stanford,21,17,3,9,5,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035103935701,Passing Touchdown,2,4,49,49,3.895424613994635,True,Oregon State,Stanford,28,17,3,6,42,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035103917901,Pass Reception,2,6,64,64,1.3915473289666789,False,Oregon State,Stanford,21,17,3,8,20,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757035104899901,Pass Incompletion,3,8,62,62,-0.4362142328462131,False,Oregon State,Stanford,42,24,4,10,0,4,Oregon State,2015,Stanford,Kevin Hogan,2016
+400757041101878501,Pass Incompletion,1,10,27,73,-0.490975886965904,False,Stanford,Arizona,0,0,1,12,14,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101856901,Pass Reception,1,10,52,48,0.881884677547804,False,Stanford,Arizona,0,0,1,14,30,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101888101,Pass Reception,3,10,27,73,0.2111257084344035,False,Stanford,Arizona,0,0,1,11,18,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101935501,Pass Reception,2,10,19,81,-0.446734032487145,False,Stanford,Arizona,3,0,1,6,44,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101924401,Pass Reception,1,10,38,62,0.490145019947665,False,Stanford,Arizona,3,0,1,7,55,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101975401,Pass Reception,3,5,58,42,1.9587013557219155,False,Stanford,Arizona,6,0,1,2,45,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101985201,Pass Reception,1,10,41,59,0.8162818022500514,False,Stanford,Arizona,6,0,1,1,47,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041101968601,Pass Reception,2,12,65,35,0.3919866748005117,False,Stanford,Arizona,6,0,1,3,13,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102945501,Pass Reception,3,4,53,47,2.40723096209679,False,Stanford,Arizona,13,3,2,5,44,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102934801,Pass Incompletion,1,10,59,41,-1.1387859939569847,False,Stanford,Arizona,13,3,2,6,51,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102946801,Pass Reception,1,10,38,62,-0.080462810572756,False,Stanford,Arizona,13,3,2,5,31,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102988001,Passing Touchdown,1,10,16,84,2.5687227212923744,True,Stanford,Arizona,27,3,2,1,19,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102986101,Pass Reception,1,10,58,42,1.992980490746941,False,Stanford,Arizona,20,3,2,1,38,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102978401,Pass Reception,1,10,73,27,1.2988785897355477,False,Stanford,Arizona,20,3,2,2,15,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041102985901,Pass Reception,2,1,64,36,0.0721336324470735,False,Stanford,Arizona,20,3,2,1,40,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041103917701,Pass Reception,2,8,8,92,0.222772725553515,False,Stanford,Arizona,27,10,3,8,22,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041103888801,Pass Reception,2,8,27,73,0.0607987160504777,False,Stanford,Arizona,27,10,3,11,11,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041103956001,Passing Touchdown,1,10,18,82,2.591792709070591,True,Stanford,Arizona,41,10,3,4,39,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041103938401,Pass Reception,2,1,68,32,1.169549510503163,False,Stanford,Arizona,34,10,3,6,15,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041104928301,Pass Reception,4,4,31,69,1.9004720429850948,False,Stanford,Arizona,48,17,4,7,16,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041104897401,Pass Reception,1,10,47,53,0.773497584431148,False,Stanford,Arizona,48,17,4,10,25,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041104925701,Pass Reception,3,16,43,57,1.520879558440611,False,Stanford,Arizona,48,17,4,7,42,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757041104959601,Passing Touchdown,3,6,6,94,2.823761850174648,True,Stanford,Arizona,55,17,4,4,3,5,Arizona,2015,Stanford,Kevin Hogan,2016
+400757050101858601,Pass Reception,1,10,50,50,0.590106702773282,False,Stanford,UCLA,0,0,1,14,13,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050101866301,Pass Incompletion,2,3,43,57,-1.1332316603164525,False,Stanford,UCLA,0,0,1,13,36,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050101929501,Passing Touchdown,1,4,4,96,1.688190518713975,True,Stanford,UCLA,14,3,1,7,4,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050102858201,Passing Touchdown,2,1,9,91,1.972335500655708,True,Stanford,UCLA,21,10,2,14,17,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050101966301,Pass Incompletion,2,13,65,35,-0.4677919062330247,False,Stanford,UCLA,14,10,1,3,36,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050101969201,Pass Reception,3,13,65,35,3.2335694247396765,False,Stanford,UCLA,14,10,1,3,7,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050101986301,Pass Reception,3,12,51,49,3.46247444566534,False,Stanford,UCLA,14,10,1,1,36,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050102888201,Pass Incompletion,3,4,60,40,-0.687014751346763,False,Stanford,UCLA,21,10,2,11,17,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050102914101,Pass Reception,1,10,42,58,0.7466522963930425,False,Stanford,UCLA,21,10,2,8,58,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050102955101,Pass Reception,2,9,58,42,-0.150777201972641,False,Stanford,UCLA,28,10,2,4,48,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050103869401,Pass Incompletion,2,8,56,44,-0.9833047280384468,False,Stanford,UCLA,35,17,3,13,5,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050103875101,Passing Touchdown,1,10,41,59,3.2405196258965194,True,Stanford,UCLA,42,17,3,12,48,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050103916201,Pass Incompletion,2,7,67,33,-0.7077961708131388,False,Stanford,UCLA,42,17,3,8,37,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050103917401,Pass Interception Return,3,7,67,33,-0.2430651561521442,False,Stanford,UCLA,42,17,3,8,25,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050104875001,Pass Incompletion,3,6,60,40,-0.5793220541179895,False,Stanford,UCLA,56,20,4,12,49,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757050104949501,Pass Incompletion,3,8,57,43,-0.5753756750205063,False,Stanford,UCLA,56,28,4,5,4,7,UCLA,2015,Stanford,Kevin Hogan,2016
+400757060101879901,Passing Touchdown,2,1,21,79,2.126327718802328,True,Stanford,Washington,7,0,1,12,0,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060101916201,Pass Incompletion,3,7,77,23,-0.19834493688263335,False,Stanford,Washington,7,0,1,8,37,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060101978901,Pass Incompletion,1,10,48,52,-1.0742999147475647,False,Stanford,Washington,7,0,1,2,10,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060101974901,Pass Reception,2,19,87,13,2.253350086812971,False,Stanford,Washington,7,0,1,2,50,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060101979601,Pass Reception,2,10,48,52,1.7497556560137255,False,Stanford,Washington,7,0,1,2,3,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102884001,Pass Reception,1,10,83,17,1.015871866909798,False,Stanford,Washington,14,0,2,11,59,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102996201,Pass Incompletion,2,8,8,92,-0.26931522945819,False,Stanford,Washington,14,0,2,0,37,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102994101,Pass Reception,2,4,35,65,0.2680157468424475,False,Stanford,Washington,14,0,2,0,58,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102995601,Pass Incompletion,1,8,8,92,-0.357171386033373,False,Stanford,Washington,14,0,2,0,43,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102995001,Pass Reception,1,10,25,75,0.3804847935663655,False,Stanford,Washington,14,0,2,0,49,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102968101,Pass Reception,2,10,77,23,0.28760399331917963,False,Stanford,Washington,14,0,2,3,18,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060102985901,Pass Reception,2,4,55,45,1.211892964254643,False,Stanford,Washington,14,0,2,1,40,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103896101,Pass Incompletion,2,10,64,36,-0.6310378338259923,False,Stanford,Washington,17,7,3,10,38,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103897301,Pass Reception,3,10,64,36,0.5731510460639866,False,Stanford,Washington,17,7,3,10,26,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103895401,Pass Incompletion,1,10,64,36,-1.041155320344064,False,Stanford,Washington,17,7,3,10,45,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103907801,Passing Touchdown,1,10,50,50,3.841411932121373,True,Stanford,Washington,24,7,3,9,21,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103955201,Pass Reception,2,7,77,23,1.2858981219895949,False,Stanford,Washington,24,7,3,4,47,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103974901,Pass Reception,3,2,58,42,2.6325150239192485,False,Stanford,Washington,24,7,3,2,50,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103978601,Pass Reception,1,10,36,64,0.577261746429441,False,Stanford,Washington,24,7,3,2,13,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060103987501,Pass Reception,1,10,25,75,0.5033297319388464,False,Stanford,Washington,24,7,3,1,24,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060104966001,Pass Interception Return,3,15,24,76,-2.8449645204996727,False,Stanford,Washington,31,14,4,3,39,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060104944201,Pass Reception,3,8,35,65,1.732968477210152,False,Stanford,Washington,31,14,4,5,57,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060104895401,Pass Reception,2,19,86,14,2.0535240436690847,False,Stanford,Washington,31,14,4,10,45,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757060104916501,Pass Reception,1,10,52,48,0.9566456572336878,False,Stanford,Washington,31,14,4,8,34,8,Washington,2015,Stanford,Kevin Hogan,2016
+400757066101857001,Pass Incompletion,1,10,45,45,-0.997770018980635,False,Washington State,Stanford,0,0,1,14,29,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066101865401,Pass Incompletion,3,11,46,46,-0.7881273341392365,False,Washington State,Stanford,0,0,1,13,45,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066101905801,Pass Reception,3,19,21,21,0.3863508467015429,False,Washington State,Stanford,0,0,1,9,41,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066101869501,Pass Reception,1,10,48,48,0.844287666207009,False,Washington State,Stanford,0,0,1,13,4,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066101937001,Pass Reception,1,10,60,60,0.994570052506427,False,Washington State,Stanford,3,0,1,6,29,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066101966301,Pass Interception Return,3,7,77,77,0.058507267789034145,False,Washington State,Stanford,3,0,1,3,36,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066101999901,Pass Reception,1,20,65,65,-0.5121357707771779,False,Washington State,Stanford,3,3,1,0,0,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066102924402,Pass Incompletion,2,7,56,56,-1.0372452328048558,False,Washington State,Stanford,3,6,2,7,55,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066102934101,Pass Incompletion,2,11,47,47,-1.0351525342717718,False,Washington State,Stanford,3,6,2,6,58,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066102967901,Pass Reception,1,10,66,66,-0.1564365612469736,False,Washington State,Stanford,3,9,2,3,20,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066102988301,Pass Reception,3,20,62,62,0.12106239993075096,False,Washington State,Stanford,3,9,2,1,16,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066102969901,Pass Reception,2,6,62,62,1.4851516622661567,False,Washington State,Stanford,3,9,2,3,0,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066103896401,Pass Incompletion,2,6,41,41,-1.0425618644302688,False,Washington State,Stanford,3,15,3,10,35,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066103887301,Pass Reception,1,10,59,59,1.1824982647313593,False,Washington State,Stanford,3,15,3,11,26,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066103936201,Pass Reception,2,12,57,57,0.5012228660001748,False,Washington State,Stanford,10,22,3,6,37,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066103956801,Pass Incompletion,1,10,20,20,-0.374805786232315,False,Washington State,Stanford,10,22,3,4,31,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066103965601,Pass Incompletion,3,4,14,14,-0.4483500992645144,False,Washington State,Stanford,10,22,3,3,43,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066103949901,Pass Reception,2,5,29,29,0.238118916827881,False,Washington State,Stanford,10,22,3,5,0,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757066104948301,Pass Incompletion,3,6,61,61,-0.5500549337832448,False,Washington State,Stanford,27,28,4,5,16,9,Washington State,2015,Stanford,Kevin Hogan,2016
+400757070101888001,Pass Reception,3,8,47,47,0.533394193964007,False,Colorado,Stanford,0,0,1,11,19,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070101869301,Pass Incompletion,1,10,69,69,-0.8947814664467213,False,Colorado,Stanford,0,0,1,13,6,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070101916401,Pass Reception,1,10,25,25,0.1611551472202105,False,Colorado,Stanford,0,0,1,8,35,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070101885501,Pass Incompletion,2,8,47,47,-1.1052522680007666,False,Colorado,Stanford,0,0,1,11,44,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070101874401,Pass Reception,2,10,69,69,2.7397419199245228,False,Colorado,Stanford,0,0,1,12,55,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070101909501,Pass Reception,3,7,34,34,1.4303550169461978,False,Colorado,Stanford,0,0,1,9,4,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070101948001,Pass Reception,2,3,46,46,-0.6802816757935038,False,Colorado,Stanford,7,7,1,5,19,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102884601,Passing Touchdown,3,18,43,43,6.198261512942521,True,Colorado,Stanford,14,7,2,11,53,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102947801,Pass Reception,1,10,26,26,-0.8480844646870977,False,Colorado,Stanford,14,7,2,5,21,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102949001,Pass Reception,2,13,29,29,0.4248774324617913,False,Colorado,Stanford,14,7,2,5,9,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102976801,Pass Reception,3,5,9,9,-0.107736704107591,False,Colorado,Stanford,14,7,2,2,31,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102984801,Passing Touchdown,4,2,6,6,2.929614624299452,True,Colorado,Stanford,21,7,2,1,51,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102934201,Pass Reception,1,10,37,37,0.0836657996975912,False,Colorado,Stanford,14,7,2,6,57,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102989901,Pass Reception,1,10,57,57,1.2806291789588773,False,Colorado,Stanford,21,7,2,1,0,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102995601,Pass Incompletion,2,1,48,48,-1.3356968760276473,False,Colorado,Stanford,21,7,2,0,43,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070102997601,Pass Reception,1,10,26,26,1.7819808472877374,False,Colorado,Stanford,21,7,2,0,23,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070103915101,Pass Reception,2,8,55,55,1.538307448594175,False,Colorado,Stanford,35,10,3,8,48,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070103966001,Pass Reception,2,10,69,69,-0.21237370417582113,False,Colorado,Stanford,35,10,3,3,39,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070103958001,Pass Reception,2,1,74,74,-0.0951936587178092,False,Colorado,Stanford,35,10,3,4,19,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070103965001,Pass Incompletion,1,10,69,69,-0.8947814664467213,False,Colorado,Stanford,35,10,3,3,49,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070103996901,Pass Reception,1,10,41,41,0.4598399849082394,False,Colorado,Stanford,35,10,3,0,30,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070104854701,Passing Touchdown,1,10,28,28,2.764014474138431,True,Colorado,Stanford,42,10,4,14,52,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070104878701,Pass Incompletion,2,12,48,48,-0.992636571533903,False,Colorado,Stanford,42,10,4,12,12,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070104919701,Pass Incompletion,3,10,63,63,-0.3431180129488407,False,Colorado,Stanford,42,10,4,8,2,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757070104975201,Pass Incompletion,3,10,78,78,-0.13124731563151393,False,Colorado,Stanford,42,10,4,2,47,10,Colorado,2015,Stanford,Kevin Hogan,2016
+400757077101876001,Pass Reception,1,10,50,50,0.904685771207703,False,Stanford,Oregon,0,0,1,12,39,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101864901,Pass Reception,2,5,56,44,-0.4426345986280449,False,Stanford,Oregon,0,0,1,13,50,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101897401,Pass Reception,3,4,28,72,0.7152471394659781,False,Stanford,Oregon,0,0,1,10,25,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101906701,Pass Incompletion,2,3,16,84,-0.491765461251534,False,Stanford,Oregon,0,0,1,9,32,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101945401,Pass Reception,2,7,72,28,-0.7000260823603801,False,Stanford,Oregon,3,7,1,5,45,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101985001,Pass Reception,2,8,27,73,0.0607987160504777,False,Stanford,Oregon,3,7,1,1,49,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101974301,Pass Reception,3,7,39,61,1.7911431430568885,False,Stanford,Oregon,3,7,1,2,56,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077101956901,Pass Reception,1,10,59,41,1.3640768782263033,False,Stanford,Oregon,3,7,1,4,30,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102877901,Pass Interception Return,2,11,34,66,-3.3005198307963326,False,Stanford,Oregon,10,14,2,12,20,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102865901,Pass Reception,1,10,54,46,1.28182276418322,False,Stanford,Oregon,10,14,2,13,40,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102928101,Pass Reception,2,7,20,80,0.064432720053743,False,Stanford,Oregon,10,14,2,7,18,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102917901,Pass Reception,3,10,58,42,3.8681717826034454,False,Stanford,Oregon,10,14,2,8,20,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102939101,Pass Incompletion,1,10,11,89,-0.291297448934314,False,Stanford,Oregon,10,14,2,6,8,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102979701,Pass Incompletion,3,6,6,94,-0.3038593850582816,False,Stanford,Oregon,17,14,2,2,2,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102997801,Pass Incompletion,1,10,56,44,-1.1612466882658818,False,Stanford,Oregon,20,21,2,0,21,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102999801,Pass Reception,2,3,38,62,0.0900076958203791,False,Stanford,Oregon,20,21,2,0,1,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102999201,Pass Reception,1,10,45,55,0.5149869636577264,False,Stanford,Oregon,20,21,2,0,7,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077102998601,Pass Reception,2,10,56,44,2.05491538457812,False,Stanford,Oregon,20,21,2,0,13,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077103897801,Pass Reception,2,10,50,50,0.0744071295691082,False,Stanford,Oregon,23,28,3,10,21,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077103887401,Pass Reception,1,10,62,38,1.1115917085581175,False,Stanford,Oregon,23,28,3,11,25,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077103894501,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Stanford,Oregon,23,28,3,10,54,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077103917901,Pass Reception,2,11,35,65,0.544902596030024,False,Stanford,Oregon,23,28,3,8,20,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077103958701,Pass Reception,2,18,72,28,0.2476871553868918,False,Stanford,Oregon,23,28,3,4,12,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104888101,Passing Touchdown,3,3,3,97,2.624562399778991,True,Stanford,Oregon,30,35,4,11,18,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104868001,Pass Reception,2,8,21,79,1.202292996603287,False,Stanford,Oregon,23,35,4,13,19,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077103997801,Pass Reception,1,10,63,37,1.1271435896848112,False,Stanford,Oregon,23,35,3,0,21,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104857501,Pass Reception,1,10,37,63,0.3874309534055147,False,Stanford,Oregon,23,35,4,14,24,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104917001,Pass Reception,3,2,59,41,1.542853049426151,False,Stanford,Oregon,30,35,4,8,29,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104956801,Pass Reception,1,10,58,42,1.321183586142796,False,Stanford,Oregon,30,38,4,4,31,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104949301,Pass Reception,1,10,75,25,1.516051907682006,False,Stanford,Oregon,30,38,4,5,6,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104959901,Pass Reception,1,10,41,59,0.5765419478252909,False,Stanford,Oregon,30,38,4,4,0,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104998901,Passing Touchdown,1,4,4,96,1.688190518713975,True,Stanford,Oregon,36,38,4,0,10,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104998001,Pass Incompletion,2,10,24,76,-0.5789972760549578,False,Stanford,Oregon,30,38,4,0,19,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104997102,Pass Incompletion,1,10,24,76,-0.4346450377339437,False,Stanford,Oregon,30,38,4,0,28,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104995601,Pass Incompletion,1,10,35,65,-0.6918622905019662,False,Stanford,Oregon,30,38,4,0,43,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104996301,Pass Incompletion,2,10,35,65,-0.9144980156718301,False,Stanford,Oregon,30,38,4,0,36,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104989601,Pass Incompletion,1,10,49,51,-1.0955888671820908,False,Stanford,Oregon,30,38,4,1,3,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104994301,Pass Reception,2,10,49,51,1.885330635042383,False,Stanford,Oregon,30,38,4,0,56,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757077104996901,Pass Reception,3,10,35,65,1.8975111413437773,False,Stanford,Oregon,30,38,4,0,30,11,Oregon,2015,Stanford,Kevin Hogan,2016
+400757084101874501,Pass Incompletion,2,10,58,42,-0.8208195606150266,False,Stanford,California,0,0,1,12,54,12,California,2015,Stanford,Kevin Hogan,2016
+400757084101855501,Pass Reception,1,10,70,30,1.352349268401042,False,Stanford,California,0,0,1,14,44,12,California,2015,Stanford,Kevin Hogan,2016
+400757084101906201,Pass Reception,2,7,49,51,0.0968283071721387,False,Stanford,California,0,0,1,9,37,12,California,2015,Stanford,Kevin Hogan,2016
+400757084102876701,Pass Reception,3,6,54,46,0.067008996457151,False,Stanford,California,7,3,2,12,32,12,California,2015,Stanford,Kevin Hogan,2016
+400757084102876101,Pass Incompletion,2,6,54,46,-1.1287444411219418,False,Stanford,California,7,3,2,12,38,12,California,2015,Stanford,Kevin Hogan,2016
+400757084102889501,Pass Incompletion,2,3,41,59,-1.0745602988043075,False,Stanford,California,7,3,2,11,4,12,California,2015,Stanford,Kevin Hogan,2016
+400757084102858901,Pass Reception,2,8,67,33,0.5231905206752101,False,Stanford,California,7,3,2,14,10,12,California,2015,Stanford,Kevin Hogan,2016
+400757084102958701,Passing Touchdown,2,2,49,51,3.4886500833903398,True,Stanford,California,14,3,2,4,12,12,California,2015,Stanford,Kevin Hogan,2016
+400757084103894601,Pass Reception,2,11,67,33,0.8337922537972436,False,Stanford,California,21,9,3,10,53,12,California,2015,Stanford,Kevin Hogan,2016
+400757084103987301,Pass Incompletion,1,10,28,72,-0.512081873784803,False,Stanford,California,21,16,3,1,26,12,California,2015,Stanford,Kevin Hogan,2016
+400757084103959301,Pass Incompletion,2,2,53,47,-1.356977712417006,False,Stanford,California,21,16,3,4,6,12,California,2015,Stanford,Kevin Hogan,2016
+400757084104854401,Pass Reception,2,8,13,87,1.799672790930014,False,Stanford,California,21,16,4,14,55,12,California,2015,Stanford,Kevin Hogan,2016
+400757090101907001,Passing Touchdown,2,1,1,99,1.900352237473006,True,Stanford,Notre Dame,7,0,1,9,29,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101889601,Pass Reception,3,3,39,61,1.362154067130957,False,Stanford,Notre Dame,0,0,1,11,3,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101854401,Pass Reception,1,10,75,25,1.252308359788624,False,Stanford,Notre Dame,0,0,1,14,55,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101868301,Pass Incompletion,2,5,51,49,-1.198545196849805,False,Stanford,Notre Dame,0,0,1,13,16,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101868901,Pass Reception,3,5,51,49,1.9166686097030752,False,Stanford,Notre Dame,0,0,1,13,10,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101917101,Pass Incompletion,1,10,68,32,-0.9262377870973815,False,Stanford,Notre Dame,7,7,1,8,28,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101984501,Passing Touchdown,3,6,6,94,2.823761850174648,True,Stanford,Notre Dame,14,7,1,1,54,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090101925201,Pass Reception,3,9,67,33,3.8661033004156398,False,Stanford,Notre Dame,7,7,1,7,47,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090102887101,Pass Reception,2,10,72,28,1.8969329556732326,False,Stanford,Notre Dame,14,10,2,11,28,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090102907201,Pass Incompletion,3,4,54,46,-0.8775745478085017,False,Stanford,Notre Dame,14,10,2,9,27,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090102968901,Pass Reception,3,18,87,13,0.22984809463440836,False,Stanford,Notre Dame,14,13,2,3,10,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090102979901,Pass Reception,1,10,64,36,1.1391383190649,False,Stanford,Notre Dame,14,20,2,2,0,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090102986901,Pass Reception,1,10,52,48,1.4597711135313496,False,Stanford,Notre Dame,14,20,2,1,30,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090102995101,Passing Touchdown,1,10,14,86,2.5482831751790815,True,Stanford,Notre Dame,21,20,2,0,48,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090103909801,Pass Reception,3,7,52,48,3.295559766697069,False,Stanford,Notre Dame,21,23,3,9,1,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090103966401,Pass Reception,1,10,61,39,1.0249684172285607,False,Stanford,Notre Dame,28,29,3,3,35,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090104854401,Passing Touchdown,2,10,10,90,2.7992199015013846,True,Stanford,Notre Dame,35,29,4,14,55,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090104919601,Pass Reception,2,10,70,30,0.20738507933330744,False,Stanford,Notre Dame,35,29,4,8,3,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090104998401,Pass Incompletion,1,10,57,43,-1.15714755134967,False,Stanford,Notre Dame,35,36,4,0,15,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400757090104998901,Pass Reception,2,10,57,43,2.8082211159382258,False,Stanford,Notre Dame,35,36,4,0,10,13,Notre Dame,2015,Stanford,Kevin Hogan,2016
+400852677101908601,Pass Incompletion,3,13,13,87,-0.6039382602387847,False,Stanford,USC,0,0,1,9,13,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677101866401,Pass Incompletion,2,11,51,49,-0.9674281286717994,False,Stanford,USC,0,0,1,13,35,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677101904102,Pass Reception,2,11,11,89,-0.9548407071843406,False,Stanford,USC,0,0,1,9,58,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677101939901,Pass Incompletion,2,3,71,29,-0.8957885778792392,False,Stanford,USC,3,0,1,6,0,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677102854501,Passing Touchdown,2,9,11,89,2.7649860778615505,True,Stanford,USC,10,0,2,14,54,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677102928301,Pass Reception,1,10,19,81,-0.280938211620716,False,Stanford,USC,13,0,2,7,16,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677103894601,Pass Reception,2,7,73,27,0.2639682585015253,False,Stanford,USC,13,9,3,10,53,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677103966101,Pass Reception,3,6,74,26,4.739910726220149,False,Stanford,USC,13,16,3,3,38,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677104887101,Pass Reception,2,10,75,25,0.16823773848787482,False,Stanford,USC,27,22,4,11,28,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677104936601,Passing Touchdown,3,2,28,72,3.1613190846675074,True,Stanford,USC,34,22,4,6,33,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677104895401,Pass Reception,3,4,69,31,1.7574713668122326,False,Stanford,USC,27,22,4,10,45,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677104916301,Pass Reception,2,5,42,58,0.505050267597019,False,Stanford,USC,27,22,4,8,36,14,USC,2015,Stanford,Kevin Hogan,2016
+400852677104974601,Pass Reception,4,3,30,70,1.7468780340361008,False,Stanford,USC,34,22,4,2,53,14,USC,2015,Stanford,Kevin Hogan,2016

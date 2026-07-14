@@ -1,0 +1,463 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401013028.0,Pass Incompletion,,,43.0,43.0,-1.7059299945831299,False,Baylor,Duke,30.0,13.0,4,15,0,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Passing Touchdown,,,7.0,7.0,2.568352699279785,True,Baylor,Duke,30.0,13.0,3,2,47,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,75.0,75.0,0.8291488885879517,False,Baylor,Duke,23.0,13.0,3,6,39,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,33.0,33.0,-0.2101283073425293,False,Baylor,Duke,23.0,13.0,3,6,39,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,29.0,29.0,1.6377408504486084,False,Baylor,Duke,23.0,13.0,3,6,39,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,7.0,7.0,-0.9442362785339355,False,Baylor,Duke,23.0,13.0,3,6,39,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,69.0,69.0,-1.0599513053894043,False,Baylor,Duke,23.0,6.0,3,11,8,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,69.0,69.0,-1.7590173482894897,False,Baylor,Duke,23.0,0.0,3,15,0,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,30.0,30.0,-1.2590277194976807,False,Baylor,Duke,23.0,0.0,2,0,14,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,30.0,30.0,-0.08846569061279297,False,Baylor,Duke,23.0,0.0,2,0,28,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,30.0,30.0,-0.26182126998901367,False,Baylor,Duke,23.0,0.0,2,0,28,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,30.0,30.0,-0.5438756942749023,False,Baylor,Duke,23.0,0.0,2,0,28,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,36.0,36.0,0.8456709384918213,False,Baylor,Duke,23.0,0.0,2,0,33,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Passing Touchdown,,,66.0,66.0,4.5713911056518555,True,Baylor,Duke,23.0,0.0,2,2,19,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,48.0,48.0,-0.019143342971801758,False,Baylor,Duke,14.0,0.0,2,6,54,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,17.0,17.0,-1.3130342960357666,False,Baylor,Duke,14.0,0.0,2,6,54,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Passing Touchdown,,,28.0,28.0,2.524925708770752,True,Baylor,Duke,14.0,0.0,2,8,5,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,70.0,70.0,0.7736549377441406,False,Baylor,Duke,7.0,0.0,2,10,3,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,51.0,51.0,-0.3062267303466797,False,Baylor,Duke,7.0,0.0,2,10,3,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,52.0,52.0,-0.9005581140518188,False,Baylor,Duke,7.0,0.0,1,4,1,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,52.0,52.0,-1.669718861579895,False,Baylor,Duke,7.0,0.0,1,4,1,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Reception,,,73.0,73.0,0.9039167165756226,False,Baylor,Duke,0.0,0.0,1,11,3,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,62.0,62.0,-0.6863319873809814,False,Baylor,Duke,0.0,0.0,1,11,3,3,Baylor,2018,Duke,Daniel Jones,2019
+401013028.0,Pass Incompletion,,,62.0,62.0,-0.9327760934829712,False,Baylor,Duke,0.0,0.0,1,11,3,3,Baylor,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,15.0,85.0,-1.0183289051055908,False,Duke,Army,31.0,14.0,4,5,30,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Passing Touchdown,,,25.0,75.0,2.196484088897705,True,Duke,Army,31.0,14.0,4,13,27,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,38.0,62.0,0.7329859733581543,False,Duke,Army,24.0,14.0,4,13,57,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,25.0,75.0,0.9210329055786133,False,Duke,Army,17.0,7.0,3,3,26,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,68.0,46.0,0.3537900447845459,False,Duke,Army,17.0,7.0,3,5,20,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Fumble Recovery (Opponent),,,39.0,61.0,-4.586780071258545,False,Duke,Army,17.0,0.0,3,11,58,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Incompletion,,,45.0,55.0,-0.5901496410369873,False,Duke,Army,17.0,0.0,3,12,45,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,70.0,30.0,-0.04733467102050781,False,Duke,Army,17.0,0.0,2,1,44,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,78.0,22.0,0.14085173606872559,False,Duke,Army,17.0,0.0,2,1,50,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,93.0,7.0,0.4458531141281128,False,Duke,Army,17.0,0.0,2,2,23,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,62.0,38.0,3.7280149459838867,False,Duke,Army,10.0,0.0,2,8,41,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Incompletion,,,23.0,77.0,-0.534390926361084,False,Duke,Army,3.0,0.0,2,14,17,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,45.0,55.0,-1.421159267425537,False,Duke,Army,3.0,0.0,1,1,56,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,80.0,20.0,2.065112590789795,False,Duke,Army,3.0,0.0,1,2,22,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Incompletion,,,26.0,74.0,-0.8348631858825684,False,Duke,Army,0.0,0.0,1,12,18,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Incompletion,,,59.0,41.0,-1.7831034660339355,False,Duke,Army,0.0,0.0,1,13,33,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,72.0,28.0,1.1146485805511475,False,Duke,Army,0.0,0.0,1,14,6,1,Army,2018,Duke,Daniel Jones,2019
+401013089.0,Pass Reception,,,65.0,35.0,-1.370172142982483,False,Duke,Army,0.0,0.0,1,14,49,1,Army,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,82.0,82.0,0.1666356325149536,False,Northwestern,Duke,21.0,7.0,4,7,25,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,94.0,94.0,-1.4941564798355103,False,Northwestern,Duke,21.0,7.0,4,12,34,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Sack,,,65.0,65.0,-1.999110460281372,False,Northwestern,Duke,21.0,7.0,4,12,34,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Sack,,,73.0,73.0,-1.3875266313552856,False,Northwestern,Duke,21.0,7.0,4,12,34,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Incompletion,,,69.0,69.0,-0.6901862621307373,False,Northwestern,Duke,21.0,7.0,3,1,25,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Sack,,,62.0,62.0,-2.906123638153076,False,Northwestern,Duke,21.0,7.0,3,1,25,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,97.0,97.0,0.39493095874786377,False,Northwestern,Duke,21.0,7.0,3,6,37,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,90.0,90.0,-2.1922543048858643,False,Northwestern,Duke,21.0,7.0,3,6,37,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,94.0,94.0,0.3155761957168579,False,Northwestern,Duke,21.0,7.0,3,9,14,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Incompletion,,,86.0,86.0,-0.9727919101715088,False,Northwestern,Duke,21.0,7.0,3,9,14,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,86.0,86.0,-1.070398211479187,False,Northwestern,Duke,21.0,7.0,3,9,14,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,75.0,75.0,0.887122631072998,False,Northwestern,Duke,21.0,7.0,3,15,0,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Incompletion,,,55.0,55.0,-1.5794024467468262,False,Northwestern,Duke,21.0,7.0,3,15,0,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Incompletion,,,74.0,74.0,-0.31590133905410767,False,Northwestern,Duke,21.0,7.0,2,1,7,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Passing Touchdown,,,7.0,7.0,2.267302989959717,True,Northwestern,Duke,21.0,7.0,2,2,18,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,35.0,35.0,1.6697056293487549,False,Northwestern,Duke,14.0,7.0,2,5,31,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Passing Touchdown,,,52.0,52.0,4.116668701171875,True,Northwestern,Duke,14.0,7.0,2,8,40,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Incompletion,,,33.0,33.0,-3.4790663719177246,False,Northwestern,Duke,7.0,7.0,2,12,29,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Passing Touchdown,,,9.0,9.0,2.3595309257507324,True,Northwestern,Duke,7.0,7.0,2,13,57,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,13.0,13.0,1.5425951480865479,False,Northwestern,Duke,0.0,7.0,2,15,0,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,75.0,75.0,1.661901831626892,False,Northwestern,Duke,0.0,7.0,1,4,55,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,57.0,57.0,2.278079032897949,False,Northwestern,Duke,0.0,7.0,1,4,55,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,38.0,38.0,-0.8436253070831299,False,Northwestern,Duke,0.0,7.0,1,4,55,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,34.0,34.0,1.5569953918457031,False,Northwestern,Duke,0.0,7.0,1,4,55,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,75.0,75.0,1.1513317823410034,False,Northwestern,Duke,0.0,7.0,1,9,35,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Reception,,,56.0,56.0,-0.34241366386413574,False,Northwestern,Duke,0.0,7.0,1,9,35,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013098.0,Pass Incompletion,,,50.0,50.0,-1.8439021110534668,False,Northwestern,Duke,0.0,7.0,1,9,35,2,Northwestern,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,41.0,59.0,-1.416284203529358,False,Duke,North Carolina Central,48.0,13.0,4,10,20,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,41.0,59.0,4.118912220001221,False,Duke,North Carolina Central,48.0,13.0,4,10,20,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,26.0,74.0,0.7002897262573242,False,Duke,North Carolina Central,48.0,13.0,4,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,16.0,84.0,-0.5482840538024902,False,Duke,North Carolina Central,48.0,13.0,4,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,12.0,88.0,-1.5394093990325928,False,Duke,North Carolina Central,48.0,13.0,4,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,12.0,88.0,-1.4779423475265503,False,Duke,North Carolina Central,48.0,13.0,4,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,20.0,80.0,1.4609746932983398,False,Duke,North Carolina Central,41.0,13.0,3,5,44,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,65.0,35.0,-0.395721435546875,False,Duke,North Carolina Central,41.0,13.0,3,7,28,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,65.0,35.0,-1.3300553560256958,False,Duke,North Carolina Central,41.0,13.0,3,7,28,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Passing Touchdown,,,3.0,97.0,2.0830206871032715,True,Duke,North Carolina Central,41.0,13.0,3,8,49,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,43.0,57.0,0.5066256523132324,False,Duke,North Carolina Central,34.0,13.0,3,12,20,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,24.0,76.0,-0.5750865936279297,False,Duke,North Carolina Central,34.0,13.0,3,12,20,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,12.0,88.0,0.4525017738342285,False,Duke,North Carolina Central,34.0,13.0,3,12,20,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,43.0,57.0,-1.0065321922302246,False,Duke,North Carolina Central,27.0,13.0,3,13,32,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Passing Touchdown,,,16.0,84.0,3.1157453060150146,True,Duke,North Carolina Central,27.0,13.0,2,2,13,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,74.0,26.0,-1.4974708557128906,False,Duke,North Carolina Central,20.0,13.0,2,12,21,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,58.0,42.0,0.44521236419677734,False,Duke,North Carolina Central,20.0,13.0,2,12,21,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,27.0,73.0,1.1636734008789062,False,Duke,North Carolina Central,20.0,13.0,2,12,21,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,11.0,89.0,-0.7974529266357422,False,Duke,North Carolina Central,20.0,13.0,2,12,21,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,5.0,95.0,-2.2678585052490234,False,Duke,North Carolina Central,20.0,13.0,2,12,21,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,52.0,48.0,-0.8145167827606201,False,Duke,North Carolina Central,20.0,7.0,2,13,11,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,52.0,48.0,-0.8391339778900146,False,Duke,North Carolina Central,20.0,7.0,2,13,11,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,51.0,49.0,0.04088294506072998,False,Duke,North Carolina Central,20.0,7.0,2,13,11,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,58.0,42.0,-1.4481054544448853,False,Duke,North Carolina Central,20.0,7.0,2,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,60.0,40.0,-0.5414657592773438,False,Duke,North Carolina Central,20.0,7.0,1,0,35,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Passing Touchdown,,,44.0,56.0,4.652098178863525,True,Duke,North Carolina Central,20.0,0.0,1,6,10,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,79.0,21.0,-0.17061519622802734,False,Duke,North Carolina Central,13.0,0.0,1,8,6,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,66.0,34.0,0.747657299041748,False,Duke,North Carolina Central,13.0,0.0,1,8,6,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,49.0,51.0,-0.0295255184173584,False,Duke,North Carolina Central,13.0,0.0,1,8,6,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,44.0,56.0,-0.9974467754364014,False,Duke,North Carolina Central,13.0,0.0,1,8,6,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,55.0,45.0,0.4057067632675171,False,Duke,North Carolina Central,6.0,0.0,1,12,44,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,30.0,70.0,0.861048698425293,False,Duke,North Carolina Central,6.0,0.0,1,12,44,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Passing Touchdown,,,17.0,83.0,0.9655427932739258,True,Duke,North Carolina Central,6.0,0.0,1,12,46,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Incompletion,,,37.0,63.0,-0.6687157154083252,False,Duke,North Carolina Central,0.0,0.0,1,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013121.0,Pass Reception,,,36.0,64.0,-1.96666419506073,False,Duke,North Carolina Central,0.0,0.0,1,15,0,4,North Carolina Central,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,36.0,64.0,-2.3223581314086914,False,Duke,Virginia Tech,14.0,31.0,4,2,54,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,35.0,65.0,-1.5239291191101074,False,Duke,Virginia Tech,14.0,31.0,4,3,13,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,40.0,60.0,-0.4514477252960205,False,Duke,Virginia Tech,14.0,31.0,4,4,8,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,71.0,29.0,2.919381856918335,False,Duke,Virginia Tech,14.0,31.0,4,4,28,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Sack,,,72.0,28.0,-1.3568038940429688,False,Duke,Virginia Tech,14.0,31.0,4,8,1,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,75.0,25.0,-0.6256430149078369,False,Duke,Virginia Tech,14.0,31.0,4,8,38,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,31.0,69.0,5.682734966278076,False,Duke,Virginia Tech,7.0,24.0,4,14,29,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,40.0,60.0,-0.7590939998626709,False,Duke,Virginia Tech,7.0,24.0,3,0,55,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,49.0,51.0,1.1951088905334473,False,Duke,Virginia Tech,7.0,24.0,3,1,2,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,67.0,33.0,-1.623366355895996,False,Duke,Virginia Tech,7.0,24.0,3,3,7,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,72.0,28.0,0.3877325654029846,False,Duke,Virginia Tech,7.0,24.0,3,3,20,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,62.0,38.0,-1.4496383666992188,False,Duke,Virginia Tech,7.0,24.0,3,7,51,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,66.0,34.0,-0.08509665727615356,False,Duke,Virginia Tech,7.0,24.0,3,8,16,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Sack,,,62.0,38.0,-1.4625308513641357,False,Duke,Virginia Tech,7.0,24.0,3,8,53,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,75.0,25.0,1.133968472480774,False,Duke,Virginia Tech,7.0,24.0,3,9,23,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,55.0,45.0,-0.10826230049133301,False,Duke,Virginia Tech,7.0,17.0,3,11,8,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,76.0,24.0,2.523860454559326,False,Duke,Virginia Tech,7.0,17.0,3,12,27,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,74.0,26.0,-1.4055231809616089,False,Duke,Virginia Tech,7.0,17.0,3,12,44,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,65.0,35.0,-0.7169474363327026,False,Duke,Virginia Tech,7.0,17.0,2,1,35,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,77.0,23.0,-0.2553345859050751,False,Duke,Virginia Tech,7.0,17.0,2,3,20,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,27.0,73.0,-0.6307259798049927,False,Duke,Virginia Tech,7.0,17.0,2,7,38,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,27.0,73.0,-0.6288881301879883,False,Duke,Virginia Tech,7.0,17.0,2,7,44,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,34.0,66.0,1.4579145908355713,False,Duke,Virginia Tech,7.0,17.0,2,8,22,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,34.0,66.0,-0.6449704170227051,False,Duke,Virginia Tech,7.0,17.0,2,8,31,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,48.0,52.0,1.6461764574050903,False,Duke,Virginia Tech,7.0,17.0,2,8,56,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,54.0,46.0,0.3899381160736084,False,Duke,Virginia Tech,7.0,17.0,2,9,59,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,75.0,25.0,1.0488272905349731,False,Duke,Virginia Tech,7.0,17.0,2,11,17,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,83.0,17.0,1.0156471729278564,False,Duke,Virginia Tech,7.0,10.0,2,14,14,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Sack,,,75.0,25.0,-1.4266276359558105,False,Duke,Virginia Tech,7.0,10.0,2,14,50,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Passing Touchdown,,,23.0,77.0,2.387254238128662,True,Duke,Virginia Tech,7.0,3.0,1,3,25,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,49.0,51.0,1.5388102531433105,False,Duke,Virginia Tech,0.0,3.0,1,4,40,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,49.0,51.0,-0.6447844505310059,False,Duke,Virginia Tech,0.0,3.0,1,4,50,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,74.0,26.0,2.7556684017181396,False,Duke,Virginia Tech,0.0,3.0,1,5,44,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,75.0,25.0,-0.9404975771903992,False,Duke,Virginia Tech,0.0,3.0,1,5,55,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Interception Return,,,45.0,55.0,-5.403456687927246,False,Duke,Virginia Tech,0.0,0.0,1,9,3,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,53.0,47.0,-0.45344972610473633,False,Duke,Virginia Tech,0.0,0.0,1,9,45,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,55.0,45.0,-1.310132384300232,False,Duke,Virginia Tech,0.0,0.0,1,12,32,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Incompletion,,,50.0,50.0,-1.039609432220459,False,Duke,Virginia Tech,0.0,0.0,1,12,38,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,59.0,41.0,1.3499900102615356,False,Duke,Virginia Tech,0.0,0.0,1,13,12,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013132.0,Pass Reception,,,70.0,30.0,0.4502044916152954,False,Duke,Virginia Tech,0.0,0.0,1,14,22,5,Virginia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Passing Touchdown,,,6.0,6.0,0.8633794784545898,True,Georgia Tech,Duke,28.0,7.0,3,0,0,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Passing Touchdown,,,1.0,1.0,0.4115157127380371,True,Georgia Tech,Duke,21.0,7.0,3,0,15,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Passing Touchdown,,,48.0,48.0,5.402935028076172,True,Georgia Tech,Duke,14.0,7.0,3,1,49,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,23.0,23.0,1.4540672302246094,False,Georgia Tech,Duke,14.0,7.0,3,1,49,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,57.0,57.0,0.8337428569793701,False,Georgia Tech,Duke,7.0,7.0,3,5,0,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,48.0,48.0,-1.102104902267456,False,Georgia Tech,Duke,7.0,7.0,3,5,0,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,83.0,83.0,-0.7563981413841248,False,Georgia Tech,Duke,7.0,7.0,3,10,29,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,83.0,83.0,1.6010297536849976,False,Georgia Tech,Duke,7.0,7.0,3,10,29,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,56.0,56.0,-0.07705259323120117,False,Georgia Tech,Duke,7.0,7.0,3,10,29,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,48.0,48.0,-0.6741273403167725,False,Georgia Tech,Duke,7.0,7.0,3,10,29,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Sack,,,46.0,46.0,-2.308278799057007,False,Georgia Tech,Duke,7.0,7.0,3,10,29,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Fumble Recovery (Own),,,64.0,64.0,-1.1608238220214844,False,Georgia Tech,Duke,7.0,7.0,2,0,44,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,67.0,67.0,-0.2434878945350647,False,Georgia Tech,Duke,7.0,7.0,2,0,44,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,67.0,67.0,-0.9022694826126099,False,Georgia Tech,Duke,7.0,7.0,2,0,44,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Interception Return,,,81.0,81.0,-3.679661273956299,False,Georgia Tech,Duke,7.0,0.0,2,1,50,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,93.0,93.0,-0.7328102588653564,False,Georgia Tech,Duke,7.0,0.0,2,5,39,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,80.0,80.0,0.4145239591598511,False,Georgia Tech,Duke,7.0,0.0,2,13,1,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Sack,,,69.0,69.0,-1.4738141298294067,False,Georgia Tech,Duke,7.0,0.0,2,13,1,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,78.0,78.0,0.16064155101776123,False,Georgia Tech,Duke,7.0,0.0,2,13,1,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,60.0,60.0,-0.14239025115966797,False,Georgia Tech,Duke,7.0,0.0,1,6,40,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,48.0,48.0,0.9312613010406494,False,Georgia Tech,Duke,7.0,0.0,1,6,40,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,29.0,29.0,-0.555452823638916,False,Georgia Tech,Duke,7.0,0.0,1,6,40,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Fumble Recovery (Opponent),,,18.0,18.0,-5.148821830749512,False,Georgia Tech,Duke,7.0,0.0,1,6,40,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,69.0,69.0,2.110936164855957,False,Georgia Tech,Duke,7.0,0.0,1,11,15,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,58.0,58.0,0.16236019134521484,False,Georgia Tech,Duke,7.0,0.0,1,11,15,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Incompletion,,,49.0,49.0,-1.4350472688674927,False,Georgia Tech,Duke,7.0,0.0,1,11,15,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,52.0,52.0,0.00947117805480957,False,Georgia Tech,Duke,0.0,0.0,1,14,48,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,41.0,41.0,0.5601468086242676,False,Georgia Tech,Duke,0.0,0.0,1,14,48,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013145.0,Pass Reception,,,31.0,31.0,0.8678021430969238,False,Georgia Tech,Duke,0.0,0.0,1,14,48,7,Georgia Tech,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,80.0,20.0,1.1044881343841553,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,62.0,38.0,-0.24119704961776733,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,62.0,38.0,-0.27566957473754883,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,56.0,44.0,1.576418399810791,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,43.0,57.0,1.8436163663864136,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,21.0,79.0,-0.36452484130859375,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,21.0,79.0,-0.48384571075439453,False,Duke,Virginia,14.0,28.0,4,1,5,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,75.0,25.0,1.0891447067260742,False,Duke,Virginia,14.0,28.0,4,3,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,61.0,39.0,0.021069347858428955,False,Duke,Virginia,14.0,28.0,4,3,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Sack,,,51.0,49.0,-1.3070064783096313,False,Duke,Virginia,14.0,28.0,4,3,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,58.0,42.0,0.21028774976730347,False,Duke,Virginia,14.0,28.0,4,3,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,50.0,50.0,-1.247703194618225,False,Duke,Virginia,14.0,28.0,4,3,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,49.0,51.0,-2.1101255416870117,False,Duke,Virginia,14.0,28.0,4,3,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,88.0,12.0,0.5860849618911743,False,Duke,Virginia,14.0,20.0,4,8,35,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Sack,,,77.0,23.0,-0.9792887568473816,False,Duke,Virginia,14.0,20.0,4,8,35,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Sack,,,81.0,19.0,-1.263436198234558,False,Duke,Virginia,14.0,20.0,4,8,35,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Passing Touchdown,,,22.0,78.0,2.453927516937256,True,Duke,Virginia,14.0,20.0,4,10,46,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,59.0,41.0,0.0876321792602539,False,Duke,Virginia,7.0,20.0,4,13,44,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,54.0,46.0,1.5844779014587402,False,Duke,Virginia,7.0,20.0,4,13,44,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,48.0,52.0,-0.6049096584320068,False,Duke,Virginia,7.0,20.0,4,13,44,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,48.0,52.0,-0.5365235805511475,False,Duke,Virginia,7.0,20.0,4,13,44,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,35.0,65.0,1.1703498363494873,False,Duke,Virginia,7.0,20.0,4,13,44,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Interception Return,,,59.0,41.0,-3.009113311767578,False,Duke,Virginia,7.0,20.0,3,1,32,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,56.0,44.0,-0.5523189306259155,False,Duke,Virginia,7.0,17.0,3,6,45,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,56.0,44.0,-0.7433886528015137,False,Duke,Virginia,7.0,17.0,3,6,45,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,54.0,46.0,-1.6185667514801025,False,Duke,Virginia,7.0,17.0,3,6,45,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Passing Touchdown,,,46.0,54.0,5.759619235992432,True,Duke,Virginia,7.0,14.0,3,13,58,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,75.0,25.0,1.9179050922393799,False,Duke,Virginia,0.0,14.0,3,15,0,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,46.0,54.0,-1.9823713302612305,False,Duke,Virginia,0.0,14.0,3,15,0,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,71.0,29.0,0.4089339077472687,False,Duke,Virginia,0.0,14.0,2,5,47,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,65.0,35.0,1.2087455987930298,False,Duke,Virginia,0.0,14.0,2,5,47,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,46.0,54.0,0.33663618564605713,False,Duke,Virginia,0.0,14.0,2,5,47,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Sack,,,50.0,50.0,-1.3280597925186157,False,Duke,Virginia,0.0,14.0,2,5,47,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Interception Return,,,41.0,59.0,-2.4307405948638916,False,Duke,Virginia,0.0,14.0,2,7,34,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,80.0,20.0,-0.5644046664237976,False,Duke,Virginia,0.0,14.0,2,10,15,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,75.0,25.0,2.6354918479919434,False,Duke,Virginia,0.0,14.0,2,10,15,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,75.0,25.0,-0.49404704570770264,False,Duke,Virginia,0.0,14.0,2,14,9,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,73.0,27.0,-0.3228689432144165,False,Duke,Virginia,0.0,14.0,2,14,9,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,71.0,29.0,-0.5997841954231262,False,Duke,Virginia,0.0,7.0,1,2,34,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,71.0,29.0,-1.2039909362792969,False,Duke,Virginia,0.0,7.0,1,2,34,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Reception,,,76.0,24.0,2.021225929260254,False,Duke,Virginia,0.0,7.0,1,11,14,8,Virginia,2018,Duke,Daniel Jones,2019
+401013150.0,Pass Incompletion,,,67.0,33.0,-1.2740352153778076,False,Duke,Virginia,0.0,7.0,1,11,14,8,Virginia,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,67.0,67.0,1.2714272737503052,False,Pittsburgh,Duke,45.0,45.0,4,2,33,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,51.0,51.0,-0.4991946220397949,False,Pittsburgh,Duke,45.0,45.0,4,2,33,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,51.0,51.0,-0.6794552803039551,False,Pittsburgh,Duke,45.0,45.0,4,2,33,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Sack,,,51.0,51.0,-1.9600539207458496,False,Pittsburgh,Duke,45.0,45.0,4,2,33,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,20.0,20.0,0.6232447624206543,False,Pittsburgh,Duke,42.0,42.0,4,10,39,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,6.0,6.0,-1.2696738243103027,False,Pittsburgh,Duke,42.0,42.0,4,10,39,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,78.0,78.0,-1.0730472803115845,False,Pittsburgh,Duke,42.0,35.0,4,15,0,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,77.0,77.0,-0.598583459854126,False,Pittsburgh,Duke,42.0,35.0,3,0,28,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Passing Touchdown,,,68.0,68.0,4.3780198097229,True,Pittsburgh,Duke,42.0,32.0,3,3,57,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,74.0,74.0,1.5591118335723877,False,Pittsburgh,Duke,35.0,32.0,3,4,27,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,80.0,80.0,0.20873403549194336,False,Pittsburgh,Duke,35.0,32.0,3,4,56,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,74.0,74.0,-0.9475853443145752,False,Pittsburgh,Duke,35.0,32.0,3,4,56,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,65.0,65.0,0.55906081199646,False,Pittsburgh,Duke,28.0,25.0,3,10,22,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,29.0,29.0,2.074622631072998,False,Pittsburgh,Duke,28.0,25.0,3,10,22,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Passing Touchdown,,,74.0,74.0,6.5598883628845215,True,Pittsburgh,Duke,28.0,17.0,3,13,41,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,16.0,16.0,0.1325216293334961,False,Pittsburgh,Duke,21.0,17.0,2,0,56,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,11.0,11.0,-0.4607276916503906,False,Pittsburgh,Duke,21.0,17.0,2,0,56,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Fumble Recovery (Opponent),,,11.0,11.0,-4.292139053344727,False,Pittsburgh,Duke,21.0,17.0,2,0,56,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,40.0,40.0,1.9923744201660156,False,Pittsburgh,Duke,21.0,17.0,2,1,9,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,24.0,24.0,0.8471555709838867,False,Pittsburgh,Duke,21.0,17.0,2,1,9,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,80.0,80.0,-0.48335540294647217,False,Pittsburgh,Duke,21.0,17.0,2,4,7,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,80.0,80.0,-0.06250002980232239,False,Pittsburgh,Duke,21.0,17.0,2,4,7,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,73.0,73.0,1.0100432634353638,False,Pittsburgh,Duke,21.0,17.0,2,4,7,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,68.0,68.0,1.1420354843139648,False,Pittsburgh,Duke,21.0,17.0,2,4,7,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,57.0,57.0,1.477815866470337,False,Pittsburgh,Duke,21.0,17.0,2,4,7,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Passing Touchdown,,,4.0,4.0,2.553584575653076,True,Pittsburgh,Duke,21.0,10.0,2,5,38,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,4.0,4.0,-0.989677906036377,False,Pittsburgh,Duke,14.0,10.0,2,7,24,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Passing Touchdown,,,3.0,3.0,2.204106330871582,True,Pittsburgh,Duke,14.0,7.0,2,11,41,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,24.0,24.0,2.8475403785705566,False,Pittsburgh,Duke,7.0,7.0,2,15,0,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,52.0,52.0,1.6952083110809326,False,Pittsburgh,Duke,7.0,7.0,1,1,35,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,66.0,66.0,1.2401247024536133,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,56.0,56.0,0.004712343215942383,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,51.0,51.0,1.0030689239501953,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,41.0,41.0,0.846142053604126,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,24.0,24.0,-0.8537015914916992,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,24.0,24.0,-1.0960514545440674,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,24.0,24.0,-2.9452452659606934,False,Pittsburgh,Duke,7.0,7.0,1,5,43,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,62.0,62.0,1.8522520065307617,False,Pittsburgh,Duke,0.0,7.0,1,11,4,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,46.0,46.0,0.3841824531555176,False,Pittsburgh,Duke,0.0,7.0,1,11,4,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,40.0,40.0,-1.6719646453857422,False,Pittsburgh,Duke,0.0,7.0,1,11,4,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Reception,,,39.0,39.0,3.6021621227264404,False,Pittsburgh,Duke,0.0,7.0,1,11,4,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013156.0,Pass Incompletion,,,33.0,33.0,-0.6667098999023438,False,Pittsburgh,Duke,0.0,7.0,1,11,4,9,Pittsburgh,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,57.0,57.0,0.727292537689209,False,Miami,Duke,20.0,12.0,4,7,20,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,44.0,44.0,1.200134515762329,False,Miami,Duke,17.0,12.0,4,11,18,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,43.0,43.0,-0.563776969909668,False,Miami,Duke,17.0,12.0,4,12,20,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Interception Return,,,31.0,32.0,-5.848992824554443,False,Miami,Duke,17.0,12.0,4,12,36,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,38.0,38.0,-0.36863863468170166,False,Miami,Duke,17.0,12.0,4,13,5,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,52.0,52.0,0.9370031356811523,False,Miami,Duke,17.0,12.0,4,13,51,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,58.0,58.0,0.24987292289733887,False,Miami,Duke,17.0,12.0,4,14,10,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Passing Touchdown,,,2.0,2.0,1.0402684211730957,True,Miami,Duke,17.0,12.0,3,0,18,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,15.0,15.0,1.8258743286132812,False,Miami,Duke,10.0,12.0,3,1,0,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,15.0,15.0,-0.7026371955871582,False,Miami,Duke,10.0,12.0,3,1,26,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,22.0,22.0,0.5092692375183105,False,Miami,Duke,10.0,12.0,3,1,57,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,37.0,37.0,-0.5092692375183105,False,Miami,Duke,10.0,12.0,3,2,23,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,42.0,42.0,0.09668898582458496,False,Miami,Duke,10.0,12.0,3,2,49,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,65.0,65.0,0.3226701021194458,False,Miami,Duke,10.0,12.0,3,3,30,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,9.0,9.0,-1.2374699115753174,False,Miami,Duke,7.0,12.0,3,9,37,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,33.0,33.0,-1.6583802700042725,False,Miami,Duke,7.0,12.0,3,11,15,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,33.0,33.0,-0.6294600963592529,False,Miami,Duke,7.0,12.0,3,11,25,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,42.0,42.0,1.100480556488037,False,Miami,Duke,7.0,12.0,3,11,56,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,70.0,70.0,2.4540035724639893,False,Miami,Duke,7.0,12.0,3,12,45,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,70.0,70.0,-0.8067347407341003,False,Miami,Duke,7.0,12.0,3,12,53,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Sack,,,67.0,67.0,-0.9272043704986572,False,Miami,Duke,7.0,12.0,2,1,37,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,71.0,71.0,-0.29332220554351807,False,Miami,Duke,7.0,12.0,2,2,40,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,74.0,74.0,-0.8221822381019592,False,Miami,Duke,7.0,12.0,2,6,38,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,75.0,75.0,-0.5457731485366821,False,Miami,Duke,7.0,12.0,2,7,23,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,55.0,55.0,-1.1527528762817383,False,Miami,Duke,7.0,6.0,2,10,36,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,61.0,61.0,-0.9186466932296753,False,Miami,Duke,7.0,0.0,2,14,12,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,32.0,32.0,-1.4481345415115356,False,Miami,Duke,7.0,0.0,1,3,20,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,38.0,38.0,0.6184451580047607,False,Miami,Duke,7.0,0.0,1,4,54,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,43.0,43.0,-0.002669095993041992,False,Miami,Duke,7.0,0.0,1,5,10,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Reception,,,49.0,49.0,-1.7079371213912964,False,Miami,Duke,7.0,0.0,1,7,58,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,49.0,49.0,-0.9526541233062744,False,Miami,Duke,7.0,0.0,1,8,9,10,Miami,2018,Duke,Daniel Jones,2019
+401013163.0,Pass Incompletion,,,49.0,49.0,-0.6138546466827393,False,Miami,Duke,7.0,0.0,1,8,13,10,Miami,2018,Duke,Daniel Jones,2019
+401013170.0,Interception Return,,,26.0,74.0,-1.2175182104110718,False,Duke,North Carolina,42.0,35.0,4,0,59,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,69.0,31.0,-0.5795201063156128,False,Duke,North Carolina,42.0,28.0,4,8,12,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,66.0,34.0,0.21234548091888428,False,Duke,North Carolina,42.0,28.0,4,8,12,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,56.0,44.0,-0.5133976936340332,False,Duke,North Carolina,42.0,28.0,4,8,12,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,56.0,44.0,-0.49209320545196533,False,Duke,North Carolina,42.0,28.0,4,8,12,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,82.0,18.0,-1.122465968132019,False,Duke,North Carolina,42.0,28.0,4,12,27,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,68.0,32.0,-0.9230904579162598,False,Duke,North Carolina,42.0,28.0,4,12,27,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,75.0,25.0,0.5470383167266846,False,Duke,North Carolina,42.0,28.0,4,14,53,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,63.0,37.0,-0.1938004493713379,False,Duke,North Carolina,42.0,28.0,4,14,53,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,59.0,41.0,-1.5389821529388428,False,Duke,North Carolina,42.0,28.0,4,14,53,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,78.0,22.0,0.22988486289978027,False,Duke,North Carolina,35.0,28.0,3,2,39,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,55.0,45.0,1.7994821071624756,False,Duke,North Carolina,35.0,28.0,3,5,52,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Fumble Recovery (Opponent),,,45.0,55.0,-6.531286239624023,False,Duke,North Carolina,35.0,28.0,3,5,52,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,52.0,48.0,-0.9008859395980835,False,Duke,North Carolina,35.0,28.0,3,9,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,52.0,48.0,1.9477206468582153,False,Duke,North Carolina,35.0,28.0,3,9,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,42.0,58.0,-0.1329345703125,False,Duke,North Carolina,35.0,28.0,3,9,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Fumble Recovery (Opponent),,,38.0,62.0,-3.6713736057281494,False,Duke,North Carolina,35.0,28.0,3,9,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,84.0,16.0,0.7630017995834351,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,75.0,25.0,-0.8558011054992676,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Sack,,,64.0,36.0,-1.2796478271484375,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,68.0,32.0,-1.0123234987258911,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,68.0,32.0,2.932541847229004,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,51.0,49.0,-0.4303550720214844,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,49.0,51.0,1.1119568347930908,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,40.0,60.0,0.5107874870300293,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,24.0,76.0,-0.8466711044311523,False,Duke,North Carolina,35.0,28.0,3,14,56,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,61.0,39.0,-0.34596943855285645,False,Duke,North Carolina,28.0,28.0,2,0,51,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,74.0,26.0,-0.9864446520805359,False,Duke,North Carolina,28.0,28.0,2,6,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,50.0,50.0,1.7793464660644531,False,Duke,North Carolina,28.0,28.0,2,6,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,43.0,57.0,-0.5022029876708984,False,Duke,North Carolina,28.0,28.0,2,6,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,10.0,90.0,-0.8377361297607422,False,Duke,North Carolina,28.0,28.0,2,6,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,10.0,90.0,-1.214365005493164,False,Duke,North Carolina,28.0,28.0,2,6,14,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,49.0,51.0,-0.2508547306060791,False,Duke,North Carolina,21.0,21.0,2,9,18,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,20.0,80.0,0.03531837463378906,False,Duke,North Carolina,21.0,21.0,2,9,18,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,16.0,84.0,0.7289409637451172,False,Duke,North Carolina,21.0,21.0,2,9,18,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,8.0,92.0,0.10074234008789062,False,Duke,North Carolina,21.0,21.0,2,9,18,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,75.0,25.0,-0.5928528308868408,False,Duke,North Carolina,21.0,21.0,2,9,55,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,75.0,25.0,-0.9605875015258789,False,Duke,North Carolina,21.0,21.0,2,9,55,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,75.0,25.0,2.372251272201538,False,Duke,North Carolina,21.0,21.0,2,9,55,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Passing Touchdown,,,2.0,98.0,1.4228224754333496,True,Duke,North Carolina,21.0,14.0,2,12,51,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,57.0,43.0,2.8872756958007812,False,Duke,North Carolina,14.0,14.0,2,14,29,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,69.0,31.0,-0.5061322450637817,False,Duke,North Carolina,14.0,14.0,1,3,23,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,65.0,35.0,-0.9090046882629395,False,Duke,North Carolina,14.0,14.0,1,3,23,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,65.0,35.0,-1.1352235078811646,False,Duke,North Carolina,14.0,14.0,1,3,23,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Sack,,,67.0,33.0,-1.7407925128936768,False,Duke,North Carolina,14.0,14.0,1,5,11,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,70.0,30.0,3.1818645000457764,False,Duke,North Carolina,14.0,14.0,1,5,11,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Passing Touchdown,,,26.0,74.0,2.6523523330688477,True,Duke,North Carolina,14.0,14.0,1,6,20,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,77.0,23.0,-1.6358654499053955,False,Duke,North Carolina,7.0,14.0,1,8,10,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,74.0,26.0,4.287660598754883,False,Duke,North Carolina,7.0,14.0,1,8,10,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Passing Touchdown,,,52.0,48.0,5.357807159423828,True,Duke,North Carolina,7.0,7.0,1,10,22,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Incompletion,,,70.0,30.0,-0.8082654476165771,False,Duke,North Carolina,0.0,7.0,1,12,11,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,70.0,30.0,1.3628370761871338,False,Duke,North Carolina,0.0,7.0,1,12,11,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013170.0,Pass Reception,,,57.0,43.0,-0.59100341796875,False,Duke,North Carolina,0.0,7.0,1,12,11,11,North Carolina,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,55.0,55.0,-0.43985071778297424,False,Clemson,Duke,6.0,35.0,4,5,14,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,63.0,63.0,-1.027469515800476,False,Clemson,Duke,6.0,35.0,4,9,35,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,75.0,75.0,0.725201427936554,False,Clemson,Duke,6.0,35.0,4,11,10,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Sack,,,60.0,60.0,-2.228550434112549,False,Clemson,Duke,6.0,28.0,3,2,42,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,65.0,65.0,-0.30151841044425964,False,Clemson,Duke,6.0,28.0,3,3,35,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,75.0,75.0,0.7725245952606201,False,Clemson,Duke,6.0,28.0,3,4,13,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Sack,,,28.0,28.0,-1.6549155712127686,False,Clemson,Duke,6.0,21.0,3,7,55,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,45.0,45.0,2.155728578567505,False,Clemson,Duke,6.0,21.0,3,8,56,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Sack,,,40.0,40.0,-1.940598964691162,False,Clemson,Duke,6.0,21.0,3,9,30,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,63.0,63.0,1.689142107963562,False,Clemson,Duke,6.0,21.0,3,10,50,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,70.0,70.0,0.4342242181301117,False,Clemson,Duke,6.0,21.0,3,12,0,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,75.0,75.0,0.15259325504302979,False,Clemson,Duke,6.0,21.0,3,12,15,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,80.0,80.0,-1.0578927993774414,False,Clemson,Duke,6.0,14.0,3,14,15,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,77.0,77.0,-0.49934327602386475,False,Clemson,Duke,6.0,14.0,2,0,57,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,78.0,78.0,-0.0902041345834732,False,Clemson,Duke,6.0,14.0,2,1,1,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,60.0,60.0,-1.378531813621521,False,Clemson,Duke,6.0,7.0,2,5,37,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,60.0,60.0,-0.5070326328277588,False,Clemson,Duke,6.0,7.0,2,5,47,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,48.0,48.0,-0.8861420154571533,False,Clemson,Duke,6.0,7.0,2,7,12,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,42.0,42.0,-1.2043044567108154,False,Clemson,Duke,6.0,7.0,2,7,35,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,45.0,45.0,-0.20035624504089355,False,Clemson,Duke,6.0,7.0,2,8,20,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,52.0,52.0,0.3096773624420166,False,Clemson,Duke,6.0,7.0,2,8,40,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,57.0,57.0,-0.8110262155532837,False,Clemson,Duke,6.0,7.0,2,9,2,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,62.0,62.0,-0.025332331657409668,False,Clemson,Duke,6.0,7.0,2,9,15,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Sack,,,60.0,60.0,-1.7429665327072144,False,Clemson,Duke,6.0,7.0,2,10,59,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,60.0,60.0,-0.5858936309814453,False,Clemson,Duke,6.0,7.0,2,11,50,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,68.0,68.0,1.5232534408569336,False,Clemson,Duke,6.0,7.0,2,12,12,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,68.0,68.0,-0.9377163052558899,False,Clemson,Duke,6.0,7.0,2,12,19,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,75.0,75.0,0.5829770565032959,False,Clemson,Duke,6.0,7.0,2,12,34,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,14.0,14.0,-1.2964975833892822,False,Clemson,Duke,3.0,0.0,1,0,25,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,29.0,29.0,-1.6015875339508057,False,Clemson,Duke,3.0,0.0,1,2,6,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,29.0,29.0,-0.5498251914978027,False,Clemson,Duke,3.0,0.0,1,2,17,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,20.0,20.0,-0.7980837821960449,False,Clemson,Duke,0.0,0.0,1,4,50,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,28.0,28.0,0.4757061004638672,False,Clemson,Duke,0.0,0.0,1,5,20,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,33.0,33.0,1.0331478118896484,False,Clemson,Duke,0.0,0.0,1,5,55,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,46.0,46.0,-0.7007663249969482,False,Clemson,Duke,0.0,0.0,1,7,4,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,83.0,83.0,3.3829712867736816,False,Clemson,Duke,0.0,0.0,1,7,30,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,90.0,90.0,1.4461982250213623,False,Clemson,Duke,0.0,0.0,1,8,25,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,98.0,98.0,0.632649302482605,False,Clemson,Duke,0.0,0.0,1,8,55,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,77.0,77.0,-0.8760526776313782,False,Clemson,Duke,0.0,0.0,1,11,5,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Incompletion,,,79.0,79.0,-0.7053465843200684,False,Clemson,Duke,0.0,0.0,1,11,48,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,85.0,85.0,-0.6302068829536438,False,Clemson,Duke,0.0,0.0,1,12,55,12,Clemson,2018,Duke,Daniel Jones,2019
+401013176.0,Pass Reception,,,91.0,91.0,0.38236480951309204,False,Clemson,Duke,0.0,0.0,1,13,10,12,Clemson,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,46.0,54.0,-1.4799379110336304,False,Duke,Wake Forest,7.0,45.0,4,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,75.0,25.0,0.8234424591064453,False,Duke,Wake Forest,7.0,45.0,3,1,24,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,64.0,36.0,0.2830500304698944,False,Duke,Wake Forest,7.0,45.0,3,1,24,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,49.0,51.0,-0.5536017417907715,False,Duke,Wake Forest,7.0,45.0,3,1,24,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,86.0,14.0,0.17386341094970703,False,Duke,Wake Forest,7.0,38.0,3,9,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,81.0,19.0,-0.5016862154006958,False,Duke,Wake Forest,7.0,38.0,3,9,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,79.0,21.0,1.2297415733337402,False,Duke,Wake Forest,7.0,38.0,3,9,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,72.0,28.0,1.5538687705993652,False,Duke,Wake Forest,7.0,38.0,3,9,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,52.0,48.0,-0.6715729236602783,False,Duke,Wake Forest,7.0,38.0,3,9,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,50.0,50.0,-1.5712354183197021,False,Duke,Wake Forest,7.0,38.0,3,9,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Sack,,,59.0,41.0,-1.667006015777588,False,Duke,Wake Forest,7.0,31.0,3,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,64.0,36.0,-0.7788257598876953,False,Duke,Wake Forest,7.0,31.0,3,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,68.0,32.0,-1.1867071390151978,False,Duke,Wake Forest,7.0,28.0,2,4,6,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Interception Return Touchdown,,,85.0,15.0,-6.62717342376709,True,Duke,Wake Forest,7.0,28.0,2,4,10,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,78.0,22.0,0.10055633634328842,False,Duke,Wake Forest,7.0,21.0,2,6,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,73.0,27.0,-1.085945963859558,False,Duke,Wake Forest,7.0,21.0,2,6,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Sack,,,74.0,26.0,-1.0516494512557983,False,Duke,Wake Forest,7.0,21.0,2,8,41,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,50.0,50.0,0.30135250091552734,False,Duke,Wake Forest,7.0,21.0,2,11,11,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,45.0,55.0,-0.9594058990478516,False,Duke,Wake Forest,7.0,21.0,2,11,11,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,45.0,55.0,-1.7771286964416504,False,Duke,Wake Forest,7.0,21.0,2,11,11,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Passing Touchdown,,,6.0,94.0,3.035104274749756,True,Duke,Wake Forest,7.0,21.0,2,12,48,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,35.0,65.0,0.8647041320800781,False,Duke,Wake Forest,0.0,21.0,2,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,21.0,79.0,0.8466598987579346,False,Duke,Wake Forest,0.0,21.0,2,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,13.0,87.0,-0.7378170490264893,False,Duke,Wake Forest,0.0,21.0,2,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,11.0,89.0,-0.6612560749053955,False,Duke,Wake Forest,0.0,21.0,2,15,0,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,83.0,17.0,0.9366856217384338,False,Duke,Wake Forest,0.0,21.0,1,1,23,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,68.0,32.0,1.8706464767456055,False,Duke,Wake Forest,0.0,21.0,1,1,23,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,54.0,46.0,0.6583272218704224,False,Duke,Wake Forest,0.0,21.0,1,1,23,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,46.0,54.0,1.8212263584136963,False,Duke,Wake Forest,0.0,21.0,1,1,23,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Reception,,,68.0,32.0,2.3012940883636475,False,Duke,Wake Forest,0.0,14.0,1,6,54,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,59.0,41.0,-0.6464930772781372,False,Duke,Wake Forest,0.0,14.0,1,6,54,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,59.0,41.0,-1.5099482536315918,False,Duke,Wake Forest,0.0,14.0,1,6,54,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401013185.0,Pass Incompletion,,,62.0,38.0,-0.6259105205535889,False,Duke,Wake Forest,0.0,7.0,1,12,4,13,Wake Forest,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,45.0,55.0,-0.5008478164672852,False,Duke,Temple,56.0,27.0,4,7,14,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Sack,,,39.0,61.0,-1.530868411064148,False,Duke,Temple,56.0,27.0,4,7,47,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,41.0,59.0,-0.5085549354553223,False,Duke,Temple,56.0,27.0,4,8,15,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Interception Return,,,42.0,58.0,-3.854961633682251,False,Duke,Temple,56.0,27.0,4,8,55,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Passing Touchdown,,,4.0,96.0,2.1263155937194824,True,Duke,Temple,56.0,27.0,4,10,16,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,10.0,90.0,-0.09957504272460938,False,Duke,Temple,49.0,27.0,4,10,30,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,43.0,57.0,1.2182061672210693,False,Duke,Temple,49.0,27.0,4,12,46,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Passing Touchdown,,,7.0,93.0,1.7193198204040527,True,Duke,Temple,42.0,27.0,3,2,49,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,19.0,81.0,0.3888869285583496,False,Duke,Temple,35.0,27.0,3,3,5,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,29.0,71.0,0.6051278114318848,False,Duke,Temple,35.0,27.0,3,3,20,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,60.0,40.0,1.2681442499160767,False,Duke,Temple,35.0,27.0,3,4,40,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,62.0,38.0,-0.5461949110031128,False,Duke,Temple,35.0,27.0,3,5,13,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Passing Touchdown,,,85.0,15.0,6.862361431121826,True,Duke,Temple,35.0,27.0,3,7,28,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,83.0,17.0,-1.6696056127548218,False,Duke,Temple,28.0,27.0,3,7,59,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,12.0,88.0,1.052751064300537,False,Duke,Temple,21.0,27.0,3,12,51,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,20.0,80.0,0.5265202522277832,False,Duke,Temple,21.0,27.0,3,13,25,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,46.0,54.0,2.2918055057525635,False,Duke,Temple,21.0,27.0,3,13,38,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,46.0,54.0,-0.6857283115386963,False,Duke,Temple,21.0,27.0,3,13,58,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,56.0,44.0,1.317284107208252,False,Duke,Temple,21.0,27.0,3,14,20,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,59.0,41.0,-0.30752503871917725,False,Duke,Temple,21.0,27.0,3,14,30,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Passing Touchdown,,,22.0,78.0,4.426840782165527,True,Duke,Temple,21.0,27.0,2,1,11,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,36.0,64.0,-0.4655125141143799,False,Duke,Temple,14.0,27.0,2,2,39,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,65.0,35.0,1.519149899482727,False,Duke,Temple,14.0,27.0,2,2,45,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,75.0,25.0,0.8592652082443237,False,Duke,Temple,14.0,27.0,2,4,15,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,75.0,25.0,-0.7644551396369934,False,Duke,Temple,14.0,27.0,2,4,22,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Passing Touchdown,,,34.0,66.0,3.093865394592285,True,Duke,Temple,14.0,20.0,2,7,42,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,55.0,45.0,2.243417739868164,False,Duke,Temple,7.0,20.0,2,8,24,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Sack,,,54.0,46.0,-1.0025126934051514,False,Duke,Temple,7.0,20.0,2,8,48,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,57.0,43.0,-0.32761919498443604,False,Duke,Temple,7.0,20.0,2,9,22,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,64.0,36.0,0.5918933153152466,False,Duke,Temple,7.0,20.0,2,9,47,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,70.0,30.0,0.2760474681854248,False,Duke,Temple,7.0,20.0,2,10,9,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Interception Return,,,62.0,38.0,-3.5166406631469727,False,Duke,Temple,7.0,13.0,2,13,38,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,68.0,32.0,0.29295021295547485,False,Duke,Temple,7.0,13.0,2,14,0,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,56.0,44.0,-1.8463265895843506,False,Duke,Temple,7.0,13.0,1,1,54,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,60.0,40.0,-0.29300349950790405,False,Duke,Temple,7.0,13.0,1,2,8,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,60.0,40.0,-0.6191905736923218,False,Duke,Temple,7.0,13.0,1,2,56,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Sack,,,76.0,24.0,-1.5700981616973877,False,Duke,Temple,7.0,13.0,1,4,55,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,76.0,24.0,-0.9833062887191772,False,Duke,Temple,7.0,13.0,1,5,26,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,76.0,24.0,-0.6093114018440247,False,Duke,Temple,7.0,13.0,1,5,32,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Interception Return Touchdown,,,48.0,52.0,-7.706724166870117,True,Duke,Temple,7.0,13.0,1,5,42,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,62.0,38.0,-0.14525139331817627,False,Duke,Temple,7.0,7.0,1,7,35,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,75.0,25.0,2.283865451812744,False,Duke,Temple,7.0,7.0,1,8,5,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Incompletion,,,75.0,25.0,-1.073975920677185,False,Duke,Temple,7.0,7.0,1,8,10,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,80.0,20.0,0.07655912637710571,False,Duke,Temple,7.0,7.0,1,8,21,1,Temple,2018,Duke,Daniel Jones,2019
+401032070.0,Pass Reception,,,65.0,35.0,4.307456016540527,False,Duke,Temple,0.0,0.0,1,11,52,1,Temple,2018,Duke,Daniel Jones,2019

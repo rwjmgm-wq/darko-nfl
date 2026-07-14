@@ -1,0 +1,25 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401112143.0,Pass Reception,,,62.0,62,-1.6770929098129272,False,West Virginia,James Madison,13.0,20.0,4,0,58,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Incompletion,,,58.0,58,-0.1922047734260559,False,West Virginia,James Madison,13.0,20.0,4,0,58,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,85.0,85,-0.35297691822052,False,West Virginia,James Madison,13.0,20.0,4,3,26,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Sack,,,78.0,78,-1.297827959060669,False,West Virginia,James Madison,13.0,20.0,4,4,8,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,61.0,61,2.1925883293151855,False,West Virginia,James Madison,10.0,20.0,4,8,37,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Incompletion,,,40.0,40,-0.8754019737243652,False,West Virginia,James Madison,10.0,20.0,4,8,37,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,40.0,40,2.3406903743743896,False,West Virginia,James Madison,10.0,20.0,4,8,37,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Interception Return,,,72.0,72,-5.387222766876221,False,West Virginia,James Madison,10.0,13.0,4,10,20,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,80.0,80,-0.8814528584480286,False,West Virginia,James Madison,10.0,10.0,3,1,55,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Sack,,,78.0,78,-1.6504051685333252,False,West Virginia,James Madison,10.0,10.0,3,1,55,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,65.0,65,1.8538039922714233,False,West Virginia,James Madison,7.0,10.0,3,12,32,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Sack,,,31.0,31,-2.629474401473999,False,West Virginia,James Madison,7.0,10.0,3,12,32,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Sack,,,7.0,7,-1.7770445346832275,False,West Virginia,James Madison,7.0,10.0,3,12,32,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Incompletion,,,12.0,12,-0.5946183204650879,False,West Virginia,James Madison,7.0,10.0,3,12,32,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Incompletion,,,57.0,57,-0.5576074123382568,False,West Virginia,James Madison,7.0,3.0,2,2,27,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Incompletion,,,57.0,57,-1.1332242488861084,False,West Virginia,James Madison,7.0,3.0,2,2,27,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Incompletion,,,67.0,67,-0.6543455123901367,False,West Virginia,James Madison,7.0,3.0,2,4,37,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,67.0,67,0.31481605768203735,False,West Virginia,James Madison,7.0,3.0,2,4,37,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,60.0,60,-1.570328950881958,False,West Virginia,James Madison,7.0,3.0,2,4,37,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,67.0,67,0.19644689559936523,False,West Virginia,James Madison,7.0,3.0,2,12,33,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,51.0,51,1.4027304649353027,False,West Virginia,James Madison,0.0,0.0,1,4,25,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,30.0,30,1.2347187995910645,False,West Virginia,James Madison,0.0,0.0,1,4,25,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,68.0,68,0.5303877592086792,False,West Virginia,James Madison,0.0,0.0,1,9,43,1,West Virginia,2019,James Madison,Ben DiNucci,2020
+401112143.0,Pass Reception,,,58.0,58,0.2632474899291992,False,West Virginia,James Madison,0.0,0.0,1,9,43,1,West Virginia,2019,James Madison,Ben DiNucci,2020

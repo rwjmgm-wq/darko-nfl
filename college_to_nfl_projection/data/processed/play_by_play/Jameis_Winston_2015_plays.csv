@@ -1,0 +1,471 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400547762101876901,Pass Incompletion,1,10,37,37,-0.7519361608312708,False,Oklahoma State,Florida State,0,0,1,12,30,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101907201,Pass Reception,3,3,19,19,-0.4279679751703595,False,Oklahoma State,Florida State,0,0,1,9,27,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101895901,Pass Reception,3,7,34,34,1.4104372568040748,False,Oklahoma State,Florida State,0,0,1,10,40,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101874902,Pass Reception,1,10,47,47,0.097373878655615,False,Oklahoma State,Florida State,0,0,1,12,50,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101874401,Pass Reception,1,10,58,58,0.9485009707728855,False,Oklahoma State,Florida State,0,0,1,12,55,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101896901,Pass Reception,2,12,28,28,0.5182892146516825,False,Oklahoma State,Florida State,0,0,1,10,30,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101935301,Pass Reception,1,10,90,90,0.8283073066348914,False,Oklahoma State,Florida State,10,0,1,6,46,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101959101,Pass Reception,2,10,67,67,0.908597199169141,False,Oklahoma State,Florida State,10,0,1,4,8,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101936501,Pass Reception,2,1,81,81,-0.3064478558388091,False,Oklahoma State,Florida State,10,0,1,6,34,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102855001,Pass Incompletion,2,10,13,13,-0.3252599830349858,False,Oklahoma State,Florida State,10,0,2,14,49,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762101999901,Pass Reception,1,10,75,75,3.5388259046754746,False,Oklahoma State,Florida State,10,0,1,0,0,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102854401,Pass Incompletion,1,10,13,13,-0.3048472994988835,False,Oklahoma State,Florida State,10,0,2,14,55,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102855701,Pass Interception Return,3,10,13,13,-3.8309635024202837,False,Oklahoma State,Florida State,10,0,2,14,42,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102906801,Pass Reception,2,10,81,81,1.1957971997992534,False,Oklahoma State,Florida State,10,0,2,9,31,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102889001,Pass Incompletion,1,10,94,94,-0.2935937291294204,False,Oklahoma State,Florida State,10,0,2,11,9,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102909301,Pass Reception,1,10,71,71,3.1576891437232657,False,Oklahoma State,Florida State,10,0,2,9,6,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102915601,Pass Reception,1,10,20,20,0.624840338247342,False,Oklahoma State,Florida State,10,0,2,8,43,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102905201,Pass Incompletion,1,10,81,81,-0.5327945515514214,False,Oklahoma State,Florida State,10,0,2,9,47,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102897801,Pass Reception,3,7,91,91,0.8041853436322546,False,Oklahoma State,Florida State,10,0,2,10,21,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102965001,Pass Reception,1,10,75,75,0.9104368550610653,False,Oklahoma State,Florida State,17,7,2,3,49,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102976601,Pass Incompletion,3,9,74,74,-0.18876768235831598,False,Oklahoma State,Florida State,17,7,2,2,33,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762102997001,Pass Interception Return,1,10,71,71,-1.2243831272450354,False,Oklahoma State,Florida State,17,7,2,0,29,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103876601,Pass Incompletion,2,0,16,16,,False,Oklahoma State,Florida State,17,10,3,12,33,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103858401,Pass Reception,2,8,73,73,1.5773551583638685,False,Oklahoma State,Florida State,17,10,3,14,15,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103865201,Pass Reception,1,10,47,47,1.099375399016988,False,Oklahoma State,Florida State,17,10,3,13,47,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103897501,Pass Reception,2,10,77,77,0.28760399331917963,False,Oklahoma State,Florida State,20,17,3,10,24,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103896401,Pass Incompletion,1,10,77,77,-0.6425305871127751,False,Oklahoma State,Florida State,20,17,3,10,35,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103905601,Pass Incompletion,3,3,70,70,-0.4649201051918652,False,Oklahoma State,Florida State,20,17,3,9,43,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103924502,Pass Incompletion,1,10,56,56,-1.1612466882658818,False,Oklahoma State,Florida State,20,17,3,7,54,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103935801,Pass Reception,2,11,43,43,-1.052222351415418,False,Oklahoma State,Florida State,20,17,3,6,41,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103988901,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,Oklahoma State,Florida State,27,17,3,1,10,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103997001,Pass Reception,3,5,66,66,-0.08230800512180993,False,Oklahoma State,Florida State,27,17,3,0,29,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762103989401,Pass Reception,2,10,71,71,0.0494777229908996,False,Oklahoma State,Florida State,27,17,3,1,5,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104897501,Pass Reception,3,5,66,66,2.280045517476829,False,Oklahoma State,Florida State,27,24,4,10,24,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104886101,Pass Reception,1,10,71,71,0.366045681425021,False,Oklahoma State,Florida State,27,24,4,11,38,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104945401,Pass Reception,3,19,33,33,1.6292038110801599,False,Oklahoma State,Florida State,27,24,4,5,45,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104934401,Pass Reception,1,10,45,45,0.795076136460093,False,Oklahoma State,Florida State,27,24,4,6,55,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104937101,Pass Incompletion,1,20,34,34,-0.8671658574622878,False,Oklahoma State,Florida State,27,24,4,6,28,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104964101,Passing Touchdown,2,8,50,50,4.663363790440567,True,Oklahoma State,Florida State,37,24,4,3,58,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547762104999901,Pass Incompletion,4,9,35,35,-1.5105190174105836,False,Oklahoma State,Florida State,37,31,4,0,0,1,Oklahoma State,2014,Florida State,Jameis Winston,2015
+400547763101887401,Pass Reception,1,10,28,72,0.342802009978914,False,Florida State,The Citadel,0,0,1,11,25,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763101965601,Passing Touchdown,2,1,12,88,2.004024816101417,True,Florida State,The Citadel,14,0,1,3,43,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763101947401,Pass Reception,1,10,80,20,1.2388651878297718,False,Florida State,The Citadel,7,0,1,5,25,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763101949401,Pass Reception,1,10,64,36,1.670678522708263,False,Florida State,The Citadel,7,0,1,5,5,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763101955401,Pass Reception,1,10,45,55,0.539787924153398,False,Florida State,The Citadel,7,0,1,4,45,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763101959901,Pass Reception,1,10,21,79,0.628271997694076,False,Florida State,The Citadel,7,0,1,4,0,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102884801,Pass Reception,2,10,46,54,0.3086426436449319,False,Florida State,The Citadel,14,0,2,11,51,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102879501,Pass Incompletion,1,10,46,54,-1.0250974847844603,False,Florida State,The Citadel,14,0,2,12,4,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102894601,Pass Reception,1,10,35,65,0.393521863681004,False,Florida State,The Citadel,14,0,2,10,53,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102888201,Pass Reception,3,4,40,60,1.2871534654970367,False,Florida State,The Citadel,14,0,2,11,17,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102997001,Passing Touchdown,2,1,1,99,1.900352237473006,True,Florida State,The Citadel,28,0,2,0,29,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102985401,Pass Reception,2,6,70,30,1.756181152187275,False,Florida State,The Citadel,21,0,2,1,45,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102986101,Pass Reception,1,10,56,44,1.257116610962765,False,Florida State,The Citadel,21,0,2,1,38,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102989601,Pass Reception,2,5,22,78,0.12624125740231,False,Florida State,The Citadel,21,0,2,1,3,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102988401,Pass Reception,1,10,45,55,0.735233243675582,False,Florida State,The Citadel,21,0,2,1,15,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102966901,Pass Reception,1,10,89,11,-0.23728395737570995,False,Florida State,The Citadel,21,0,2,3,30,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763102988901,Pass Reception,1,10,27,73,0.076110368943329,False,Florida State,The Citadel,21,0,2,1,10,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103887802,Pass Incompletion,3,5,5,95,-0.290992528642002,False,Florida State,The Citadel,28,0,3,11,21,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103859501,Pass Reception,1,10,44,56,0.7314444089030463,False,Florida State,The Citadel,28,0,3,14,4,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103865901,Pass Reception,1,10,24,76,0.641938297485138,False,Florida State,The Citadel,28,0,3,13,40,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103878401,Pass Reception,1,10,10,90,0.1799366018014815,False,Florida State,The Citadel,28,0,3,12,15,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103855501,Pass Reception,1,10,63,37,0.7113806413121412,False,Florida State,The Citadel,28,0,3,14,44,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103934601,Pass Incompletion,1,10,16,84,-0.3301132067544156,False,Florida State,The Citadel,31,0,3,6,53,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103926401,Pass Incompletion,1,10,34,66,-0.6630222646782312,False,Florida State,The Citadel,31,0,3,7,35,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103924401,Pass Reception,1,10,80,20,3.4493316346914327,False,Florida State,The Citadel,31,0,3,7,55,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103939001,Pass Incompletion,3,3,9,91,-0.3631109940856656,False,Florida State,The Citadel,31,0,3,6,9,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103927401,Pass Reception,2,10,34,66,1.0310257042995268,False,Florida State,The Citadel,31,0,3,7,25,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763103999901,Pass Reception,3,10,73,27,0.362577407316091,False,Florida State,The Citadel,34,0,3,0,0,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763104936701,Pass Incompletion,2,7,16,84,-0.3835955463237236,False,Florida State,The Citadel,34,6,4,6,32,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763104947301,Pass Incompletion,2,10,10,90,-0.2792458253567104,False,Florida State,The Citadel,34,6,4,5,26,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763104937401,Pass Reception,3,7,16,84,0.9059798210279626,False,Florida State,The Citadel,34,6,4,6,25,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547763104909901,Pass Reception,1,10,55,45,0.800099152249297,False,Florida State,The Citadel,34,6,4,9,0,2,The Citadel,2014,Florida State,Jameis Winston,2015
+400547742101869101,Pass Incompletion,2,14,78,22,-0.1888926945915781,False,Florida State,Clemson,0,0,1,13,8,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101869701,Pass Incompletion,3,14,78,22,-0.08412385347567587,False,Florida State,Clemson,0,0,1,13,2,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101924901,Pass Incompletion,2,7,32,68,-0.7793420910928395,False,Florida State,Clemson,0,0,1,7,50,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101914401,Pass Reception,2,10,62,38,3.0684099340698623,False,Florida State,Clemson,0,0,1,8,55,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101905301,Pass Reception,3,6,76,24,2.0363386522895315,False,Florida State,Clemson,0,0,1,9,46,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101925301,Pass Incompletion,3,7,32,68,-0.9919047692460377,False,Florida State,Clemson,0,0,1,7,46,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101909301,Pass Incompletion,1,10,62,38,-1.087995077167328,False,Florida State,Clemson,0,0,1,9,6,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101897901,Pass Reception,2,12,82,18,0.0946611590503954,False,Florida State,Clemson,0,0,1,10,20,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101955701,Pass Incompletion,3,15,43,57,-0.7226323711165908,False,Florida State,Clemson,3,0,1,4,42,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101947401,Pass Reception,1,10,74,26,2.912183663875778,False,Florida State,Clemson,3,0,1,5,25,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101954901,Pass Incompletion,1,15,43,57,-0.9845486966154499,False,Florida State,Clemson,3,0,1,4,50,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742101955301,Pass Incompletion,2,15,43,57,-0.992431837977211,False,Florida State,Clemson,3,0,1,4,46,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742102909401,Pass Incompletion,2,11,92,8,-0.12021192936008075,False,Florida State,Clemson,3,3,2,9,5,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742102945701,Pass Reception,1,10,71,29,1.7675625840445337,False,Florida State,Clemson,3,10,2,5,42,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742102955901,Pass Incompletion,2,10,52,48,-0.9850636246407553,False,Florida State,Clemson,3,10,2,4,40,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742102994501,Pass Incompletion,3,17,45,55,-0.58317735793299,False,Florida State,Clemson,3,10,2,0,54,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742102986401,Pass Reception,2,16,44,56,-0.1649381539797972,False,Florida State,Clemson,3,10,2,1,35,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103887001,Pass Incompletion,2,9,21,79,-0.484501047579638,False,Florida State,Clemson,3,10,3,11,29,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103854901,Pass Reception,1,10,68,32,0.957607503602544,False,Florida State,Clemson,3,10,3,14,50,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103867101,Pass Reception,2,7,45,55,1.3871538627653681,False,Florida State,Clemson,3,10,3,13,28,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103879901,Pass Reception,1,10,22,78,-0.310131189369969,False,Florida State,Clemson,3,10,3,12,0,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103877501,Pass Reception,2,11,34,66,1.0518574025552074,False,Florida State,Clemson,3,10,3,12,24,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103887601,Pass Reception,3,4,16,84,1.970869179182712,False,Florida State,Clemson,3,10,3,11,23,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103857401,Pass Reception,1,10,58,42,0.9916447666850381,False,Florida State,Clemson,3,10,3,14,25,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103937101,Pass Incompletion,3,16,68,32,-0.13955094376801913,False,Florida State,Clemson,10,10,3,6,28,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742103915901,Pass Reception,1,10,75,25,0.3333748010525683,False,Florida State,Clemson,10,10,3,8,40,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104858401,Pass Incompletion,2,6,73,27,-0.5934187553470212,False,Florida State,Clemson,10,10,4,14,15,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104868301,Pass Interception Return,2,5,47,53,-3.0964830273711463,False,Florida State,Clemson,10,10,4,13,16,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104865202,Pass Interception Return,2,5,47,53,-3.0964830273711463,False,Florida State,Clemson,10,10,4,13,47,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104865201,Pass Reception,1,10,52,48,0.1045373160815773,False,Florida State,Clemson,10,10,4,13,47,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104858901,Pass Reception,3,6,73,27,2.89944299132124,False,Florida State,Clemson,10,10,4,14,10,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104909702,Pass Incompletion,3,12,53,47,-0.5296830240435471,False,Florida State,Clemson,10,17,4,9,2,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104909701,Pass Incompletion,3,11,52,48,-0.5997337243516201,False,Florida State,Clemson,10,17,4,9,2,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104906401,Pass Reception,2,10,51,49,-0.1656124976871656,False,Florida State,Clemson,10,17,4,9,35,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104886901,Pass Reception,1,10,75,25,-0.2957674139440157,False,Florida State,Clemson,10,17,4,11,30,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104905901,Pass Incompletion,1,10,51,49,-1.1301991718133413,False,Florida State,Clemson,10,17,4,9,40,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104894201,Pass Reception,2,7,72,28,1.2263299258900062,False,Florida State,Clemson,10,17,4,10,57,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104897201,Pass Reception,1,10,64,36,1.3816838899351875,False,Florida State,Clemson,10,17,4,10,27,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104939501,Passing Touchdown,2,24,74,26,7.243596642182647,True,Florida State,Clemson,17,17,4,6,4,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104928001,Pass Reception,1,10,76,24,1.3887177392721153,False,Florida State,Clemson,10,17,4,7,19,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547742104978501,Pass Interception Return,3,10,75,25,0.12783001888671208,False,Florida State,Clemson,17,17,4,2,14,4,Clemson,2014,Florida State,Jameis Winston,2015
+400547764101878101,Pass Incompletion,2,20,32,32,-0.9967707671181252,False,NC State,Florida State,0,7,1,12,18,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101868401,Pass Reception,1,10,22,22,0.074636067054974,False,NC State,Florida State,0,7,1,13,15,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101858401,Pass Incompletion,1,10,36,36,-0.7215426143188567,False,NC State,Florida State,0,7,1,14,15,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101855704,Pass Reception,1,10,55,55,1.265835142302569,False,NC State,Florida State,0,7,1,14,42,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101864401,Pass Reception,3,5,31,31,1.0236060078215954,False,NC State,Florida State,0,7,1,13,55,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101879601,Passing Touchdown,3,20,32,32,5.454027060885091,True,NC State,Florida State,7,7,1,12,3,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101956401,Pass Incompletion,3,11,82,82,-0.0909960794031095,False,NC State,Florida State,7,17,1,4,35,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101955901,Pass Incompletion,2,11,82,82,-0.20667287608417073,False,NC State,Florida State,7,17,1,4,40,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102849901,Pass Reception,3,4,12,12,0.49829372175903,False,NC State,Florida State,7,24,2,15,0,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101987901,Pass Reception,1,10,41,41,0.0885892770886229,False,NC State,Florida State,7,24,1,1,20,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101979901,Pass Reception,1,10,82,82,-0.3300044670451081,False,NC State,Florida State,7,24,1,2,0,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101997401,Pass Reception,1,10,18,18,0.1838527971014785,False,NC State,Florida State,7,24,1,0,25,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101994401,Pass Incompletion,2,5,36,36,-0.8978390125055055,False,NC State,Florida State,7,24,1,0,55,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101985401,Pass Reception,2,8,80,80,3.5777830904414394,False,NC State,Florida State,7,24,1,1,45,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764101995901,Pass Reception,3,5,36,36,1.457976652242811,False,NC State,Florida State,7,24,1,0,40,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102884101,Passing Touchdown,1,10,22,22,2.64762276664846,True,NC State,Florida State,21,24,2,11,58,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102919401,Pass Reception,1,10,72,72,2.1693988759860954,False,NC State,Florida State,21,24,2,8,5,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102924401,Pass Reception,1,10,48,48,-0.1319374071745773,False,NC State,Florida State,21,24,2,7,55,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102935401,Pass Incompletion,3,8,46,46,-0.9106683441043435,False,NC State,Florida State,21,24,2,6,45,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102997201,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,NC State,Florida State,21,24,2,0,27,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764102996602,Pass Reception,3,7,92,92,1.4744662920080893,False,NC State,Florida State,21,24,2,0,33,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103855401,Pass Interception Return,1,10,60,60,-2.2430993958563246,False,NC State,Florida State,21,24,3,14,45,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103889901,Pass Reception,2,5,66,66,1.0152237490731402,False,NC State,Florida State,21,31,3,11,0,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103885401,Pass Reception,2,12,83,83,1.327845454238978,False,NC State,Florida State,21,31,3,11,45,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103887401,Pass Reception,1,10,71,71,0.1013807738833972,False,NC State,Florida State,21,31,3,11,25,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103905401,Pass Reception,2,6,55,55,1.7317199626477515,False,NC State,Florida State,21,31,3,9,45,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103936501,Pass Reception,1,15,76,76,0.04391644520887007,False,NC State,Florida State,28,38,3,6,34,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103946401,Pass Reception,1,10,55,55,1.718414147751282,False,NC State,Florida State,28,38,3,5,35,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103939901,Pass Reception,2,10,71,71,2.3295232404677284,False,NC State,Florida State,28,38,3,6,0,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103948401,Pass Incompletion,1,10,15,15,-0.320977659489319,False,NC State,Florida State,28,38,3,5,15,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103949301,Passing Touchdown,2,10,15,15,2.879176749054402,True,NC State,Florida State,35,38,3,5,6,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103967501,Passing Touchdown,2,4,4,4,2.3338902404479605,True,NC State,Florida State,42,38,3,3,24,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764104849901,Pass Reception,2,7,35,35,0.660557815510252,False,NC State,Florida State,42,38,4,15,0,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764104868401,Pass Reception,3,2,16,16,1.287736289097037,False,NC State,Florida State,42,38,4,13,15,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764103996401,Pass Incompletion,1,10,53,53,-1.1527089917962545,False,NC State,Florida State,42,38,3,0,35,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764104928401,Pass Interception Return,2,14,77,77,0.048944652954843626,False,NC State,Florida State,49,38,4,7,15,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764104945901,Pass Incompletion,2,7,72,72,-0.5594317282120231,False,NC State,Florida State,49,41,4,5,40,5,NC State,2014,Florida State,Jameis Winston,2015
+400547764104946501,Pass Reception,3,7,72,72,1.9799506211978697,False,NC State,Florida State,49,41,4,5,34,5,NC State,2014,Florida State,Jameis Winston,2015
+400547765101914101,Pass Interception Return,3,10,56,44,-0.587280404620893,False,Florida State,Wake Forest,0,0,1,8,58,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765101908701,Pass Incompletion,1,10,56,44,-1.1612466882658818,False,Florida State,Wake Forest,0,0,1,9,12,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765101909101,Pass Incompletion,2,10,56,44,-0.8812901257339192,False,Florida State,Wake Forest,0,0,1,9,8,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765101904901,Pass Reception,1,10,69,31,0.6816920045798367,False,Florida State,Wake Forest,0,0,1,9,50,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765101994101,Pass Reception,2,10,75,25,-0.4311967026252628,False,Florida State,Wake Forest,0,3,1,0,58,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102884801,Pass Incompletion,3,8,26,74,-0.8610926804415193,False,Florida State,Wake Forest,0,3,2,11,51,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102854901,Pass Reception,1,15,58,42,1.588971703080462,False,Florida State,Wake Forest,0,3,2,14,50,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765101988901,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Florida State,Wake Forest,0,3,1,1,10,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765101997601,Pass Reception,3,12,77,23,3.1166224108169285,False,Florida State,Wake Forest,0,3,1,0,23,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102919901,Pass Incompletion,2,13,41,59,-1.0318343414699758,False,Florida State,Wake Forest,3,3,2,8,0,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102908501,Pass Reception,1,10,57,43,1.2806291789588773,False,Florida State,Wake Forest,3,3,2,9,14,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102914901,Pass Reception,2,1,48,52,0.0900948699672612,False,Florida State,Wake Forest,3,3,2,8,50,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102969901,Pass Reception,1,10,39,61,0.508141741136058,False,Florida State,Wake Forest,3,3,2,3,0,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102966801,Pass Reception,1,10,50,50,0.700973377189822,False,Florida State,Wake Forest,3,3,2,3,31,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102997401,Pass Incompletion,2,1,31,69,-0.840747377696751,False,Florida State,Wake Forest,10,3,2,0,25,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102998601,Pass Incompletion,2,10,23,77,-0.550474767221999,False,Florida State,Wake Forest,10,3,2,0,13,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102999201,Pass Incompletion,3,10,23,77,-0.8238981172019636,False,Florida State,Wake Forest,10,3,2,0,7,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102998101,Pass Incompletion,1,10,23,77,-0.4181180581276075,False,Florida State,Wake Forest,10,3,2,0,18,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102997801,Pass Reception,3,1,31,69,0.5258570939782565,False,Florida State,Wake Forest,10,3,2,0,21,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765102997001,Pass Reception,1,10,40,60,0.839961749584607,False,Florida State,Wake Forest,10,3,2,0,29,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103875801,Pass Reception,3,10,38,62,-0.3865004431122294,False,Florida State,Wake Forest,13,3,3,12,41,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103874701,Pass Incompletion,2,10,38,62,-0.9886314711142071,False,Florida State,Wake Forest,13,3,3,12,52,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103858301,Pass Reception,1,10,50,50,-0.141734208558013,False,Florida State,Wake Forest,13,3,3,14,16,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103855901,Pass Reception,1,10,68,32,1.6778987835204866,False,Florida State,Wake Forest,13,3,3,14,40,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103868501,Pass Reception,3,4,44,56,1.540143289578349,False,Florida State,Wake Forest,13,3,3,13,14,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103874001,Pass Incompletion,1,10,38,62,-0.7828922522763084,False,Florida State,Wake Forest,13,3,3,12,59,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103925901,Pass Incompletion,3,12,49,51,-0.6525566386023023,False,Florida State,Wake Forest,16,3,3,7,40,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103897701,Pass Reception,3,10,71,29,2.4799878500230124,False,Florida State,Wake Forest,16,3,3,10,22,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103904801,Pass Reception,1,10,58,42,-1.5454956072472221,False,Florida State,Wake Forest,16,3,3,9,51,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103889101,Pass Incompletion,1,10,71,29,-0.8305196050291288,False,Florida State,Wake Forest,16,3,3,11,8,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103999901,Pass Reception,1,10,71,29,-0.8305196050291288,False,Florida State,Wake Forest,30,3,3,0,0,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104865701,Pass Incompletion,2,26,28,72,-0.988417795457206,False,Florida State,Wake Forest,30,3,4,13,42,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104854301,Pass Incompletion,2,10,71,29,-0.43555458427823446,False,Florida State,Wake Forest,30,3,4,14,56,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104866701,Pass Reception,3,26,28,72,-0.3286100029109899,False,Florida State,Wake Forest,30,3,4,13,32,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104855501,Pass Reception,3,10,71,29,4.511596520026402,False,Florida State,Wake Forest,30,3,4,14,44,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765103998501,Pass Reception,1,10,82,18,0.7126813765378861,False,Florida State,Wake Forest,30,3,3,0,14,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104899901,Pass Reception,3,4,85,15,2.6973706453919437,False,Florida State,Wake Forest,33,3,4,10,0,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104896901,Pass Reception,2,8,89,11,-0.028793934635411137,False,Florida State,Wake Forest,33,3,4,10,30,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104908901,Passing Touchdown,2,13,59,41,6.134443266373224,True,Florida State,Wake Forest,40,3,4,9,10,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104947501,Pass Reception,2,14,22,78,0.22059771833926,False,Florida State,Wake Forest,40,3,4,5,24,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547765104954201,Pass Incompletion,3,7,15,85,-0.5045274456235145,False,Florida State,Wake Forest,40,3,4,4,57,6,Wake Forest,2014,Florida State,Jameis Winston,2015
+400547766101855101,Pass Reception,1,10,70,70,1.352349268401042,False,Syracuse,Florida State,0,0,1,14,48,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101864901,Pass Reception,1,10,55,55,1.2321065178353567,False,Syracuse,Florida State,0,0,1,13,50,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101874201,Pass Reception,2,1,46,46,-1.2838054719013667,False,Syracuse,Florida State,0,0,1,12,57,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101884901,Pass Reception,1,10,43,43,0.5640689033327422,False,Syracuse,Florida State,0,0,1,11,50,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101855901,Pass Reception,2,1,61,61,0.0638240131869363,False,Syracuse,Florida State,0,0,1,14,40,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101955301,Pass Reception,1,10,51,51,0.8604842386778613,False,Syracuse,Florida State,7,0,1,4,46,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101986901,Pass Incompletion,3,6,12,12,-0.4165499578659445,False,Syracuse,Florida State,7,0,1,1,30,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101928901,Pass Reception,1,10,61,61,-0.673782181215797,False,Syracuse,Florida State,7,0,1,7,10,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101967501,Pass Incompletion,2,6,35,35,-0.8671588535058826,False,Syracuse,Florida State,7,0,1,3,24,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766101948301,Pass Reception,3,11,62,62,2.871154817468489,False,Syracuse,Florida State,7,0,1,5,16,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102875401,Pass Incompletion,1,10,65,65,-1.0146424556055624,False,Syracuse,Florida State,10,3,2,12,45,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102885801,Pass Reception,2,9,49,49,2.831516077695614,False,Syracuse,Florida State,10,3,2,11,41,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102876901,Pass Reception,2,10,65,65,2.4159475341755243,False,Syracuse,Florida State,10,3,2,12,30,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102896201,Passing Touchdown,2,4,4,4,2.3338902404479605,True,Syracuse,Florida State,17,3,2,10,37,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102949601,Pass Reception,2,2,29,29,-0.171901959052158,False,Syracuse,Florida State,17,6,2,5,3,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102956101,Passing Touchdown,1,10,21,21,2.632296813795493,True,Syracuse,Florida State,24,6,2,4,38,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102946601,Pass Reception,1,10,37,37,0.5910137767334082,False,Syracuse,Florida State,17,6,2,5,33,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102935101,Pass Reception,1,10,75,75,1.252308359788624,False,Syracuse,Florida State,17,6,2,6,48,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766102939101,Pass Reception,1,10,65,65,1.2346627219809039,False,Syracuse,Florida State,17,6,2,6,8,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103877501,Pass Reception,2,10,66,66,-0.1050095822748167,False,Syracuse,Florida State,24,6,3,12,24,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103906402,Pass Incompletion,2,7,17,17,-0.400139041793347,False,Syracuse,Florida State,24,6,3,9,35,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103889401,Pass Reception,1,10,44,44,0.4761561965963513,False,Syracuse,Florida State,24,6,3,11,5,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103916101,Passing Touchdown,2,7,7,7,2.607148468017737,True,Syracuse,Florida State,31,6,3,8,38,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103885901,Pass Reception,3,6,62,62,3.015352241661817,False,Syracuse,Florida State,24,6,3,11,40,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103907101,Pass Reception,3,7,17,17,0.816726788153529,False,Syracuse,Florida State,24,6,3,9,28,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103867801,Pass Reception,1,10,79,79,0.9937654000875416,False,Syracuse,Florida State,24,6,3,13,21,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103949401,Pass Incompletion,3,3,75,75,-0.36181918300734495,False,Syracuse,Florida State,31,13,3,5,5,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103946501,Pass Reception,2,5,77,77,-0.35878037057714707,False,Syracuse,Florida State,31,13,3,5,34,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103995401,Pass Reception,1,10,61,61,2.11373519507338,False,Syracuse,Florida State,31,13,3,0,45,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103968102,Pass Reception,1,10,92,92,-0.39644426365700003,False,Syracuse,Florida State,31,13,3,3,18,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103998601,Pass Reception,1,10,27,27,-0.8866443890527425,False,Syracuse,Florida State,31,13,3,0,13,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766103989201,Pass Reception,2,9,70,70,1.6109747099389933,False,Syracuse,Florida State,31,13,3,1,7,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766104859201,Pass Reception,3,10,27,27,1.7048746485709165,False,Syracuse,Florida State,31,13,4,14,7,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766104926601,Pass Reception,3,21,63,63,-0.05895246574610536,False,Syracuse,Florida State,38,20,4,7,33,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766104896701,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Syracuse,Florida State,38,20,4,10,32,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547766104978301,Pass Reception,3,6,32,32,1.1351448459065079,False,Syracuse,Florida State,38,20,4,2,16,7,Syracuse,2014,Florida State,Jameis Winston,2015
+400547767101869901,Pass Reception,2,10,63,37,-0.7567902447750141,False,Florida State,Notre Dame,0,0,1,13,0,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767101876601,Pass Incompletion,3,11,64,36,-0.293855693504403,False,Florida State,Notre Dame,0,0,1,12,33,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767101867702,Pass Incompletion,1,10,63,37,-1.065701080215459,False,Florida State,Notre Dame,0,0,1,13,22,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767101909701,Pass Incompletion,3,11,62,38,-0.33413244609037296,False,Florida State,Notre Dame,0,0,1,9,2,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767101979901,Pass Reception,1,10,65,35,1.9477815391192108,False,Florida State,Notre Dame,0,7,1,2,0,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767101985401,Pass Reception,1,10,42,58,0.870697647925656,False,Florida State,Notre Dame,0,7,1,1,45,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767101998001,Passing Touchdown,2,11,11,89,2.8564060508254165,True,Florida State,Notre Dame,7,7,1,0,19,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102875901,Pass Interception Return,1,10,81,19,-0.5613804789972034,False,Florida State,Notre Dame,7,7,2,12,40,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102889401,Pass Reception,2,12,83,17,-0.11444719232554945,False,Florida State,Notre Dame,7,14,2,11,5,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102897001,Pass Incompletion,3,10,81,19,-0.10907493765085707,False,Florida State,Notre Dame,7,14,2,10,29,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102954901,Pass Incompletion,3,9,11,89,-0.439164857065867,False,Florida State,Notre Dame,7,14,2,4,50,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102927401,Pass Reception,1,10,39,61,0.435345095661706,False,Florida State,Notre Dame,7,14,2,7,25,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102936801,Pass Reception,1,10,28,72,0.669445675164459,False,Florida State,Notre Dame,7,14,2,6,31,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102917901,Pass Reception,1,10,50,50,0.838762649996877,False,Florida State,Notre Dame,7,14,2,8,20,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767102954501,Pass Incompletion,2,9,11,89,-0.2954261778871175,False,Florida State,Notre Dame,7,14,2,4,54,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103855401,Pass Reception,1,10,70,30,-0.716015480823808,False,Florida State,Notre Dame,10,17,3,14,45,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103874901,Pass Reception,1,10,35,65,0.081604517220205,False,Florida State,Notre Dame,10,17,3,12,50,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103876901,Pass Reception,2,5,30,70,0.209546317949776,False,Florida State,Notre Dame,10,17,3,12,30,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103885901,Pass Reception,1,15,29,71,0.6431900357275687,False,Florida State,Notre Dame,10,17,3,11,40,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103896201,Passing Touchdown,2,10,10,90,2.7992199015013846,True,Florida State,Notre Dame,17,17,3,10,37,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103858601,Pass Reception,2,9,69,31,2.3135025661548436,False,Florida State,Notre Dame,10,17,3,14,13,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103868401,Pass Reception,2,5,48,52,1.016939460099046,False,Florida State,Notre Dame,10,17,3,13,15,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103937601,Pass Reception,1,10,64,36,1.7948225198444767,False,Florida State,Notre Dame,17,24,3,6,23,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103928401,Pass Reception,1,10,75,25,0.3333748010525683,False,Florida State,Notre Dame,17,24,3,7,15,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767103944001,Pass Reception,1,10,43,57,0.6883924098596257,False,Florida State,Notre Dame,17,24,3,5,59,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767104887401,Pass Reception,1,10,75,25,1.320854515577646,False,Florida State,Notre Dame,24,27,4,11,25,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767104888901,Pass Reception,1,10,60,40,0.994570052506427,False,Florida State,Notre Dame,24,27,4,11,10,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767104895401,Pass Reception,1,10,49,51,0.575042778164864,False,Florida State,Notre Dame,24,27,4,10,45,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767104898401,Pass Incompletion,2,3,42,58,-1.104454710292913,False,Florida State,Notre Dame,24,27,4,10,15,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767104916401,Pass Reception,3,2,18,82,1.335980735867191,False,Florida State,Notre Dame,24,27,4,8,35,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547767104899901,Pass Reception,3,3,42,58,1.5717403613571168,False,Florida State,Notre Dame,24,27,4,10,0,8,Notre Dame,2014,Florida State,Jameis Winston,2015
+400547768101909901,Pass Incompletion,2,10,58,58,-0.8208195606150266,False,Louisville,Florida State,0,0,1,9,0,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101897101,Pass Reception,1,10,71,71,0.1013807738833972,False,Louisville,Florida State,0,0,1,10,28,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101914401,Pass Incompletion,3,15,63,63,-0.21842222275803636,False,Louisville,Florida State,0,0,1,8,55,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101894501,Pass Reception,2,4,79,79,0.5983855085849541,False,Louisville,Florida State,0,0,1,10,54,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101879701,Pass Incompletion,2,7,95,95,-0.19259392906801498,False,Louisville,Florida State,0,0,1,12,2,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101884601,Pass Reception,3,7,95,95,0.6480296249431898,False,Louisville,Florida State,0,0,1,11,53,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101944301,Pass Incompletion,2,21,80,80,-0.08009731143698318,False,Louisville,Florida State,0,0,1,5,56,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101984101,Pass Incompletion,1,10,44,44,-0.9690270974076257,False,Louisville,Florida State,0,0,1,1,58,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768101989201,Pass Incompletion,3,8,42,42,-0.997636645534481,False,Louisville,Florida State,0,0,1,1,7,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102905001,Pass Reception,3,4,71,71,1.7454908391547654,False,Louisville,Florida State,0,7,2,9,49,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102925401,Pass Incompletion,2,3,44,44,-1.1605871644971673,False,Louisville,Florida State,0,7,2,7,45,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102914901,Pass Incompletion,1,6,58,58,-1.3535699532045982,False,Louisville,Florida State,0,7,2,8,50,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102887401,Pass Reception,2,6,84,84,0.07004184578596107,False,Louisville,Florida State,0,7,2,11,25,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102926301,Pass Interception Return,3,8,49,49,-1.332898143770958,False,Louisville,Florida State,0,7,2,7,36,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102895701,Pass Incompletion,1,10,77,77,-0.6425305871127751,False,Louisville,Florida State,0,7,2,10,42,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102896901,Pass Reception,2,15,82,82,0.47962555143444163,False,Louisville,Florida State,0,7,2,10,30,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102918701,Pass Reception,1,10,51,51,0.6049387793407243,False,Louisville,Florida State,0,7,2,8,12,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102949901,Pass Interception Return,1,10,80,80,-0.6139422043948972,False,Louisville,Florida State,0,14,2,5,0,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102984301,Pass Reception,1,10,78,78,1.4169687658762562,False,Louisville,Florida State,0,21,2,1,56,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102989201,Pass Incompletion,1,10,10,10,-0.2853930592519426,False,Louisville,Florida State,0,21,2,1,7,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102986401,Pass Reception,1,10,61,61,1.665966892527525,False,Louisville,Florida State,0,21,2,1,35,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768102988801,Pass Reception,1,10,40,40,0.675222301687899,False,Louisville,Florida State,0,21,2,1,11,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103855601,Pass Interception Return,1,10,75,75,-0.9222448802786785,False,Louisville,Florida State,7,21,3,14,43,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103889601,Pass Reception,1,10,74,74,0.0963261532824955,False,Louisville,Florida State,7,24,3,11,3,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103904801,Passing Touchdown,3,4,68,68,6.56544159723757,True,Louisville,Florida State,14,24,3,9,51,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103917301,Pass Reception,1,10,80,80,0.8667470799632433,False,Louisville,Florida State,14,24,3,8,26,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103935201,Pass Reception,1,10,46,46,0.3120620714803497,False,Louisville,Florida State,14,24,3,6,47,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103919901,Pass Reception,1,10,68,68,1.1491279342625536,False,Louisville,Florida State,14,24,3,8,0,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103928801,Pass Reception,1,10,56,56,0.8268953732448417,False,Louisville,Florida State,14,24,3,7,11,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103957601,Pass Incompletion,1,10,63,63,-1.065701080215459,False,Louisville,Florida State,21,24,3,4,23,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103968801,Pass Incompletion,1,10,51,51,-1.1301991718133413,False,Louisville,Florida State,21,24,3,3,11,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103966601,Pass Reception,3,4,57,57,1.926156235402386,False,Louisville,Florida State,21,24,3,3,33,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103987501,Pass Incompletion,2,9,14,14,-0.340643437197285,False,Louisville,Florida State,21,24,3,1,24,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103958901,Pass Reception,2,10,63,63,0.2666884344978842,False,Louisville,Florida State,21,24,3,4,10,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103989001,Pass Incompletion,3,19,24,24,-0.9951194987715973,False,Louisville,Florida State,21,24,3,1,9,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768103969701,Pass Reception,2,10,51,51,2.182046950117318,False,Louisville,Florida State,21,24,3,3,2,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104867501,Pass Reception,1,10,65,65,1.6295147694249048,False,Louisville,Florida State,21,24,4,13,24,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104874101,Pass Incompletion,2,10,47,47,-1.0598235743711744,False,Louisville,Florida State,21,24,4,12,58,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104869601,Pass Incompletion,1,10,47,47,-1.0507069190375147,False,Louisville,Florida State,21,24,4,13,3,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104875101,Passing Touchdown,3,10,47,47,5.723732734675119,True,Louisville,Florida State,28,24,4,12,48,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104909201,Pass Reception,1,10,70,70,0.935885914760668,False,Louisville,Florida State,28,31,4,9,7,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104919901,Pass Incompletion,1,10,47,47,-1.0507069190375147,False,Louisville,Florida State,28,31,4,8,0,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104935101,Pass Incompletion,2,6,32,32,-0.7728792342011417,False,Louisville,Florida State,28,31,4,6,48,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104915901,Pass Incompletion,1,10,60,60,-1.1247712359915258,False,Louisville,Florida State,28,31,4,8,40,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104916501,Pass Incompletion,2,10,60,60,-0.7576599502448165,False,Louisville,Florida State,28,31,4,8,34,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104918401,Pass Reception,3,10,60,60,3.0261295491135876,False,Louisville,Florida State,28,31,4,8,15,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104924701,Pass Reception,2,10,47,47,1.6531310652901485,False,Louisville,Florida State,28,31,4,7,52,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547768104978801,Passing Touchdown,3,6,35,35,4.092807616626917,True,Louisville,Florida State,42,31,4,2,11,10,Louisville,2014,Florida State,Jameis Winston,2015
+400547769101868001,Pass Incompletion,3,8,67,33,-0.32374585344816076,False,Florida State,Virginia,0,0,1,13,19,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101867501,Pass Incompletion,2,8,67,33,-0.6469157130199852,False,Florida State,Virginia,0,0,1,13,24,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101864301,Pass Reception,3,3,73,27,1.0852463190052344,False,Florida State,Virginia,0,0,1,13,56,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101854701,Pass Incompletion,1,10,80,20,-0.5586693796725282,False,Florida State,Virginia,0,0,1,14,52,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101918301,Pass Interception Return,3,5,53,47,-1.3579725624670473,False,Florida State,Virginia,7,0,1,8,16,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101908101,Pass Reception,3,3,76,24,2.2362647199661625,False,Florida State,Virginia,7,0,1,9,18,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101914301,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Florida State,Virginia,7,0,1,8,56,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101898401,Pass Reception,1,10,83,17,0.0803248403226124,False,Florida State,Virginia,7,0,1,10,15,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101915901,Pass Reception,2,10,58,42,0.0693024625266947,False,Florida State,Virginia,7,0,1,8,40,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101965601,Pass Reception,2,7,72,28,2.1886249959801294,False,Florida State,Virginia,7,7,1,3,43,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769101975401,Pass Interception Return,2,8,52,48,-2.1415859146172256,False,Florida State,Virginia,7,7,1,2,45,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102854401,Pass Incompletion,2,9,74,26,-0.40831395320271024,False,Florida State,Virginia,7,13,2,14,55,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102854901,Pass Incompletion,3,9,74,26,-0.18876768235831598,False,Florida State,Virginia,7,13,2,14,50,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102858501,Passing Touchdown,1,10,22,78,2.64762276664846,True,Florida State,Virginia,21,13,2,14,14,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102905401,Pass Reception,1,10,53,47,0.9027604054456208,False,Florida State,Virginia,21,13,2,9,45,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102918501,Pass Reception,3,3,30,70,0.6821601626701135,False,Florida State,Virginia,21,13,2,8,14,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102929301,Pass Reception,2,16,31,69,0.7470661668892564,False,Florida State,Virginia,21,13,2,7,6,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102897901,Pass Reception,2,10,68,32,2.3502490691659332,False,Florida State,Virginia,21,13,2,10,20,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769102916701,Pass Reception,2,10,37,63,0.421100267371843,False,Florida State,Virginia,21,13,2,8,32,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103885401,Pass Incompletion,3,5,64,36,-0.5147129574042966,False,Florida State,Virginia,28,13,3,11,45,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103885001,Pass Incompletion,2,5,64,36,-0.946565887314053,False,Florida State,Virginia,28,13,3,11,49,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103878101,Pass Reception,1,10,69,31,0.1043573190685727,False,Florida State,Virginia,28,13,3,12,18,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103955301,Pass Incompletion,3,5,25,75,-0.765830676335364,False,Florida State,Virginia,28,20,3,4,46,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103938301,Pass Reception,1,10,40,60,0.37480601101457,False,Florida State,Virginia,28,20,3,6,16,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103919801,Pass Reception,1,10,85,15,0.8453446771202451,False,Florida State,Virginia,28,20,3,8,1,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103925901,Pass Reception,1,10,71,29,0.6599378983160946,False,Florida State,Virginia,28,20,3,7,40,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103946601,Pass Reception,1,15,35,65,0.683511188922745,False,Florida State,Virginia,28,20,3,5,33,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103928901,Pass Reception,2,3,64,36,1.192311770545931,False,Florida State,Virginia,28,20,3,7,10,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103997801,Pass Incompletion,3,7,23,77,-0.7450790543892561,False,Florida State,Virginia,31,20,3,0,21,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103978401,Pass Reception,1,10,39,61,0.086001265551813,False,Florida State,Virginia,31,20,3,2,15,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103997301,Pass Incompletion,2,7,23,77,-0.5232475025666248,False,Florida State,Virginia,31,20,3,0,26,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103985901,Pass Reception,2,5,34,66,0.3344351669715575,False,Florida State,Virginia,31,20,3,1,40,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769103976901,Pass Reception,2,9,60,40,2.6148748993977193,False,Florida State,Virginia,31,20,3,2,30,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769104949601,Pass Reception,2,7,83,17,3.4846266083595747,False,Florida State,Virginia,34,20,4,5,3,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547769104975901,Pass Reception,3,6,26,74,0.904946392160141,False,Florida State,Virginia,34,20,4,2,40,11,Virginia,2014,Florida State,Jameis Winston,2015
+400547770101858501,Pass Reception,2,11,76,76,0.14230199528328402,False,Miami,Florida State,0,0,1,14,14,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770101865301,Pass Incompletion,3,5,70,70,-0.3716239049161505,False,Miami,Florida State,0,0,1,13,46,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770101856301,Pass Reception,1,10,75,75,-0.8014893508157099,False,Miami,Florida State,0,0,1,14,36,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770101884001,Pass Incompletion,3,3,42,42,-1.12928413262099,False,Miami,Florida State,0,0,1,11,59,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770101876901,Pass Reception,2,8,47,47,0.0865022621549461,False,Miami,Florida State,0,0,1,12,30,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770101939601,Pass Reception,2,8,77,77,-0.3879520036841484,False,Miami,Florida State,0,7,1,6,3,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770101947601,Pass Incompletion,3,8,77,77,-0.17609131219023322,False,Miami,Florida State,0,7,1,5,23,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102856101,Pass Incompletion,1,10,69,69,-0.8947814664467213,False,Miami,Florida State,0,16,2,14,38,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102856601,Pass Incompletion,2,10,69,69,-0.48647765014911126,False,Miami,Florida State,0,16,2,14,33,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102859901,Pass Reception,1,10,48,48,-0.1319374071745773,False,Miami,Florida State,0,16,2,14,0,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102857801,Pass Reception,3,10,69,69,3.3023162854309254,False,Miami,Florida State,0,16,2,14,21,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102899701,Pass Reception,1,10,52,52,1.19381115578766,False,Miami,Florida State,7,23,2,10,2,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102914601,Pass Reception,2,10,30,30,0.0526462996348637,False,Miami,Florida State,7,23,2,8,53,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102918401,Pass Incompletion,3,5,25,25,-0.765830676335364,False,Miami,Florida State,7,23,2,8,15,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102887801,Pass Reception,2,10,75,75,1.7302143481872232,False,Miami,Florida State,7,23,2,11,21,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102886801,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Miami,Florida State,7,23,2,11,31,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102986701,Pass Reception,1,10,80,80,2.290758362031795,False,Miami,Florida State,10,23,2,1,32,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102996801,Pass Interception Return,1,10,39,39,-3.859561445068449,False,Miami,Florida State,10,23,2,0,31,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102995401,Pass Reception,3,15,58,58,3.702883748022294,False,Miami,Florida State,10,23,2,0,45,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770102987401,Pass Incompletion,1,10,53,53,-1.1527089917962545,False,Miami,Florida State,10,23,2,1,25,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103875502,Pass Reception,1,10,38,38,0.490145019947665,False,Miami,Florida State,10,23,3,12,44,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103945801,Pass Reception,2,9,37,37,1.371817470239101,False,Miami,Florida State,10,23,3,5,41,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103924401,Pass Reception,2,2,77,77,0.692625621488272,False,Miami,Florida State,10,23,3,7,55,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103934501,Pass Incompletion,1,10,54,54,-1.1590089706435955,False,Miami,Florida State,10,23,3,6,54,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103957301,Pass Incompletion,2,11,11,11,-0.2964634983560065,False,Miami,Florida State,10,23,3,4,26,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103935301,Pass Reception,2,10,54,54,2.2493138597436153,False,Miami,Florida State,10,23,3,6,46,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103958001,Passing Touchdown,3,11,11,11,3.152869549181423,True,Miami,Florida State,17,23,3,4,19,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103926201,Pass Reception,1,10,65,65,0.7081222799232592,False,Miami,Florida State,10,23,3,7,37,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103917601,Pass Reception,1,10,85,85,0.6856189176956029,False,Miami,Florida State,10,23,3,8,23,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104854401,Pass Incompletion,2,9,15,15,-0.357795042815253,False,Miami,Florida State,17,23,4,14,55,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104854901,Pass Incompletion,3,14,20,20,-0.8511458403443316,False,Miami,Florida State,17,23,4,14,50,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103998401,Pass Reception,1,10,16,16,-0.2578378787201336,False,Miami,Florida State,17,23,3,0,15,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103984901,Pass Reception,1,10,67,67,2.240007525203808,False,Miami,Florida State,17,23,3,1,50,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103995101,Pass Reception,3,3,33,33,1.0003130518948549,False,Miami,Florida State,17,23,3,0,48,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770103985802,Pass Incompletion,1,10,40,40,-0.8457687366186873,False,Miami,Florida State,17,23,3,1,41,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104928201,Pass Incompletion,3,5,36,36,-1.0514080750440902,False,Miami,Florida State,20,26,4,7,17,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104898901,Pass Reception,2,7,69,69,2.092957961342904,False,Miami,Florida State,20,26,4,10,10,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104919501,Pass Incompletion,1,10,41,41,-0.8772679222659558,False,Miami,Florida State,20,26,4,8,4,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104925501,Pass Reception,2,10,41,41,0.0680181868490733,False,Miami,Florida State,20,26,4,7,44,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104954301,Pass Reception,2,10,62,62,2.5644846327797506,False,Miami,Florida State,23,26,4,4,56,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104949501,Pass Incompletion,1,10,62,62,-1.087995077167328,False,Miami,Florida State,23,26,4,5,4,12,Miami,2014,Florida State,Jameis Winston,2015
+400547770104964801,Pass Reception,1,20,55,55,2.0522813993743227,False,Miami,Florida State,23,26,4,3,51,12,Miami,2014,Florida State,Jameis Winston,2015
+400547738101857101,Pass Incompletion,2,4,69,31,-0.8681070846083454,False,Florida State,Boston College,0,0,1,14,28,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101859101,Pass Reception,3,4,69,31,1.659483762597608,False,Florida State,Boston College,0,0,1,14,8,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101899901,Pass Reception,3,3,7,93,1.457946814253095,False,Florida State,Boston College,0,0,1,10,0,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101867501,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Florida State,Boston College,0,0,1,13,24,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101898301,Pass Reception,2,6,9,91,-0.177871782476252,False,Florida State,Boston College,0,0,1,10,16,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101866101,Pass Reception,1,10,62,38,1.1115917085581175,False,Florida State,Boston College,0,0,1,13,38,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101998901,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Florida State,Boston College,7,3,1,0,10,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102878601,Pass Incompletion,1,10,19,81,-0.362321296557512,False,Florida State,Boston College,7,3,2,12,13,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102877601,Pass Reception,2,9,38,62,1.1574971105809908,False,Florida State,Boston College,7,3,2,12,23,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102858701,Pass Reception,2,10,50,50,0.5711788490243421,False,Florida State,Boston College,7,3,2,14,12,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738101999901,Pass Reception,2,10,75,25,2.9393132096436005,False,Florida State,Boston College,7,3,1,0,0,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102866101,Pass Reception,3,3,43,57,1.2440983347329926,False,Florida State,Boston College,7,3,2,13,38,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102889901,Pass Reception,3,25,34,66,2.0225332278246224,False,Florida State,Boston College,7,3,2,11,0,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102918301,Pass Interception Return,2,9,43,57,-2.8402624335047584,False,Florida State,Boston College,10,3,2,8,16,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102914901,Pass Reception,1,10,69,31,2.1944086476050284,False,Florida State,Boston College,10,3,2,8,50,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102948701,Pass Reception,1,10,75,25,0.9305625119459905,False,Florida State,Boston College,10,10,2,5,12,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102957001,Pass Incompletion,2,1,55,45,-1.435971808205819,False,Florida State,Boston College,10,10,2,4,29,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102964801,Pass Reception,1,10,53,47,1.2533532635003597,False,Florida State,Boston College,10,10,2,3,51,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102969701,Passing Touchdown,2,9,30,70,3.2850271895851524,True,Florida State,Boston College,17,10,2,3,2,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738102956101,Pass Reception,1,10,64,36,1.3816838899351875,False,Florida State,Boston College,10,10,2,4,38,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103965901,Pass Incompletion,3,7,23,77,-0.7450790543892561,False,Florida State,Boston College,17,17,3,3,40,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103949901,Pass Reception,2,4,47,53,0.538099074772653,False,Florida State,Boston College,17,17,3,5,0,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103965002,Pass Incompletion,2,7,23,77,-0.5232475025666248,False,Florida State,Boston College,17,17,3,3,49,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103945201,Pass Reception,1,10,75,25,1.9824556861480138,False,Florida State,Boston College,17,17,3,5,47,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103957001,Pass Reception,1,10,40,60,0.4690470215291605,False,Florida State,Boston College,17,17,3,4,29,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103948301,Pass Reception,1,10,53,47,0.3681512148633137,False,Florida State,Boston College,17,17,3,5,16,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738104866101,Pass Incompletion,3,20,52,48,-0.30504559707160794,False,Florida State,Boston College,17,17,4,13,38,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738103996701,Pass Reception,1,10,68,32,0.3855228600463665,False,Florida State,Boston College,17,17,3,0,32,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738104865501,Pass Incompletion,2,20,52,48,-0.5803663806070141,False,Florida State,Boston College,17,17,4,13,44,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738104986001,Pass Reception,1,15,45,55,1.2826089755051873,False,Florida State,Boston College,17,17,4,1,39,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738104965702,Pass Reception,1,10,64,36,0.7106238902527534,False,Florida State,Boston College,17,17,4,3,42,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547738104978501,Pass Reception,1,10,51,49,0.734318059955598,False,Florida State,Boston College,17,17,4,2,14,13,Boston College,2014,Florida State,Jameis Winston,2015
+400547771101857401,Pass Reception,2,10,87,13,-0.02731367438021782,False,Florida State,Florida,0,0,1,14,25,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101864901,Pass Incompletion,3,6,83,17,-0.1626740501517903,False,Florida State,Florida,0,0,1,13,50,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101866301,Pass Interception Return,1,10,68,32,-1.4806892843581405,False,Florida State,Florida,0,0,1,13,36,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101885001,Pass Interception Return,3,8,75,25,0.05671502208542378,False,Florida State,Florida,0,3,1,11,49,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101884401,Pass Incompletion,2,8,75,25,-0.4311353787193166,False,Florida State,Florida,0,3,1,11,55,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101954401,Pass Incompletion,3,11,73,27,-0.16232032751406675,False,Florida State,Florida,0,6,1,4,55,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101945601,Pass Reception,2,17,79,21,-0.10965609355400295,False,Florida State,Florida,0,6,1,5,43,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771101987001,Pass Interception Return,2,12,98,2,0.274021630643567,False,Florida State,Florida,0,9,1,1,29,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102888201,Pass Reception,2,1,43,57,-1.7177199928591416,False,Florida State,Florida,7,9,2,11,17,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102899902,Pass Incompletion,2,9,39,61,-1.0021401723725314,False,Florida State,Florida,7,9,2,10,0,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102905402,Pass Reception,3,9,39,61,2.323907217946269,False,Florida State,Florida,7,9,2,9,45,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102918701,Passing Touchdown,3,10,10,90,3.078465726858095,True,Florida State,Florida,14,9,2,8,12,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102889901,Pass Reception,3,3,45,55,1.3858253062449677,False,Florida State,Florida,7,9,2,11,0,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102958401,Pass Reception,1,10,39,61,0.522510825899852,False,Florida State,Florida,14,9,2,4,15,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102978501,Passing Touchdown,2,6,6,94,2.528666992781938,True,Florida State,Florida,21,9,2,2,14,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102989201,Pass Incompletion,2,10,65,35,-0.6004605992346148,False,Florida State,Florida,21,9,2,1,7,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771102988901,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Florida State,Florida,21,9,2,1,10,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771103907101,Pass Incompletion,2,8,75,25,-0.4311353787193166,False,Florida State,Florida,21,19,3,9,28,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771103949401,Pass Incompletion,1,10,80,20,-0.5586693796725282,False,Florida State,Florida,21,19,3,5,5,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771103976301,Pass Interception Return,3,11,46,54,-1.2519640603416775,False,Florida State,Florida,21,19,3,2,36,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771103959901,Pass Reception,2,20,90,10,3.8562042613795917,False,Florida State,Florida,21,19,3,4,0,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771104858701,Pass Reception,2,8,46,54,1.1918732656928783,False,Florida State,Florida,21,19,4,14,12,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771104938601,Pass Reception,2,7,44,56,1.2254997156325516,False,Florida State,Florida,21,19,4,6,13,14,Florida,2014,Florida State,Jameis Winston,2015
+400547771104956201,Pass Reception,2,16,33,67,-1.392057003000021,False,Florida State,Florida,21,19,4,4,37,14,Florida,2014,Florida State,Jameis Winston,2015
+400608167101865001,Pass Incompletion,3,4,69,69,-0.43770162015070735,False,Georgia Tech,Florida State,0,0,1,13,49,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167101919301,Pass Reception,3,15,68,68,3.591466104818779,False,Georgia Tech,Florida State,0,7,1,8,6,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167101925701,Passing Touchdown,1,10,46,46,3.5432874081344643,True,Georgia Tech,Florida State,7,7,1,7,42,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167101908201,Pass Incompletion,1,10,63,63,-1.065701080215459,False,Georgia Tech,Florida State,0,7,1,9,17,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167101986501,Pass Reception,1,10,75,75,0.604642460086338,False,Georgia Tech,Florida State,7,14,1,1,34,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102936001,Pass Incompletion,1,10,43,43,-0.9391692565688832,False,Georgia Tech,Florida State,14,21,2,6,39,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102934101,Pass Reception,1,10,59,59,1.306642261867573,False,Georgia Tech,Florida State,14,21,2,6,58,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102945901,Passing Touchdown,3,11,44,44,5.566606491205139,True,Georgia Tech,Florida State,21,21,2,5,40,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102939401,Pass Reception,2,25,58,58,1.3367761525540018,False,Georgia Tech,Florida State,14,21,2,6,5,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102926501,Pass Reception,1,10,71,71,0.98359054098046,False,Georgia Tech,Florida State,14,21,2,7,34,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102978601,Pass Reception,1,10,75,75,2.5344677115868572,False,Georgia Tech,Florida State,21,21,2,2,13,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102979101,Pass Incompletion,1,10,46,46,-1.0250974847844603,False,Georgia Tech,Florida State,21,21,2,2,8,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102979901,Pass Reception,2,10,46,46,1.5957961091419686,False,Georgia Tech,Florida State,21,21,2,2,0,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102996901,Passing Touchdown,1,9,9,9,2.424237823646468,True,Georgia Tech,Florida State,28,21,2,0,30,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102985402,Pass Reception,1,10,35,35,0.393521863681004,False,Georgia Tech,Florida State,21,21,2,1,45,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102985901,Pass Incompletion,2,3,28,28,-0.69402604004247,False,Georgia Tech,Florida State,21,21,2,1,40,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167102988601,Pass Reception,1,10,24,24,0.641938297485138,False,Georgia Tech,Florida State,21,21,2,1,13,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167103937801,Pass Reception,2,6,45,45,0.9266808058718505,False,Georgia Tech,Florida State,28,28,3,6,21,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167103939901,Pass Reception,1,10,35,35,0.393521863681004,False,Georgia Tech,Florida State,28,28,3,6,0,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167103949101,Pass Reception,1,10,24,24,0.075070788233958,False,Georgia Tech,Florida State,28,28,3,5,8,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167103934301,Pass Reception,1,10,49,49,-0.1369390380115582,False,Georgia Tech,Florida State,28,28,3,6,56,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167103928001,Pass Reception,1,10,63,63,1.288180241940502,False,Georgia Tech,Florida State,28,28,3,7,19,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104896901,Pass Incompletion,3,10,15,15,-0.5749405759083858,False,Georgia Tech,Florida State,31,28,4,10,30,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104859601,Pass Reception,3,3,83,83,1.1202271273856406,False,Georgia Tech,Florida State,31,28,4,14,3,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104865601,Pass Reception,1,10,72,72,1.7603332786927446,False,Georgia Tech,Florida State,31,28,4,13,43,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104885201,Pass Reception,3,6,26,26,0.904946392160141,False,Georgia Tech,Florida State,31,28,4,11,47,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104884501,Pass Incompletion,2,6,26,26,-0.599740220609048,False,Georgia Tech,Florida State,31,28,4,11,54,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104896401,Pass Incompletion,2,10,15,15,-0.361206789772767,False,Georgia Tech,Florida State,31,28,4,10,35,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104946501,Pass Reception,2,8,18,18,0.150336485423885,False,Georgia Tech,Florida State,34,28,4,5,34,15,Georgia Tech,2014,Florida State,Jameis Winston,2015
+400608167104969202,Pass Incompletion,3,14,46,46,-0.6670324289259524,False,Georgia Tech,Florida State,37,28,4,3,7,15,Georgia Tech,2014,Florida State,Jameis Winston,2015

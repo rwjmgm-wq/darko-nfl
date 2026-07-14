@@ -1,0 +1,426 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400764859101859304,Pass Incompletion,2,5,5,95,-0.32302193763867,False,Memphis,Missouri State,0,0,1,14,6,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101859301,Pass Incompletion,1,10,25,75,-0.4522778946200265,False,Memphis,Missouri State,0,0,1,14,6,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101869201,Passing Touchdown,3,5,5,95,2.76159962916859,True,Memphis,Missouri State,7,0,1,13,7,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101897701,Passing Touchdown,1,10,44,56,3.4128823575100213,True,Memphis,Missouri State,14,0,1,10,22,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101898501,Pass Reception,1,10,36,64,0.40306460138266,False,Memphis,Missouri State,14,0,1,10,14,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101926905,Pass Incompletion,3,12,55,45,-0.4725840390703073,False,Memphis,Missouri State,21,0,1,7,30,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101926901,Pass Reception,1,10,68,32,0.3855228600463665,False,Memphis,Missouri State,21,0,1,7,30,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101978203,Pass Incompletion,1,10,52,48,-1.1430602484821704,False,Memphis,Missouri State,28,0,1,2,17,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101978204,Pass Reception,2,10,52,48,0.0740933278030749,False,Memphis,Missouri State,28,0,1,2,17,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859101978205,Pass Reception,3,5,47,53,1.836501583493007,False,Memphis,Missouri State,28,0,1,2,17,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859102916801,Pass Reception,1,10,94,6,0.06498487428331413,False,Memphis,Missouri State,35,0,2,8,31,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859102955005,Pass Reception,1,10,15,85,1.093747356833746,False,Memphis,Missouri State,35,0,2,4,49,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859102955001,Pass Reception,1,10,67,33,2.4564678853641926,False,Memphis,Missouri State,35,0,2,4,49,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103849902,Pass Reception,1,10,80,20,1.2388651878297718,False,Memphis,Missouri State,42,0,3,15,0,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103849904,Pass Reception,2,3,57,43,1.2475195735852367,False,Memphis,Missouri State,42,0,3,15,0,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103849909,Pass Reception,1,10,28,72,0.1952917528460566,False,Memphis,Missouri State,42,0,3,15,0,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103947504,Pass Reception,1,10,75,25,1.516051907682006,False,Memphis,Missouri State,49,7,3,5,24,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103994601,Passing Touchdown,3,4,4,96,2.6959729214765815,True,Memphis,Missouri State,56,7,3,0,53,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103947508,Pass Reception,1,10,21,79,0.07448863119052,False,Memphis,Missouri State,49,7,3,5,24,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859103947507,Pass Reception,2,8,30,70,0.562770241010917,False,Memphis,Missouri State,49,7,3,5,24,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400764859104907102,Pass Incompletion,2,8,62,38,-0.8054878366661029,False,Memphis,Missouri State,56,7,4,9,28,1,Missouri State,2015,Memphis,Paxton Lynch,2016
+400763410101877001,Pass Incompletion,1,10,77,77,-0.6425305871127751,False,Kansas,Memphis,0,3,1,12,29,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101905110,Pass Reception,1,10,17,17,1.115451370053077,False,Kansas,Memphis,0,10,1,9,48,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101905105,Pass Reception,1,15,80,80,2.062272493827294,False,Kansas,Memphis,0,10,1,9,48,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101905109,Pass Reception,3,8,32,32,1.500734691260856,False,Kansas,Memphis,0,10,1,9,48,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101905106,Pass Reception,1,10,60,60,1.8201744432300053,False,Kansas,Memphis,0,10,1,9,48,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101954806,Pass Incompletion,2,6,6,6,-0.29509485739271,False,Kansas,Memphis,7,10,1,4,51,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101954804,Pass Reception,2,9,22,22,0.788605705140629,False,Kansas,Memphis,7,10,1,4,51,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410101999801,Pass Reception,1,10,69,69,1.3649000856171405,False,Kansas,Memphis,10,10,1,0,1,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102849903,Pass Reception,2,8,28,28,0.4935133398683166,False,Kansas,Memphis,10,10,2,15,0,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102849901,Pass Reception,2,1,60,60,1.4281477865751382,False,Kansas,Memphis,10,10,2,15,0,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102849904,Pass Reception,1,10,20,20,0.193689905385231,False,Kansas,Memphis,10,10,2,15,0,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102874803,Pass Reception,3,18,60,60,0.9462457985720025,False,Kansas,Memphis,17,10,2,12,51,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102934503,Pass Reception,1,10,75,75,0.8350381090299867,False,Kansas,Memphis,17,13,2,6,54,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102996701,Passing Touchdown,2,6,6,6,2.528666992781938,True,Kansas,Memphis,24,13,2,0,32,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102956007,Pass Reception,2,6,48,48,1.589822853583808,False,Kansas,Memphis,17,13,2,4,39,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410102956004,Pass Reception,1,10,67,67,1.0284623848933538,False,Kansas,Memphis,17,13,2,4,39,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103849903,Pass Reception,2,6,71,71,1.4351431405165425,False,Kansas,Memphis,24,13,3,15,0,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103908501,Passing Touchdown,2,3,3,3,2.211424613960093,True,Kansas,Memphis,38,20,3,9,14,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103887904,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Kansas,Memphis,31,20,3,11,20,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103887907,Pass Reception,1,10,59,59,2.079109247014013,False,Kansas,Memphis,31,20,3,11,20,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103887906,Pass Reception,3,7,72,72,2.273941912078933,False,Kansas,Memphis,31,20,3,11,20,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103908520,Pass Reception,2,7,20,20,0.1744554612539865,False,Kansas,Memphis,38,20,3,9,14,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103908517,Pass Reception,2,2,60,60,1.4474018281389809,False,Kansas,Memphis,38,20,3,9,14,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410103908515,Pass Reception,1,10,89,89,1.2442615924858123,False,Kansas,Memphis,38,20,3,9,14,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410104855302,Pass Reception,2,5,66,66,1.9880022625916105,False,Kansas,Memphis,48,20,4,14,46,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410104924208,Pass Reception,1,10,44,44,0.5005481645051048,False,Kansas,Memphis,55,23,4,7,57,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400763410104924203,Pass Reception,1,10,75,75,1.252308359788624,False,Kansas,Memphis,55,23,4,7,57,2,Kansas,2015,Memphis,Paxton Lynch,2016
+400764864101865507,Pass Reception,3,12,64,64,0.02334065399238483,False,Bowling Green,Memphis,0,7,1,13,44,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101865504,Pass Reception,1,10,75,75,1.124751479041831,False,Bowling Green,Memphis,0,7,1,13,44,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101895603,Pass Incompletion,1,10,37,37,-0.7519361608312708,False,Bowling Green,Memphis,0,7,1,10,43,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101895602,Pass Reception,2,10,56,56,2.4800208381684445,False,Bowling Green,Memphis,0,7,1,10,43,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101895604,Pass Reception,2,10,37,37,1.0833426698998334,False,Bowling Green,Memphis,0,7,1,10,43,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101945708,Pass Reception,2,17,20,20,-1.4089650019505804,False,Bowling Green,Memphis,7,14,1,5,42,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101945704,Pass Reception,2,13,46,46,0.5179390889734438,False,Bowling Green,Memphis,7,14,1,5,42,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101945701,Pass Reception,1,10,82,82,3.1359281613619965,False,Bowling Green,Memphis,7,14,1,5,42,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864101945706,Pass Reception,1,10,32,32,0.3325902105431154,False,Bowling Green,Memphis,7,14,1,5,42,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849901,Pass Reception,2,3,81,81,-0.510065237662368,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849905,Pass Reception,1,10,59,59,-1.1387859939569847,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849903,Pass Reception,1,10,76,76,0.0927395188594593,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849910,Pass Incompletion,1,10,21,21,-0.3882383440694163,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849909,Pass Reception,2,9,47,47,1.8911576585071814,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849911,Pass Reception,2,10,21,21,0.5962973342184413,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102905901,Passing Touchdown,2,6,6,6,2.528666992781938,True,Bowling Green,Memphis,17,14,2,9,40,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102849907,Pass Reception,3,5,54,54,2.043519507230913,False,Bowling Green,Memphis,10,14,2,15,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102927006,Pass Incompletion,3,7,62,62,-0.4769471385968531,False,Bowling Green,Memphis,17,14,2,7,29,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102927003,Pass Reception,3,9,89,89,2.029097759427958,False,Bowling Green,Memphis,17,14,2,7,29,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102978805,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Bowling Green,Memphis,17,21,2,2,11,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102978804,Pass Reception,1,10,75,75,1.612438422209995,False,Bowling Green,Memphis,17,21,2,2,11,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864102978807,Pass Incompletion,3,6,53,53,-0.7987440892990438,False,Bowling Green,Memphis,17,21,2,2,11,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103854503,Pass Incompletion,3,4,66,66,-0.5118806205372062,False,Bowling Green,Memphis,17,27,3,14,54,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103854501,Pass Reception,1,10,72,72,0.0997589035143243,False,Bowling Green,Memphis,17,27,3,14,54,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103854508,Pass Reception,2,19,32,32,-1.396496936775364,False,Bowling Green,Memphis,17,27,3,14,54,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103854509,Pass Incompletion,3,21,34,34,-0.7781985190264445,False,Bowling Green,Memphis,17,27,3,14,54,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103854506,Pass Reception,1,10,38,38,0.4306149705139595,False,Bowling Green,Memphis,17,27,3,14,54,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103915602,Pass Reception,1,10,70,70,-0.547828113258845,False,Bowling Green,Memphis,20,27,3,8,43,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103915608,Pass Reception,4,1,41,41,2.6237325360022847,False,Bowling Green,Memphis,20,27,3,8,43,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103965302,Pass Reception,2,10,78,78,0.04003568259681422,False,Bowling Green,Memphis,27,34,3,3,46,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864103989901,Passing Touchdown,3,3,60,60,5.952653479938627,True,Bowling Green,Memphis,34,34,3,1,0,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104858604,Pass Reception,1,10,75,75,-0.5874795431016855,False,Bowling Green,Memphis,34,41,4,14,13,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104858610,Pass Reception,1,10,49,49,-0.8564651345494897,False,Bowling Green,Memphis,34,41,4,14,13,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104888001,Passing Touchdown,2,9,48,48,4.618795686186738,True,Bowling Green,Memphis,41,41,4,11,19,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104858605,Pass Reception,2,9,74,74,0.5644456811527379,False,Bowling Green,Memphis,34,41,4,14,13,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104897603,Pass Reception,1,10,45,45,0.954774671699143,False,Bowling Green,Memphis,41,41,4,10,23,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104897604,Pass Incompletion,1,10,11,11,-0.291297448934314,False,Bowling Green,Memphis,41,41,4,10,23,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104938609,Pass Incompletion,3,14,70,70,-0.14687540238390806,False,Bowling Green,Memphis,44,41,4,6,13,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104938606,Pass Incompletion,1,15,71,71,-0.5439453389835229,False,Bowling Green,Memphis,44,41,4,6,13,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764864104938601,Pass Incompletion,1,10,77,77,-0.6425305871127751,False,Bowling Green,Memphis,44,41,4,6,13,3,Bowling Green,2015,Memphis,Paxton Lynch,2016
+400764870101854901,Pass Incompletion,1,10,73,27,-0.766047035673644,False,Memphis,Cincinnati,0,0,1,14,50,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870101868901,Pass Incompletion,1,10,98,2,-0.25037105050665875,False,Memphis,Cincinnati,0,7,1,13,10,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870101869501,Pass Reception,2,10,98,2,0.28134058648481464,False,Memphis,Cincinnati,0,7,1,13,4,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870101954601,Pass Incompletion,1,10,82,18,-0.5080208698531008,False,Memphis,Cincinnati,7,10,1,4,53,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870101955701,Passing Touchdown,2,10,82,18,6.9963191191459515,True,Memphis,Cincinnati,14,10,1,4,42,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870101997901,Pass Incompletion,2,18,88,12,-0.06295943299434814,False,Memphis,Cincinnati,14,10,1,0,20,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102875201,Pass Reception,2,2,52,48,0.3885630643624208,False,Memphis,Cincinnati,14,17,2,12,47,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102866801,Pass Reception,2,9,76,24,1.991485198674324,False,Memphis,Cincinnati,14,17,2,13,31,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102919101,Pass Incompletion,3,5,80,20,-0.21681328149032897,False,Memphis,Cincinnati,21,20,2,8,8,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102917101,Pass Reception,2,9,84,16,-0.037040546122184104,False,Memphis,Cincinnati,21,20,2,8,28,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102955901,Pass Reception,1,10,65,35,3.55452649197736,False,Memphis,Cincinnati,21,23,2,4,40,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102986501,Pass Reception,1,10,80,20,0.7987441096809142,False,Memphis,Cincinnati,28,30,2,1,34,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870102986601,Pass Incompletion,2,2,72,28,-0.9674616238506859,False,Memphis,Cincinnati,28,30,2,1,33,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103877101,Pass Reception,3,13,80,20,0.396865068892609,False,Memphis,Cincinnati,28,30,3,12,28,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103908201,Pass Incompletion,1,10,81,19,-0.5327945515514214,False,Memphis,Cincinnati,28,30,3,9,17,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103954601,Pass Reception,1,10,31,69,0.2732234487805736,False,Memphis,Cincinnati,28,30,3,4,53,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103959701,Pass Incompletion,2,3,9,91,-0.436779257745775,False,Memphis,Cincinnati,28,30,3,4,2,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103936901,Pass Reception,1,10,52,48,-1.5956702430452963,False,Memphis,Cincinnati,28,30,3,6,30,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103948301,Pass Reception,3,6,48,52,2.473466763347733,False,Memphis,Cincinnati,28,30,3,5,16,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103996601,Pass Reception,1,10,62,38,1.7124840147829712,False,Memphis,Cincinnati,31,33,3,0,33,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104864501,Pass Incompletion,1,10,23,77,-0.4181180581276075,False,Memphis,Cincinnati,31,33,4,13,54,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104865001,Pass Reception,2,10,23,77,0.762496167499144,False,Memphis,Cincinnati,31,33,4,13,49,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104866901,Passing Touchdown,1,8,8,92,2.319599568699692,True,Memphis,Cincinnati,38,33,4,13,30,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870103988301,Pass Incompletion,1,10,73,27,-0.766047035673644,False,Memphis,Cincinnati,31,33,3,1,16,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104904501,Pass Reception,1,10,75,25,1.9824556861480138,False,Memphis,Cincinnati,38,39,4,9,54,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104919601,Pass Reception,2,5,12,88,0.6218132701307935,False,Memphis,Cincinnati,38,39,4,8,3,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104914301,Pass Reception,2,3,29,71,0.027810390846722,False,Memphis,Cincinnati,38,39,4,8,56,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104968801,Pass Incompletion,4,2,35,65,-2.393242739107391,False,Memphis,Cincinnati,46,46,4,3,11,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104959001,Pass Reception,2,7,40,60,-0.125917794315347,False,Memphis,Cincinnati,46,46,4,4,9,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104948801,Pass Reception,3,6,59,41,2.8848341275292153,False,Memphis,Cincinnati,46,46,4,5,11,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104944901,Pass Reception,1,10,75,25,1.0272443261435713,False,Memphis,Cincinnati,46,46,4,5,50,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104946501,Pass Reception,1,10,63,37,-0.1644248613169578,False,Memphis,Cincinnati,46,46,4,5,34,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104948001,Pass Incompletion,2,6,59,41,-1.0222685605653614,False,Memphis,Cincinnati,46,46,4,5,19,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104984601,Pass Reception,1,10,38,62,0.476664919553489,False,Memphis,Cincinnati,46,46,4,1,53,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104978801,Pass Reception,1,10,67,33,2.3344640205559606,False,Memphis,Cincinnati,46,46,4,2,11,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764870104977701,Pass Reception,1,10,80,20,0.957001126463954,False,Memphis,Cincinnati,46,46,4,2,22,4,Cincinnati,2015,Memphis,Paxton Lynch,2016
+400764875101869701,Pass Incompletion,2,11,54,54,-0.8913280285471136,False,South Florida,Memphis,0,0,1,13,2,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875101856301,Pass Reception,1,10,63,63,0.7113806413121412,False,South Florida,Memphis,0,0,1,14,36,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875101874101,Pass Incompletion,3,11,54,54,-0.5391291525131665,False,South Florida,Memphis,0,0,1,12,58,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875101854901,Pass Reception,1,10,75,75,1.0272443261435713,False,South Florida,Memphis,0,0,1,14,50,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875101944701,Pass Reception,1,10,53,53,1.3952150713072502,False,South Florida,Memphis,0,7,1,5,52,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875101947101,Pass Incompletion,1,10,25,25,-0.4522778946200265,False,South Florida,Memphis,0,7,1,5,28,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875101935401,Pass Reception,2,8,62,62,0.3242953730701554,False,South Florida,Memphis,0,7,1,6,45,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102866801,Pass Reception,3,11,38,38,2.371573565982329,False,South Florida,Memphis,0,10,2,13,31,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102855701,Pass Reception,1,10,50,50,0.7900033006446298,False,South Florida,Memphis,0,10,2,14,42,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102874101,Passing Touchdown,1,10,20,20,2.617927729031699,True,South Florida,Memphis,7,10,2,12,58,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102935401,Pass Reception,2,15,53,53,0.0497367896712397,False,South Florida,Memphis,7,10,2,6,45,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102906201,Pass Incompletion,1,10,99,99,-0.24120998460901966,False,South Florida,Memphis,7,10,2,9,37,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102907101,Pass Reception,2,10,99,99,0.7942703154756323,False,South Florida,Memphis,7,10,2,9,28,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102909901,Pass Reception,1,10,81,81,1.485615880323306,False,South Florida,Memphis,7,10,2,9,0,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102979901,Pass Incompletion,3,2,48,48,-1.1324398100745032,False,South Florida,Memphis,7,10,2,2,0,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102966701,Pass Incompletion,1,10,72,72,-0.7982008475508557,False,South Florida,Memphis,7,10,2,3,32,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102976701,Pass Incompletion,1,10,56,56,-1.1612466882658818,False,South Florida,Memphis,7,10,2,2,32,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102967901,Pass Reception,2,10,72,72,0.35656078520897166,False,South Florida,Memphis,7,10,2,3,20,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102977401,Pass Reception,2,10,56,56,0.8318431851021338,False,South Florida,Memphis,7,10,2,2,25,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102995701,Pass Incompletion,3,6,44,44,-1.0284087656657714,False,South Florida,Memphis,7,10,2,0,42,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875102995101,Pass Incompletion,2,6,44,44,-1.108332357564981,False,South Florida,Memphis,7,10,2,0,48,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103859201,Pass Incompletion,3,2,44,44,-1.160853186367655,False,South Florida,Memphis,7,10,3,14,7,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103854901,Pass Reception,1,10,52,52,0.3608772046980507,False,South Florida,Memphis,7,10,3,14,50,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103898901,Pass Reception,2,24,43,43,1.2829569045992295,False,South Florida,Memphis,7,10,3,10,10,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103905701,Pass Incompletion,3,13,32,32,-1.0071588067334094,False,South Florida,Memphis,7,10,3,9,42,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103965101,Pass Incompletion,2,9,23,23,-0.5359237345216901,False,South Florida,Memphis,10,10,3,3,48,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103936501,Pass Reception,2,9,80,80,1.4569181100676705,False,South Florida,Memphis,10,10,3,6,34,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103966301,Pass Reception,3,9,23,23,1.6670327092889676,False,South Florida,Memphis,10,10,3,3,36,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103955201,Pass Reception,3,8,32,32,1.399199845438295,False,South Florida,Memphis,10,10,3,4,47,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875103938401,Pass Reception,1,10,67,67,2.4923305082274787,False,South Florida,Memphis,10,10,3,6,15,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875104887401,Pass Incompletion,1,10,86,86,-0.42008778911877176,False,South Florida,Memphis,17,10,4,11,25,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875104896001,Passing Touchdown,1,10,55,55,4.276613237316365,True,South Florida,Memphis,24,10,4,10,39,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400764875104986104,Pass Reception,2,9,46,46,-1.084471532153902,False,South Florida,Memphis,24,17,4,1,38,5,South Florida,2015,Memphis,Paxton Lynch,2016
+400603894101877301,Pass Reception,3,17,46,54,0.373228268040175,False,Memphis,Ole Miss,0,7,1,12,26,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101858401,Pass Reception,1,10,72,28,0.9026290715865617,False,Memphis,Ole Miss,0,7,1,14,15,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101859101,Pass Incompletion,1,10,62,38,-1.087995077167328,False,Memphis,Ole Miss,0,7,1,14,8,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101907202,Pass Reception,1,10,65,35,1.8298346531813134,False,Memphis,Ole Miss,0,14,1,9,27,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101909902,Pass Incompletion,2,15,49,51,-0.8667631191407627,False,Memphis,Ole Miss,0,14,1,9,0,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101907203,Pass Reception,1,10,44,56,-2.6714261245418136,False,Memphis,Ole Miss,0,14,1,9,27,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101909901,Pass Reception,1,18,52,48,-0.381338532764616,False,Memphis,Ole Miss,0,14,1,9,0,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101948401,Pass Incompletion,1,15,75,25,-0.435997144242914,False,Memphis,Ole Miss,0,14,1,5,15,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101949702,Pass Reception,3,9,69,31,3.590610234271743,False,Memphis,Ole Miss,0,14,1,5,2,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101978701,Passing Touchdown,1,1,1,99,0.938021275120443,True,Memphis,Ole Miss,7,14,1,2,12,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894101956901,Pass Reception,1,10,32,68,0.3684640561633454,False,Memphis,Ole Miss,0,14,1,4,30,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102917601,Pass Interception Return,2,8,37,63,-3.422889820266672,False,Memphis,Ole Miss,7,14,2,8,23,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102899801,Pass Incompletion,1,10,54,46,-1.1590089706435955,False,Memphis,Ole Miss,7,14,2,10,1,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102885402,Pass Reception,2,7,81,19,-0.5023793562801773,False,Memphis,Ole Miss,7,14,2,11,45,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102909401,Pass Reception,3,8,52,48,2.785193297997285,False,Memphis,Ole Miss,7,14,2,9,5,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102897001,Pass Reception,3,16,90,10,3.172149726562136,False,Memphis,Ole Miss,7,14,2,10,29,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102949001,Pass Incompletion,1,8,8,92,-0.357171386033373,False,Memphis,Ole Miss,7,14,2,5,9,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102939201,Pass Reception,1,10,40,60,0.447768302545855,False,Memphis,Ole Miss,7,14,2,6,7,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102947401,Pass Reception,2,9,26,74,0.7965542789716835,False,Memphis,Ole Miss,7,14,2,5,25,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102967301,Pass Reception,1,10,30,70,-0.8501693771274875,False,Memphis,Ole Miss,10,14,2,3,26,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102974001,Pass Reception,1,10,17,83,0.891712584070439,False,Memphis,Ole Miss,10,14,2,2,59,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102989901,Pass Reception,3,8,32,68,-2.003615373644287,False,Memphis,Ole Miss,17,14,2,1,0,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102995801,Pass Reception,1,10,23,77,0.6114879070059515,False,Memphis,Ole Miss,17,14,2,0,41,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102987701,Pass Incompletion,2,8,32,68,-0.7911960031261193,False,Memphis,Ole Miss,17,14,2,1,22,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102995301,Pass Reception,3,13,37,63,2.469342807588273,False,Memphis,Ole Miss,17,14,2,0,46,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894102996501,Passing Touchdown,1,6,6,94,2.052489771065277,True,Memphis,Ole Miss,24,14,2,0,34,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103876601,Pass Incompletion,1,10,42,58,-0.908489395271188,False,Memphis,Ole Miss,24,14,3,12,33,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103876101,Pass Reception,1,10,53,47,0.8003639620011836,False,Memphis,Ole Miss,24,14,3,12,38,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103859601,Pass Reception,2,3,75,25,0.6579499587158999,False,Memphis,Ole Miss,24,14,3,14,3,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103886801,Passing Touchdown,1,10,31,69,2.841946170072948,True,Memphis,Ole Miss,31,14,3,11,31,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103866901,Pass Reception,3,8,64,36,2.5990196138481787,False,Memphis,Ole Miss,24,14,3,13,30,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103885101,Pass Reception,3,7,39,61,1.7374981575820525,False,Memphis,Ole Miss,24,14,3,11,48,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103856901,Pass Reception,1,10,82,18,0.4935789008473366,False,Memphis,Ole Miss,24,14,3,14,30,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103864301,Pass Incompletion,1,10,66,34,-0.9864556271674072,False,Memphis,Ole Miss,24,14,3,13,56,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103918701,Pass Incompletion,3,18,79,21,-0.0513855877151741,False,Memphis,Ole Miss,31,14,3,8,12,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103917401,Pass Reception,2,29,90,10,0.0608807678052381,False,Memphis,Ole Miss,31,14,3,8,25,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103906901,Pass Reception,3,4,79,21,1.1750971011031606,False,Memphis,Ole Miss,31,14,3,9,30,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103944401,Pass Reception,2,8,60,40,-1.0007795762573375,False,Memphis,Ole Miss,31,21,3,5,55,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103954701,Pass Reception,1,10,51,49,0.6049387793407243,False,Memphis,Ole Miss,31,21,3,4,52,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103959101,Pass Incompletion,3,6,47,53,-0.9689555597926596,False,Memphis,Ole Miss,31,21,3,4,8,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103948001,Pass Reception,3,9,61,39,2.696053662525082,False,Memphis,Ole Miss,31,21,3,5,19,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103937801,Pass Reception,1,10,62,38,-0.6656376494811928,False,Memphis,Ole Miss,31,21,3,6,21,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894103999801,Pass Reception,1,10,75,25,1.252308359788624,False,Memphis,Ole Miss,31,24,3,0,1,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104884001,Pass Incompletion,1,10,39,61,-0.814236079442537,False,Memphis,Ole Miss,31,24,4,11,59,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104895901,Pass Reception,1,10,25,75,-0.2434763543774955,False,Memphis,Ole Miss,31,24,4,10,40,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104877101,Pass Incompletion,1,10,60,40,-1.1247712359915258,False,Memphis,Ole Miss,31,24,4,12,28,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104904501,Pass Incompletion,3,4,19,81,-0.5709321721935543,False,Memphis,Ole Miss,31,24,4,9,54,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104877601,Pass Reception,2,10,60,40,2.7412332852036503,False,Memphis,Ole Miss,31,24,4,12,23,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104894201,Pass Reception,3,4,33,67,0.9930543961991418,False,Memphis,Ole Miss,31,24,4,10,57,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104934201,Pass Reception,1,10,67,33,1.5876447370197757,False,Memphis,Ole Miss,34,24,4,6,57,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104924901,Pass Reception,2,15,84,16,0.10885601537910183,False,Memphis,Ole Miss,34,24,4,7,50,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400603894104926201,Pass Reception,3,8,77,23,1.6689078010049592,False,Memphis,Ole Miss,34,24,4,7,37,7,Ole Miss,2015,Memphis,Paxton Lynch,2016
+400764891101854701,Pass Incompletion,2,10,75,75,-0.34710487712173865,False,Tulsa,Memphis,0,0,1,14,52,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101854401,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Tulsa,Memphis,0,0,1,14,55,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101855201,Pass Incompletion,3,15,80,80,-0.06579665004736057,False,Tulsa,Memphis,0,0,1,14,47,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101885401,Pass Reception,1,10,91,91,-0.04486009398484114,False,Tulsa,Memphis,0,0,1,11,45,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101886401,Pass Reception,2,6,87,87,0.6566889558203224,False,Tulsa,Memphis,0,0,1,11,35,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101898901,Pass Reception,1,10,60,60,-0.6799841752385892,False,Tulsa,Memphis,0,0,1,10,10,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101889901,Pass Reception,2,8,75,75,-0.2819176366655638,False,Tulsa,Memphis,0,0,1,11,0,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101895901,Pass Reception,3,6,73,73,2.1505966758879955,False,Tulsa,Memphis,0,0,1,10,40,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101904901,Passing Touchdown,2,8,58,58,5.4368847793822646,True,Tulsa,Memphis,7,0,1,9,50,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101944901,Pass Reception,1,10,65,65,0.7081222799232592,False,Tulsa,Memphis,7,7,1,5,50,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101964901,Pass Reception,1,10,76,76,1.3887177392721153,False,Tulsa,Memphis,7,7,1,3,50,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101965401,Pass Reception,1,10,60,60,-0.1674744380827829,False,Tulsa,Memphis,7,7,1,3,45,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891101974401,Passing Touchdown,1,10,45,45,3.476514085067068,True,Tulsa,Memphis,14,7,1,2,55,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102865901,Pass Reception,1,10,40,40,0.839961749584607,False,Tulsa,Memphis,14,14,2,13,40,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102868901,Pass Reception,2,1,31,31,-0.172652019015191,False,Tulsa,Memphis,14,14,2,13,10,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102915901,Pass Incompletion,1,10,43,43,-0.9391692565688832,False,Tulsa,Memphis,21,14,2,8,40,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102914401,Pass Reception,2,6,56,56,1.572004954295604,False,Tulsa,Memphis,21,14,2,8,55,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102906901,Pass Reception,1,10,75,75,1.320854515577646,False,Tulsa,Memphis,21,14,2,9,30,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102916201,Pass Incompletion,2,10,43,43,-1.060943078602227,False,Tulsa,Memphis,21,14,2,8,37,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102897401,Pass Incompletion,1,10,85,85,-0.4404078956667625,False,Tulsa,Memphis,21,14,2,10,25,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102936001,Passing Touchdown,2,8,21,21,2.890483515317262,True,Tulsa,Memphis,28,14,2,6,39,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102899901,Pass Reception,3,4,79,79,0.8729588541368036,False,Tulsa,Memphis,21,14,2,10,0,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102959901,Pass Incompletion,3,3,46,46,-1.1119298595815224,False,Tulsa,Memphis,28,14,2,4,0,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102954901,Pass Reception,1,10,79,79,2.235235356243848,False,Tulsa,Memphis,28,14,2,4,50,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102958901,Pass Reception,2,8,51,51,0.088828439547745,False,Tulsa,Memphis,28,14,2,4,10,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102979901,Pass Incompletion,2,8,15,15,-0.3598473822443165,False,Tulsa,Memphis,28,14,2,2,0,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102987401,Pass Reception,3,8,15,15,0.034914573891072,False,Tulsa,Memphis,28,14,2,1,25,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891102975401,Pass Reception,2,8,27,27,0.493484114061285,False,Tulsa,Memphis,28,14,2,2,45,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103867901,Pass Reception,2,3,46,46,2.5239530024405408,False,Tulsa,Memphis,35,21,3,13,20,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103888901,Pass Reception,1,10,75,75,2.2363431875999487,False,Tulsa,Memphis,42,28,3,11,10,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103889901,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Tulsa,Memphis,42,28,3,11,0,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103896401,Pass Reception,2,10,50,50,0.5711788490243421,False,Tulsa,Memphis,42,28,3,10,35,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103925401,Pass Reception,2,10,67,67,0.0557743573496614,False,Tulsa,Memphis,42,35,3,7,45,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103928401,Pass Reception,3,6,62,62,3.5567151735828757,False,Tulsa,Memphis,42,35,3,7,15,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103917901,Pass Reception,3,6,74,74,1.5076086874062113,False,Tulsa,Memphis,42,35,3,8,20,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103919902,Pass Incompletion,1,10,67,67,-0.956890163923906,False,Tulsa,Memphis,42,35,3,8,0,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103994801,Pass Incompletion,3,7,12,12,-0.428634738789288,False,Tulsa,Memphis,49,35,3,0,51,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103994401,Pass Incompletion,2,7,12,12,-0.327630498967477,False,Tulsa,Memphis,49,35,3,0,55,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891103986901,Pass Reception,3,6,40,40,1.9819541404240417,False,Tulsa,Memphis,49,35,3,1,30,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891104876001,Passing Touchdown,3,5,5,5,2.76159962916859,True,Tulsa,Memphis,59,35,4,12,39,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891104874901,Pass Reception,2,6,6,6,-0.232932636386652,False,Tulsa,Memphis,52,35,4,12,50,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891104898901,Pass Reception,3,2,58,58,2.3483576473609205,False,Tulsa,Memphis,59,35,4,10,10,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891104954401,Pass Reception,3,2,67,67,-0.5040928634877408,False,Tulsa,Memphis,59,42,4,4,55,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764891104936901,Pass Reception,2,7,72,72,-0.7999964437304721,False,Tulsa,Memphis,59,42,4,6,30,8,Tulsa,2015,Memphis,Paxton Lynch,2016
+400764898101994901,Pass Incompletion,2,7,10,90,-0.3051840415958636,False,Memphis,Tulane,0,6,1,0,50,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898101969901,Pass Reception,1,10,70,30,0.9979151532889787,False,Memphis,Tulane,0,6,1,3,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898101985401,Pass Reception,1,10,59,41,1.8447692168756562,False,Memphis,Tulane,0,6,1,1,45,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898101987901,Pass Reception,2,3,23,77,-0.079275799121683,False,Memphis,Tulane,0,6,1,1,20,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898101986901,Pass Reception,1,10,30,70,0.354589716998607,False,Memphis,Tulane,0,6,1,1,30,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102874401,Pass Incompletion,2,10,62,38,-0.6938325521359872,False,Memphis,Tulane,0,13,2,12,55,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102885001,Pass Incompletion,1,10,32,68,-0.6082596672078662,False,Memphis,Tulane,0,13,2,11,49,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102869901,Pass Incompletion,1,10,62,38,-1.087995077167328,False,Memphis,Tulane,0,13,2,13,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102895201,Pass Reception,1,3,3,97,-0.603484792590886,False,Memphis,Tulane,0,13,2,10,47,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102859501,Pass Incompletion,1,10,76,24,-0.6723571521309859,False,Memphis,Tulane,0,13,2,14,4,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102886901,Pass Reception,2,10,32,68,0.9408498777509816,False,Memphis,Tulane,0,13,2,11,30,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102864201,Pass Reception,2,10,76,24,0.652806380134729,False,Memphis,Tulane,0,13,2,13,57,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102876101,Pass Reception,3,10,62,38,3.3219489124727843,False,Memphis,Tulane,0,13,2,12,38,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102934301,Pass Incompletion,2,6,7,93,-0.301988761015517,False,Memphis,Tulane,7,13,2,6,56,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102934701,Pass Incompletion,3,6,7,93,-0.3199002464910233,False,Memphis,Tulane,7,13,2,6,52,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102915401,Pass Reception,1,10,42,58,-3.4782401008184713,False,Memphis,Tulane,7,13,2,8,45,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102927401,Pass Reception,1,10,28,72,0.242275060770506,False,Memphis,Tulane,7,13,2,7,25,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102977501,Pass Incompletion,2,11,23,77,-0.5694523802647746,False,Memphis,Tulane,12,13,2,2,24,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102978101,Pass Incompletion,3,11,23,77,-0.851086805884643,False,Memphis,Tulane,12,13,2,2,18,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898102988401,Pass Reception,1,10,72,28,1.0006166758011863,False,Memphis,Tulane,15,13,2,1,15,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103859901,Pass Reception,1,10,63,37,1.0359877217814513,False,Memphis,Tulane,15,13,3,14,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103876001,Pass Incompletion,3,4,39,61,-1.0936385382884737,False,Memphis,Tulane,15,13,3,12,39,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103855401,Pass Reception,1,10,75,25,1.252308359788624,False,Memphis,Tulane,15,13,3,14,45,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103869301,Pass Reception,2,5,40,60,-0.788577464170176,False,Memphis,Tulane,15,13,3,13,6,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103907001,Pass Reception,2,7,77,23,1.5721567181414589,False,Memphis,Tulane,15,13,3,9,29,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103915401,Pass Reception,2,13,66,34,0.1828573083412133,False,Memphis,Tulane,15,13,3,8,45,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103917301,Pass Incompletion,3,7,60,40,-0.5321990300834347,False,Memphis,Tulane,15,13,3,8,26,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103946901,Pass Reception,1,10,49,51,-0.8564651345494897,False,Memphis,Tulane,15,13,3,5,30,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103928901,Pass Incompletion,1,10,61,39,-1.1077677360468863,False,Memphis,Tulane,15,13,3,7,10,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103938101,Pass Reception,2,22,73,27,0.6259792214146458,False,Memphis,Tulane,15,13,3,6,18,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103958301,Pass Incompletion,2,9,17,83,-0.3954209141026027,False,Memphis,Tulane,15,13,3,4,16,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103958901,Pass Incompletion,3,9,17,83,-0.6084390903361393,False,Memphis,Tulane,15,13,3,4,10,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103939901,Pass Reception,3,9,60,40,2.804456874596422,False,Memphis,Tulane,15,13,3,6,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103984901,Pass Reception,1,10,68,32,2.1669406277110053,False,Memphis,Tulane,18,13,3,1,50,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103987301,Passing Touchdown,1,10,43,57,3.3523700879308542,True,Memphis,Tulane,25,13,3,1,26,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104855901,Pass Reception,1,10,26,74,0.1618030328430975,False,Memphis,Tulane,27,13,4,14,40,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103999801,Pass Reception,2,3,43,57,0.5313031069399105,False,Memphis,Tulane,27,13,3,0,1,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898103989901,Pass Reception,1,10,76,24,1.0951075498380405,False,Memphis,Tulane,27,13,3,1,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104897701,Pass Incompletion,2,10,29,71,-0.732204526648056,False,Memphis,Tulane,34,13,4,10,22,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104897301,Pass Incompletion,1,10,29,71,-0.534372502378378,False,Memphis,Tulane,34,13,4,10,26,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104889101,Pass Reception,3,4,65,35,2.565604245045445,False,Memphis,Tulane,34,13,4,11,8,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104899901,Pass Reception,3,10,29,71,1.515948998578699,False,Memphis,Tulane,34,13,4,10,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104948501,Pass Incompletion,3,5,40,60,-1.0838891412979983,False,Memphis,Tulane,41,13,4,5,14,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764898104929901,Pass Reception,1,10,60,40,1.2803865190766075,False,Memphis,Tulane,41,13,4,7,0,9,Tulane,2015,Memphis,Paxton Lynch,2016
+400764904101866001,Passing Touchdown,2,4,11,89,2.397002114590334,True,Memphis,Navy,7,0,1,13,39,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101864401,Pass Reception,1,10,17,83,0.18290098819408,False,Memphis,Navy,0,0,1,13,55,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101856901,Pass Reception,1,10,85,15,0.6856189176956029,False,Memphis,Navy,0,0,1,14,30,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101858901,Pass Reception,2,2,77,23,3.3554395293951926,False,Memphis,Navy,0,0,1,14,10,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101957601,Pass Incompletion,1,10,77,23,-0.6425305871127751,False,Memphis,Navy,7,7,1,4,23,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101996401,Pass Incompletion,3,10,22,78,-0.7937431562948642,False,Memphis,Navy,7,7,1,0,35,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101979201,Pass Incompletion,2,3,26,74,-0.648775509649351,False,Memphis,Navy,7,7,1,2,7,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101974201,Pass Reception,2,9,44,56,0.3048767138558155,False,Memphis,Navy,7,7,1,2,57,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101958201,Pass Incompletion,2,10,77,23,-0.30950338122914456,False,Memphis,Navy,7,7,1,4,17,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101995901,Pass Incompletion,2,10,22,78,-0.5229247355568223,False,Memphis,Navy,7,7,1,0,40,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101959201,Pass Reception,3,10,77,23,2.405490458387641,False,Memphis,Navy,7,7,1,4,7,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904101965401,Pass Reception,1,10,60,40,1.2803865190766075,False,Memphis,Navy,7,7,1,3,45,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102895601,Pass Reception,1,10,99,1,1.654910462139795,False,Memphis,Navy,10,7,2,10,43,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102909701,Pass Incompletion,2,3,46,54,-1.2098151381730293,False,Memphis,Navy,10,7,2,9,2,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102904201,Pass Reception,2,6,62,38,-0.3813230298008482,False,Memphis,Navy,10,7,2,9,57,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102907101,Pass Reception,3,3,59,41,1.7792295472041284,False,Memphis,Navy,10,7,2,9,28,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102935101,Pass Reception,3,14,41,59,1.764179590304515,False,Memphis,Navy,10,7,2,6,48,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102916501,Pass Incompletion,1,10,37,63,-0.7519361608312708,False,Memphis,Navy,10,7,2,8,34,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102915401,Pass Reception,3,3,46,54,1.6203807842572697,False,Memphis,Navy,10,7,2,8,45,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102985101,Pass Reception,1,10,71,29,-0.1350508541150131,False,Memphis,Navy,10,14,2,1,48,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102986201,Pass Incompletion,2,6,67,33,-0.7751757096233421,False,Memphis,Navy,10,14,2,1,37,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102977401,Pass Reception,2,5,78,22,-0.7096815330982782,False,Memphis,Navy,10,14,2,2,25,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102979701,Pass Reception,3,8,81,19,1.3889224025723585,False,Memphis,Navy,10,14,2,2,2,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102986801,Pass Incompletion,3,6,67,33,-0.39559253755005397,False,Memphis,Navy,10,14,2,1,31,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904102998201,Pass Interception Return,1,10,80,20,-0.6139422043948972,False,Memphis,Navy,10,14,2,0,17,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103878701,Pass Reception,2,4,78,22,0.3917655391549495,False,Memphis,Navy,10,17,3,12,12,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103924501,Pass Reception,1,10,24,76,0.257200124960507,False,Memphis,Navy,10,17,3,7,54,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103886701,Pass Incompletion,1,10,59,41,-1.1387859939569847,False,Memphis,Navy,10,17,3,11,32,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103896501,Pass Reception,3,5,54,46,-0.1435846623017874,False,Memphis,Navy,10,17,3,10,34,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103938401,Pass Reception,1,10,48,52,1.068306107248258,False,Memphis,Navy,17,24,3,6,15,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103939901,Pass Incompletion,1,10,20,80,-0.374805786232315,False,Memphis,Navy,17,24,3,6,0,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103944901,Pass Incompletion,3,11,21,79,-0.7921713856904358,False,Memphis,Navy,17,24,3,5,50,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103974701,Pass Reception,2,6,66,34,2.070359460726797,False,Memphis,Navy,20,31,3,2,52,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104858301,Pass Incompletion,2,6,80,20,-0.42558642364504085,False,Memphis,Navy,20,31,4,14,16,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104858801,Pass Incompletion,3,6,80,20,-0.19021115894129534,False,Memphis,Navy,20,31,4,14,11,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904103998901,Pass Incompletion,1,10,96,4,-0.27058748136936206,False,Memphis,Navy,20,31,3,0,10,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104907101,Pass Reception,2,6,80,20,0.7166797735716308,False,Memphis,Navy,20,38,4,9,28,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104905701,Pass Reception,1,10,84,16,-0.0700258805898928,False,Memphis,Navy,20,38,4,9,42,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104974401,Pass Reception,2,2,67,33,0.2143146239807656,False,Memphis,Navy,20,45,4,2,55,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104969401,Pass Reception,1,10,75,25,0.9104368550610653,False,Memphis,Navy,20,45,4,3,5,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104986101,Pass Reception,4,9,61,39,0.042995013320164865,False,Memphis,Navy,20,45,4,1,38,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764904104985401,Pass Reception,3,16,68,32,0.11716236915523037,False,Memphis,Navy,20,45,4,1,45,10,Navy,2015,Memphis,Paxton Lynch,2016
+400764908101896201,Pass Incompletion,3,13,24,24,-0.9256553000316253,False,Houston,Memphis,0,0,1,10,37,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908101868401,Pass Reception,2,4,55,55,1.4416344951373663,False,Houston,Memphis,0,0,1,13,15,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908101879301,Pass Reception,3,4,30,30,0.863106372909318,False,Houston,Memphis,0,0,1,12,6,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908101917801,Pass Incompletion,3,13,85,85,-0.0594073132694204,False,Houston,Memphis,3,0,1,8,21,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908101915001,Pass Incompletion,1,10,82,82,-0.5080208698531008,False,Houston,Memphis,3,0,1,8,49,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908101946801,Pass Incompletion,3,8,79,79,-0.15651254264732373,False,Houston,Memphis,3,0,1,5,31,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908101938401,Pass Reception,2,12,83,83,0.37350481127648294,False,Houston,Memphis,3,0,1,6,15,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102864501,Passing Touchdown,1,10,38,38,3.094592648585188,True,Houston,Memphis,10,0,2,13,54,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102857001,Pass Reception,1,10,58,58,1.4671105634541275,False,Houston,Memphis,3,0,2,14,29,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102898201,Pass Reception,3,2,32,32,0.8389691699901775,False,Houston,Memphis,10,0,2,10,17,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102914901,Pass Incompletion,3,9,12,12,-0.464914983739831,False,Houston,Memphis,10,0,2,8,50,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102928001,Pass Reception,1,10,70,70,-0.1399034934597019,False,Houston,Memphis,13,0,2,7,19,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102938101,Pass Reception,3,5,65,65,1.8455566072745304,False,Houston,Memphis,13,0,2,6,18,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102977901,Pass Reception,1,10,60,60,-1.319414526540232,False,Houston,Memphis,13,0,2,2,20,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102977101,Pass Reception,1,10,72,72,1.0987321081223769,False,Houston,Memphis,13,0,2,2,28,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908102984701,Passing Touchdown,2,11,61,61,6.076315130683907,True,Houston,Memphis,20,0,2,1,52,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103907101,Pass Incompletion,1,10,31,31,-0.5824837756999947,False,Houston,Memphis,20,14,3,9,28,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103899901,Pass Reception,1,15,48,48,1.0960687170386176,False,Houston,Memphis,20,14,3,10,0,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103886901,Pass Reception,2,13,71,71,2.628448625391209,False,Houston,Memphis,20,14,3,11,30,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103975402,Pass Reception,1,10,55,55,0.6589805148257657,False,Houston,Memphis,27,14,3,2,45,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103997401,Pass Incompletion,1,10,32,32,-0.6082596672078662,False,Houston,Memphis,27,14,3,0,25,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103979401,Pass Reception,1,10,45,45,0.0943461181043617,False,Houston,Memphis,27,14,3,2,5,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908103998901,Pass Reception,2,10,32,32,0.348751271639788,False,Houston,Memphis,27,14,3,0,10,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104919101,Pass Interception Return,2,10,59,59,-1.202201656244588,False,Houston,Memphis,34,21,4,8,8,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104958901,Pass Incompletion,3,5,72,72,-0.3328077480603904,False,Houston,Memphis,34,28,4,4,10,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104997501,Pass Incompletion,3,5,31,31,-0.9456317595121763,False,Houston,Memphis,34,35,4,0,24,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104989501,Pass Reception,1,15,71,71,2.7616346536986853,False,Houston,Memphis,34,35,4,1,4,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104996801,Pass Incompletion,2,5,31,31,-0.7430508029745334,False,Houston,Memphis,34,35,4,0,31,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104988701,Pass Reception,2,10,77,77,1.5161182915725577,False,Houston,Memphis,34,35,4,1,12,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104996201,Pass Reception,1,10,36,36,0.082600123518274,False,Houston,Memphis,34,35,4,0,37,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104988101,Pass Incompletion,1,10,77,77,-0.6425305871127751,False,Houston,Memphis,34,35,4,1,18,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764908104994801,Pass Reception,1,10,47,47,0.602424146252634,False,Houston,Memphis,34,35,4,0,51,11,Houston,2015,Memphis,Paxton Lynch,2016
+400764915101888003,Pass Incompletion,3,4,67,67,-0.4860476194764969,False,Temple,Memphis,0,0,1,11,19,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918912,Pass Reception,1,10,19,19,0.310818362814722,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918910,Pass Incompletion,1,10,29,29,-0.534372502378378,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918904,Pass Reception,1,10,81,81,-0.7153237677572752,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918914,Pass Incompletion,3,4,13,13,-0.427305807832212,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918906,Pass Incompletion,1,10,65,65,-1.0146424556055624,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918902,Pass Reception,2,8,97,97,0.03811842176869094,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918911,Pass Reception,2,10,29,29,0.718226058338967,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918908,Pass Reception,3,5,60,60,1.9217307251982785,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918905,Pass Reception,2,13,84,84,1.911226278068737,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915101918903,Pass Reception,3,3,92,92,0.6699252273141969,False,Temple,Memphis,0,0,1,8,10,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102854602,Pass Reception,2,11,46,46,-0.164955389630114,False,Temple,Memphis,3,0,2,14,53,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102854606,Pass Reception,3,5,28,28,-0.85944428771484,False,Temple,Memphis,3,0,2,14,53,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102854603,Pass Reception,3,7,42,42,1.9654044052552706,False,Temple,Memphis,3,0,2,14,53,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102919103,Pass Reception,3,10,77,77,0.01792775393595036,False,Temple,Memphis,6,7,2,8,8,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102919101,Pass Incompletion,1,10,77,77,-0.6425305871127751,False,Temple,Memphis,6,7,2,8,8,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102957004,Pass Incompletion,2,4,38,38,-0.9669057966431484,False,Temple,Memphis,6,14,2,4,29,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102957005,Pass Reception,3,4,38,38,1.2958510726296857,False,Temple,Memphis,6,14,2,4,29,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915102957002,Pass Reception,2,9,65,65,2.7360421910722206,False,Temple,Memphis,6,14,2,4,29,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915103849904,Pass Reception,2,15,77,77,0.16058363218333493,False,Temple,Memphis,9,14,3,15,0,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915103849905,Pass Incompletion,3,8,70,70,-0.2694610798635253,False,Temple,Memphis,9,14,3,15,0,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915103924802,Pass Reception,2,4,38,38,-0.3113254846363364,False,Temple,Memphis,9,14,3,7,51,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915103924806,Pass Reception,3,6,29,29,1.027039372197686,False,Temple,Memphis,9,14,3,7,51,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104854506,Pass Incompletion,3,7,62,62,-0.4769471385968531,False,Temple,Memphis,12,21,4,14,54,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104854505,Pass Reception,2,13,68,68,0.16669387403504565,False,Temple,Memphis,12,21,4,14,54,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104948103,Pass Reception,3,4,66,66,-0.2206513161771708,False,Temple,Memphis,12,24,4,5,18,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104948102,Pass Reception,2,3,65,65,-1.2545222645896823,False,Temple,Memphis,12,24,4,5,18,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104948101,Pass Reception,1,10,72,72,0.6473671294139649,False,Temple,Memphis,12,24,4,5,18,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104968510,Pass Reception,1,10,52,52,-1.9957507076975685,False,Temple,Memphis,12,31,4,3,14,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104968506,Pass Reception,4,8,73,73,2.086183993858656,False,Temple,Memphis,12,31,4,3,14,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104968502,Pass Reception,2,6,83,83,0.6771501358046708,False,Temple,Memphis,12,31,4,3,14,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104968503,Pass Reception,1,10,75,75,-0.2957674139440157,False,Temple,Memphis,12,31,4,3,14,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104968505,Pass Incompletion,3,8,73,73,-0.22421028645399854,False,Temple,Memphis,12,31,4,3,14,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764915104968507,Pass Reception,1,10,64,64,-0.1622709044233037,False,Temple,Memphis,12,31,4,3,14,12,Temple,2015,Memphis,Paxton Lynch,2016
+400764920101876101,Passing Touchdown,2,7,43,57,3.885181339167371,True,Memphis,SMU,7,0,1,12,38,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920101895303,Pass Incompletion,3,6,51,49,-0.8603959659552948,False,Memphis,SMU,7,0,1,10,46,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920101937404,Pass Incompletion,2,10,16,84,-0.380857143240037,False,Memphis,SMU,7,0,1,6,25,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920101937403,Pass Incompletion,1,10,16,84,-0.3301132067544156,False,Memphis,SMU,7,0,1,6,25,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920101945701,Passing Touchdown,3,10,16,84,3.279693071286827,True,Memphis,SMU,14,0,1,5,42,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920101959701,Passing Touchdown,1,10,21,79,2.632296813795493,True,Memphis,SMU,21,0,1,4,2,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102859901,Passing Touchdown,1,10,15,85,2.558199089565083,True,Memphis,SMU,35,0,2,14,0,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102886801,Pass Incompletion,1,10,52,48,-1.1430602484821704,False,Memphis,SMU,35,0,2,11,31,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102895601,Passing Touchdown,3,2,44,56,4.315332916146204,True,Memphis,SMU,42,0,2,10,43,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102926201,Passing Touchdown,2,6,6,94,2.528666992781938,True,Memphis,SMU,49,0,2,7,37,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102909803,Pass Reception,1,10,25,75,1.0118938435520826,False,Memphis,SMU,42,0,2,9,1,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102906002,Pass Incompletion,2,10,47,53,-1.0598235743711744,False,Memphis,SMU,42,0,2,9,39,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920102977601,Passing Touchdown,3,4,22,78,3.1003562862117864,True,Memphis,SMU,56,0,2,2,23,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920103904301,Pass Incompletion,1,10,35,65,-0.6918622905019662,False,Memphis,SMU,56,0,3,9,56,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920103904304,Pass Incompletion,4,2,27,73,-3.0915604449409138,False,Memphis,SMU,56,0,3,9,56,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920103904303,Pass Reception,3,10,35,65,0.6705095348916661,False,Memphis,SMU,56,0,3,9,56,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920103965805,Pass Incompletion,3,12,29,71,-0.9944406148573164,False,Memphis,SMU,56,0,3,3,41,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920104876104,Pass Interception Return,1,10,59,41,-2.3409876502015727,False,Memphis,SMU,63,0,4,12,38,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920104876103,Pass Reception,3,2,67,33,1.6383302245485032,False,Memphis,SMU,63,0,4,12,38,13,SMU,2015,Memphis,Paxton Lynch,2016
+400764920104914704,Pass Reception,3,5,72,28,2.2499523484956603,False,Memphis,SMU,63,0,4,8,52,13,SMU,2015,Memphis,Paxton Lynch,2016

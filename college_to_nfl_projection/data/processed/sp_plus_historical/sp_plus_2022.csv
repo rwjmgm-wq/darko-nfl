@@ -1,0 +1,133 @@
+season,team,conference,overall_rating,offense_rating,defense_rating,special_teams_rating
+2022,Georgia,SEC,35.3,37.2,3.7,1.7
+2022,Michigan,Big Ten,32.0,38.0,7.6,1.6
+2022,Ohio State,Big Ten,31.1,45.1,15.7,1.7
+2022,Alabama,SEC,30.3,42.9,14.2,1.6
+2022,Tennessee,SEC,25.2,47.3,22.6,0.4
+2022,TCU,Big 12,24.3,43.3,20.2,1.2
+2022,Texas,SEC,23.1,38.1,15.6,0.7
+2022,Penn State,Big Ten,22.4,36.6,13.9,-0.3
+2022,Kansas State,Big 12,21.4,36.4,15.7,0.6
+2022,Utah,Big 12,19.2,37.3,17.3,-0.8
+2022,Oregon,Big Ten,18.9,44.9,26.5,0.5
+2022,USC,Big Ten,18.9,46.6,26.3,-1.4
+2022,Clemson,ACC,17.6,34.9,18.5,1.2
+2022,LSU,SEC,16.2,34.2,17.6,-0.5
+2022,Ole Miss,SEC,16.2,38.8,23.7,1.1
+2022,Minnesota,Big Ten,16.0,23.5,8.6,1.1
+2022,Illinois,Big Ten,15.9,20.6,5.5,0.8
+2022,Washington,Big Ten,15.7,41.2,25.5,0.0
+2022,Oklahoma,SEC,15.4,40.8,26.5,1.0
+2022,Mississippi State,SEC,15.4,35.1,19.9,0.2
+2022,UCLA,Big Ten,15.0,45.7,30.1,-0.7
+2022,Oregon State,Pac-12,14.3,33.3,17.7,-1.3
+2022,Florida State,ACC,13.2,34.8,20.4,-1.3
+2022,Cincinnati,Big 12,13.1,27.6,16.1,1.5
+2022,Kentucky,SEC,13.0,23.2,9.9,-0.3
+2022,South Carolina,SEC,12.7,36.0,25.2,1.8
+2022,Iowa,Big Ten,12.7,16.0,5.1,1.7
+2022,Tulane,American Athletic,12.4,32.0,19.7,0.1
+2022,Arkansas,SEC,12.0,38.3,26.3,0.0
+2022,Baylor,Big 12,11.7,37.6,26.1,0.2
+2022,Oklahoma State,Big 12,11.3,37.6,27.9,1.6
+2022,Maryland,Big Ten,11.2,33.8,24.2,1.7
+2022,South Alabama,Sun Belt,10.8,26.8,17.4,1.4
+2022,Florida,SEC,10.4,39.6,29.5,0.3
+2022,Notre Dame,FBS Independents,10.3,30.5,21.4,1.1
+2022,UCF,Big 12,10.3,31.1,20.3,-0.6
+2022,Washington State,Pac-12,9.5,25.1,16.7,1.1
+2022,Texas A&M,SEC,9.1,25.4,16.6,0.3
+2022,Louisville,ACC,9.0,27.0,19.1,1.1
+2022,Pittsburgh,ACC,8.6,32.8,24.7,0.5
+2022,Texas Tech,Big 12,8.5,38.5,30.5,0.5
+2022,Wisconsin,Big Ten,8.3,25.7,17.1,-0.4
+2022,Wake Forest,ACC,8.2,43.3,35.2,0.0
+2022,Troy,Sun Belt,8.1,17.7,11.2,1.5
+2022,Missouri,SEC,8.1,26.0,18.3,0.3
+2022,North Carolina,ACC,7.8,41.7,35.0,1.1
+2022,Purdue,Big Ten,7.7,31.6,22.4,-1.5
+2022,UTSA,American Athletic,7.2,39.3,32.6,0.5
+2022,Memphis,American Athletic,6.8,37.0,31.8,1.7
+2022,NC State,ACC,6.8,20.4,15.3,1.6
+2022,James Madison,Sun Belt,6.5,31.3,23.6,-1.2
+2022,Boise State,Mountain West,5.7,24.1,18.5,0.1
+2022,Iowa State,Big 12,5.3,17.7,10.6,-1.7
+2022,Auburn,SEC,5.1,32.6,27.9,0.5
+2022,Duke,ACC,5.0,29.4,24.7,0.3
+2022,SMU,ACC,4.7,42.0,38.1,0.9
+2022,Houston,Big 12,4.5,42.5,37.7,-0.3
+2022,Air Force,Mountain West,3.9,16.3,12.3,-0.1
+2022,Fresno State,Mountain West,3.3,27.1,24.4,0.6
+2022,Marshall,Sun Belt,3.0,15.7,11.4,-1.3
+2022,Kansas,Big 12,2.9,40.6,36.0,-1.7
+2022,Syracuse,ACC,2.5,27.4,24.7,-0.1
+2022,West Virginia,Big 12,2.4,36.3,34.5,0.6
+2022,Louisiana,Sun Belt,2.0,21.7,20.3,0.7
+2022,App State,Sun Belt,1.7,32.9,29.8,-1.4
+2022,Western Kentucky,Conference USA,1.7,31.3,30.1,0.5
+2022,Michigan State,Big Ten,1.2,31.9,29.7,-1.0
+2022,East Carolina,American Athletic,1.1,31.5,28.7,-1.7
+2022,Coastal Carolina,Sun Belt,0.6,32.7,30.6,-1.5
+2022,UAB,American Athletic,-0.5,25.7,25.3,-0.9
+2022,Nebraska,Big Ten,-1.2,25.5,25.6,-1.2
+2022,BYU,Big 12,-1.4,34.3,34.8,-0.8
+2022,Army,American Athletic,-1.5,24.6,25.3,-0.9
+2022,North Texas,American Athletic,-1.5,31.3,34.1,1.3
+2022,Liberty,Conference USA,-1.5,24.1,25.4,-0.2
+2022,Miami,ACC,-2.7,24.4,28.9,1.7
+2022,California,ACC,-3.0,23.2,25.9,-0.3
+2022,Arizona,Big 12,-3.2,37.6,41.1,0.2
+2022,Georgia State,Sun Belt,-3.3,33.7,38.3,1.4
+2022,Southern Miss,Sun Belt,-3.5,18.3,22.9,1.1
+2022,Toledo,Mid-American,-3.7,25.7,27.9,-1.5
+2022,Arizona State,Big 12,-4.1,30.5,35.7,1.1
+2022,San José State,Mountain West,-4.3,19.1,21.6,-1.8
+2022,San Diego State,Mountain West,-4.4,15.1,21.1,1.5
+2022,Ohio,Mid-American,-4.6,31.6,35.2,-1.0
+2022,Vanderbilt,SEC,-4.7,29.9,33.4,-1.2
+2022,Tulsa,American Athletic,-6.1,32.7,38.5,-0.3
+2022,Georgia Southern,Sun Belt,-6.4,34.3,40.3,-0.4
+2022,Middle Tennessee,Conference USA,-6.9,25.6,33.3,0.8
+2022,Indiana,Big Ten,-7.1,29.9,36.6,-0.4
+2022,Eastern Michigan,Mid-American,-7.1,24.0,32.4,1.3
+2022,Florida Atlantic,American Athletic,-7.1,24.4,30.4,-1.1
+2022,Stanford,ACC,-7.2,25.6,34.2,1.5
+2022,Navy,American Athletic,-7.2,18.2,24.4,-1.1
+2022,Virginia,ACC,-9.0,16.2,24.4,-0.7
+2022,Rutgers,Big Ten,-9.1,16.4,25.2,-0.3
+2022,Buffalo,Mid-American,-9.2,25.0,35.0,0.8
+2022,Virginia Tech,ACC,-9.5,13.5,22.8,-0.3
+2022,UTEP,Conference USA,-10.7,20.8,32.7,1.2
+2022,Wyoming,Mountain West,-10.8,14.9,26.2,0.5
+2022,Texas State,Sun Belt,-11.5,17.4,29.5,0.7
+2022,Georgia Tech,ACC,-11.8,18.8,29.5,-1.1
+2022,UNLV,Mountain West,-11.9,20.8,34.1,1.3
+2022,Miami (OH),Mid-American,-12.7,8.6,22.1,0.7
+2022,Temple,American Athletic,-12.9,16.3,28.6,-0.5
+2022,Arkansas State,Sun Belt,-13.0,23.7,38.5,1.8
+2022,Old Dominion,Sun Belt,-13.0,16.9,29.3,-0.6
+2022,Kent State,Mid-American,-13.1,25.6,37.9,-0.7
+2022,Utah State,Mountain West,-13.3,25.4,38.5,-0.2
+2022,Northwestern,Big Ten,-13.4,17.0,28.6,-1.7
+2022,Central Michigan,Mid-American,-14.0,19.0,32.2,-0.8
+2022,UConn,FBS Independents,-14.6,14.2,27.9,-0.9
+2022,Boston College,ACC,-14.9,20.4,33.8,-1.5
+2022,Ball State,Mid-American,-14.9,16.0,30.1,-0.7
+2022,Rice,American Athletic,-15.2,23.1,36.9,-1.4
+2022,New Mexico State,Conference USA,-15.4,12.0,26.0,-1.4
+2022,UL Monroe,Sun Belt,-15.7,23.2,39.0,0.2
+2022,Charlotte,American Athletic,-16.4,24.0,39.2,-1.2
+2022,South Florida,American Athletic,-17.0,34.1,50.3,-0.8
+2022,Western Michigan,Mid-American,-17.3,11.2,27.3,-1.1
+2022,Louisiana Tech,Conference USA,-17.8,29.6,47.0,-0.4
+2022,Bowling Green,Mid-American,-18.1,23.8,40.6,-1.2
+2022,Northern Illinois,Mid-American,-18.8,25.3,43.1,-1.0
+2022,Colorado,Big 12,-20.4,24.0,45.0,0.7
+2022,Colorado State,Mountain West,-22.2,7.8,29.0,-1.0
+2022,Nevada,Mountain West,-22.4,15.9,37.8,-0.5
+2022,Akron,Mid-American,-23.4,16.7,38.5,-1.6
+2022,Hawai'i,Mountain West,-24.7,15.8,39.4,-1.1
+2022,Florida International,Conference USA,-25.5,18.4,42.3,-1.6
+2022,New Mexico,Mountain West,-26.9,6.0,31.9,-1.0
+2022,Massachusetts,Mid-American,-30.3,7.5,36.4,-1.4
+2022,nationalAverages,,0.8145038167938932,27.76946564885496,26.959541984732823,0.0007633587786259542

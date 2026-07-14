@@ -1,0 +1,468 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401282066.0,Pass Incompletion,,,75.0,75,-1.3750824928283691,False,Tennessee,Pittsburgh,41.0,34.0,4,9,50,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,75.0,75,-0.9839640259742737,False,Tennessee,Pittsburgh,41.0,34.0,4,9,59,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,75.0,75,-0.4882141351699829,False,Tennessee,Pittsburgh,41.0,34.0,4,10,4,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Passing Touchdown,,,5.0,5,2.265143871307373,True,Tennessee,Pittsburgh,41.0,27.0,4,12,22,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,32.0,32,0.9785714149475098,False,Tennessee,Pittsburgh,34.0,27.0,4,13,52,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,72.0,72,2.7028770446777344,False,Tennessee,Pittsburgh,34.0,27.0,4,14,10,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,70.0,70,-1.5337600708007812,False,Tennessee,Pittsburgh,34.0,27.0,3,1,58,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,5.0,5,-1.031477928161621,False,Tennessee,Pittsburgh,27.0,20.0,3,5,30,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,41.0,41,-0.021775245666503906,False,Tennessee,Pittsburgh,27.0,20.0,3,9,2,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,59.0,59,1.4861063957214355,False,Tennessee,Pittsburgh,27.0,20.0,3,9,32,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Sack,,,27.0,27,-2.749709367752075,False,Tennessee,Pittsburgh,27.0,20.0,3,13,10,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,3.0,3,-0.20467185974121094,False,Tennessee,Pittsburgh,20.0,20.0,2,0,25,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,11.0,11,0.9380807876586914,False,Tennessee,Pittsburgh,20.0,20.0,2,0,32,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,38.0,38,1.5989856719970703,False,Tennessee,Pittsburgh,20.0,20.0,2,1,1,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,58.0,58,1.7630395889282227,False,Tennessee,Pittsburgh,20.0,20.0,2,1,20,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,58.0,58,-0.42798733711242676,False,Tennessee,Pittsburgh,20.0,20.0,2,1,35,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,28.0,28,1.2528834342956543,False,Tennessee,Pittsburgh,17.0,13.0,2,6,0,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,44.0,44,1.8609216213226318,False,Tennessee,Pittsburgh,17.0,13.0,2,6,59,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,48.0,48,-0.4172708988189697,False,Tennessee,Pittsburgh,17.0,13.0,2,7,34,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,20.0,20,-0.8280718326568604,False,Tennessee,Pittsburgh,14.0,13.0,2,8,38,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Passing Touchdown,,,16.0,16,2.1735939979553223,True,Tennessee,Pittsburgh,14.0,13.0,2,9,25,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,39.0,31,6.03581428527832,False,Tennessee,Pittsburgh,7.0,13.0,2,9,47,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,44.0,44,0.05420255661010742,False,Tennessee,Pittsburgh,7.0,13.0,2,10,40,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,75.0,75,2.2488391399383545,False,Tennessee,Pittsburgh,7.0,13.0,2,11,6,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Passing Touchdown,,,11.0,11,3.3319036960601807,True,Tennessee,Pittsburgh,7.0,10.0,2,14,53,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,42.0,42,2.381788730621338,False,Tennessee,Pittsburgh,0.0,10.0,1,1,15,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,47.0,47,-0.08724641799926758,False,Tennessee,Pittsburgh,0.0,10.0,1,2,13,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,69.0,69,1.5597747564315796,False,Tennessee,Pittsburgh,0.0,10.0,1,2,45,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,81.0,81,1.9743717908859253,False,Tennessee,Pittsburgh,0.0,10.0,1,3,6,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Sack,,,79.0,79,-1.0409162044525146,False,Tennessee,Pittsburgh,0.0,10.0,1,3,46,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,94.0,94,-0.37742018699645996,False,Tennessee,Pittsburgh,0.0,7.0,1,8,11,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,69.0,69,-0.5165892839431763,False,Tennessee,Pittsburgh,0.0,7.0,1,12,10,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,88.0,88,-0.7714453935623169,False,Tennessee,Pittsburgh,0.0,0.0,1,14,16,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Incompletion,,,88.0,88,-0.9212159514427185,False,Tennessee,Pittsburgh,0.0,0.0,1,14,25,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282066.0,Pass Reception,,,84.0,84,-1.994462251663208,False,Tennessee,Pittsburgh,0.0,0.0,1,14,52,2,Tennessee,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Passing Touchdown,,,22.0,78,2.697416305541992,True,Pittsburgh,Western Michigan,41.0,44.0,4,3,48,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,75.0,25,1.390491247177124,False,Pittsburgh,Western Michigan,34.0,44.0,4,5,37,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,65.0,35,0.6877049207687378,False,Pittsburgh,Western Michigan,34.0,44.0,4,5,37,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,51.0,49,1.8620760440826416,False,Pittsburgh,Western Michigan,34.0,44.0,4,5,37,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Sack,,,48.0,52,-3.5151047706604004,False,Pittsburgh,Western Michigan,34.0,41.0,4,10,18,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,56.0,44,-1.0693174600601196,False,Pittsburgh,Western Michigan,34.0,41.0,4,14,3,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,72.0,28,1.5535459518432617,False,Pittsburgh,Western Michigan,34.0,41.0,4,14,3,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,56.0,44,-0.572780191898346,False,Pittsburgh,Western Michigan,34.0,41.0,4,14,3,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Passing Touchdown,,,24.0,76,2.6080827713012695,True,Pittsburgh,Western Michigan,34.0,34.0,3,5,0,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,34.0,66,0.6720287799835205,False,Pittsburgh,Western Michigan,27.0,34.0,3,7,31,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,71.0,29,-1.4792871475219727,False,Pittsburgh,Western Michigan,28.0,27.0,3,9,13,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,76.0,24,0.6308552026748657,False,Pittsburgh,Western Michigan,28.0,27.0,3,15,0,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Sack,,,69.0,31,-0.6395270824432373,False,Pittsburgh,Western Michigan,28.0,27.0,3,15,0,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Passing Touchdown,,,28.0,72,3.3041460514068604,True,Pittsburgh,Western Michigan,27.0,27.0,2,1,7,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,65.0,35,0.6210486888885498,False,Pittsburgh,Western Michigan,20.0,27.0,2,1,49,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,59.0,41,1.5841431617736816,False,Pittsburgh,Western Michigan,20.0,27.0,2,1,49,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Interception Return,,,57.0,43,-4.844223976135254,False,Pittsburgh,Western Michigan,20.0,27.0,2,3,35,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Passing Touchdown,,,23.0,77,2.847109317779541,True,Pittsburgh,Western Michigan,20.0,20.0,2,7,25,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,71.0,29,2.424525260925293,False,Pittsburgh,Western Michigan,14.0,20.0,2,8,5,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Passing Touchdown,,,2.0,98,0.805142879486084,True,Pittsburgh,Western Michigan,14.0,20.0,2,8,54,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,57.0,43,0.13803982734680176,False,Pittsburgh,Western Michigan,7.0,20.0,2,12,1,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,52.0,48,1.037436604499817,False,Pittsburgh,Western Michigan,7.0,20.0,2,12,1,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,41.0,59,1.9266955852508545,False,Pittsburgh,Western Michigan,7.0,20.0,2,12,1,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,42.0,58,-3.068803548812866,False,Pittsburgh,Western Michigan,7.0,14.0,2,14,19,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,58.0,42,-0.1406833529472351,False,Pittsburgh,Western Michigan,7.0,14.0,2,15,0,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,65.0,35,1.0070351362228394,False,Pittsburgh,Western Michigan,7.0,14.0,1,1,21,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Incompletion,,,48.0,52,-0.6194057464599609,False,Pittsburgh,Western Michigan,7.0,14.0,1,1,21,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Incompletion,,,75.0,25,-0.6286557912826538,False,Pittsburgh,Western Michigan,7.0,7.0,1,3,42,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Passing Touchdown,,,67.0,33,5.229450702667236,True,Pittsburgh,Western Michigan,7.0,0.0,1,8,8,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Reception,,,75.0,25,0.36978211998939514,False,Pittsburgh,Western Michigan,0.0,0.0,1,11,29,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282632.0,Pass Incompletion,,,68.0,32,-1.6017301082611084,False,Pittsburgh,Western Michigan,0.0,0.0,1,11,29,3,Western Michigan,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,47.0,53,-0.11503052711486816,False,Pittsburgh,New Hampshire,70.0,7.0,4,12,56,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,30.0,70,1.2634806632995605,False,Pittsburgh,New Hampshire,70.0,7.0,4,12,56,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,25.0,75,0.7542886734008789,False,Pittsburgh,New Hampshire,63.0,7.0,3,4,54,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,44.0,56,0.37520647048950195,False,Pittsburgh,New Hampshire,56.0,7.0,3,11,34,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,19.0,81,0.42467689514160156,False,Pittsburgh,New Hampshire,56.0,7.0,3,11,34,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Passing Touchdown,,,46.0,54,2.2702293395996094,True,Pittsburgh,New Hampshire,56.0,7.0,3,13,33,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,76.0,24,-0.18390798568725586,False,Pittsburgh,New Hampshire,49.0,7.0,3,15,0,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,70.0,30,-2.6875295639038086,False,Pittsburgh,New Hampshire,49.0,7.0,3,15,0,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Passing Touchdown,,,7.0,93,3.365165948867798,True,Pittsburgh,New Hampshire,49.0,7.0,2,0,11,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Sack,,,21.0,79,-1.3998514413833618,False,Pittsburgh,New Hampshire,42.0,7.0,2,1,7,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,32.0,68,2.8647990226745605,False,Pittsburgh,New Hampshire,42.0,7.0,2,1,7,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,66.0,34,0.3336995840072632,False,Pittsburgh,New Hampshire,42.0,7.0,2,3,51,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,56.0,44,0.41829729080200195,False,Pittsburgh,New Hampshire,42.0,7.0,2,3,51,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,45.0,55,0.811025857925415,False,Pittsburgh,New Hampshire,42.0,7.0,2,3,51,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,34.0,66,0.631688117980957,False,Pittsburgh,New Hampshire,42.0,7.0,2,3,51,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Incompletion,,,67.0,33,-1.0603333711624146,False,Pittsburgh,New Hampshire,42.0,7.0,2,6,20,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Passing Touchdown,,,47.0,53,3.930778980255127,True,Pittsburgh,New Hampshire,42.0,7.0,2,8,7,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Sack,,,57.0,43,-0.9083037376403809,False,Pittsburgh,New Hampshire,35.0,7.0,2,9,45,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,58.0,42,2.2161717414855957,False,Pittsburgh,New Hampshire,35.0,7.0,2,9,45,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Passing Touchdown,,,24.0,76,3.2347891330718994,True,Pittsburgh,New Hampshire,35.0,7.0,2,11,17,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,82.0,18,1.19647216796875,False,Pittsburgh,New Hampshire,28.0,7.0,2,14,48,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,64.0,36,-0.10014510154724121,False,Pittsburgh,New Hampshire,28.0,7.0,2,14,48,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,58.0,42,0.5760905742645264,False,Pittsburgh,New Hampshire,28.0,7.0,2,14,48,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,47.0,53,1.2209718227386475,False,Pittsburgh,New Hampshire,28.0,7.0,2,14,48,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Incompletion,,,28.0,72,-0.552159309387207,False,Pittsburgh,New Hampshire,28.0,7.0,2,14,48,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,28.0,72,-0.5300493240356445,False,Pittsburgh,New Hampshire,28.0,7.0,2,14,48,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Passing Touchdown,,,12.0,88,1.2968363761901855,True,Pittsburgh,New Hampshire,28.0,0.0,1,0,59,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,58.0,42,0.42841386795043945,False,Pittsburgh,New Hampshire,21.0,0.0,1,2,17,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,46.0,54,0.4748344421386719,False,Pittsburgh,New Hampshire,21.0,0.0,1,2,17,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,50.0,50,0.6876413822174072,False,Pittsburgh,New Hampshire,14.0,0.0,1,8,2,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,38.0,62,0.5343227386474609,False,Pittsburgh,New Hampshire,14.0,0.0,1,8,2,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,26.0,74,0.554074764251709,False,Pittsburgh,New Hampshire,14.0,0.0,1,8,2,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282644.0,Pass Reception,,,80.0,20,4.172069072723389,False,Pittsburgh,New Hampshire,2.0,0.0,1,13,37,4,New Hampshire,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,40.0,40,1.8770923614501953,False,Georgia Tech,Pittsburgh,52.0,21.0,4,8,3,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,54.0,54,1.1638615131378174,False,Georgia Tech,Pittsburgh,49.0,21.0,4,15,0,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,36.0,36,0.4157748222351074,False,Georgia Tech,Pittsburgh,49.0,21.0,4,15,0,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Incompletion,,,79.0,79,-0.9949932098388672,False,Georgia Tech,Pittsburgh,49.0,21.0,3,2,58,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Passing Touchdown,,,2.0,2,1.0992083549499512,True,Georgia Tech,Pittsburgh,49.0,14.0,3,7,39,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,77.0,77,1.0520479679107666,False,Georgia Tech,Pittsburgh,42.0,14.0,3,12,28,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,45.0,45,0.9230475425720215,False,Georgia Tech,Pittsburgh,42.0,14.0,3,12,28,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Passing Touchdown,,,16.0,16,2.458108901977539,True,Georgia Tech,Pittsburgh,42.0,14.0,2,3,10,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,45.0,45,1.822791337966919,False,Georgia Tech,Pittsburgh,35.0,14.0,2,3,49,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,75.0,75,0.24090099334716797,False,Georgia Tech,Pittsburgh,28.0,14.0,2,9,22,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,68.0,68,1.494114637374878,False,Georgia Tech,Pittsburgh,28.0,14.0,2,9,22,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,37.0,37,3.8070101737976074,False,Georgia Tech,Pittsburgh,28.0,14.0,2,9,22,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,17.0,17,0.18453407287597656,False,Georgia Tech,Pittsburgh,28.0,14.0,2,9,22,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Passing Touchdown,,,55.0,55,3.541074514389038,True,Georgia Tech,Pittsburgh,28.0,7.0,2,11,17,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Passing Touchdown,,,11.0,11,1.5010490417480469,True,Georgia Tech,Pittsburgh,21.0,7.0,1,1,6,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,58.0,58,2.319166421890259,False,Georgia Tech,Pittsburgh,14.0,7.0,1,1,39,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,73.0,73,2.4786875247955322,False,Georgia Tech,Pittsburgh,14.0,7.0,1,6,17,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,57.0,57,1.1276023387908936,False,Georgia Tech,Pittsburgh,14.0,7.0,1,6,17,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Sack,,,45.0,45,-1.821332573890686,False,Georgia Tech,Pittsburgh,14.0,7.0,1,6,17,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,52.0,52,-0.8889706134796143,False,Georgia Tech,Pittsburgh,14.0,7.0,1,6,17,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,40.0,40,1.4317107200622559,False,Georgia Tech,Pittsburgh,0.0,0.0,1,12,11,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,26.0,26,0.6284070014953613,False,Georgia Tech,Pittsburgh,0.0,0.0,1,12,11,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,48.0,48,0.767878532409668,False,Georgia Tech,Pittsburgh,0.0,0.0,1,12,11,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Incompletion,,,40.0,40,-0.8608534336090088,False,Georgia Tech,Pittsburgh,0.0,0.0,1,12,11,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,68.0,68,0.36075925827026367,False,Georgia Tech,Pittsburgh,0.0,0.0,1,15,0,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Reception,,,64.0,64,1.092572569847107,False,Georgia Tech,Pittsburgh,0.0,0.0,1,15,0,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Incompletion,,,48.0,48,-0.715559720993042,False,Georgia Tech,Pittsburgh,0.0,0.0,1,15,0,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282649.0,Pass Incompletion,,,46.0,46,-1.3684636354446411,False,Georgia Tech,Pittsburgh,0.0,0.0,1,15,0,5,Georgia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Incompletion,,,16.0,16,-2.3560922145843506,False,Virginia Tech,Pittsburgh,28.0,7.0,4,2,0,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,84.0,84,1.3521323204040527,False,Virginia Tech,Pittsburgh,28.0,7.0,4,11,24,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,46.0,46,-1.0867706537246704,False,Virginia Tech,Pittsburgh,28.0,7.0,3,0,58,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,42.0,42,-0.9294700622558594,False,Virginia Tech,Pittsburgh,28.0,7.0,3,2,8,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,56.0,56,1.395076036453247,False,Virginia Tech,Pittsburgh,28.0,7.0,3,2,40,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,33.0,33,0.3082010746002197,False,Virginia Tech,Pittsburgh,21.0,0.0,3,10,44,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,33.0,33,-0.1414792537689209,False,Virginia Tech,Pittsburgh,21.0,0.0,3,11,59,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,45.0,45,1.2294602394104004,False,Virginia Tech,Pittsburgh,21.0,0.0,3,12,31,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Passing Touchdown,,,36.0,36,4.087047576904297,True,Virginia Tech,Pittsburgh,21.0,0.0,2,1,36,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,81.0,81,0.9189243316650391,False,Virginia Tech,Pittsburgh,14.0,0.0,2,2,49,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,31.0,31,3.7799232006073,False,Virginia Tech,Pittsburgh,7.0,0.0,2,6,5,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,36.0,36,-2.3703720569610596,False,Virginia Tech,Pittsburgh,7.0,0.0,2,7,47,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,58.0,58,-0.7818729877471924,False,Virginia Tech,Pittsburgh,7.0,0.0,2,11,12,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,67.0,67,-0.06343400478363037,False,Virginia Tech,Pittsburgh,7.0,0.0,2,15,0,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,73.0,73,0.1736283302307129,False,Virginia Tech,Pittsburgh,7.0,0.0,1,0,34,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,67.0,67,-0.26266634464263916,False,Virginia Tech,Pittsburgh,7.0,0.0,1,3,13,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Sack,,,65.0,65,-1.139803409576416,False,Virginia Tech,Pittsburgh,7.0,0.0,1,4,0,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Passing Touchdown,,,8.0,8,1.765202522277832,True,Virginia Tech,Pittsburgh,7.0,0.0,1,7,35,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,29.0,29,-0.5369884967803955,False,Virginia Tech,Pittsburgh,0.0,0.0,1,8,52,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Incompletion,,,29.0,29,-0.6082794666290283,False,Virginia Tech,Pittsburgh,0.0,0.0,1,9,10,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,53.0,53,0.8508341312408447,False,Virginia Tech,Pittsburgh,0.0,0.0,1,10,31,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,65.0,65,0.08754310011863708,False,Virginia Tech,Pittsburgh,0.0,0.0,1,11,20,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,65.0,65,-1.0295560359954834,False,Virginia Tech,Pittsburgh,0.0,0.0,1,11,56,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Incompletion,,,65.0,65,-0.6399728059768677,False,Virginia Tech,Pittsburgh,0.0,0.0,1,12,10,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,83.0,83,1.25931978225708,False,Virginia Tech,Pittsburgh,0.0,0.0,1,12,13,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Reception,,,89.0,89,0.7622963190078735,False,Virginia Tech,Pittsburgh,0.0,0.0,1,12,47,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Incompletion,,,76.0,76,-1.0711607933044434,False,Virginia Tech,Pittsburgh,0.0,0.0,1,14,28,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282661.0,Pass Incompletion,,,76.0,76,-1.0514756441116333,False,Virginia Tech,Pittsburgh,0.0,0.0,1,14,33,7,Virginia Tech,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,75.0,25,-0.546069860458374,False,Pittsburgh,Clemson,27.0,17.0,4,7,50,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,16.0,84,-1.0764873027801514,False,Pittsburgh,Clemson,24.0,10.0,4,9,34,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,28.0,72,0.3333625793457031,False,Pittsburgh,Clemson,24.0,10.0,4,10,16,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,51.0,49,1.4797825813293457,False,Pittsburgh,Clemson,24.0,10.0,4,13,31,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,36.0,64,-0.25746405124664307,False,Pittsburgh,Clemson,21.0,10.0,3,1,33,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,34.0,73,-1.0107214450836182,False,Pittsburgh,Clemson,21.0,10.0,3,3,9,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,48.0,52,1.7156541347503662,False,Pittsburgh,Clemson,21.0,10.0,3,4,22,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,48.0,52,-0.5995969772338867,False,Pittsburgh,Clemson,21.0,10.0,3,4,58,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,61.0,39,1.2578065395355225,False,Pittsburgh,Clemson,21.0,10.0,3,5,21,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,69.0,31,0.591447114944458,False,Pittsburgh,Clemson,21.0,10.0,3,6,15,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Passing Touchdown,,,39.0,61,6.30647611618042,True,Pittsburgh,Clemson,14.0,7.0,2,0,40,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,39.0,61,-0.5652241706848145,False,Pittsburgh,Clemson,7.0,7.0,2,0,46,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,39.0,61,-0.469743013381958,False,Pittsburgh,Clemson,7.0,7.0,2,0,52,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,51.0,49,0.4338502883911133,False,Pittsburgh,Clemson,7.0,7.0,2,1,22,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,58.0,42,0.0004360675811767578,False,Pittsburgh,Clemson,7.0,7.0,2,1,44,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,73.0,27,-0.0004360675811767578,False,Pittsburgh,Clemson,7.0,7.0,2,1,48,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Passing Touchdown,,,23.0,77,3.6747844219207764,True,Pittsburgh,Clemson,7.0,7.0,2,3,18,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,26.0,74,-0.809025764465332,False,Pittsburgh,Clemson,0.0,7.0,2,3,52,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,26.0,74,-0.44776463508605957,False,Pittsburgh,Clemson,0.0,7.0,2,3,59,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,55.0,45,1.7565839290618896,False,Pittsburgh,Clemson,0.0,7.0,2,4,20,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,58.0,42,-0.6134871244430542,False,Pittsburgh,Clemson,0.0,7.0,2,4,59,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,66.0,34,0.5989660024642944,False,Pittsburgh,Clemson,0.0,7.0,2,5,24,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,79.0,21,2.384427547454834,False,Pittsburgh,Clemson,0.0,7.0,2,5,46,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,79.0,21,-0.5184075832366943,False,Pittsburgh,Clemson,0.0,7.0,2,6,14,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,87.0,13,0.503319263458252,False,Pittsburgh,Clemson,0.0,7.0,2,7,6,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Sack,,,37.0,63,-2.1152210235595703,False,Pittsburgh,Clemson,0.0,7.0,2,12,1,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,65.0,35,1.7403881549835205,False,Pittsburgh,Clemson,0.0,7.0,2,13,10,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Fumble Recovery (Opponent),,,51.0,49,-4.864177703857422,False,Pittsburgh,Clemson,0.0,7.0,1,0,6,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,60.0,40,0.9535069465637207,False,Pittsburgh,Clemson,0.0,7.0,1,0,27,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,64.0,36,-0.13595843315124512,False,Pittsburgh,Clemson,0.0,7.0,1,0,55,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,75.0,25,1.5785727500915527,False,Pittsburgh,Clemson,0.0,7.0,1,1,18,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,75.0,25,-0.5504226684570312,False,Pittsburgh,Clemson,0.0,7.0,1,1,25,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,58.0,42,-1.2514290809631348,False,Pittsburgh,Clemson,0.0,0.0,1,5,7,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,56.0,44,-0.6366962194442749,False,Pittsburgh,Clemson,0.0,0.0,1,5,44,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,65.0,35,2.026731252670288,False,Pittsburgh,Clemson,0.0,0.0,1,6,7,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,65.0,35,-0.9076024293899536,False,Pittsburgh,Clemson,0.0,0.0,1,6,13,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,91.0,9,-0.2846357822418213,False,Pittsburgh,Clemson,0.0,0.0,1,11,1,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Incompletion,,,91.0,9,-0.8644041419029236,False,Pittsburgh,Clemson,0.0,0.0,1,11,43,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Sack,,,83.0,17,-1.4238307476043701,False,Pittsburgh,Clemson,0.0,0.0,1,13,52,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282666.0,Pass Reception,,,81.0,19,-0.5949358940124512,False,Pittsburgh,Clemson,0.0,0.0,1,14,31,8,Clemson,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Interception Return,,,31.0,69,-2.1089696884155273,False,Pittsburgh,Miami,34.0,38.0,4,4,7,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,95.0,5,1.025451898574829,False,Pittsburgh,Miami,34.0,38.0,4,7,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,76.0,24,1.5633368492126465,False,Pittsburgh,Miami,34.0,38.0,4,7,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,54.0,46,0.1396498680114746,False,Pittsburgh,Miami,34.0,38.0,4,7,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,49.0,51,2.6296169757843018,False,Pittsburgh,Miami,34.0,38.0,4,7,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Sack,,,23.0,77,-1.5386526584625244,False,Pittsburgh,Miami,34.0,38.0,4,7,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,65.0,35,-0.6011444330215454,False,Pittsburgh,Miami,34.0,38.0,4,12,16,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,65.0,35,-1.0309851169586182,False,Pittsburgh,Miami,34.0,38.0,4,12,16,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,15.0,85,2.4326658248901367,False,Pittsburgh,Miami,31.0,38.0,4,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Incompletion,,,5.0,95,-1.4409029483795166,False,Pittsburgh,Miami,31.0,38.0,4,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Sack,,,36.0,64,-2.174617052078247,False,Pittsburgh,Miami,31.0,38.0,3,2,7,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,23.0,77,0.5907635688781738,False,Pittsburgh,Miami,31.0,38.0,3,2,7,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Passing Touchdown,,,19.0,81,2.2110538482666016,True,Pittsburgh,Miami,31.0,31.0,3,5,50,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,91.0,9,1.2861754894256592,False,Pittsburgh,Miami,24.0,31.0,3,8,43,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,69.0,31,1.4827662706375122,False,Pittsburgh,Miami,24.0,31.0,3,8,43,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,55.0,45,1.2379916906356812,False,Pittsburgh,Miami,24.0,31.0,3,8,43,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,39.0,61,1.6598920822143555,False,Pittsburgh,Miami,24.0,31.0,3,8,43,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Passing Touchdown,,,12.0,88,3.350766897201538,True,Pittsburgh,Miami,24.0,31.0,3,11,18,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,27.0,73,1.6528699398040771,False,Pittsburgh,Miami,17.0,31.0,3,12,53,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,16.0,84,-0.6047465801239014,False,Pittsburgh,Miami,17.0,31.0,3,12,53,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,14.0,86,-0.500941276550293,False,Pittsburgh,Miami,17.0,31.0,3,12,53,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,31.0,69,-0.45286881923675537,False,Pittsburgh,Miami,17.0,31.0,2,0,29,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,75.0,25,-0.9067639112472534,False,Pittsburgh,Miami,17.0,31.0,2,4,2,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,65.0,35,1.1541047096252441,False,Pittsburgh,Miami,17.0,31.0,2,4,2,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,47.0,53,0.6763033866882324,False,Pittsburgh,Miami,17.0,31.0,2,4,2,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,34.0,66,-0.48520994186401367,False,Pittsburgh,Miami,17.0,31.0,2,4,2,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Interception Return,,,45.0,55,-5.67800235748291,False,Pittsburgh,Miami,17.0,24.0,2,5,37,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,78.0,22,0.09291824698448181,False,Pittsburgh,Miami,17.0,24.0,2,10,9,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,73.0,27,0.8334928750991821,False,Pittsburgh,Miami,17.0,24.0,2,10,9,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,67.0,33,0.7845170497894287,False,Pittsburgh,Miami,17.0,24.0,2,10,9,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,55.0,45,1.4941635131835938,False,Pittsburgh,Miami,17.0,24.0,2,10,9,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Passing Touchdown,,,20.0,80,2.4781384468078613,True,Pittsburgh,Miami,17.0,21.0,2,12,50,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,84.0,16,1.9835901260375977,False,Pittsburgh,Miami,10.0,21.0,1,0,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,46.0,54,2.004373550415039,False,Pittsburgh,Miami,10.0,21.0,2,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,75.0,25,0.5367751121520996,False,Pittsburgh,Miami,7.0,21.0,1,6,20,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,67.0,33,3.5197784900665283,False,Pittsburgh,Miami,7.0,21.0,1,6,20,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,34.0,66,0.7226579189300537,False,Pittsburgh,Miami,7.0,21.0,1,6,20,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,87.0,13,-0.2514690160751343,False,Pittsburgh,Miami,7.0,14.0,1,8,44,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,80.0,20,-0.11281824111938477,False,Pittsburgh,Miami,7.0,14.0,1,8,44,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Sack,,,72.0,28,-1.5714443922042847,False,Pittsburgh,Miami,7.0,14.0,1,8,44,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,75.0,25,1.6142812967300415,False,Pittsburgh,Miami,7.0,7.0,1,10,31,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Incompletion,,,52.0,48,-0.650554895401001,False,Pittsburgh,Miami,7.0,7.0,1,10,31,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Incompletion,,,45.0,55,-2.0461950302124023,False,Pittsburgh,Miami,7.0,7.0,1,10,31,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Passing Touchdown,,,24.0,76,3.510897397994995,False,Pittsburgh,Miami,0.0,0.0,1,12,12,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Incompletion,,,71.0,29,-1.079433560371399,False,Pittsburgh,Miami,0.0,0.0,1,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,71.0,29,3.928110122680664,False,Pittsburgh,Miami,0.0,0.0,1,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,34.0,66,0.4398219585418701,False,Pittsburgh,Miami,0.0,0.0,1,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Sack,,,29.0,71,-1.42756986618042,False,Pittsburgh,Miami,0.0,0.0,1,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282674.0,Pass Reception,,,38.0,62,-1.9830493927001953,False,Pittsburgh,Miami,0.0,0.0,1,15,0,9,Miami,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,25.0,25,1.4913158416748047,False,Duke,Pittsburgh,47.0,29.0,4,6,1,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,61.0,61,1.5333056449890137,False,Duke,Pittsburgh,44.0,29.0,4,11,17,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,29.0,29,-1.3226898908615112,False,Duke,Pittsburgh,44.0,29.0,4,11,17,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,71.0,71,-1.351987600326538,False,Duke,Pittsburgh,44.0,29.0,4,13,37,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Sack,,,68.0,68,-1.1034923791885376,False,Duke,Pittsburgh,37.0,22.0,3,7,34,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,69.0,69,1.6115716695785522,False,Duke,Pittsburgh,37.0,22.0,3,7,34,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,47.0,47,0.43959808349609375,False,Duke,Pittsburgh,37.0,22.0,3,7,34,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,22.0,22,-0.603764533996582,False,Duke,Pittsburgh,37.0,22.0,3,7,34,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Fumble Recovery (Opponent),,,72.0,72,-4.54391622543335,False,Duke,Pittsburgh,37.0,19.0,3,10,30,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Passing Touchdown,,,29.0,29,2.2835378646850586,True,Duke,Pittsburgh,37.0,19.0,3,12,38,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,68.0,68,1.7965542078018188,False,Duke,Pittsburgh,30.0,19.0,3,15,0,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,52.0,52,-2.6901729106903076,False,Duke,Pittsburgh,30.0,19.0,3,15,0,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Sack,,,57.0,57,-0.39109736680984497,False,Duke,Pittsburgh,27.0,19.0,2,0,45,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,58.0,58,-0.13672086596488953,False,Duke,Pittsburgh,27.0,19.0,2,0,45,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,58.0,58,0.8575857877731323,False,Duke,Pittsburgh,27.0,19.0,2,0,45,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,47.0,47,1.1921589374542236,False,Duke,Pittsburgh,27.0,19.0,2,0,45,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,34.0,34,-0.3581557273864746,False,Duke,Pittsburgh,27.0,19.0,2,0,45,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,63.0,63,2.6169228553771973,False,Duke,Pittsburgh,24.0,19.0,2,2,41,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,17.0,17,-0.3257465362548828,False,Duke,Pittsburgh,24.0,19.0,2,2,41,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,16.0,16,-0.6488437652587891,False,Duke,Pittsburgh,24.0,19.0,2,2,41,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,16.0,16,-0.8369176387786865,False,Duke,Pittsburgh,24.0,19.0,2,2,41,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,49.0,49,1.4855127334594727,False,Duke,Pittsburgh,17.0,19.0,2,6,1,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,70.0,70,0.45421791076660156,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,59.0,59,0.7678167819976807,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,48.0,48,0.9212038516998291,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,36.0,36,-0.59230637550354,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,36.0,36,0.35712695121765137,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,29.0,29,1.6936733722686768,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,14.0,14,-0.5666685104370117,False,Duke,Pittsburgh,29.0,39.0,2,11,48,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Passing Touchdown,,,47.0,47,4.3531599044799805,True,Duke,Pittsburgh,14.0,12.0,2,11,59,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,72.0,72,-0.35117071866989136,False,Duke,Pittsburgh,7.0,12.0,2,13,38,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,69.0,69,-1.1581324338912964,False,Duke,Pittsburgh,7.0,12.0,2,13,38,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,70.0,70,2.64750599861145,False,Duke,Pittsburgh,7.0,12.0,2,13,38,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,55.0,55,0.7232711315155029,False,Duke,Pittsburgh,7.0,12.0,2,13,38,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,36.0,36,-1.3487513065338135,False,Duke,Pittsburgh,7.0,12.0,1,0,0,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,47.0,47,0.7246332168579102,False,Duke,Pittsburgh,7.0,12.0,1,1,16,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,36.0,36,-1.014941692352295,False,Duke,Pittsburgh,7.0,12.0,1,1,16,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Fumble Recovery (Opponent),,,75.0,75,-5.8378682136535645,False,Duke,Pittsburgh,7.0,3.0,1,4,19,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Passing Touchdown,,,10.0,10,2.7217822074890137,True,Duke,Pittsburgh,7.0,0.0,1,7,9,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,72.0,72,2.994107246398926,False,Duke,Pittsburgh,0.0,0.0,1,9,7,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Reception,,,35.0,35,0.5521409511566162,False,Duke,Pittsburgh,0.0,0.0,1,9,7,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282678.0,Pass Incompletion,,,14.0,14,-0.5896806716918945,False,Duke,Pittsburgh,0.0,0.0,1,9,7,10,Duke,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,25.0,75,0.23183655738830566,False,Pittsburgh,North Carolina,23.0,23.0,5,0,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Passing Touchdown,,,11.0,89,4.463531494140625,True,Pittsburgh,North Carolina,30.0,23.0,5,0,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,60.0,40,-0.33233949542045593,False,Pittsburgh,North Carolina,23.0,23.0,4,0,8,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,60.0,40,-0.1309688687324524,False,Pittsburgh,North Carolina,23.0,23.0,4,0,10,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,60.0,40,-0.26154446601867676,False,Pittsburgh,North Carolina,23.0,23.0,4,0,18,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,68.0,32,0.1415632963180542,False,Pittsburgh,North Carolina,23.0,23.0,4,0,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,75.0,25,0.15242373943328857,False,Pittsburgh,North Carolina,23.0,23.0,4,0,40,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Interception Return,,,75.0,25,-4.641209602355957,False,Pittsburgh,North Carolina,23.0,20.0,4,5,26,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,49.0,51,-1.4418671131134033,False,Pittsburgh,North Carolina,23.0,13.0,4,11,56,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,52.0,48,0.639136552810669,False,Pittsburgh,North Carolina,23.0,13.0,4,13,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,59.0,41,0.388669490814209,False,Pittsburgh,North Carolina,23.0,13.0,4,13,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,35.0,65,-1.3073439598083496,False,Pittsburgh,North Carolina,23.0,13.0,3,0,54,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Sack,,,25.0,75,-1.6986404657363892,False,Pittsburgh,North Carolina,23.0,13.0,3,1,15,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Sack,,,21.0,79,-1.3557584285736084,False,Pittsburgh,North Carolina,23.0,13.0,3,2,15,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,32.0,68,0.2805290222167969,False,Pittsburgh,North Carolina,23.0,13.0,3,3,15,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,45.0,55,0.35289978981018066,False,Pittsburgh,North Carolina,23.0,13.0,3,4,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,57.0,43,1.6151224374771118,False,Pittsburgh,North Carolina,23.0,13.0,3,4,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,57.0,43,-0.8234962224960327,False,Pittsburgh,North Carolina,23.0,13.0,3,4,43,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,63.0,37,0.10633635520935059,False,Pittsburgh,North Carolina,23.0,13.0,3,5,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,75.0,25,0.736688494682312,False,Pittsburgh,North Carolina,23.0,13.0,3,5,20,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Sack,,,73.0,27,-2.1930136680603027,False,Pittsburgh,North Carolina,23.0,7.0,3,8,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,33.0,67,0.7863385677337646,False,Pittsburgh,North Carolina,23.0,7.0,2,0,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,18.0,82,-0.5661771297454834,False,Pittsburgh,North Carolina,23.0,7.0,2,0,40,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,37.0,63,0.8846466541290283,False,Pittsburgh,North Carolina,23.0,7.0,2,1,10,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,40.0,60,-0.40426337718963623,False,Pittsburgh,North Carolina,23.0,7.0,2,1,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Passing Touchdown,,,32.0,68,3.167694330215454,True,Pittsburgh,North Carolina,23.0,7.0,2,4,40,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,77.0,23,1.1239264011383057,False,Pittsburgh,North Carolina,17.0,7.0,2,6,10,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,57.0,43,-1.5622349977493286,False,Pittsburgh,North Carolina,17.0,0.0,2,8,28,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Sack,,,65.0,35,-1.5911900997161865,False,Pittsburgh,North Carolina,17.0,0.0,2,12,25,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,55.0,45,-0.42455267906188965,False,Pittsburgh,North Carolina,17.0,0.0,2,12,50,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,16.0,84,-1.8236439228057861,False,Pittsburgh,North Carolina,14.0,0.0,1,0,15,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,23.0,77,-0.5958170890808105,False,Pittsburgh,North Carolina,14.0,0.0,1,0,43,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,65.0,35,1.7564654350280762,False,Pittsburgh,North Carolina,14.0,0.0,1,1,15,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Passing Touchdown,,,1.0,99,0.8724298477172852,True,Pittsburgh,North Carolina,14.0,0.0,1,4,9,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,48.0,52,2.6000304222106934,False,Pittsburgh,North Carolina,7.0,0.0,1,5,30,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,12.0,88,1.4536237716674805,False,Pittsburgh,North Carolina,0.0,0.0,1,8,15,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,20.0,80,0.20435237884521484,False,Pittsburgh,North Carolina,0.0,0.0,1,9,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,6.0,94,-3.813652753829956,False,Pittsburgh,North Carolina,0.0,0.0,1,11,32,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,18.0,82,1.1148898601531982,False,Pittsburgh,North Carolina,0.0,0.0,1,12,0,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,15.0,85,-0.5780730247497559,False,Pittsburgh,North Carolina,0.0,0.0,1,12,32,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,26.0,74,0.6987004280090332,False,Pittsburgh,North Carolina,0.0,0.0,1,12,50,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,47.0,53,2.8743414878845215,False,Pittsburgh,North Carolina,0.0,0.0,1,13,20,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Reception,,,50.0,50,-0.6967291831970215,False,Pittsburgh,North Carolina,0.0,0.0,1,13,40,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,50.0,50,-0.7121214866638184,False,Pittsburgh,North Carolina,0.0,0.0,1,13,52,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282683.0,Pass Incompletion,,,75.0,25,-0.5407447218894958,False,Pittsburgh,North Carolina,0.0,0.0,1,14,54,11,North Carolina,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Passing Touchdown,,,62.0,38,6.056063175201416,True,Pittsburgh,Virginia,48.0,38.0,4,2,10,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Sack,,,48.0,52,-2.6914143562316895,False,Pittsburgh,Virginia,41.0,38.0,4,7,33,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,10.0,90,1.151890754699707,False,Pittsburgh,Virginia,34.0,31.0,4,9,59,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Incompletion,,,10.0,90,-0.5788159370422363,False,Pittsburgh,Virginia,34.0,31.0,4,10,19,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,61.0,39,0.9752061367034912,False,Pittsburgh,Virginia,34.0,31.0,4,14,5,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,78.0,22,1.594545841217041,False,Pittsburgh,Virginia,34.0,31.0,4,14,50,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,7.0,93,-0.6332244873046875,False,Pittsburgh,Virginia,31.0,31.0,3,2,28,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,19.0,81,0.8458871841430664,False,Pittsburgh,Virginia,31.0,31.0,3,2,55,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,40.0,60,1.7148034572601318,False,Pittsburgh,Virginia,31.0,31.0,3,3,33,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Passing Touchdown,,,34.0,66,3.9279263019561768,True,Pittsburgh,Virginia,31.0,24.0,3,8,32,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,43.0,57,-0.1437211036682129,False,Pittsburgh,Virginia,24.0,24.0,3,9,48,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Incompletion,,,72.0,28,-1.2728270292282104,False,Pittsburgh,Virginia,24.0,24.0,3,12,8,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Incompletion,,,75.0,25,-0.6463336944580078,False,Pittsburgh,Virginia,24.0,24.0,3,12,46,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Interception Return,,,75.0,25,-5.672344207763672,False,Pittsburgh,Virginia,24.0,21.0,3,14,21,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Interception Return,,,57.0,43,-0.4971693158149719,False,Pittsburgh,Virginia,24.0,21.0,2,0,12,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,63.0,37,0.056741535663604736,False,Pittsburgh,Virginia,24.0,21.0,2,0,21,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,70.0,30,-0.08980622887611389,False,Pittsburgh,Virginia,24.0,21.0,2,0,28,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,75.0,25,0.07294511795043945,False,Pittsburgh,Virginia,24.0,21.0,2,0,40,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,26.0,74,-0.11553490161895752,False,Pittsburgh,Virginia,21.0,14.0,2,3,24,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Sack,,,16.0,84,-1.9330165386199951,False,Pittsburgh,Virginia,21.0,14.0,2,3,48,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,31.0,69,1.4843227863311768,False,Pittsburgh,Virginia,21.0,14.0,2,4,38,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Passing Touchdown,,,18.0,82,4.397149085998535,True,Pittsburgh,Virginia,14.0,7.0,2,10,1,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,25.0,75,-0.5887320041656494,False,Pittsburgh,Virginia,7.0,7.0,2,10,30,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,24.0,76,-1.1132755279541016,False,Pittsburgh,Virginia,7.0,7.0,2,10,45,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,41.0,59,0.8830254077911377,False,Pittsburgh,Virginia,7.0,7.0,2,11,11,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,70.0,30,2.2120144367218018,False,Pittsburgh,Virginia,7.0,7.0,2,12,0,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Incompletion,,,75.0,25,-0.5906192064285278,False,Pittsburgh,Virginia,7.0,7.0,2,12,45,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Passing Touchdown,,,11.0,89,1.8528480529785156,True,Pittsburgh,Virginia,7.0,7.0,2,14,56,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,16.0,84,0.4874415397644043,False,Pittsburgh,Virginia,0.0,7.0,1,0,10,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,35.0,65,0.941892147064209,False,Pittsburgh,Virginia,0.0,7.0,1,1,23,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,50.0,50,1.2043249607086182,False,Pittsburgh,Virginia,0.0,7.0,1,1,50,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,62.0,38,1.3874775171279907,False,Pittsburgh,Virginia,0.0,7.0,1,2,22,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Incompletion,,,88.0,12,-0.6993741989135742,False,Pittsburgh,Virginia,0.0,7.0,1,3,12,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Sack,,,36.0,64,-2.4742584228515625,False,Pittsburgh,Virginia,0.0,7.0,1,8,45,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Incompletion,,,41.0,59,-0.6330502033233643,False,Pittsburgh,Virginia,0.0,7.0,1,9,24,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,63.0,37,0.928528368473053,False,Pittsburgh,Virginia,0.0,7.0,1,9,58,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282698.0,Pass Reception,,,75.0,25,0.9747684001922607,False,Pittsburgh,Virginia,0.0,7.0,1,10,18,12,Virginia,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Interception Return,,,39.0,39,-2.9355807304382324,False,Syracuse,Pittsburgh,28.0,14.0,4,11,16,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,50.0,50,-0.5236966609954834,False,Syracuse,Pittsburgh,28.0,14.0,4,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,48.0,48,-0.7596256732940674,False,Syracuse,Pittsburgh,28.0,14.0,4,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,68.0,68,1.1903895139694214,False,Syracuse,Pittsburgh,28.0,14.0,3,2,3,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Passing Touchdown,,,5.0,5,0.7669887542724609,True,Syracuse,Pittsburgh,28.0,7.0,3,4,45,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,73.0,73,-1.1539912223815918,False,Syracuse,Pittsburgh,21.0,7.0,3,8,39,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,75.0,75,3.2181928157806396,False,Syracuse,Pittsburgh,21.0,7.0,3,8,39,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,50.0,50,0.5316789150238037,False,Syracuse,Pittsburgh,21.0,7.0,3,8,39,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,40.0,40,-0.5989010334014893,False,Syracuse,Pittsburgh,21.0,7.0,3,8,39,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,33.0,33,1.5408673286437988,False,Syracuse,Pittsburgh,21.0,7.0,3,8,39,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,13.0,13,0.5978784561157227,False,Syracuse,Pittsburgh,21.0,7.0,3,8,39,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Passing Touchdown,,,4.0,4,1.2186903953552246,True,Syracuse,Pittsburgh,21.0,7.0,3,10,32,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,59.0,59,0.48320674896240234,False,Syracuse,Pittsburgh,14.0,7.0,3,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,26.0,26,0.626528263092041,False,Syracuse,Pittsburgh,14.0,7.0,3,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Fumble Recovery (Own),,,19.0,19,-0.5842318534851074,False,Syracuse,Pittsburgh,14.0,7.0,3,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,19.0,19,-0.2970595359802246,False,Syracuse,Pittsburgh,14.0,7.0,3,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,55.0,55,-0.08048194646835327,False,Syracuse,Pittsburgh,14.0,7.0,2,0,24,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,55.0,55,-0.20835542678833008,False,Syracuse,Pittsburgh,14.0,7.0,2,0,24,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,64.0,64,0.23767924308776855,False,Syracuse,Pittsburgh,14.0,7.0,2,0,55,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Sack,,,49.0,49,-1.2358620166778564,False,Syracuse,Pittsburgh,14.0,7.0,2,3,44,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Passing Touchdown,,,25.0,25,3.089174270629883,True,Syracuse,Pittsburgh,14.0,7.0,2,5,6,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,45.0,45,0.31137776374816895,False,Syracuse,Pittsburgh,7.0,7.0,2,6,38,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,40.0,40,-0.8681104183197021,False,Syracuse,Pittsburgh,7.0,7.0,2,6,38,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,40.0,40,1.2186386585235596,False,Syracuse,Pittsburgh,7.0,7.0,2,6,38,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,25.0,25,-0.5514187812805176,False,Syracuse,Pittsburgh,7.0,7.0,2,6,38,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Passing Touchdown,,,15.0,15,2.1877331733703613,True,Syracuse,Pittsburgh,7.0,7.0,2,7,25,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,58.0,58,1.7586075067520142,False,Syracuse,Pittsburgh,0.0,7.0,2,11,54,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,39.0,39,0.5573484897613525,False,Syracuse,Pittsburgh,0.0,7.0,2,11,54,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,29.0,29,0.6439661979675293,False,Syracuse,Pittsburgh,0.0,7.0,2,11,54,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,79.0,79,-0.7703520655632019,False,Syracuse,Pittsburgh,0.0,7.0,2,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,78.0,78,-1.6402206420898438,False,Syracuse,Pittsburgh,0.0,7.0,2,15,0,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,82.0,82,0.8740019798278809,False,Syracuse,Pittsburgh,0.0,7.0,1,3,45,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,73.0,73,-1.4262583255767822,False,Syracuse,Pittsburgh,0.0,7.0,1,3,45,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,75.0,75,-1.7062156200408936,False,Syracuse,Pittsburgh,0.0,7.0,1,3,45,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Incompletion,,,43.0,43,-2.683368682861328,False,Syracuse,Pittsburgh,0.0,7.0,1,5,44,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,57.0,57,-0.06975725293159485,False,Syracuse,Pittsburgh,0.0,7.0,1,7,26,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401282702.0,Pass Reception,,,50.0,50,-0.8734216690063477,False,Syracuse,Pittsburgh,0.0,7.0,1,7,26,13,Syracuse,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,3.0,3,0.05764007568359375,False,Wake Forest,Pittsburgh,31.0,21.0,4,13,22,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,32.0,32,0.7912673950195312,False,Wake Forest,Pittsburgh,24.0,21.0,3,1,14,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Sack,,,24.0,24,-2.6403298377990723,False,Wake Forest,Pittsburgh,24.0,21.0,3,4,31,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,19.0,19,-0.7421596050262451,False,Wake Forest,Pittsburgh,24.0,21.0,3,4,36,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,19.0,19,-0.5700812339782715,False,Wake Forest,Pittsburgh,24.0,21.0,3,4,41,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,43.0,43,0.8003354072570801,False,Wake Forest,Pittsburgh,24.0,21.0,3,5,34,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,55.0,55,2.2656326293945312,False,Wake Forest,Pittsburgh,24.0,21.0,3,5,54,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,50.0,50,-1.847157597541809,False,Wake Forest,Pittsburgh,24.0,21.0,3,7,59,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,58.0,58,0.2392568588256836,False,Wake Forest,Pittsburgh,24.0,21.0,3,8,48,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,68.0,68,0.22109532356262207,False,Wake Forest,Pittsburgh,24.0,21.0,3,9,36,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,78.0,78,1.3456493616104126,False,Wake Forest,Pittsburgh,24.0,21.0,3,10,1,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,88.0,88,1.3117870092391968,False,Wake Forest,Pittsburgh,24.0,21.0,3,12,51,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,65.0,65,1.969190239906311,False,Wake Forest,Pittsburgh,21.0,21.0,2,0,22,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Fumble Recovery (Own),,,49.0,49,-2.5967142581939697,False,Wake Forest,Pittsburgh,21.0,21.0,2,5,5,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,46.0,46,-0.9260768890380859,False,Wake Forest,Pittsburgh,21.0,21.0,2,5,42,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Passing Touchdown,,,4.0,4,2.608236312866211,True,Wake Forest,Pittsburgh,21.0,21.0,2,8,21,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,4.0,4,-1.1269512176513672,False,Wake Forest,Pittsburgh,14.0,21.0,2,8,26,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,29.0,29,1.89005446434021,False,Wake Forest,Pittsburgh,14.0,21.0,2,9,16,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,25.0,25,-4.645602226257324,False,Wake Forest,Pittsburgh,14.0,21.0,2,11,27,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,34.0,34,0.1986382007598877,False,Wake Forest,Pittsburgh,14.0,21.0,2,13,8,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,64.0,64,-0.5234964489936829,False,Wake Forest,Pittsburgh,14.0,21.0,2,14,17,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Sack,,,65.0,65,-2.2476658821105957,False,Wake Forest,Pittsburgh,14.0,21.0,1,1,37,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,64.0,64,0.5550937652587891,False,Wake Forest,Pittsburgh,14.0,21.0,1,2,41,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,31.0,31,-0.8624763488769531,False,Wake Forest,Pittsburgh,14.0,14.0,1,4,53,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,31.0,31,-0.5759010314941406,False,Wake Forest,Pittsburgh,14.0,14.0,1,4,56,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,46.0,46,0.8894283771514893,False,Wake Forest,Pittsburgh,14.0,14.0,1,5,25,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,75.0,75,1.398276448249817,False,Wake Forest,Pittsburgh,14.0,14.0,1,6,26,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Passing Touchdown,,,22.0,22,1.9762120246887207,True,Wake Forest,Pittsburgh,14.0,7.0,1,9,37,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,57.0,57,1.5167393684387207,False,Wake Forest,Pittsburgh,7.0,7.0,1,10,4,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,75.0,75,1.8794348239898682,False,Wake Forest,Pittsburgh,7.0,7.0,1,10,35,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,75.0,75,-0.6135748624801636,False,Wake Forest,Pittsburgh,7.0,7.0,1,10,43,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,63.0,63,-1.284281611442566,False,Wake Forest,Pittsburgh,0.0,0.0,1,14,10,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Incompletion,,,63.0,63,-0.6822916269302368,False,Wake Forest,Pittsburgh,0.0,0.0,1,14,15,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331163.0,Pass Reception,,,70.0,70,0.7218384742736816,False,Wake Forest,Pittsburgh,0.0,0.0,1,14,36,14,Wake Forest,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Interception Return Touchdown,,,26.0,26,-9.982759475708008,True,Michigan State,Pittsburgh,21.0,31.0,4,0,22,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,34.0,34,0.39915943145751953,False,Michigan State,Pittsburgh,21.0,24.0,4,0,44,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,41.0,41,0.8189308643341064,False,Michigan State,Pittsburgh,21.0,24.0,4,1,15,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,65.0,65,0.856101393699646,False,Michigan State,Pittsburgh,21.0,24.0,4,1,35,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,73.0,73,1.9373013973236084,False,Michigan State,Pittsburgh,21.0,24.0,4,1,50,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,80.0,80,-0.5756069421768188,False,Michigan State,Pittsburgh,21.0,24.0,4,2,12,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Sack,,,73.0,73,-1.101033091545105,False,Michigan State,Pittsburgh,21.0,24.0,4,2,25,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,78.0,78,0.36848461627960205,False,Michigan State,Pittsburgh,21.0,16.0,4,7,14,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Sack,,,62.0,62,-2.0793588161468506,False,Michigan State,Pittsburgh,21.0,10.0,3,0,52,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Sack,,,74.0,74,-1.618951678276062,False,Michigan State,Pittsburgh,21.0,10.0,3,5,42,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,74.0,74,-1.0247200727462769,False,Michigan State,Pittsburgh,21.0,10.0,3,6,31,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,68.0,68,-0.6206080913543701,False,Michigan State,Pittsburgh,21.0,10.0,3,8,22,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Sack,,,72.0,72,-1.499840497970581,False,Michigan State,Pittsburgh,21.0,10.0,3,9,28,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Passing Touchdown,,,4.0,4,1.9075303077697754,True,Michigan State,Pittsburgh,14.0,10.0,2,1,2,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,65.0,65,3.4084925651550293,False,Michigan State,Pittsburgh,7.0,10.0,2,1,29,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,75.0,75,0.09674602746963501,False,Michigan State,Pittsburgh,7.0,10.0,2,1,47,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Incompletion,,,82.0,82,-1.2077836990356445,False,Michigan State,Pittsburgh,7.0,10.0,2,5,33,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Incompletion,,,75.0,75,-1.5775234699249268,False,Michigan State,Pittsburgh,7.0,10.0,2,9,59,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Sack,,,57.0,57,-2.080127000808716,False,Michigan State,Pittsburgh,7.0,10.0,2,14,54,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,58.0,58,-0.8287511467933655,False,Michigan State,Pittsburgh,7.0,10.0,1,0,24,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Incompletion,,,58.0,58,-0.5913872718811035,False,Michigan State,Pittsburgh,7.0,10.0,1,0,29,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,67.0,67,-0.09049513936042786,False,Michigan State,Pittsburgh,7.0,10.0,1,1,19,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,74.0,74,0.17779408395290375,False,Michigan State,Pittsburgh,7.0,10.0,1,1,53,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Incompletion,,,16.0,16,-1.0336503982543945,False,Michigan State,Pittsburgh,0.0,7.0,1,8,7,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,34.0,34,0.8258383274078369,False,Michigan State,Pittsburgh,0.0,7.0,1,10,11,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Reception,,,70.0,70,1.3520941734313965,False,Michigan State,Pittsburgh,0.0,7.0,1,12,38,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Incompletion,,,98.0,98,-1.2756462097167969,False,Michigan State,Pittsburgh,0.0,0.0,1,14,9,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022
+401331231.0,Pass Incompletion,,,98.0,98,-0.9907834529876709,False,Michigan State,Pittsburgh,0.0,0.0,1,14,15,1,Michigan State,2021,Pittsburgh,Kenny Pickett,2022

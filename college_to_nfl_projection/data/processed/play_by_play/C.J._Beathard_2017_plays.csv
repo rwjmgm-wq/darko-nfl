@@ -1,0 +1,316 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400868888.0,Pass Reception,,,77.0,23.0,-0.8501699566841125,False,Iowa,Iowa State,42.0,3.0,4,6,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,76.0,24.0,-1.0732343196868896,False,Iowa,Iowa State,42.0,3.0,4,6,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,80.0,20.0,-1.3348352909088135,False,Iowa,Iowa State,42.0,3.0,4,14,29,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,68.0,32.0,-1.2349785566329956,False,Iowa,Iowa State,42.0,3.0,4,14,29,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,53.0,47.0,-2.760406494140625,False,Iowa,Iowa State,42.0,3.0,4,14,29,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,43.0,57.0,-2.9094910621643066,False,Iowa,Iowa State,35.0,3.0,3,1,50,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,61.0,39.0,-0.990098237991333,False,Iowa,Iowa State,28.0,3.0,3,6,31,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,36.0,64.0,-2.6781270503997803,False,Iowa,Iowa State,28.0,3.0,3,6,31,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,86.0,14.0,0.49862194061279297,False,Iowa,Iowa State,28.0,3.0,3,9,34,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,75.0,25.0,-1.9019464254379272,False,Iowa,Iowa State,28.0,3.0,3,9,34,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,75.0,25.0,-2.6792521476745605,False,Iowa,Iowa State,28.0,3.0,3,9,34,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,75.0,25.0,-3.13155198097229,False,Iowa,Iowa State,28.0,3.0,3,9,34,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,80.0,20.0,-1.036072015762329,False,Iowa,Iowa State,28.0,3.0,3,12,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,73.0,27.0,-1.1890389919281006,False,Iowa,Iowa State,28.0,3.0,3,12,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,69.0,31.0,-2.1272969245910645,False,Iowa,Iowa State,28.0,3.0,3,12,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,69.0,31.0,-2.754793405532837,False,Iowa,Iowa State,28.0,3.0,3,12,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Sack,,,69.0,31.0,-3.5749707221984863,False,Iowa,Iowa State,28.0,3.0,3,12,53,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,86.0,14.0,-0.990413248538971,False,Iowa,Iowa State,21.0,3.0,2,7,42,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,55.0,45.0,-2.6366100311279297,False,Iowa,Iowa State,21.0,3.0,2,7,42,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Passing Touchdown,,,12.0,88.0,2.2502694129943848,True,Iowa,Iowa State,21.0,3.0,2,10,15,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Sack,,,41.0,59.0,-4.641740322113037,False,Iowa,Iowa State,14.0,3.0,2,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,44.0,56.0,-2.9237754344940186,False,Iowa,Iowa State,14.0,3.0,2,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,33.0,67.0,-1.7037116289138794,False,Iowa,Iowa State,14.0,3.0,2,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,12.0,88.0,-5.532516956329346,False,Iowa,Iowa State,14.0,3.0,2,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Passing Touchdown,,,26.0,74.0,2.1932215690612793,True,Iowa,Iowa State,14.0,0.0,1,5,42,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Passing Touchdown,,,9.0,91.0,2.9234414100646973,True,Iowa,Iowa State,7.0,0.0,1,8,42,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,42.0,58.0,-4.485919952392578,False,Iowa,Iowa State,0.0,0.0,1,11,37,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,30.0,70.0,-3.679323673248291,False,Iowa,Iowa State,0.0,0.0,1,11,37,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,5.0,95.0,-7.875922679901123,False,Iowa,Iowa State,0.0,0.0,1,11,37,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,67.0,33.0,-2.6837234497070312,False,Iowa,Iowa State,0.0,0.0,1,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Reception,,,49.0,51.0,-4.603297710418701,False,Iowa,Iowa State,0.0,0.0,1,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400868888.0,Pass Incompletion,,,41.0,59.0,-5.859511852264404,False,Iowa,Iowa State,0.0,0.0,1,15,0,2,Iowa State,2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,5.0,95.0,-0.3202323913574219,False,Iowa,Miami (OH),38.0,21.0,4,3,13,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,3.0,97.0,-1.9011366367340088,False,Iowa,Miami (OH),35.0,21.0,4,6,9,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,7.0,93.0,-0.5950474739074707,False,Iowa,Miami (OH),35.0,21.0,4,6,53,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Sack,,,55.0,45.0,-2.210970640182495,False,Iowa,Miami (OH),35.0,14.0,3,2,44,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,61.0,39.0,-0.27856993675231934,False,Iowa,Miami (OH),35.0,14.0,3,3,0,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,61.0,39.0,-0.5232009887695312,False,Iowa,Miami (OH),35.0,14.0,3,3,18,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,65.0,35.0,-0.6507308483123779,False,Iowa,Miami (OH),35.0,14.0,3,3,58,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Passing Touchdown,,,12.0,88.0,3.9750170707702637,True,Iowa,Miami (OH),35.0,7.0,3,11,37,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,39.0,61.0,2.3144147396087646,False,Iowa,Miami (OH),28.0,7.0,3,13,32,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,39.0,61.0,-0.9817993640899658,False,Iowa,Miami (OH),28.0,7.0,3,13,38,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,63.0,37.0,-0.6949692368507385,False,Iowa,Miami (OH),28.0,7.0,2,1,54,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,64.0,36.0,-0.4444171190261841,False,Iowa,Miami (OH),28.0,7.0,2,2,22,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Incompletion,,,5.0,95.0,-0.6731777191162109,False,Iowa,Miami (OH),21.0,7.0,2,7,18,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,41.0,59.0,2.1848485469818115,False,Iowa,Miami (OH),21.0,7.0,2,7,43,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,52.0,48.0,0.3822293281555176,False,Iowa,Miami (OH),21.0,7.0,2,8,48,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,68.0,32.0,0.6101851463317871,False,Iowa,Miami (OH),21.0,7.0,2,10,12,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,76.0,24.0,-0.8534705638885498,False,Iowa,Miami (OH),21.0,7.0,2,11,50,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,88.0,12.0,-0.09307974576950073,False,Iowa,Miami (OH),21.0,7.0,2,12,45,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Fumble Recovery (Own),,,78.0,22.0,-1.466059684753418,False,Iowa,Miami (OH),21.0,7.0,2,12,59,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,81.0,19.0,0.6900594234466553,False,Iowa,Miami (OH),14.0,0.0,1,6,10,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,12.0,88.0,-0.4976482391357422,False,Iowa,Miami (OH),7.0,0.0,1,7,40,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869262.0,Pass Reception,,,51.0,49.0,2.079925775527954,False,Iowa,Miami (OH),0.0,0.0,1,10,44,1,Miami (OH),2016,Iowa,C.J. Beathard,2017
+400869634.0,Sack,,,52.0,52.0,-1.6619309186935425,False,Rutgers,Iowa,7.0,7.0,4,12,38,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,61.0,61.0,-0.9240913987159729,False,Rutgers,Iowa,7.0,7.0,4,12,38,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Sack,,,61.0,61.0,-1.4899778366088867,False,Rutgers,Iowa,7.0,7.0,4,12,38,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,66.0,66.0,-1.7049436569213867,False,Rutgers,Iowa,7.0,0.0,3,7,54,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,80.0,80.0,2.550898551940918,False,Rutgers,Iowa,7.0,0.0,3,14,48,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,41.0,41.0,-1.0250945091247559,False,Rutgers,Iowa,7.0,0.0,3,14,48,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,83.0,83.0,1.6189279556274414,False,Rutgers,Iowa,0.0,0.0,2,2,4,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,51.0,51.0,0.37637925148010254,False,Rutgers,Iowa,0.0,0.0,2,2,4,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,43.0,43.0,0.4587211608886719,False,Rutgers,Iowa,0.0,0.0,2,2,4,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,36.0,36.0,-0.3611018657684326,False,Rutgers,Iowa,0.0,0.0,2,2,4,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,10.0,10.0,-2.9901299476623535,False,Rutgers,Iowa,0.0,0.0,2,5,57,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,80.0,80.0,-0.606393575668335,False,Rutgers,Iowa,0.0,0.0,2,12,8,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,75.0,75.0,1.872995138168335,False,Rutgers,Iowa,0.0,0.0,2,12,8,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,59.0,59.0,-0.8938169479370117,False,Rutgers,Iowa,0.0,0.0,2,12,8,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,59.0,59.0,2.943661689758301,False,Rutgers,Iowa,0.0,0.0,2,12,8,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,85.0,85.0,-0.8731345534324646,False,Rutgers,Iowa,0.0,0.0,2,15,0,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,85.0,85.0,-0.7728486061096191,False,Rutgers,Iowa,0.0,0.0,2,15,0,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,82.0,82.0,-0.057561516761779785,False,Rutgers,Iowa,0.0,0.0,1,1,40,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,82.0,82.0,1.6125357151031494,False,Rutgers,Iowa,0.0,0.0,1,1,40,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,62.0,62.0,-1.8137788772583008,False,Rutgers,Iowa,0.0,0.0,1,3,54,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Reception,,,73.0,73.0,0.9948903918266296,False,Rutgers,Iowa,0.0,0.0,1,8,42,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,67.0,67.0,-0.7799029350280762,False,Rutgers,Iowa,0.0,0.0,1,8,42,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869634.0,Pass Incompletion,,,67.0,67.0,-0.9665066599845886,False,Rutgers,Iowa,0.0,0.0,1,8,42,4,Rutgers,2016,Iowa,C.J. Beathard,2017
+400869656.0,Sack,,,69.0,31.0,-1.0288077592849731,False,Iowa,North Dakota State,21.0,20.0,4,2,0,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,49.0,51.0,-0.1098330020904541,False,Iowa,North Dakota State,21.0,14.0,4,13,13,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Passing Touchdown,,,9.0,91.0,2.850677013397217,True,Iowa,North Dakota State,21.0,14.0,3,2,12,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,22.0,78.0,0.49617958068847656,False,Iowa,North Dakota State,14.0,14.0,3,4,54,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,59.0,41.0,2.401421070098877,False,Iowa,North Dakota State,14.0,14.0,3,6,21,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Sack,,,68.0,32.0,-1.6160228252410889,False,Iowa,North Dakota State,14.0,7.0,3,13,13,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,75.0,25.0,-0.21293628215789795,False,Iowa,North Dakota State,14.0,7.0,3,14,14,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,79.0,21.0,-0.3314302861690521,False,Iowa,North Dakota State,14.0,7.0,2,1,34,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,79.0,21.0,-0.4146711230278015,False,Iowa,North Dakota State,14.0,7.0,2,1,39,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,81.0,19.0,-0.6697723865509033,False,Iowa,North Dakota State,14.0,7.0,2,4,23,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Passing Touchdown,,,14.0,86.0,1.9681873321533203,True,Iowa,North Dakota State,14.0,7.0,2,8,5,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Fumble Recovery (Own),,,83.0,17.0,3.1755285263061523,False,Iowa,North Dakota State,7.0,7.0,2,9,0,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Passing Touchdown,,,30.0,70.0,5.209928512573242,True,Iowa,North Dakota State,7.0,7.0,2,13,3,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,30.0,70.0,-2.4108309745788574,False,Iowa,North Dakota State,0.0,7.0,2,13,10,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,37.0,63.0,0.4939544200897217,False,Iowa,North Dakota State,0.0,7.0,2,13,41,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,37.0,63.0,-0.6139585971832275,False,Iowa,North Dakota State,0.0,7.0,2,13,54,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,64.0,36.0,1.0908910036087036,False,Iowa,North Dakota State,0.0,7.0,1,0,30,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,75.0,25.0,0.7288450598716736,False,Iowa,North Dakota State,0.0,7.0,1,2,0,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Interception Return Touchdown,,,73.0,27.0,-5.269572734832764,True,Iowa,North Dakota State,0.0,7.0,1,2,26,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,74.0,26.0,-0.00552678108215332,False,Iowa,North Dakota State,0.0,0.0,1,2,55,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Reception,,,85.0,15.0,0.06968933343887329,False,Iowa,North Dakota State,0.0,0.0,1,5,0,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,98.0,2.0,-0.9504826068878174,False,Iowa,North Dakota State,0.0,0.0,1,9,8,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869656.0,Pass Incompletion,,,98.0,2.0,-0.7723909020423889,False,Iowa,North Dakota State,0.0,0.0,1,9,58,3,North Dakota State,2016,Iowa,C.J. Beathard,2017
+400869662.0,Interception Return,,,47.0,53.0,-2.3578672409057617,False,Iowa,Northwestern,31.0,38.0,4,1,5,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,69.0,31.0,-0.7070627212524414,False,Iowa,Northwestern,31.0,38.0,4,2,11,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,69.0,31.0,1.0973045825958252,False,Iowa,Northwestern,31.0,38.0,4,2,11,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,51.0,49.0,-0.06648552417755127,False,Iowa,Northwestern,31.0,38.0,4,2,11,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,47.0,53.0,-0.5264502763748169,False,Iowa,Northwestern,31.0,38.0,4,2,11,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,75.0,25.0,0.731279194355011,False,Iowa,Northwestern,31.0,38.0,4,6,52,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,59.0,41.0,-0.0471038818359375,False,Iowa,Northwestern,31.0,38.0,4,6,52,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Fumble Recovery (Own),,,54.0,46.0,-2.371807098388672,False,Iowa,Northwestern,31.0,38.0,4,6,52,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,60.0,40.0,2.279412269592285,False,Iowa,Northwestern,24.0,38.0,4,12,6,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,49.0,51.0,4.114462852478027,False,Iowa,Northwestern,24.0,38.0,4,12,6,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,39.0,61.0,-0.6562652587890625,False,Iowa,Northwestern,24.0,31.0,3,2,7,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,39.0,61.0,-0.45466911792755127,False,Iowa,Northwestern,24.0,31.0,3,2,7,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Sack,,,35.0,65.0,-2.5090978145599365,False,Iowa,Northwestern,24.0,31.0,3,2,7,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,68.0,32.0,0.04501664638519287,False,Iowa,Northwestern,24.0,24.0,3,6,15,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,63.0,37.0,0.16879701614379883,False,Iowa,Northwestern,24.0,24.0,3,6,15,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Sack,,,56.0,44.0,-2.5377025604248047,False,Iowa,Northwestern,24.0,24.0,3,6,15,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,28.0,72.0,0.2133345603942871,False,Iowa,Northwestern,21.0,17.0,3,14,15,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,7.0,93.0,-1.285393476486206,False,Iowa,Northwestern,21.0,17.0,3,14,15,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,69.0,31.0,-0.33368587493896484,False,Iowa,Northwestern,21.0,17.0,2,1,18,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Sack,,,69.0,31.0,-0.7653211951255798,False,Iowa,Northwestern,21.0,17.0,2,1,18,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Passing Touchdown,,,15.0,85.0,3.663363456726074,True,Iowa,Northwestern,21.0,17.0,2,2,51,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,35.0,65.0,1.3248732089996338,False,Iowa,Northwestern,14.0,17.0,2,4,24,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,44.0,56.0,0.5226318836212158,False,Iowa,Northwestern,7.0,17.0,2,7,7,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,28.0,72.0,2.2325408458709717,False,Iowa,Northwestern,7.0,17.0,2,7,7,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,75.0,25.0,-0.5191566944122314,False,Iowa,Northwestern,7.0,17.0,2,10,33,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,72.0,28.0,-1.07832670211792,False,Iowa,Northwestern,7.0,17.0,2,10,33,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,83.0,17.0,-0.8767880201339722,False,Iowa,Northwestern,7.0,10.0,2,15,0,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,75.0,25.0,1.1398276090621948,False,Iowa,Northwestern,0.0,7.0,1,12,20,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Incompletion,,,53.0,47.0,-0.599599301815033,False,Iowa,Northwestern,0.0,7.0,1,12,20,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Sack,,,37.0,63.0,-2.19292950630188,False,Iowa,Northwestern,0.0,7.0,1,12,20,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,45.0,55.0,-0.3283672332763672,False,Iowa,Northwestern,0.0,7.0,1,12,20,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Pass Reception,,,77.0,23.0,-0.3776175081729889,False,Iowa,Northwestern,0.0,0.0,1,15,0,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869662.0,Sack,,,72.0,28.0,-1.8633208274841309,False,Iowa,Northwestern,0.0,0.0,1,15,0,5,Northwestern,2016,Iowa,C.J. Beathard,2017
+400869668.0,Interception Return,,,27.0,27.0,-3.3193325996398926,False,Minnesota,Iowa,6.0,7.0,4,9,30,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,68.0,68.0,-0.7313810586929321,False,Minnesota,Iowa,6.0,7.0,4,11,46,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,68.0,68.0,-0.8532040119171143,False,Minnesota,Iowa,6.0,7.0,4,11,46,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,68.0,68.0,2.402089834213257,False,Minnesota,Iowa,6.0,7.0,4,11,46,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,51.0,51.0,-0.7818558216094971,False,Minnesota,Iowa,6.0,7.0,4,11,46,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Fumble Recovery (Opponent),,,48.0,48.0,-4.537406921386719,False,Minnesota,Iowa,6.0,7.0,4,13,23,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,80.0,80.0,-0.14140671491622925,False,Minnesota,Iowa,6.0,7.0,3,1,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,76.0,76.0,1.2060822248458862,False,Minnesota,Iowa,6.0,7.0,3,1,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,56.0,56.0,0.09714865684509277,False,Minnesota,Iowa,6.0,7.0,3,1,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Sack,,,68.0,68.0,-2.8636841773986816,False,Minnesota,Iowa,6.0,7.0,3,6,17,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,70.0,70.0,1.3131024837493896,False,Minnesota,Iowa,3.0,0.0,3,15,0,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,14.0,14.0,-0.3779435157775879,False,Minnesota,Iowa,3.0,0.0,3,15,0,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,10.0,10.0,-3.52408766746521,False,Minnesota,Iowa,3.0,0.0,3,15,0,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,68.0,68.0,-0.48278218507766724,False,Minnesota,Iowa,3.0,0.0,2,1,44,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,81.0,81.0,0.13811266422271729,False,Minnesota,Iowa,3.0,0.0,2,11,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,75.0,75.0,-0.8799940943717957,False,Minnesota,Iowa,3.0,0.0,2,11,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,75.0,75.0,2.0425777435302734,False,Minnesota,Iowa,3.0,0.0,2,11,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,56.0,56.0,1.9313180446624756,False,Minnesota,Iowa,3.0,0.0,2,11,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,45.0,45.0,-0.5794858932495117,False,Minnesota,Iowa,3.0,0.0,2,11,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,39.0,39.0,-1.885197639465332,False,Minnesota,Iowa,3.0,0.0,2,11,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,4.0,4.0,-1.619091272354126,False,Minnesota,Iowa,0.0,0.0,2,15,0,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,62.0,62.0,1.199278473854065,False,Minnesota,Iowa,0.0,0.0,1,2,59,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,50.0,50.0,2.3461084365844727,False,Minnesota,Iowa,0.0,0.0,1,2,59,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Interception Return,,,52.0,52.0,-4.445850372314453,False,Minnesota,Iowa,0.0,0.0,1,6,6,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,43.0,43.0,-0.03863120079040527,False,Minnesota,Iowa,0.0,0.0,1,10,58,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,38.0,38.0,0.18270015716552734,False,Minnesota,Iowa,0.0,0.0,1,10,58,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Incompletion,,,33.0,33.0,-1.0839192867279053,False,Minnesota,Iowa,0.0,0.0,1,10,58,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,33.0,33.0,-0.7777400016784668,False,Minnesota,Iowa,0.0,0.0,1,10,58,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869668.0,Pass Reception,,,62.0,62.0,-0.7003378868103027,False,Minnesota,Iowa,0.0,0.0,1,13,57,6,Minnesota,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,43.0,43.0,-0.09505188465118408,False,Purdue,Iowa,42.0,21.0,4,6,28,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,42.0,42.0,-1.709384799003601,False,Purdue,Iowa,42.0,14.0,4,11,47,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,47.0,47.0,-0.1595926284790039,False,Purdue,Iowa,42.0,14.0,4,12,5,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,42.0,42.0,-1.0079050064086914,False,Purdue,Iowa,42.0,14.0,3,1,30,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Sack,,,34.0,34.0,1.157393217086792,False,Purdue,Iowa,42.0,14.0,3,2,20,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Passing Touchdown,,,5.0,5.0,2.0959877967834473,True,Purdue,Iowa,42.0,14.0,3,6,7,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,5.0,5.0,-0.9119362831115723,False,Purdue,Iowa,35.0,14.0,3,6,10,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Sack,,,45.0,45.0,-2.2324414253234863,False,Purdue,Iowa,35.0,7.0,3,11,0,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,61.0,61.0,-1.2995139360427856,False,Purdue,Iowa,21.0,0.0,2,9,25,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Sack,,,62.0,62.0,-1.1880898475646973,False,Purdue,Iowa,21.0,0.0,2,11,0,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,91.0,91.0,2.4233946800231934,False,Purdue,Iowa,21.0,0.0,2,14,11,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Passing Touchdown,,,42.0,42.0,2.326231002807617,True,Purdue,Iowa,21.0,0.0,1,0,9,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,54.0,54.0,0.20307302474975586,False,Purdue,Iowa,14.0,0.0,1,1,5,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,54.0,54.0,-0.5703542232513428,False,Purdue,Iowa,14.0,0.0,1,1,28,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,17.0,17.0,-0.6491756439208984,False,Purdue,Iowa,7.0,0.0,1,3,15,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,13.0,13.0,0.924950122833252,False,Purdue,Iowa,7.0,0.0,1,3,45,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,13.0,13.0,-0.5564389228820801,False,Purdue,Iowa,7.0,0.0,1,4,13,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,25.0,25.0,0.589777946472168,False,Purdue,Iowa,7.0,0.0,1,4,27,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,23.0,23.0,2.4922142028808594,False,Purdue,Iowa,0.0,0.0,1,9,53,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,23.0,23.0,-0.49339771270751953,False,Purdue,Iowa,0.0,0.0,1,10,1,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Reception,,,35.0,35.0,1.8856127262115479,False,Purdue,Iowa,0.0,0.0,1,10,14,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869673.0,Pass Incompletion,,,39.0,39.0,-0.6450273990631104,False,Purdue,Iowa,0.0,0.0,1,11,15,7,Purdue,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,7.0,93.0,-0.8713283538818359,False,Iowa,Wisconsin,6.0,17.0,4,0,52,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,28.0,72.0,2.8102102279663086,False,Iowa,Wisconsin,6.0,17.0,4,0,57,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Sack,,,23.0,77.0,-2.8102102279663086,False,Iowa,Wisconsin,6.0,17.0,4,1,5,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,25.0,75.0,-0.034768104553222656,False,Iowa,Wisconsin,6.0,14.0,4,6,0,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,52.0,48.0,1.1293253898620605,False,Iowa,Wisconsin,6.0,14.0,4,7,30,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,61.0,39.0,0.7387763261795044,False,Iowa,Wisconsin,6.0,14.0,4,8,0,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,67.0,33.0,0.23404312133789062,False,Iowa,Wisconsin,6.0,14.0,4,8,35,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,71.0,29.0,0.13705337047576904,False,Iowa,Wisconsin,6.0,14.0,4,9,0,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,80.0,20.0,0.7318884134292603,False,Iowa,Wisconsin,6.0,14.0,4,9,15,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Sack,,,46.0,54.0,-2.2261948585510254,False,Iowa,Wisconsin,6.0,14.0,4,14,5,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,46.0,54.0,-0.868212103843689,False,Iowa,Wisconsin,6.0,14.0,4,14,17,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,66.0,34.0,0.1602001190185547,False,Iowa,Wisconsin,6.0,14.0,3,2,55,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,72.0,28.0,-1.2397671937942505,False,Iowa,Wisconsin,6.0,14.0,3,6,36,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,72.0,28.0,-0.9720454216003418,False,Iowa,Wisconsin,6.0,14.0,3,6,41,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,72.0,28.0,-0.03005737066268921,False,Iowa,Wisconsin,6.0,7.0,3,9,55,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,40.0,60.0,2.4051034450531006,False,Iowa,Wisconsin,3.0,7.0,2,0,5,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,48.0,52.0,0.05081021785736084,False,Iowa,Wisconsin,3.0,7.0,2,0,19,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,54.0,46.0,0.08021390438079834,False,Iowa,Wisconsin,3.0,7.0,2,0,24,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,54.0,46.0,-0.2467760443687439,False,Iowa,Wisconsin,3.0,7.0,2,0,29,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,68.0,32.0,0.3231765031814575,False,Iowa,Wisconsin,3.0,7.0,2,0,35,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,24.0,76.0,-1.3116428852081299,False,Iowa,Wisconsin,0.0,7.0,2,3,54,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,39.0,61.0,0.8643386363983154,False,Iowa,Wisconsin,0.0,7.0,2,5,55,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,65.0,35.0,-0.7492353320121765,False,Iowa,Wisconsin,0.0,7.0,2,8,45,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,65.0,35.0,-0.5387628078460693,False,Iowa,Wisconsin,0.0,7.0,2,8,49,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,55.0,45.0,0.08076000213623047,False,Iowa,Wisconsin,0.0,0.0,1,5,20,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,58.0,42.0,-0.6619002819061279,False,Iowa,Wisconsin,0.0,0.0,1,6,0,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,58.0,42.0,-0.6426934003829956,False,Iowa,Wisconsin,0.0,0.0,1,6,7,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Reception,,,79.0,21.0,1.586677074432373,False,Iowa,Wisconsin,0.0,0.0,1,8,5,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869674.0,Pass Incompletion,,,71.0,29.0,-1.5344008207321167,False,Iowa,Wisconsin,0.0,0.0,1,13,49,8,Wisconsin,2016,Iowa,C.J. Beathard,2017
+400869688.0,Passing Touchdown,,,36.0,36.0,5.366940021514893,True,Penn State,Iowa,14.0,41.0,4,6,30,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,77.0,77.0,0.6338600516319275,False,Penn State,Iowa,7.0,41.0,4,9,24,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,66.0,66.0,2.014883041381836,False,Penn State,Iowa,7.0,41.0,4,9,24,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Incompletion,,,41.0,41.0,-0.5466537475585938,False,Penn State,Iowa,7.0,41.0,4,9,24,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Incompletion,,,41.0,41.0,-0.8181840777397156,False,Penn State,Iowa,7.0,41.0,4,9,24,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,41.0,41.0,2.160907745361328,False,Penn State,Iowa,7.0,41.0,4,9,24,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Sack,,,29.0,29.0,-1.8166980743408203,False,Penn State,Iowa,7.0,41.0,4,9,24,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,78.0,78.0,-0.41225385665893555,False,Penn State,Iowa,7.0,34.0,4,14,35,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,75.0,75.0,0.14469945430755615,False,Penn State,Iowa,7.0,34.0,4,14,35,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Sack,,,70.0,70.0,-1.6967828273773193,False,Penn State,Iowa,7.0,34.0,4,14,35,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Incompletion,,,54.0,54.0,0.07983952760696411,False,Penn State,Iowa,7.0,27.0,4,15,0,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Interception Return,,,54.0,54.0,-4.665982246398926,False,Penn State,Iowa,7.0,27.0,4,15,0,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,77.0,77.0,-0.4034733176231384,False,Penn State,Iowa,7.0,27.0,3,2,42,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,75.0,75.0,1.5679010152816772,False,Penn State,Iowa,7.0,27.0,3,2,42,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,65.0,65.0,0.234080970287323,False,Penn State,Iowa,7.0,27.0,3,2,42,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,59.0,59.0,0.03202927112579346,False,Penn State,Iowa,7.0,27.0,3,2,42,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Sack,,,85.0,85.0,-1.756839632987976,False,Penn State,Iowa,7.0,24.0,3,8,53,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Incompletion,,,90.0,90.0,-0.7191905975341797,False,Penn State,Iowa,7.0,24.0,3,8,53,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Sack,,,70.0,70.0,-1.7156299352645874,False,Penn State,Iowa,7.0,24.0,3,14,55,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Passing Touchdown,,,12.0,12.0,2.7813425064086914,True,Penn State,Iowa,7.0,21.0,2,4,18,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,75.0,75.0,-0.21757018566131592,False,Penn State,Iowa,0.0,21.0,2,7,58,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,65.0,65.0,1.9791107177734375,False,Penn State,Iowa,0.0,21.0,2,7,58,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,43.0,43.0,3.1884472370147705,False,Penn State,Iowa,0.0,21.0,2,7,58,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Incompletion,,,75.0,75.0,-0.5589491128921509,False,Penn State,Iowa,0.0,14.0,2,10,28,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Incompletion,,,72.0,72.0,-0.9304075241088867,False,Penn State,Iowa,0.0,14.0,2,10,28,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,70.0,70.0,0.928533136844635,False,Penn State,Iowa,0.0,7.0,2,15,0,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,57.0,57.0,0.1736709475517273,False,Penn State,Iowa,0.0,7.0,1,7,32,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,50.0,50.0,1.962709665298462,False,Penn State,Iowa,0.0,7.0,1,12,43,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869688.0,Pass Reception,,,43.0,43.0,-0.035942912101745605,False,Penn State,Iowa,0.0,7.0,1,12,43,10,Penn State,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,36.0,64.0,0.7092125415802002,False,Iowa,Michigan,11.0,13.0,4,1,16,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Interception Return,,,54.0,46.0,-2.355347156524658,False,Iowa,Michigan,11.0,13.0,4,1,54,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,73.0,27.0,-1.444728970527649,False,Iowa,Michigan,11.0,13.0,4,8,53,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,73.0,27.0,-0.928774356842041,False,Iowa,Michigan,11.0,13.0,4,8,58,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,66.0,34.0,-1.0126076936721802,False,Iowa,Michigan,11.0,10.0,3,0,38,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Sack,,,54.0,46.0,1.0126078128814697,False,Iowa,Michigan,11.0,10.0,3,1,0,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Sack,,,81.0,19.0,-1.778401255607605,False,Iowa,Michigan,11.0,10.0,3,7,24,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,7.0,93.0,-1.1780505180358887,False,Iowa,Michigan,8.0,10.0,3,10,0,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Passing Touchdown,,,3.0,97.0,3.0631022453308105,True,Iowa,Michigan,8.0,10.0,2,1,27,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,7.0,93.0,-0.11482095718383789,False,Iowa,Michigan,2.0,10.0,2,1,40,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,24.0,76.0,0.6837217807769775,False,Iowa,Michigan,2.0,10.0,2,2,50,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,51.0,49.0,2.2703804969787598,False,Iowa,Michigan,2.0,10.0,2,3,12,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,67.0,33.0,-1.1685154438018799,False,Iowa,Michigan,2.0,10.0,2,5,28,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,69.0,31.0,-0.7596248388290405,False,Iowa,Michigan,2.0,10.0,2,6,18,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Sack,,,26.0,74.0,-1.7729179859161377,False,Iowa,Michigan,0.0,3.0,2,13,56,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,75.0,25.0,-1.3848947286605835,False,Iowa,Michigan,0.0,3.0,1,2,36,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,65.0,35.0,-1.5361254215240479,False,Iowa,Michigan,0.0,0.0,1,7,43,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,65.0,35.0,-0.9421354532241821,False,Iowa,Michigan,0.0,0.0,1,8,8,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Incompletion,,,50.0,50.0,-0.6790502071380615,False,Iowa,Michigan,0.0,0.0,1,12,38,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869690.0,Pass Reception,,,61.0,39.0,0.9577200412750244,False,Iowa,Michigan,0.0,0.0,1,13,37,11,Michigan,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,23.0,23.0,-0.7563846111297607,False,Illinois,Iowa,14.0,0.0,4,13,8,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,23.0,23.0,-1.4220728874206543,False,Illinois,Iowa,14.0,0.0,4,13,8,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,60.0,60.0,-1.0705713033676147,False,Illinois,Iowa,14.0,0.0,3,5,40,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,65.0,65.0,-1.1731953620910645,False,Illinois,Iowa,14.0,0.0,3,5,40,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,64.0,64.0,0.8502986431121826,False,Illinois,Iowa,7.0,0.0,3,14,3,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,67.0,67.0,2.2068936824798584,False,Illinois,Iowa,0.0,0.0,2,12,14,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,54.0,54.0,1.1654126644134521,False,Illinois,Iowa,0.0,0.0,2,12,14,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,30.0,30.0,-0.5638675689697266,False,Illinois,Iowa,0.0,0.0,2,12,14,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,65.0,65.0,-0.7192440032958984,False,Illinois,Iowa,0.0,0.0,2,15,0,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,65.0,65.0,-0.9282364249229431,False,Illinois,Iowa,0.0,0.0,2,15,0,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Interception Return,,,64.0,64.0,-3.2338616847991943,False,Illinois,Iowa,0.0,0.0,2,15,0,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,79.0,79.0,1.5322962999343872,False,Illinois,Iowa,0.0,0.0,1,3,35,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,63.0,63.0,1.2003288269042969,False,Illinois,Iowa,0.0,0.0,1,3,35,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,47.0,47.0,-1.0685367584228516,False,Illinois,Iowa,0.0,0.0,1,3,35,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,47.0,47.0,-1.546942949295044,False,Illinois,Iowa,0.0,0.0,1,3,35,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Incompletion,,,85.0,85.0,-0.7245324850082397,False,Illinois,Iowa,0.0,0.0,1,8,11,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869694.0,Pass Reception,,,88.0,88.0,-0.6157690286636353,False,Illinois,Iowa,0.0,0.0,1,8,11,12,Illinois,2016,Iowa,C.J. Beathard,2017
+400869699.0,Passing Touchdown,,,6.0,94.0,2.779813289642334,True,Iowa,Nebraska,33.0,10.0,4,11,13,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,20.0,80.0,0.14464759826660156,False,Iowa,Nebraska,26.0,10.0,4,12,44,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,31.0,69.0,3.454317569732666,False,Iowa,Nebraska,26.0,10.0,4,14,5,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,40.0,60.0,-0.4074392318725586,False,Iowa,Nebraska,26.0,10.0,4,14,36,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Sack,,,30.0,70.0,-2.1203131675720215,False,Iowa,Nebraska,26.0,10.0,3,0,0,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,44.0,56.0,-0.18619847297668457,False,Iowa,Nebraska,26.0,10.0,3,2,11,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Passing Touchdown,,,1.0,99.0,-0.635744571685791,True,Iowa,Nebraska,26.0,3.0,3,12,40,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,88.0,12.0,1.0135748386383057,False,Iowa,Nebraska,20.0,3.0,2,2,6,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,46.0,54.0,0.5732457637786865,False,Iowa,Nebraska,13.0,0.0,1,0,43,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Passing Touchdown,,,77.0,23.0,5.107924938201904,True,Iowa,Nebraska,13.0,0.0,1,3,28,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Sack,,,50.0,50.0,-2.094172477722168,False,Iowa,Nebraska,0.0,0.0,1,8,40,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Reception,,,69.0,31.0,0.9642534255981445,False,Iowa,Nebraska,0.0,0.0,1,10,50,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Incompletion,,,65.0,35.0,-1.7409842014312744,False,Iowa,Nebraska,0.0,0.0,1,14,13,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400869699.0,Pass Incompletion,,,65.0,35.0,-1.0298709869384766,False,Iowa,Nebraska,0.0,0.0,1,14,19,13,Nebraska,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,91.0,9.0,-0.6018260717391968,False,Iowa,Florida,3.0,30.0,4,1,24,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,75.0,25.0,-0.5799352526664734,False,Iowa,Florida,3.0,30.0,4,5,17,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Interception Return,,,49.0,51.0,-4.287108421325684,False,Iowa,Florida,3.0,27.0,4,7,36,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Interception Return,,,78.0,22.0,-5.102875709533691,False,Iowa,Florida,3.0,24.0,4,11,11,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,52.0,48.0,-1.1653975248336792,False,Iowa,Florida,3.0,24.0,4,13,44,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,51.0,49.0,-0.7417702078819275,False,Iowa,Florida,3.0,24.0,4,14,35,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Interception Return Touchdown,,,62.0,38.0,-5.348974227905273,True,Iowa,Florida,3.0,24.0,4,14,44,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,62.0,38.0,0.07902848720550537,False,Iowa,Florida,3.0,17.0,4,15,0,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,29.0,71.0,1.720762014389038,False,Iowa,Florida,3.0,10.0,3,10,0,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,80.0,20.0,3.40018892288208,False,Iowa,Florida,3.0,10.0,3,13,46,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,77.0,23.0,-0.6796671152114868,False,Iowa,Florida,3.0,10.0,2,1,5,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Sack,,,70.0,30.0,-0.8963916897773743,False,Iowa,Florida,3.0,10.0,2,1,15,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,75.0,25.0,0.08749043941497803,False,Iowa,Florida,3.0,10.0,2,1,36,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,68.0,32.0,-1.2993931770324707,False,Iowa,Florida,3.0,3.0,2,2,10,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,70.0,30.0,-0.6843194961547852,False,Iowa,Florida,3.0,3.0,2,2,55,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,28.0,72.0,2.7039389610290527,False,Iowa,Florida,3.0,3.0,2,9,40,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,26.0,74.0,-0.9900648593902588,False,Iowa,Florida,3.0,3.0,2,10,10,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,43.0,57.0,-2.1183478832244873,False,Iowa,Florida,3.0,3.0,1,1,9,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Reception,,,48.0,52.0,0.07367920875549316,False,Iowa,Florida,3.0,3.0,1,2,0,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,18.0,82.0,-0.6938199996948242,False,Iowa,Florida,0.0,0.0,1,9,5,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,18.0,82.0,-0.8384606838226318,False,Iowa,Florida,0.0,0.0,1,9,8,1,Florida,2016,Iowa,C.J. Beathard,2017
+400876109.0,Pass Incompletion,,,65.0,35.0,-1.862097978591919,False,Iowa,Florida,0.0,0.0,1,11,48,1,Florida,2016,Iowa,C.J. Beathard,2017

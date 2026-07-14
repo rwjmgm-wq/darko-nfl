@@ -1,0 +1,122 @@
+season,team,conference,overall_rating,offense_rating,defense_rating,special_teams_rating
+2007,USC,Big Ten,32.0,39.0,7.7,0.7
+2007,Oklahoma,SEC,30.9,44.7,16.2,2.3
+2007,Ohio State,Big Ten,29.2,37.8,9.5,1.0
+2007,LSU,SEC,28.9,41.9,14.1,1.0
+2007,Florida,SEC,28.8,50.1,21.9,0.7
+2007,West Virginia,Big 12,28.2,41.7,14.4,0.9
+2007,Texas,SEC,25.8,43.4,18.9,1.4
+2007,Texas Tech,Big 12,24.9,47.0,21.7,-0.4
+2007,Kansas,Big 12,24.9,40.3,15.2,-0.2
+2007,Georgia,SEC,23.6,38.7,16.6,1.5
+2007,Oregon,Big Ten,23.1,41.2,19.7,1.6
+2007,Missouri,SEC,21.4,44.0,23.0,0.5
+2007,Auburn,SEC,20.7,31.3,11.3,0.7
+2007,Penn State,Big Ten,20.2,35.5,16.0,0.7
+2007,Tennessee,SEC,20.2,38.4,19.3,1.1
+2007,Virginia Tech,ACC,19.3,27.5,10.4,2.2
+2007,Arkansas,SEC,18.0,36.8,19.0,0.2
+2007,Cincinnati,Big 12,17.5,37.2,19.9,0.2
+2007,Kansas State,Big 12,17.5,37.6,21.5,1.4
+2007,Boston College,ACC,16.7,32.0,14.6,-0.8
+2007,California,ACC,16.6,38.1,21.3,-0.2
+2007,South Carolina,SEC,16.2,33.2,18.4,1.3
+2007,Clemson,ACC,16.2,31.6,15.2,-0.2
+2007,South Florida,American Athletic,15.8,33.1,16.5,-0.8
+2007,BYU,Big 12,15.4,31.8,16.0,-0.4
+2007,Rutgers,Big Ten,14.3,37.0,22.2,-0.6
+2007,Kentucky,SEC,13.4,38.8,24.9,-0.5
+2007,Michigan,Big Ten,13.3,32.5,18.1,-1.2
+2007,Oklahoma State,Big 12,13.1,43.2,28.9,-1.2
+2007,Boise State,Mountain West,13.1,36.2,24.4,1.3
+2007,Alabama,SEC,12.8,30.1,17.2,-0.1
+2007,Illinois,Big Ten,12.7,34.7,22.9,0.9
+2007,Arizona State,Big 12,12.6,30.3,18.6,0.9
+2007,Purdue,Big Ten,12.4,33.2,22.2,1.4
+2007,Hawai'i,Mountain West,12.4,39.0,27.0,0.3
+2007,Louisville,ACC,12.1,40.6,29.2,0.6
+2007,Utah,Big 12,11.9,26.5,16.5,1.9
+2007,Oregon State,Pac-12,11.6,25.6,13.5,-0.5
+2007,UCLA,Big Ten,11.2,23.1,13.4,1.5
+2007,Wisconsin,Big Ten,10.4,35.9,26.1,0.6
+2007,Nebraska,Big Ten,10.0,39.1,31.2,2.1
+2007,Michigan State,Big Ten,10.0,32.1,22.5,0.3
+2007,Florida State,ACC,9.6,25.9,17.5,1.2
+2007,Georgia Tech,ACC,8.7,28.1,21.3,1.8
+2007,UConn,FBS Independents,8.5,26.9,18.3,-0.1
+2007,Texas A&M,SEC,7.6,35.4,28.1,0.3
+2007,Pittsburgh,ACC,7.5,24.7,16.8,-0.4
+2007,Virginia,ACC,7.5,23.3,16.9,1.0
+2007,Arizona,Big 12,7.3,26.6,21.3,1.9
+2007,Iowa,Big Ten,6.5,23.6,16.5,-0.6
+2007,Wake Forest,ACC,6.4,23.9,19.0,1.6
+2007,TCU,Big 12,6.4,24.4,19.0,1.0
+2007,Maryland,Big Ten,5.9,28.5,22.8,0.2
+2007,Air Force,Mountain West,5.7,30.3,25.4,0.8
+2007,Washington,Big Ten,5.2,33.0,28.0,0.2
+2007,New Mexico,Mountain West,4.4,22.5,19.4,1.4
+2007,Colorado,Big 12,4.2,29.1,23.9,-0.9
+2007,UCF,Big 12,3.5,30.5,28.5,1.5
+2007,Washington State,Pac-12,3.2,31.7,27.8,-0.8
+2007,Miami,ACC,3.2,25.0,19.9,-1.9
+2007,Vanderbilt,SEC,2.5,22.1,19.0,-0.5
+2007,Mississippi State,SEC,2.0,20.2,17.8,-0.4
+2007,North Carolina,ACC,1.9,23.6,23.3,1.6
+2007,Fresno State,Mountain West,1.8,33.2,32.0,0.6
+2007,Indiana,Big Ten,-0.2,27.9,29.3,1.2
+2007,Tulsa,American Athletic,-0.4,37.9,36.4,-1.9
+2007,Southern Miss,Sun Belt,-0.5,26.9,28.1,0.8
+2007,East Carolina,American Athletic,-0.7,29.6,29.0,-1.3
+2007,NC State,ACC,-1.1,20.6,22.4,0.8
+2007,Troy,Sun Belt,-2.4,26.2,29.9,1.3
+2007,Northwestern,Big Ten,-2.4,30.1,31.7,-0.7
+2007,Ole Miss,SEC,-2.7,28.1,29.0,-1.7
+2007,Bowling Green,Mid-American,-3.8,31.2,35.7,0.7
+2007,Nevada,Mountain West,-4.2,31.5,35.3,-0.4
+2007,Ball State,Mid-American,-4.6,29.0,33.6,0.0
+2007,Houston,Big 12,-4.7,30.9,34.2,-1.5
+2007,Wyoming,Mountain West,-5.0,15.9,21.0,0.1
+2007,Stanford,ACC,-6.7,21.0,27.4,-0.3
+2007,UTEP,Conference USA,-7.0,32.0,40.6,1.6
+2007,Minnesota,Big Ten,-7.6,30.6,38.8,0.5
+2007,Colorado State,Mountain West,-7.7,27.2,35.4,0.6
+2007,Marshall,Sun Belt,-9.1,31.1,39.4,-0.8
+2007,Iowa State,Big 12,-9.1,20.6,28.0,-1.7
+2007,Notre Dame,FBS Independents,-9.7,15.1,23.3,-1.5
+2007,Navy,American Athletic,-9.8,32.6,41.6,-0.8
+2007,Central Michigan,Mid-American,-10.6,30.2,39.8,-1.0
+2007,Ohio,Mid-American,-11.3,22.9,34.8,0.6
+2007,Syracuse,ACC,-11.7,22.0,33.6,-0.1
+2007,Miami (OH),Mid-American,-11.8,18.9,29.4,-1.3
+2007,Western Michigan,Mid-American,-12.1,22.4,34.1,-0.5
+2007,Kent State,Mid-American,-12.4,21.9,33.4,-0.9
+2007,Florida Atlantic,American Athletic,-12.5,25.1,36.1,-1.5
+2007,San Diego State,Mountain West,-12.6,24.4,39.2,2.2
+2007,Toledo,Mid-American,-12.8,28.8,42.9,1.3
+2007,Memphis,American Athletic,-12.9,27.0,38.3,-1.6
+2007,SMU,ACC,-13.4,28.9,43.2,0.9
+2007,UNLV,Mountain West,-13.5,18.6,32.6,0.6
+2007,Baylor,Big 12,-13.6,23.5,34.5,-2.6
+2007,Rice,American Athletic,-14.4,28.3,41.4,-1.4
+2007,Louisiana Tech,Conference USA,-14.8,18.4,32.4,-0.8
+2007,Tulane,American Athletic,-15.5,23.0,37.7,-0.8
+2007,Arkansas State,Sun Belt,-15.9,19.0,33.2,-1.8
+2007,San José State,Mountain West,-16.0,20.3,34.7,-1.6
+2007,Middle Tennessee,Conference USA,-16.1,20.0,35.1,-1.0
+2007,Northern Illinois,Mid-American,-17.0,18.7,35.1,-0.6
+2007,Akron,Mid-American,-17.6,16.3,34.1,0.3
+2007,New Mexico State,Conference USA,-18.7,24.2,40.4,-2.5
+2007,Temple,American Athletic,-19.0,14.9,31.7,-2.2
+2007,Buffalo,Mid-American,-20.1,17.7,37.5,-0.3
+2007,UL Monroe,Sun Belt,-21.0,16.3,36.2,-1.1
+2007,UAB,American Athletic,-21.7,17.8,41.2,1.7
+2007,Duke,ACC,-22.0,15.7,34.8,-2.9
+2007,Louisiana,Sun Belt,-22.3,21.0,42.4,-0.9
+2007,Western Kentucky,Conference USA,-22.5,15.6,36.3,-1.8
+2007,North Texas,American Athletic,-22.8,20.3,40.3,-2.9
+2007,Eastern Michigan,Mid-American,-24.8,18.0,41.5,-1.3
+2007,Idaho,Big Sky,-25.5,15.1,41.0,0.3
+2007,Utah State,Mountain West,-27.6,13.3,40.0,-0.9
+2007,Army,American Athletic,-28.4,7.3,35.3,-0.4
+2007,Florida International,Conference USA,-32.9,9.6,40.9,-1.6
+2007,nationalAverages,,1.3466666666666667,28.38083333333333,27.04,0.0016666666666666668

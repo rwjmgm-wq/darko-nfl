@@ -1,0 +1,128 @@
+draft_year,round,pick,nfl_team,player_name,cfb_id,pfr_id,position,age,college
+2015,1,1,TAM,Jameis Winston,jameis-winston-1,WinsJa00,QB,21.0,Florida St.
+2015,1,2,TEN,Marcus Mariota,marcus-mariota-1,MariMa01,QB,21.0,Oregon
+2015,3,75,NOR,Garrett Grayson,garrett-grayson-1,GrayGa00,QB,24.0,Colorado St.
+2015,3,89,STL,Sean Mannion,sean-mannion-1,MannSe00,QB,23.0,Oregon St.
+2015,4,103,NYJ,Bryce Petty,bryce-petty-1,PettBr01,QB,24.0,Baylor
+2015,5,147,GNB,Brett Hundley,brett-hundley-1,HundBr00,QB,22.0,UCLA
+2015,7,250,DEN,Trevor Siemian,trevor-siemian-1,SiemTr00,QB,23.0,Northwestern
+2016,1,1,LAR,Jared Goff,jared-goff-1,GoffJa00,QB,21.0,California
+2016,1,2,PHI,Carson Wentz,carson-wentz-1,WentCa00,QB,23.0,North Dakota St.
+2016,1,26,DEN,Paxton Lynch,paxton-lynch-1,LyncPa00,QB,22.0,Memphis
+2016,2,51,NYJ,Christian Hackenberg,christian-hackenberg-1,HackCh01,QB,21.0,Penn St.
+2016,3,91,NWE,Jacoby Brissett,jacoby-brissett-2,BrisJa00,QB,23.0,North Carolina St.
+2016,3,93,CLE,Cody Kessler,cody-kessler-1,KessCo00,QB,23.0,USC
+2016,4,100,OAK,Connor Cook,connor-cook-1,CookCo00,QB,23.0,Michigan St.
+2016,4,135,DAL,Dak Prescott,dak-prescott-1,PresDa01,QB,23.0,Mississippi St.
+2016,4,139,BUF,Cardale Jones,cardale-jones-1,JoneCa01,QB,23.0,Ohio St.
+2016,5,162,KAN,Kevin Hogan,kevin-hogan-2,HogaKe00,QB,23.0,Stanford
+2016,6,187,WAS,Nate Sudfeld,nate-sudfeld-1,SudfNa00,QB,22.0,Indiana
+2016,6,191,DET,Jake Rudock,jake-rudock-1,RudoJa00,QB,23.0,Michigan
+2016,6,201,JAX,Brandon Allen,brandon-allen-2,AlleBr00,QB,24.0,Arkansas
+2016,6,207,SFO,Jeff Driskel,jeff-driskel-1,DrisJe00,QB,23.0,Louisiana Tech
+2016,7,223,MIA,Brandon Doughty,brandon-doughty-1,DougBr00,QB,24.0,Western Kentucky
+2017,1,2,CHI,Mitchell Trubisky,mitch-trubisky-1,TrubMi00,QB,23.0,North Carolina
+2017,1,10,KAN,Patrick Mahomes,patrick-mahomes-1,MahoPa00,QB,21.0,Texas Tech
+2017,1,12,HOU,Deshaun Watson,deshaun-watson-1,WatsDe00,QB,21.0,Clemson
+2017,2,52,CLE,DeShone Kizer,deshone-kizer-1,KizeDe00,QB,21.0,Notre Dame
+2017,3,87,NYG,Davis Webb,davis-webb-1,WebbDa00,QB,22.0,California
+2017,3,104,SFO,C.J. Beathard,cj-beathard-1,BeatC.00,QB,23.0,Iowa
+2017,4,135,PIT,Joshua Dobbs,joshua-dobbs-1,DobbJo00,QB,22.0,Tennessee
+2017,5,171,BUF,Nathan Peterman,nathan-peterman-1,PeteNa00,QB,23.0,Pittsburgh
+2017,6,215,DET,Brad Kaaya,brad-kaaya-1,KaayBr00,QB,22.0,Miami (FL)
+2017,7,253,DEN,Chad Kelly,chad-kelly-1,KellCh00,QB,23.0,Mississippi
+2018,1,1,CLE,Baker Mayfield,baker-mayfield-1,MayfBa00,QB,23.0,Oklahoma
+2018,1,3,NYJ,Sam Darnold,sam-darnold-1,DarnSa00,QB,21.0,USC
+2018,1,7,BUF,Josh Allen,josh-allen-7,AlleJo02,QB,22.0,Wyoming
+2018,1,10,ARI,Josh Rosen,josh-rosen-1,RoseJo01,QB,21.0,UCLA
+2018,1,32,BAL,Lamar Jackson,lamar-jackson-1,JackLa00,QB,21.0,Louisville
+2018,3,76,PIT,Mason Rudolph,mason-rudolph-1,RudoMa00,QB,23.0,Oklahoma St.
+2018,4,108,NYG,Kyle Lauletta,,LaulKy00,QB,23.0,Richmond
+2018,5,171,DAL,Mike White,mike-white-6,WhitMi01,QB,23.0,Western Kentucky
+2018,6,199,TEN,Luke Falk,luke-falk-1,FalkLu00,QB,23.0,Washington St.
+2018,6,203,JAX,Tanner Lee,tanner-lee-1,LeexTa00,QB,23.0,Nebraska
+2018,7,219,NWE,Danny Etling,danny-etling-1,EtliDa00,QB,24.0,LSU
+2018,7,220,SEA,Alex McGough,alex-mcgough-1,McGoAl00,QB,22.0,Florida International
+2018,7,249,CIN,Logan Woodside,logan-woodside-1,WoodLo00,QB,23.0,Toledo
+2019,1,1,ARI,Kyler Murray,kyler-murray-1,MurrKy00,QB,22.0,Oklahoma
+2019,1,6,NYG,Daniel Jones,daniel-jones-4,JoneDa05,QB,22.0,Duke
+2019,1,15,WAS,Dwayne Haskins,dwayne-haskins-1,HaskDw00,QB,22.0,Ohio St.
+2019,2,42,DEN,Drew Lock,drew-lock-1,LockDr00,QB,22.0,Missouri
+2019,3,100,CAR,Will Grier,will-grier-1,GrieWi00,QB,24.0,West Virginia
+2019,4,104,CIN,Ryan Finley,ryan-finley-1,FinlRy00,QB,24.0,North Carolina St.
+2019,4,133,NWE,Jarrett Stidham,jarrett-stidham-1,StidJa00,QB,23.0,Auburn
+2019,5,166,LAC,Easton Stick,,SticEa00,QB,23.0,North Dakota St.
+2019,5,167,PHI,Clayton Thorson,clayton-thorson-1,ThorCl00,QB,24.0,Northwestern
+2019,6,178,JAX,Gardner Minshew II,gardner-minshew-1,MinsGa00,QB,23.0,Washington St.
+2019,6,197,BAL,Trace McSorley,trace-mcsorley-1,McSoTr00,QB,24.0,Penn St.
+2020,1,1,CIN,Joe Burrow,joe-burrow-1,BurrJo01,QB,23.0,LSU
+2020,1,5,MIA,Tua Tagovailoa,tua-tagovailoa-1,TagoTu00,QB,22.0,Alabama
+2020,1,6,LAC,Justin Herbert,justin-herbert-1,HerbJu00,QB,22.0,Oregon
+2020,1,26,GNB,Jordan Love,jordan-love-2,LoveJo03,QB,21.0,Utah St.
+2020,2,53,PHI,Jalen Hurts,jalen-hurts-1,HurtJa00,QB,22.0,Oklahoma
+2020,4,122,IND,Jacob Eason,jacob-eason-1,EasoJa00,QB,22.0,Washington
+2020,4,125,NYJ,James Morgan,james-morgan-1,MorgJa00,QB,23.0,Florida International
+2020,5,167,BUF,Jake Fromm,jake-fromm-1,FromJa00,QB,22.0,Georgia
+2020,6,189,JAX,Jake Luton,jake-luton-1,LutoJa00,QB,24.0,Oregon St.
+2020,7,224,TEN,Cole McDonald,cole-mcdonald-1,McDoCo00,QB,22.0,Hawaii
+2020,7,231,DAL,Ben DiNucci,ben-dinucci-1,DiNuBe00,QB,23.0,James Madison
+2020,7,240,NOR,Tommy Stevens,tommy-stevens-1,StevTo01,QB,23.0,Mississippi St.
+2020,7,244,MIN,Nate Stanley,nathan-stanley-2,StanNa00,QB,23.0,Iowa
+2021,1,1,JAX,Trevor Lawrence,trevor-lawrence-1,LawrTr00,QB,21.0,Clemson
+2021,1,2,NYJ,Zach Wilson,zach-wilson-3,WilsZa00,QB,22.0,BYU
+2021,1,3,SFO,Trey Lance,trey-lance-1,LancTr00,QB,21.0,North Dakota St.
+2021,1,11,CHI,Justin Fields,justin-fields-2,FielJu00,QB,22.0,Ohio St.
+2021,1,15,NWE,Mac Jones,mac-jones-1,JoneMa05,QB,23.0,Alabama
+2021,2,64,TAM,Kyle Trask,kyle-trask-1,TrasKy00,QB,23.0,Florida
+2021,3,66,MIN,Kellen Mond,kellen-mond-1,MondKe00,QB,22.0,Texas A&M
+2021,3,67,HOU,Davis Mills,davis-mills-1,MillDa02,QB,22.0,Stanford
+2021,4,133,NOR,Ian Book,ian-book-1,BookIa00,QB,23.0,Notre Dame
+2021,6,218,IND,Sam Ehlinger,sam-ehlinger-1,EhliSa00,QB,22.0,Texas
+2022,1,20,PIT,Kenny Pickett,kenny-pickett-1,PickKe00,QB,24.0,Pittsburgh
+2022,3,74,ATL,Desmond Ridder,desmond-ridder-1,RiddDe00,QB,23.0,Cincinnati
+2022,3,86,TEN,Malik Willis,malik-willis-1,WillMa12,QB,23.0,Liberty
+2022,3,94,CAR,Matt Corral,matt-corral-1,CorrMa00,QB,23.0,Mississippi
+2022,4,137,NWE,Bailey Zappe,bailey-zappe-1,ZappBa00,QB,23.0,Western Kentucky
+2022,5,144,WAS,Sam Howell,sam-howell-1,HoweSa00,QB,21.0,North Carolina
+2022,7,241,PIT,Chris Oladokun,,OladCh00,QB,25.0,South Dakota St.
+2022,7,247,MIA,Skylar Thompson,skylar-thompson-1,ThomSk00,QB,25.0,Kansas St.
+2022,7,262,SFO,Brock Purdy,brock-purdy-1,PurdBr00,QB,22.0,Iowa St.
+2023,1,1,CAR,Bryce Young,bryce-young-1,YounBr01,QB,22.0,Alabama
+2023,1,2,HOU,C.J. Stroud,cj-stroud-1,StroCJ00,QB,21.0,Ohio St.
+2023,1,4,IND,Anthony Richardson,anthony-richardson-2,RichAn03,QB,21.0,Florida
+2023,2,33,TEN,Will Levis,will-levis-1,LeviWi00,QB,24.0,Kentucky
+2023,3,68,DET,Hendon Hooker,hendon-hooker-1,HookHe00,QB,25.0,Tennessee
+2023,4,127,NOR,Jake Haener,jake-haener-1,HaenJa00,QB,24.0,Fresno St.
+2023,4,128,LAR,Stetson Bennett,stetson-bennett-1,BennSt00,QB,25.0,Georgia
+2023,4,135,LVR,Aidan O'Connell,aidan-oconnell-1,OConAi00,QB,25.0,Purdue
+2023,5,139,ARI,Clayton Tune,clayton-tune-1,TuneCl00,QB,24.0,Houston
+2023,5,140,CLE,Dorian Thompson-Robinson,dorian-thompson-robinson-1,ThomDo02,QB,23.0,UCLA
+2023,5,149,GNB,Sean Clifford,sean-clifford-1,ClifSe00,QB,25.0,Penn St.
+2023,5,164,MIN,Jaren Hall,jaren-hall-1,HallJa00,QB,25.0,BYU
+2023,6,188,PHI,Tanner McKee,tanner-mckee-1,McKeTa01,QB,23.0,Stanford
+2023,7,239,LAC,Max Duggan,max-duggan-1,DuggMa00,QB,22.0,TCU
+2024,1,1,CHI,Caleb Williams,caleb-williams-3,WillCa03,QB,22.0,USC
+2024,1,2,WAS,Jayden Daniels,jayden-daniels-1,DaniJa02,QB,23.0,LSU
+2024,1,3,NWE,Drake Maye,drake-maye-1,MayeDr00,QB,22.0,North Carolina
+2024,1,8,ATL,Michael Penix,michael-penix-jr-1,PeniMi00,QB,24.0,Washington
+2024,1,10,MIN,J.J. McCarthy,jj-mccarthy-1,McCaJJ00,QB,21.0,Michigan
+2024,1,12,DEN,Bo Nix,bo-nix-1,NixxBo00,QB,24.0,Oregon
+2024,5,150,NOR,Spencer Rattler,spencer-rattler-1,RattSp00,QB,23.0,South Carolina
+2024,5,171,NYJ,Jordan Travis,jordan-travis-1,TravJo00,QB,24.0,Florida St.
+2024,6,193,NWE,Joe Milton,joe-milton-2,MiltJo00,QB,24.0,Tennessee
+2024,6,218,BAL,Devin Leary,devin-leary-1,LearDe00,QB,24.0,Kentucky
+2024,7,245,GNB,Michael Pratt,michael-pratt-1,PratMi00,QB,22.0,Tulane
+2025,1,1,TEN,Cam Ward,,,QB,,Miami (FL)
+2025,1,25,NYG,Jaxson Dart,,,QB,,Mississippi
+2025,2,40,NOR,Tyler Shough,,,QB,,Louisville
+2025,3,92,SEA,Jalen Milroe,,,QB,,Alabama
+2025,3,94,CLE,Dillon Gabriel,,,QB,,Oregon
+2025,5,144,CLE,Shedeur Sanders,,,QB,,Colorado
+2025,6,181,PHI,Kyle McCord,,,QB,,Syracuse
+2025,6,185,PIT,Will Howard,,,QB,,Ohio St.
+2025,6,189,IND,Riley Leonard,,,QB,,Notre Dame
+2025,6,197,HOU,Graham Mertz,,,QB,,Florida
+2025,6,213,LVR,Tommy Mellott,,,QB,,Montana St.
+2025,6,215,LVR,Cam Miller,,,QB,,North Dakota St.
+2025,7,227,SFO,Kurtis Rourke,,,QB,,Indiana
+2025,7,231,MIA,Quinn Ewers,,,QB,,Texas

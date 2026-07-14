@@ -1,0 +1,29 @@
+{
+  "best_5_features": [
+    "attempts",
+    "epa_std",
+    "big_play_rate",
+    "explosive_rate",
+    "third_down_epa"
+  ],
+  "correlation": 0.5880571909106422,
+  "r_squared": 0.34581125978171523,
+  "best_3_features": [
+    "attempts",
+    "big_play_rate",
+    "explosive_rate"
+  ],
+  "corr_3": 0.5382488396798558,
+  "r2_3": 0.28971181341671115,
+  "best_7_features": [
+    "attempts",
+    "big_play_rate",
+    "explosive_rate",
+    "high_leverage_epa",
+    "red_zone_epa",
+    "third_down_epa",
+    "opp_adj_epa"
+  ],
+  "corr_7": 0.6432184628956127,
+  "r2_7": 0.4137299910097947
+}

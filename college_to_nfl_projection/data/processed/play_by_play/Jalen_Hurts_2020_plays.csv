@@ -1,0 +1,390 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401112082.0,Pass Reception,,,17.0,17,-0.7340226173400879,False,Baylor,Oklahoma,31.0,31.0,4,1,50,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,21.0,21,-0.38245487213134766,False,Baylor,Oklahoma,31.0,31.0,4,2,1,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,34.0,34,0.9423346519470215,False,Baylor,Oklahoma,31.0,31.0,4,2,30,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,34.0,34,-0.40874218940734863,False,Baylor,Oklahoma,31.0,31.0,4,2,38,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Sack,,,73.0,73,-1.1458969116210938,False,Baylor,Oklahoma,31.0,31.0,4,4,4,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Passing Touchdown,,,2.0,2,1.7859244346618652,True,Baylor,Oklahoma,31.0,31.0,4,5,25,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,8.0,8,0.6128931045532227,False,Baylor,Oklahoma,24.0,31.0,4,5,52,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,19.0,19,0.6214308738708496,False,Baylor,Oklahoma,24.0,31.0,4,7,17,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,35.0,35,1.2331974506378174,False,Baylor,Oklahoma,24.0,31.0,4,7,54,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,54.0,54,0.15439701080322266,False,Baylor,Oklahoma,24.0,31.0,4,9,53,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,65.0,65,1.908177137374878,False,Baylor,Oklahoma,24.0,31.0,4,10,12,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,65.0,65,-0.7459637522697449,False,Baylor,Oklahoma,24.0,31.0,4,10,20,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,77.0,77,0.9358795285224915,False,Baylor,Oklahoma,24.0,31.0,4,11,18,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Passing Touchdown,,,19.0,19,2.5584640502929688,True,Baylor,Oklahoma,24.0,31.0,4,12,58,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,30.0,30,0.22209668159484863,False,Baylor,Oklahoma,17.0,31.0,4,14,51,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,45.0,45,1.3043880462646484,False,Baylor,Oklahoma,17.0,31.0,3,0,0,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,64.0,64,2.009342670440674,False,Baylor,Oklahoma,17.0,31.0,3,0,45,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,64.0,64,-0.798321008682251,False,Baylor,Oklahoma,17.0,31.0,3,0,55,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,84.0,84,2.0524442195892334,False,Baylor,Oklahoma,17.0,31.0,3,2,4,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,90.0,90,-0.6626307964324951,False,Baylor,Oklahoma,17.0,31.0,3,2,52,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,4.0,4,-0.5296640396118164,False,Baylor,Oklahoma,17.0,31.0,3,4,35,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,53.0,53,1.4216995239257812,False,Baylor,Oklahoma,17.0,31.0,3,8,19,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,55.0,55,-0.5461375117301941,False,Baylor,Oklahoma,17.0,31.0,3,8,54,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Passing Touchdown,,,3.0,3,2.4690465927124023,True,Baylor,Oklahoma,17.0,31.0,3,9,16,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,31.0,31,5.8971381187438965,False,Baylor,Oklahoma,10.0,31.0,3,11,11,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,40.0,40,1.1091563701629639,False,Baylor,Oklahoma,10.0,31.0,3,13,18,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,52.0,52,1.384082317352295,False,Baylor,Oklahoma,10.0,31.0,3,13,42,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,64.0,64,-0.7447603940963745,False,Baylor,Oklahoma,10.0,31.0,3,14,11,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,68.0,68,0.6392626762390137,False,Baylor,Oklahoma,10.0,31.0,3,14,22,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,74.0,74,0.10326308012008667,False,Baylor,Oklahoma,10.0,31.0,3,14,45,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Passing Touchdown,,,5.0,5,2.7334423065185547,True,Baylor,Oklahoma,10.0,28.0,2,5,6,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,33.0,33,-1.6323050260543823,False,Baylor,Oklahoma,3.0,28.0,2,7,49,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,48.0,48,1.1782079935073853,False,Baylor,Oklahoma,3.0,28.0,2,9,28,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,65.0,65,-0.5563268065452576,False,Baylor,Oklahoma,3.0,28.0,2,10,34,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Interception Return,,,36.0,36,-5.837813377380371,False,Baylor,Oklahoma,3.0,21.0,2,11,9,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,38.0,38,0.8885238170623779,False,Baylor,Oklahoma,3.0,21.0,2,13,6,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,44.0,44,0.46997690200805664,False,Baylor,Oklahoma,3.0,21.0,2,13,37,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,75.0,75,0.9381171464920044,False,Baylor,Oklahoma,3.0,21.0,2,14,49,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Fumble Recovery (Opponent),,,57.0,57,-5.745555400848389,False,Baylor,Oklahoma,3.0,14.0,1,0,1,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,82.0,82,1.5960506200790405,False,Baylor,Oklahoma,3.0,14.0,1,0,49,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Sack,,,84.0,84,-2.203505754470825,False,Baylor,Oklahoma,3.0,7.0,1,4,17,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,88.0,88,-0.7174442410469055,False,Baylor,Oklahoma,3.0,7.0,1,5,3,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Sack,,,18.0,18,-1.555851936340332,False,Baylor,Oklahoma,0.0,0.0,1,10,1,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Incompletion,,,18.0,18,-0.8753621578216553,False,Baylor,Oklahoma,0.0,0.0,1,10,12,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,23.0,23,0.16611814498901367,False,Baylor,Oklahoma,0.0,0.0,1,10,33,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112082.0,Pass Reception,,,51.0,51,2.720669746398926,False,Baylor,Oklahoma,0.0,0.0,1,11,32,12,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Interception Return,,,72.0,28,-3.0028297901153564,False,Oklahoma,Iowa State,42.0,35.0,4,2,43,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,68.0,32,-0.01692354679107666,False,Oklahoma,Iowa State,42.0,28.0,4,6,0,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Fumble Recovery (Opponent),,,80.0,20,-4.710538864135742,False,Oklahoma,Iowa State,42.0,28.0,4,14,26,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Sack,,,44.0,56,-1.873457908630371,False,Oklahoma,Iowa State,35.0,21.0,3,4,24,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,57.0,43,2.185492515563965,False,Oklahoma,Iowa State,35.0,21.0,3,4,30,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Incompletion,,,57.0,43,-0.9478814601898193,False,Oklahoma,Iowa State,35.0,21.0,3,4,55,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Incompletion,,,57.0,43,-0.5646882057189941,False,Oklahoma,Iowa State,35.0,21.0,3,5,3,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,74.0,26,0.4917738437652588,False,Oklahoma,Iowa State,35.0,21.0,3,6,0,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,51.0,49,1.905829668045044,False,Oklahoma,Iowa State,28.0,14.0,2,0,31,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Incompletion,,,51.0,49,-0.19203448295593262,False,Oklahoma,Iowa State,28.0,14.0,2,0,46,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,56.0,44,0.39343810081481934,False,Oklahoma,Iowa State,28.0,14.0,2,1,11,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,61.0,39,-0.15418922901153564,False,Oklahoma,Iowa State,28.0,14.0,2,1,16,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,90.0,10,-0.9748989939689636,False,Oklahoma,Iowa State,28.0,14.0,2,5,3,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Sack,,,83.0,17,-1.1370031833648682,False,Oklahoma,Iowa State,28.0,14.0,2,5,45,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Passing Touchdown,,,63.0,37,3.967484712600708,True,Oklahoma,Iowa State,28.0,7.0,2,8,14,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,68.0,32,-0.7650450468063354,False,Oklahoma,Iowa State,21.0,7.0,2,9,35,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Passing Touchdown,,,7.0,93,2.31193208694458,True,Oklahoma,Iowa State,21.0,7.0,2,14,18,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,44.0,56,0.8423190116882324,False,Oklahoma,Iowa State,14.0,7.0,1,1,30,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,61.0,39,2.7749104499816895,False,Oklahoma,Iowa State,14.0,7.0,1,1,40,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,74.0,26,0.8923094272613525,False,Oklahoma,Iowa State,14.0,7.0,1,4,7,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Incompletion,,,44.0,56,-2.0327694416046143,False,Oklahoma,Iowa State,14.0,0.0,1,6,47,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,49.0,51,-0.5143947601318359,False,Oklahoma,Iowa State,14.0,0.0,1,7,15,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Incompletion,,,49.0,51,-0.5193357467651367,False,Oklahoma,Iowa State,14.0,0.0,1,7,30,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,20.0,80,0.6095938682556152,False,Oklahoma,Iowa State,7.0,0.0,1,9,56,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Pass Reception,,,48.0,52,1.5505473613739014,False,Oklahoma,Iowa State,7.0,0.0,1,11,30,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Sack,,,47.0,53,-1.0755245685577393,False,Oklahoma,Iowa State,7.0,0.0,1,11,50,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112092.0,Passing Touchdown,,,48.0,52,3.397376298904419,True,Oklahoma,Iowa State,7.0,0.0,1,13,42,11,Iowa State,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,31.0,31,-2.209103584289551,False,Kansas,Oklahoma,45.0,20.0,4,0,45,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,15.0,15,-0.9530205726623535,False,Kansas,Oklahoma,42.0,14.0,4,4,52,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,44.0,44,1.8365437984466553,False,Kansas,Oklahoma,42.0,14.0,4,7,51,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,75.0,75,0.535841703414917,False,Kansas,Oklahoma,42.0,14.0,4,9,13,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Interception Return,,,65.0,65,-3.108870267868042,False,Kansas,Oklahoma,35.0,7.0,4,14,53,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,70.0,70,-0.15275812149047852,False,Kansas,Oklahoma,35.0,7.0,3,0,0,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,80.0,80,1.5457239151000977,False,Kansas,Oklahoma,35.0,7.0,3,1,0,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,80.0,80,-0.8161404132843018,False,Kansas,Oklahoma,35.0,7.0,3,1,9,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Passing Touchdown,,,15.0,15,2.49307918548584,True,Kansas,Oklahoma,35.0,7.0,3,6,18,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,64.0,64,0.7363879680633545,False,Kansas,Oklahoma,28.0,7.0,3,8,30,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,64.0,64,-0.6019656658172607,False,Kansas,Oklahoma,28.0,7.0,3,8,44,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,35.0,35,0.14382505416870117,False,Kansas,Oklahoma,21.0,7.0,3,12,14,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,59.0,59,0.42058682441711426,False,Kansas,Oklahoma,21.0,7.0,3,13,48,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,83.0,83,-0.9960616827011108,False,Kansas,Oklahoma,21.0,7.0,3,14,19,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Passing Touchdown,,,10.0,10,2.6770219802856445,True,Kansas,Oklahoma,21.0,7.0,2,0,31,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,48.0,48,-0.5979853868484497,False,Kansas,Oklahoma,14.0,7.0,2,1,23,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Sack,,,17.0,17,-1.4427306652069092,False,Kansas,Oklahoma,14.0,7.0,2,2,11,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,28.0,28,2.3491780757904053,False,Kansas,Oklahoma,14.0,7.0,2,2,37,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,48.0,48,0.6921970844268799,False,Kansas,Oklahoma,14.0,7.0,2,3,58,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,65.0,65,0.8913142681121826,False,Kansas,Oklahoma,14.0,7.0,2,4,13,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,89.0,89,1.8119956254959106,False,Kansas,Oklahoma,14.0,7.0,2,4,43,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,43.0,43,0.979759931564331,False,Kansas,Oklahoma,7.0,7.0,2,10,24,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,58.0,58,1.5485397577285767,False,Kansas,Oklahoma,7.0,7.0,2,10,35,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,58.0,58,-0.5777262449264526,False,Kansas,Oklahoma,7.0,7.0,2,10,43,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,37.0,37,-0.5787420272827148,False,Kansas,Oklahoma,0.0,7.0,1,1,44,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,37.0,37,2.5147969722747803,False,Kansas,Oklahoma,0.0,7.0,1,1,44,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,72.0,72,1.1841620206832886,False,Kansas,Oklahoma,0.0,7.0,1,3,0,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,60.0,60,-1.5844117403030396,False,Kansas,Oklahoma,0.0,0.0,1,9,2,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Reception,,,75.0,75,2.8127474784851074,False,Kansas,Oklahoma,0.0,0.0,1,10,50,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112101.0,Pass Incompletion,,,75.0,75,-1.0357199907302856,False,Kansas,Oklahoma,0.0,0.0,1,11,30,6,Kansas,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,34.0,34,0.7728309631347656,False,Kansas State,Oklahoma,38.0,48.0,4,1,50,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,29.0,24,-0.7728309631347656,False,Kansas State,Oklahoma,38.0,48.0,4,2,0,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Incompletion,,,29.0,29,-0.4336671829223633,False,Kansas State,Oklahoma,38.0,48.0,4,2,50,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,50.0,50,1.8146377801895142,False,Kansas State,Oklahoma,38.0,48.0,4,3,0,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,63.0,63,0.6642679572105408,False,Kansas State,Oklahoma,38.0,48.0,4,3,25,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Sack,,,62.0,62,-0.7515488266944885,False,Kansas State,Oklahoma,38.0,48.0,4,3,45,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,72.0,72,0.048564374446868896,False,Kansas State,Oklahoma,38.0,48.0,4,4,15,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,22.0,22,1.6820175647735596,False,Kansas State,Oklahoma,30.0,48.0,4,6,23,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Incompletion,,,29.0,29,-0.6224319934844971,False,Kansas State,Oklahoma,30.0,48.0,4,7,7,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,39.0,39,0.6300978660583496,False,Kansas State,Oklahoma,30.0,48.0,4,7,20,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,55.0,55,0.405326247215271,False,Kansas State,Oklahoma,30.0,48.0,4,8,0,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,81.0,81,1.571060061454773,False,Kansas State,Oklahoma,30.0,48.0,4,8,30,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Passing Touchdown,,,70.0,70,6.948494911193848,True,Kansas State,Oklahoma,30.0,48.0,4,12,32,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,73.0,73,-0.007561206817626953,False,Kansas State,Oklahoma,23.0,41.0,3,4,50,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Incompletion,,,73.0,73,-1.730246901512146,False,Kansas State,Oklahoma,23.0,27.0,3,9,38,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,74.0,74,-0.6941250562667847,False,Kansas State,Oklahoma,23.0,27.0,3,10,0,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Sack,,,23.0,23,-0.7738857269287109,False,Kansas State,Oklahoma,20.0,24.0,2,0,4,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,60.0,60,1.9851832389831543,False,Kansas State,Oklahoma,20.0,24.0,2,0,10,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Interception Return,,,79.0,79,-4.588016986846924,False,Kansas State,Oklahoma,20.0,17.0,2,0,38,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,49.0,49,0.6162595748901367,False,Kansas State,Oklahoma,17.0,14.0,2,11,0,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,71.0,71,1.7057610750198364,False,Kansas State,Oklahoma,17.0,14.0,2,11,30,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,71.0,71,3.397968292236328,False,Kansas State,Oklahoma,10.0,7.0,1,3,5,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Incompletion,,,10.0,10,-1.0655803680419922,False,Kansas State,Oklahoma,3.0,0.0,1,9,39,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,76.0,76,5.246580600738525,False,Kansas State,Oklahoma,3.0,0.0,1,10,30,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,75.0,75,-0.9322436451911926,False,Kansas State,Oklahoma,3.0,0.0,1,11,11,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Incompletion,,,27.0,27,-1.8862509727478027,False,Kansas State,Oklahoma,0.0,0.0,1,13,25,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112110.0,Pass Reception,,,67.0,67,2.1579813957214355,False,Kansas State,Oklahoma,0.0,0.0,1,14,30,9,Kansas State,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Incompletion,,,69.0,31,-1.340973138809204,False,Oklahoma,Houston,42.0,24.0,4,4,8,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,33.0,67,0.37884092330932617,False,Oklahoma,Houston,35.0,17.0,3,1,0,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,79.0,21,1.4766099452972412,False,Oklahoma,Houston,35.0,17.0,3,2,45,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,45.0,55,2.7851455211639404,False,Oklahoma,Houston,28.0,10.0,3,8,25,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,50.0,50,-0.3536257743835449,False,Oklahoma,Houston,28.0,10.0,3,9,0,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Passing Touchdown,,,56.0,44,4.598927974700928,True,Oklahoma,Houston,28.0,10.0,3,12,38,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,70.0,30,0.7293839454650879,False,Oklahoma,Houston,21.0,10.0,3,14,15,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,75.0,25,-2.009247303009033,False,Oklahoma,Houston,21.0,10.0,3,14,55,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,54.0,46,0.9388594031333923,False,Oklahoma,Houston,21.0,10.0,2,0,8,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Incompletion,,,45.0,55,-0.4687950611114502,False,Oklahoma,Houston,21.0,7.0,2,2,39,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Passing Touchdown,,,45.0,55,4.675017356872559,True,Oklahoma,Houston,21.0,0.0,2,8,9,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,62.0,38,1.0277016162872314,False,Oklahoma,Houston,14.0,0.0,2,9,55,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,66.0,34,-0.4195284843444824,False,Oklahoma,Houston,14.0,0.0,2,10,25,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,72.0,28,1.709580421447754,False,Oklahoma,Houston,14.0,0.0,2,11,0,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,1.0,99,-0.4781970977783203,False,Oklahoma,Houston,7.0,0.0,1,0,15,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,28.0,72,0.6318011283874512,False,Oklahoma,Houston,7.0,0.0,1,1,25,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,43.0,57,1.9134650230407715,False,Oklahoma,Houston,7.0,0.0,1,1,45,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,51.0,49,0.6688857078552246,False,Oklahoma,Houston,7.0,0.0,1,2,55,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,65.0,35,0.5997672080993652,False,Oklahoma,Houston,7.0,0.0,1,3,30,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Incompletion,,,32.0,68,-0.9766392707824707,False,Oklahoma,Houston,7.0,0.0,1,7,30,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,40.0,60,-0.7285547256469727,False,Oklahoma,Houston,7.0,0.0,1,9,15,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Passing Touchdown,,,14.0,86,1.682736873626709,True,Oklahoma,Houston,7.0,0.0,1,12,21,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112114.0,Pass Reception,,,30.0,70,0.5074572563171387,False,Oklahoma,Houston,0.0,0.0,1,13,0,1,Houston,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Passing Touchdown,,,9.0,91,3.752352714538574,True,Oklahoma,South Dakota,70.0,14.0,4,5,42,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,46.0,54,2.024010181427002,False,Oklahoma,South Dakota,63.0,14.0,4,7,40,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,73.0,27,1.5519771575927734,False,Oklahoma,South Dakota,63.0,14.0,4,9,57,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,76.0,24,-0.47692346572875977,False,Oklahoma,South Dakota,63.0,14.0,4,11,5,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Passing Touchdown,,,37.0,63,4.349008560180664,True,Oklahoma,South Dakota,63.0,14.0,4,11,59,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,41.0,59,-0.30815696716308594,False,Oklahoma,South Dakota,56.0,14.0,4,13,10,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Incompletion,,,45.0,55,-1.346880316734314,False,Oklahoma,South Dakota,56.0,14.0,4,13,47,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,47.0,53,-0.6219432353973389,False,Oklahoma,South Dakota,56.0,14.0,4,14,20,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,70.0,30,0.5585412979125977,False,Oklahoma,South Dakota,56.0,14.0,3,0,21,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Passing Touchdown,,,14.0,86,1.4034218788146973,True,Oklahoma,South Dakota,49.0,0.0,3,8,3,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,54.0,46,1.3902130126953125,False,Oklahoma,South Dakota,42.0,0.0,3,8,28,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Incompletion,,,68.0,32,-0.672644853591919,False,Oklahoma,South Dakota,42.0,0.0,3,9,12,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Fumble Recovery (Own),,,50.0,50,1.9926409721374512,False,Oklahoma,South Dakota,35.0,0.0,3,11,50,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Passing Touchdown,,,7.0,93,2.0135598182678223,True,Oklahoma,South Dakota,28.0,0.0,2,0,41,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,57.0,43,1.524657964706421,False,Oklahoma,South Dakota,21.0,0.0,2,4,20,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,58.0,42,-0.779787540435791,False,Oklahoma,South Dakota,21.0,0.0,2,4,52,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Sack,,,60.0,40,-1.922013521194458,False,Oklahoma,South Dakota,21.0,0.0,2,9,0,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,87.0,13,1.1539700031280518,False,Oklahoma,South Dakota,21.0,0.0,2,10,34,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Incompletion,,,49.0,51,-0.5588338375091553,False,Oklahoma,South Dakota,14.0,0.0,2,13,48,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Incompletion,,,67.0,33,-0.6456632614135742,False,Oklahoma,South Dakota,14.0,0.0,2,14,32,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Passing Touchdown,,,8.0,92,1.713334560394287,True,Oklahoma,South Dakota,14.0,0.0,1,0,43,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,35.0,65,1.3985962867736816,False,Oklahoma,South Dakota,7.0,0.0,1,2,15,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,44.0,56,0.9315099716186523,False,Oklahoma,South Dakota,7.0,0.0,1,3,15,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,71.0,29,3.3680837154388428,False,Oklahoma,South Dakota,7.0,0.0,1,3,51,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Incompletion,,,61.0,39,-0.9886771440505981,False,Oklahoma,South Dakota,7.0,0.0,1,4,29,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Passing Touchdown,,,3.0,97,0.6817145347595215,True,Oklahoma,South Dakota,7.0,0.0,1,8,30,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,23.0,77,2.666107416152954,False,Oklahoma,South Dakota,0.0,0.0,1,8,55,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,24.0,76,0.01714468002319336,False,Oklahoma,South Dakota,0.0,0.0,1,10,25,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,72.0,28,3.7126965522766113,False,Oklahoma,South Dakota,0.0,0.0,1,10,42,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Incompletion,,,68.0,32,-1.6671308279037476,False,Oklahoma,South Dakota,0.0,0.0,1,13,24,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112115.0,Pass Reception,,,82.0,18,0.9127241373062134,False,Oklahoma,South Dakota,0.0,0.0,1,13,52,2,South Dakota,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,61.0,61,0.2304854393005371,False,UCLA,Oklahoma,48.0,14.0,4,1,46,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,57.0,57,-0.7322403788566589,False,UCLA,Oklahoma,48.0,14.0,4,3,43,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,64.0,64,-0.4426032304763794,False,UCLA,Oklahoma,48.0,14.0,4,4,23,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,31.0,31,1.0320720672607422,False,UCLA,Oklahoma,41.0,14.0,4,9,9,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,62.0,62,1.9093916416168213,False,UCLA,Oklahoma,41.0,14.0,4,11,6,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,80.0,80,0.6875026226043701,False,UCLA,Oklahoma,41.0,14.0,4,12,30,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Passing Touchdown,,,39.0,39,2.488792896270752,True,UCLA,Oklahoma,41.0,14.0,3,0,27,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,69.0,69,-1.6584091186523438,False,UCLA,Oklahoma,34.0,14.0,3,6,40,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,69.0,69,-0.7953348159790039,False,UCLA,Oklahoma,34.0,14.0,3,7,0,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Passing Touchdown,,,48.0,48,5.006423473358154,True,UCLA,Oklahoma,27.0,7.0,2,4,11,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,48.0,48,-0.8470529317855835,False,UCLA,Oklahoma,20.0,7.0,2,4,25,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,66.0,66,1.7470022439956665,False,UCLA,Oklahoma,20.0,7.0,2,4,42,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Sack,,,59.0,59,-1.2638236284255981,False,UCLA,Oklahoma,20.0,7.0,2,4,57,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,64.0,64,1.3436100482940674,False,UCLA,Oklahoma,20.0,7.0,2,5,48,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,22.0,22,-0.5367574691772461,False,UCLA,Oklahoma,17.0,7.0,2,11,5,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,46.0,46,1.1833176612854004,False,UCLA,Oklahoma,17.0,7.0,2,11,22,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,58.0,58,0.6478879451751709,False,UCLA,Oklahoma,17.0,7.0,2,11,50,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,75.0,75,0.4356769323348999,False,UCLA,Oklahoma,17.0,7.0,2,13,40,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Passing Touchdown,,,39.0,39,3.7028567790985107,True,UCLA,Oklahoma,17.0,0.0,1,3,31,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,8.0,8,-0.898643970489502,False,UCLA,Oklahoma,7.0,0.0,1,6,35,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,35.0,35,0.6066956520080566,False,UCLA,Oklahoma,7.0,0.0,1,8,7,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,53.0,53,0.893695592880249,False,UCLA,Oklahoma,7.0,0.0,1,8,21,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Reception,,,94.0,94,1.5895612239837646,False,UCLA,Oklahoma,7.0,0.0,1,9,16,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112116.0,Pass Incompletion,,,46.0,46,-1.0618220567703247,False,UCLA,Oklahoma,0.0,0.0,1,13,10,3,UCLA,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,53.0,47,-0.4739348292350769,False,Oklahoma,Texas Tech,55.0,16.0,4,3,37,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,53.0,47,-0.37006306648254395,False,Oklahoma,Texas Tech,55.0,16.0,4,3,42,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,68.0,32,0.3350878953933716,False,Oklahoma,Texas Tech,55.0,16.0,4,4,50,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,76.0,24,0.016187965869903564,False,Oklahoma,Texas Tech,55.0,16.0,4,5,10,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,41.0,59,-1.5390197038650513,False,Oklahoma,Texas Tech,48.0,16.0,4,8,50,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,41.0,59,-0.7257595062255859,False,Oklahoma,Texas Tech,48.0,16.0,4,9,5,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,80.0,20,-1.0844711065292358,False,Oklahoma,Texas Tech,48.0,16.0,4,10,30,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,79.0,21,-0.8542772531509399,False,Oklahoma,Texas Tech,48.0,16.0,4,11,0,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,67.0,33,-1.6910486221313477,False,Oklahoma,Texas Tech,48.0,16.0,4,14,30,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,75.0,25,0.20561766624450684,False,Oklahoma,Texas Tech,48.0,16.0,3,0,10,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,43.0,57,1.122469186782837,False,Oklahoma,Texas Tech,41.0,13.0,3,5,30,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,68.0,32,-1.7565456628799438,False,Oklahoma,Texas Tech,41.0,13.0,3,7,0,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,68.0,32,-0.8623075485229492,False,Oklahoma,Texas Tech,41.0,13.0,3,7,8,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,75.0,25,0.38341569900512695,False,Oklahoma,Texas Tech,41.0,13.0,3,7,20,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Interception Return,,,58.0,38,1.296731948852539,False,Oklahoma,Texas Tech,41.0,10.0,3,10,56,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,69.0,31,0.38315439224243164,False,Oklahoma,Texas Tech,41.0,10.0,3,11,23,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,82.0,18,1.1732916831970215,False,Oklahoma,Texas Tech,41.0,10.0,3,11,48,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Passing Touchdown,,,65.0,35,2.946761131286621,True,Oklahoma,Texas Tech,41.0,13.0,3,14,13,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,16.0,84,2.4608891010284424,False,Oklahoma,Texas Tech,31.0,10.0,2,0,3,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,38.0,62,-0.4617598056793213,False,Oklahoma,Texas Tech,31.0,10.0,2,0,27,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,58.0,42,1.09788179397583,False,Oklahoma,Texas Tech,31.0,10.0,2,0,41,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Passing Touchdown,,,14.0,86,2.596548557281494,True,Oklahoma,Texas Tech,31.0,10.0,2,2,9,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,18.0,82,-0.1536426544189453,False,Oklahoma,Texas Tech,24.0,10.0,2,2,35,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,41.0,59,3.681572914123535,False,Oklahoma,Texas Tech,24.0,10.0,2,3,16,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Sack,,,47.0,53,-0.8954697251319885,False,Oklahoma,Texas Tech,24.0,10.0,2,4,12,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,34.0,68,1.0343111753463745,False,Oklahoma,Texas Tech,24.0,10.0,2,4,45,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,40.0,60,0.022487640380859375,False,Oklahoma,Texas Tech,24.0,10.0,2,5,25,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,65.0,35,-0.6606539487838745,False,Oklahoma,Texas Tech,24.0,10.0,2,6,6,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Passing Touchdown,,,71.0,29,4.275043964385986,True,Oklahoma,Texas Tech,24.0,7.0,2,11,23,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Incompletion,,,17.0,83,-1.5204155445098877,False,Oklahoma,Texas Tech,14.0,0.0,1,0,53,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,45.0,55,0.8158740997314453,False,Oklahoma,Texas Tech,14.0,0.0,1,2,19,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,20.0,80,1.9380884170532227,False,Oklahoma,Texas Tech,7.0,0.0,1,5,35,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,89.0,11,5.886805534362793,False,Oklahoma,Texas Tech,7.0,0.0,1,6,43,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,89.0,11,1.5841957330703735,False,Oklahoma,Texas Tech,7.0,0.0,1,8,59,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112117.0,Pass Reception,,,58.0,42,2.7564592361450195,False,Oklahoma,Texas Tech,0.0,0.0,1,13,5,5,Texas Tech,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Passing Touchdown,,,27.0,27,2.480243682861328,True,Texas,Oklahoma,27.0,17.0,4,11,56,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,75.0,75,1.4702515602111816,False,Texas,Oklahoma,20.0,17.0,4,14,40,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,39.0,39,-0.5301132202148438,False,Texas,Oklahoma,20.0,10.0,3,1,30,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,50.0,50,0.9722373485565186,False,Texas,Oklahoma,20.0,10.0,3,1,40,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,50.0,50,-1.0226280689239502,False,Texas,Oklahoma,20.0,10.0,3,2,18,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,17.0,17,-1.2863409519195557,False,Texas,Oklahoma,17.0,10.0,3,4,50,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,17.0,17,-0.7688155174255371,False,Texas,Oklahoma,17.0,10.0,3,4,56,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,31.0,31,0.512786865234375,False,Texas,Oklahoma,17.0,10.0,3,5,53,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,38.0,38,0.408449649810791,False,Texas,Oklahoma,17.0,10.0,3,6,25,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Passing Touchdown,,,51.0,51,4.164743423461914,True,Texas,Oklahoma,17.0,10.0,3,7,45,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,75.0,66,0.6629109382629395,False,Texas,Oklahoma,10.0,10.0,3,8,41,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,62.0,62,-1.4249004125595093,False,Texas,Oklahoma,10.0,3.0,3,11,41,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,62.0,62,-0.9867047071456909,False,Texas,Oklahoma,10.0,3.0,3,11,45,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,4.0,4,-1.0009536743164062,False,Texas,Oklahoma,7.0,0.0,2,2,10,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,53.0,53,1.610334038734436,False,Texas,Oklahoma,7.0,0.0,2,3,29,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,55.0,55,-1.4959962368011475,False,Texas,Oklahoma,7.0,0.0,2,6,3,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Interception Return,,,11.0,11,-3.741244316101074,False,Texas,Oklahoma,7.0,0.0,2,10,52,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,11.0,11,-0.7784733772277832,False,Texas,Oklahoma,7.0,0.0,2,11,8,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,39.0,39,1.1627020835876465,False,Texas,Oklahoma,7.0,0.0,2,12,13,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,78.0,78,-0.8884010314941406,False,Texas,Oklahoma,7.0,0.0,1,0,40,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,40.0,40,0.12429475784301758,False,Texas,Oklahoma,7.0,0.0,1,6,49,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,39.0,39,-0.9491462707519531,False,Texas,Oklahoma,7.0,0.0,1,7,19,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,56.0,56,0.8948104381561279,False,Texas,Oklahoma,7.0,0.0,1,7,41,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Passing Touchdown,,,1.0,1,1.7306666374206543,True,Texas,Oklahoma,7.0,0.0,1,9,54,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,9.0,9,0.9646182060241699,False,Texas,Oklahoma,0.0,0.0,1,10,10,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Incompletion,,,10.0,10,-0.595308780670166,False,Texas,Oklahoma,0.0,0.0,1,11,4,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112118.0,Pass Reception,,,27.0,27,1.3965632915496826,False,Texas,Oklahoma,0.0,0.0,1,11,25,7,Texas,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,69.0,31,1.7167613506317139,False,Oklahoma,West Virginia,52.0,14.0,4,1,3,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Incompletion,,,67.0,33,-0.4681464433670044,False,Oklahoma,West Virginia,52.0,14.0,4,5,12,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,77.0,23,0.08266353607177734,False,Oklahoma,West Virginia,52.0,14.0,4,6,18,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Incompletion,,,89.0,11,-0.438271164894104,False,Oklahoma,West Virginia,52.0,14.0,4,10,23,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,39.0,61,2.012707233428955,False,Oklahoma,West Virginia,49.0,14.0,3,1,0,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,61.0,39,0.42691946029663086,False,Oklahoma,West Virginia,49.0,14.0,3,3,20,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Passing Touchdown,,,46.0,54,2.198329448699951,True,Oklahoma,West Virginia,42.0,14.0,3,9,1,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,52.0,48,1.0981316566467285,False,Oklahoma,West Virginia,28.0,14.0,3,13,25,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,63.0,37,0.484450101852417,False,Oklahoma,West Virginia,28.0,14.0,3,13,49,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Incompletion,,,88.0,12,-1.2727408409118652,False,Oklahoma,West Virginia,28.0,7.0,2,3,35,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,27.0,73,1.4393138885498047,False,Oklahoma,West Virginia,21.0,7.0,2,7,11,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,57.0,43,1.6832852363586426,False,Oklahoma,West Virginia,21.0,7.0,2,7,41,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,34.0,66,0.6688714027404785,False,Oklahoma,West Virginia,14.0,7.0,2,10,50,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,48.0,76,-0.6688714027404785,False,Oklahoma,West Virginia,14.0,7.0,2,11,0,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,75.0,25,0.8487644195556641,False,Oklahoma,West Virginia,14.0,7.0,2,11,45,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Passing Touchdown,,,6.0,94,0.9810504913330078,True,Oklahoma,West Virginia,14.0,0.0,1,2,5,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,15.0,85,0.6249189376831055,False,Oklahoma,West Virginia,7.0,0.0,1,2,30,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,74.0,26,1.5260088443756104,False,Oklahoma,West Virginia,7.0,0.0,1,3,35,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Passing Touchdown,,,20.0,80,2.4764208793640137,True,Oklahoma,West Virginia,7.0,0.0,1,4,32,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,56.0,44,1.994402527809143,False,Oklahoma,West Virginia,0.0,0.0,1,6,45,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Pass Reception,,,59.0,41,0.3133819103240967,False,Oklahoma,West Virginia,0.0,0.0,1,7,30,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112119.0,Sack,,,77.0,23,-1.685765266418457,False,Oklahoma,West Virginia,0.0,0.0,1,10,30,8,West Virginia,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,75.0,25,1.3252507448196411,False,Oklahoma,TCU,28.0,24.0,4,11,58,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Interception Return Touchdown,,,7.0,93,-11.281598091125488,True,Oklahoma,TCU,28.0,24.0,4,12,43,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,12.0,88,-0.5376572608947754,False,Oklahoma,TCU,28.0,17.0,4,13,48,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,65.0,35,2.212340831756592,False,Oklahoma,TCU,28.0,17.0,3,1,45,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Sack,,,42.0,58,-3.030717372894287,False,Oklahoma,TCU,21.0,10.0,3,12,21,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,42.0,58,-2.0214967727661133,False,Oklahoma,TCU,21.0,10.0,3,12,26,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,60.0,40,2.1025846004486084,False,Oklahoma,TCU,21.0,10.0,3,13,49,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,60.0,40,-0.9175028800964355,False,Oklahoma,TCU,21.0,10.0,3,14,13,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,61.0,39,0.6007355451583862,False,Oklahoma,TCU,21.0,10.0,2,1,28,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,69.0,31,-1.3149206638336182,False,Oklahoma,TCU,21.0,0.0,2,10,13,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,69.0,31,-0.7892148494720459,False,Oklahoma,TCU,21.0,0.0,2,10,21,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Passing Touchdown,,,5.0,95,1.1792025566101074,True,Oklahoma,TCU,21.0,0.0,2,12,56,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,11.0,89,0.6734867095947266,False,Oklahoma,TCU,14.0,0.0,2,13,25,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,51.0,85,-0.03235149383544922,False,Oklahoma,TCU,14.0,0.0,1,0,50,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,77.0,23,1.0955874919891357,False,Oklahoma,TCU,14.0,0.0,1,1,48,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Passing Touchdown,,,20.0,80,1.9214186668395996,True,Oklahoma,TCU,14.0,0.0,1,4,35,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,54.0,46,0.12181448936462402,False,Oklahoma,TCU,7.0,0.0,1,6,19,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,38.0,62,-1.019663691520691,False,Oklahoma,TCU,0.0,0.0,1,11,57,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Incompletion,,,38.0,62,-0.6455559730529785,False,Oklahoma,TCU,0.0,0.0,1,12,3,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112120.0,Pass Reception,,,45.0,55,1.4745721817016602,False,Oklahoma,TCU,0.0,0.0,1,12,45,13,TCU,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,42.0,42,-0.32999467849731445,False,Oklahoma State,Oklahoma,34.0,16.0,4,8,20,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Passing Touchdown,,,3.0,3,1.1555161476135254,True,Oklahoma State,Oklahoma,34.0,16.0,4,10,21,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,42.0,42,1.692322015762329,False,Oklahoma State,Oklahoma,27.0,16.0,4,13,19,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,45.0,45,-0.1851954460144043,False,Oklahoma State,Oklahoma,27.0,16.0,4,13,53,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,31.0,31,0.6240339279174805,False,Oklahoma State,Oklahoma,20.0,16.0,3,5,59,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,61.0,61,1.8637638092041016,False,Oklahoma State,Oklahoma,20.0,16.0,3,6,19,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Sack,,,81.0,81,-1.0756580829620361,False,Oklahoma State,Oklahoma,20.0,13.0,3,12,34,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Incompletion,,,77.0,77,-0.5815380811691284,False,Oklahoma State,Oklahoma,20.0,13.0,3,13,48,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,10.0,10,-1.4701685905456543,False,Oklahoma State,Oklahoma,17.0,10.0,2,5,44,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,12.0,12,-0.45999860763549805,False,Oklahoma State,Oklahoma,17.0,10.0,2,6,23,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,55.0,55,1.0915436744689941,False,Oklahoma State,Oklahoma,17.0,10.0,2,7,52,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,64.0,64,0.7284517288208008,False,Oklahoma State,Oklahoma,17.0,10.0,2,8,29,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Passing Touchdown,,,4.0,4,1.3379907608032227,True,Oklahoma State,Oklahoma,17.0,7.0,2,14,54,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,35.0,35,1.8690423965454102,False,Oklahoma State,Oklahoma,10.0,7.0,1,0,35,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Incompletion,,,25.0,25,-1.4230732917785645,False,Oklahoma State,Oklahoma,7.0,7.0,1,3,4,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Sack,,,29.0,29,-1.3097479343414307,False,Oklahoma State,Oklahoma,7.0,7.0,1,4,13,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,76.0,76,3.731714963912964,False,Oklahoma State,Oklahoma,7.0,7.0,1,7,57,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Sack,,,74.0,74,-1.6360589265823364,False,Oklahoma State,Oklahoma,7.0,7.0,1,8,40,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Incompletion,,,74.0,74,-0.8875253200531006,False,Oklahoma State,Oklahoma,7.0,7.0,1,8,50,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401112121.0,Pass Reception,,,69.0,69,1.2789390087127686,False,Oklahoma State,Oklahoma,0.0,0.0,1,14,21,14,Oklahoma State,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,25.0,77,0.7507408857345581,False,Oklahoma,Baylor,23.0,23.0,5,0,0,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Incompletion,,,47.0,53,-1.2379143238067627,False,Oklahoma,Baylor,23.0,23.0,4,1,14,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,85.0,15,2.04775333404541,False,Oklahoma,Baylor,23.0,23.0,4,3,2,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,61.0,39,1.261468768119812,False,Oklahoma,Baylor,23.0,20.0,4,8,2,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Incompletion,,,7.0,93,-1.2473740577697754,False,Oklahoma,Baylor,20.0,13.0,4,10,35,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,24.0,76,2.345369815826416,False,Oklahoma,Baylor,20.0,13.0,4,12,34,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,46.0,54,2.2316746711730957,False,Oklahoma,Baylor,20.0,13.0,4,14,27,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Passing Touchdown,,,18.0,82,3.0009021759033203,True,Oklahoma,Baylor,20.0,13.0,3,3,9,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,66.0,34,1.8934730291366577,False,Oklahoma,Baylor,13.0,13.0,3,5,31,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,72.0,28,0.5644848942756653,False,Oklahoma,Baylor,13.0,13.0,3,6,15,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,40.0,60,1.718658447265625,False,Oklahoma,Baylor,10.0,13.0,3,11,40,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,46.0,54,-0.2269725799560547,False,Oklahoma,Baylor,10.0,13.0,3,12,39,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,65.0,35,1.6322933435440063,False,Oklahoma,Baylor,10.0,13.0,3,13,0,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Incompletion,,,86.0,14,-0.5323309898376465,False,Oklahoma,Baylor,10.0,10.0,2,1,29,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Sack,,,79.0,21,-1.996107816696167,False,Oklahoma,Baylor,10.0,10.0,2,2,13,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Interception Return,,,88.0,12,-4.341001510620117,False,Oklahoma,Baylor,10.0,3.0,2,3,58,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Incompletion,,,61.0,39,-1.3396515846252441,False,Oklahoma,Baylor,10.0,3.0,2,6,17,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,71.0,29,0.36501479148864746,False,Oklahoma,Baylor,10.0,3.0,2,8,17,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Fumble Recovery (Opponent),,,60.0,40,-6.580408573150635,False,Oklahoma,Baylor,10.0,0.0,2,11,45,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Incompletion,,,71.0,29,-0.6769548654556274,False,Oklahoma,Baylor,10.0,0.0,2,12,20,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,82.0,18,1.5710968971252441,False,Oklahoma,Baylor,10.0,0.0,1,2,46,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,84.0,16,-0.5242477655410767,False,Oklahoma,Baylor,10.0,0.0,1,3,13,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Sack,,,19.0,81,-1.8984355926513672,False,Oklahoma,Baylor,7.0,0.0,1,5,30,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Incompletion,,,19.0,81,-0.803123950958252,False,Oklahoma,Baylor,7.0,0.0,1,5,38,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,45.0,55,1.296043872833252,False,Oklahoma,Baylor,7.0,0.0,1,6,50,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,78.0,22,4.610959053039551,False,Oklahoma,Baylor,0.0,0.0,1,10,37,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401132974.0,Pass Reception,,,70.0,30,-0.5993551015853882,False,Oklahoma,Baylor,0.0,0.0,1,13,42,15,Baylor,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,69.0,69,-2.3929805755615234,False,LSU,Oklahoma,28.0,63.0,4,2,10,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,69.0,69,-0.7729287147521973,False,LSU,Oklahoma,28.0,63.0,4,2,14,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,85.0,85,0.08228224515914917,False,LSU,Oklahoma,28.0,63.0,4,3,45,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,20.0,20,4.519728660583496,False,LSU,Oklahoma,21.0,56.0,4,10,1,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,27.0,27,-0.5199575424194336,False,LSU,Oklahoma,21.0,56.0,4,11,15,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,39.0,39,0.9230728149414062,False,LSU,Oklahoma,21.0,56.0,4,12,15,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,50.0,50,1.3847564458847046,False,LSU,Oklahoma,21.0,56.0,4,13,15,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,71.0,71,1.4659401178359985,False,LSU,Oklahoma,21.0,56.0,4,14,0,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,12.0,12,-1.2766590118408203,False,LSU,Oklahoma,14.0,56.0,3,4,45,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,13.0,13,-0.5576801300048828,False,LSU,Oklahoma,14.0,56.0,3,6,0,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,19.0,19,1.2593638896942139,False,LSU,Oklahoma,14.0,56.0,3,6,25,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,26.0,26,1.7364439964294434,False,LSU,Oklahoma,14.0,56.0,3,7,15,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,38.0,38,1.7194538116455078,False,LSU,Oklahoma,14.0,56.0,3,8,0,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,72.0,72,3.8844685554504395,False,LSU,Oklahoma,14.0,56.0,3,9,15,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,85.0,85,-0.14686739444732666,False,LSU,Oklahoma,14.0,42.0,2,3,25,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,85.0,85,-0.6217482686042786,False,LSU,Oklahoma,14.0,42.0,2,3,44,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,75.0,75,-0.3721359074115753,False,LSU,Oklahoma,14.0,42.0,2,4,13,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,23.0,23,1.0822525024414062,False,LSU,Oklahoma,7.0,35.0,2,6,35,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,78.0,49,-0.7336406707763672,False,LSU,Oklahoma,7.0,35.0,2,7,45,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Sack,,,72.0,72,-1.0302501916885376,False,LSU,Oklahoma,7.0,35.0,2,8,35,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Interception Return,,,75.0,75,4.289057731628418,False,LSU,Oklahoma,7.0,28.0,2,12,3,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,75.0,75,-0.5894210338592529,False,LSU,Oklahoma,7.0,21.0,1,1,12,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,62.0,62,-1.475892186164856,False,LSU,Oklahoma,7.0,14.0,1,3,58,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,62.0,62,-0.8236070871353149,False,LSU,Oklahoma,7.0,14.0,1,4,5,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,62.0,62,-0.6045050024986267,False,LSU,Oklahoma,7.0,14.0,1,4,11,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,54.0,54,4.528741836547852,False,LSU,Oklahoma,0.0,7.0,1,7,55,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Reception,,,57.0,57,-0.3326214551925659,False,LSU,Oklahoma,0.0,7.0,1,8,20,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,76.0,76,-0.9379427433013916,False,LSU,Oklahoma,0.0,7.0,1,11,17,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Pass Incompletion,,,76.0,76,-1.0560860633850098,False,LSU,Oklahoma,0.0,7.0,1,11,23,1,LSU,2019,Oklahoma,Jalen Hurts,2020
+401135278.0,Sack,,,75.0,75,-1.396051049232483,False,LSU,Oklahoma,0.0,0.0,1,14,55,1,LSU,2019,Oklahoma,Jalen Hurts,2020

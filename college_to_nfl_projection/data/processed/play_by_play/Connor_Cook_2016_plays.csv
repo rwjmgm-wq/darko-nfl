@@ -1,0 +1,400 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400763470101886901,Pass Incompletion,1,15,61,61,-0.8538879778900696,False,Western Michigan,Michigan State,0,0,1,11,30,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101878901,Pass Incompletion,2,9,75,75,-0.3864776799238472,False,Western Michigan,Michigan State,0,0,1,12,10,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101879401,Pass Reception,3,9,75,75,2.7243939556784147,False,Western Michigan,Michigan State,0,0,1,12,5,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101889901,Pass Incompletion,3,10,56,56,-0.5203815921674826,False,Western Michigan,Michigan State,0,0,1,11,0,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101939401,Pass Reception,2,11,35,35,-0.9312778632790233,False,Western Michigan,Michigan State,7,7,1,6,5,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101946901,Pass Reception,3,11,35,35,2.1409200499870003,False,Western Michigan,Michigan State,7,7,1,5,30,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101926901,Pass Reception,2,8,43,43,0.528621378215453,False,Western Michigan,Michigan State,7,7,1,7,30,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101986901,Pass Incompletion,2,5,9,9,-0.348137992491187,False,Western Michigan,Michigan State,13,7,1,1,30,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101987501,Passing Touchdown,3,5,9,9,2.821877920191861,True,Western Michigan,Michigan State,20,7,1,1,24,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101969402,Pass Incompletion,1,10,73,73,-0.766047035673644,False,Western Michigan,Michigan State,13,7,1,3,5,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470101978401,Pass Reception,3,7,70,70,4.321099341815199,False,Western Michigan,Michigan State,13,7,1,2,15,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102914901,Pass Incompletion,2,8,22,22,-0.501678537573664,False,Western Michigan,Michigan State,20,7,2,8,50,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102916901,Pass Reception,3,8,22,22,1.098207658951468,False,Western Michigan,Michigan State,20,7,2,8,30,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102896202,Pass Reception,1,10,80,80,2.109444558288738,False,Western Michigan,Michigan State,20,7,2,10,37,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102897901,Pass Reception,1,10,55,55,1.087564093379024,False,Western Michigan,Michigan State,20,7,2,10,20,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102986401,Pass Incompletion,1,10,65,65,-1.0146424556055624,False,Western Michigan,Michigan State,27,10,2,1,35,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102987401,Pass Incompletion,2,10,65,65,-0.6004605992346148,False,Western Michigan,Michigan State,27,10,2,1,25,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470102987901,Pass Incompletion,3,10,65,65,-0.30241592870214795,False,Western Michigan,Michigan State,27,10,2,1,20,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103869901,Pass Incompletion,2,5,59,59,-1.0900678040224117,False,Western Michigan,Michigan State,27,10,3,13,0,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103898901,Pass Reception,3,2,28,28,0.5290222708720144,False,Western Michigan,Michigan State,27,10,3,10,10,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103905901,Pass Incompletion,1,10,21,21,-0.3882383440694163,False,Western Michigan,Michigan State,27,10,3,9,40,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103874401,Pass Reception,3,5,59,59,2.03242348023159,False,Western Michigan,Michigan State,27,10,3,12,55,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103886401,Pass Incompletion,2,8,51,51,-1.081379933704847,False,Western Michigan,Michigan State,27,10,3,11,35,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103886901,Pass Reception,3,8,51,51,2.831219693972809,False,Western Michigan,Michigan State,27,10,3,11,30,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470104849901,Pass Incompletion,2,6,54,54,-1.1287444411219418,False,Western Michigan,Michigan State,34,17,4,15,0,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470104854901,Pass Incompletion,3,6,54,54,-0.767058733604892,False,Western Michigan,Michigan State,34,17,4,14,50,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470103988401,Pass Reception,2,7,72,72,1.8118193216260217,False,Western Michigan,Michigan State,34,17,3,1,15,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470104894901,Pass Reception,1,10,58,58,1.7474600791165444,False,Western Michigan,Michigan State,34,24,4,10,50,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470104924401,Pass Incompletion,3,4,4,4,-0.2868087912016805,False,Western Michigan,Michigan State,34,24,4,7,55,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400763470104948401,Pass Incompletion,3,10,48,48,-0.7682826649286678,False,Western Michigan,Michigan State,37,24,4,5,15,1,Western Michigan,2015,Michigan State,Connor Cook,2016
+400757018101899701,Passing Touchdown,2,9,12,88,2.778814415165574,True,Michigan State,Oregon,7,7,1,10,2,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101925401,Pass Reception,1,10,75,25,-0.7029700220436519,False,Michigan State,Oregon,7,7,1,7,45,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101926401,Pass Reception,2,10,75,25,0.3138158809285007,False,Michigan State,Oregon,7,7,1,7,35,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101934401,Pass Incompletion,3,3,68,32,-0.5139435334013278,False,Michigan State,Oregon,7,7,1,6,55,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101955401,Pass Reception,2,12,37,63,1.342723506632405,False,Michigan State,Oregon,7,7,1,4,45,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101994301,Pass Incompletion,1,10,30,70,-0.557844891990525,False,Michigan State,Oregon,7,7,1,0,56,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101995301,Pass Reception,2,10,30,70,-0.9586333332686792,False,Michigan State,Oregon,7,7,1,0,46,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018101999401,Pass Reception,3,11,31,69,0.9224001618714937,False,Michigan State,Oregon,7,7,1,0,5,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102865401,Passing Touchdown,2,8,17,83,2.803697569467232,True,Michigan State,Oregon,14,7,2,13,45,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102917201,Pass Reception,3,9,98,2,0.6220925315101011,False,Michigan State,Oregon,14,7,2,8,27,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102938001,Pass Reception,3,5,82,18,-0.08302390585574404,False,Michigan State,Oregon,14,7,2,6,19,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102959801,Pass Reception,1,10,63,37,1.3755540761931897,False,Michigan State,Oregon,14,7,2,4,1,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102958201,Pass Reception,1,10,73,27,0.8822046406441864,False,Michigan State,Oregon,14,7,2,4,17,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102984101,Pass Incompletion,1,10,40,60,-0.8457687366186873,False,Michigan State,Oregon,14,7,2,1,58,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018102985101,Pass Interception Return,2,10,40,60,-2.9651821194439716,False,Michigan State,Oregon,14,7,2,1,48,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103859701,Pass Reception,3,10,75,25,0.3263945810520408,False,Michigan State,Oregon,14,7,3,14,2,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103858301,Pass Incompletion,2,10,75,25,-0.34710487712173865,False,Michigan State,Oregon,14,7,3,14,16,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103877201,Pass Reception,2,8,73,27,-0.2065836762103883,False,Michigan State,Oregon,14,14,3,12,27,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103895101,Pass Reception,2,6,60,40,1.3014092234882038,False,Michigan State,Oregon,14,14,3,10,48,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103879501,Pass Reception,3,5,70,30,1.5897498674784165,False,Michigan State,Oregon,14,14,3,12,4,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103918001,Pass Reception,4,6,34,66,2.979334996290371,False,Michigan State,Oregon,14,14,3,8,19,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103896401,Pass Reception,1,10,52,48,0.913461640125243,False,Michigan State,Oregon,14,14,3,10,35,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103909601,Pass Reception,2,9,37,63,-0.3192628664887742,False,Michigan State,Oregon,14,14,3,9,3,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103917401,Pass Incompletion,3,6,34,66,-1.0211448619280805,False,Michigan State,Oregon,14,14,3,8,25,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103949201,Pass Incompletion,2,10,67,33,-0.5416125590698764,False,Michigan State,Oregon,21,14,3,5,7,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103988501,Pass Incompletion,3,10,19,81,-0.6996990523859897,False,Michigan State,Oregon,21,14,3,1,14,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103948701,Pass Incompletion,1,10,67,33,-0.956890163923906,False,Michigan State,Oregon,21,14,3,5,12,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103949901,Pass Reception,3,10,67,33,2.650946154818566,False,Michigan State,Oregon,21,14,3,5,0,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018103967801,Pass Reception,1,10,37,63,0.4469610028392202,False,Michigan State,Oregon,21,14,3,3,21,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018104937801,Pass Incompletion,3,4,52,48,-0.9369396927154333,False,Michigan State,Oregon,31,21,4,6,21,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018104976701,Pass Incompletion,2,15,83,17,-0.12256126593852379,False,Michigan State,Oregon,31,28,4,2,32,2,Oregon,2015,Michigan State,Connor Cook,2016
+400757018104977201,Pass Incompletion,3,15,83,17,-0.05363851414369235,False,Michigan State,Oregon,31,28,4,2,27,2,Oregon,2015,Michigan State,Connor Cook,2016
+400763512101909901,Pass Incompletion,2,9,15,85,-0.357795042815253,False,Michigan State,Air Force,0,0,1,9,0,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512101878901,Pass Reception,2,9,58,42,2.226606053607375,False,Michigan State,Air Force,0,0,1,12,10,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512101886901,Pass Reception,1,10,43,57,0.5104239178579062,False,Michigan State,Air Force,0,0,1,11,30,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512101915101,Passing Touchdown,3,9,15,85,3.184355642827761,True,Michigan State,Air Force,7,0,1,8,48,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102895901,Passing Touchdown,1,10,28,72,2.764014474138431,True,Michigan State,Air Force,21,7,2,10,40,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512101994801,Pass Reception,2,9,86,14,0.9561446729656886,False,Michigan State,Air Force,14,7,1,0,51,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102925901,Pass Incompletion,2,11,46,54,-1.0445121505311779,False,Michigan State,Air Force,21,7,2,7,40,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102927901,Pass Incompletion,1,10,20,80,-0.374805786232315,False,Michigan State,Air Force,21,7,2,7,20,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102936401,Pass Incompletion,3,8,18,82,-0.613121328858574,False,Michigan State,Air Force,21,7,2,6,35,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102926401,Pass Reception,3,11,46,54,3.1301082106266236,False,Michigan State,Air Force,21,7,2,7,35,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102994401,Pass Reception,3,3,43,57,1.2899442410793556,False,Michigan State,Air Force,21,7,2,0,55,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102969901,Pass Reception,3,10,64,36,2.9779738298240144,False,Michigan State,Air Force,21,7,2,3,0,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512102997101,Passing Touchdown,1,10,32,68,2.8715194255889624,True,Michigan State,Air Force,28,7,2,0,28,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103857901,Pass Reception,2,11,76,24,2.0242284340721657,False,Michigan State,Air Force,28,7,3,14,20,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103889201,Passing Touchdown,1,10,21,79,2.632296813795493,True,Michigan State,Air Force,35,7,3,11,7,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103865901,Pass Reception,2,10,61,39,2.667848300939628,False,Michigan State,Air Force,28,7,3,13,40,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103877403,Pass Reception,2,8,40,60,0.9156284823493622,False,Michigan State,Air Force,28,7,3,12,25,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103865401,Pass Incompletion,1,10,61,39,-1.1077677360468863,False,Michigan State,Air Force,28,7,3,13,45,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103924401,Pass Incompletion,3,5,70,30,-0.3716239049161505,False,Michigan State,Air Force,35,14,3,7,55,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512103916104,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Michigan State,Air Force,35,14,3,8,38,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512104865202,Pass Reception,1,10,92,8,0.5501349137553087,False,Michigan State,Air Force,35,14,4,13,47,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512104889901,Pass Reception,2,5,77,23,1.7472707506933176,False,Michigan State,Air Force,35,14,4,11,0,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763512104915401,Pass Incompletion,1,10,49,51,-1.0955888671820908,False,Michigan State,Air Force,35,14,4,8,45,3,Air Force,2015,Michigan State,Connor Cook,2016
+400763520101886901,Pass Reception,1,10,72,28,3.0413895793432815,False,Michigan State,Central Michigan,0,0,1,11,30,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520101997601,Pass Incompletion,1,10,74,26,-0.7342478781140684,False,Michigan State,Central Michigan,7,0,1,0,23,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520102878301,Pass Incompletion,1,10,37,63,-0.7519361608312708,False,Michigan State,Central Michigan,7,0,2,12,16,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520102948601,Passing Touchdown,2,5,5,95,2.43857769152992,True,Michigan State,Central Michigan,17,0,2,5,13,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520102936801,Pass Reception,2,7,13,87,0.986131204224705,False,Michigan State,Central Michigan,10,0,2,6,31,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103854401,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Michigan State,Central Michigan,17,7,3,14,55,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103866901,Pass Reception,2,7,61,39,0.3593674708208941,False,Michigan State,Central Michigan,17,7,3,13,30,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103878901,Pass Incompletion,1,15,59,41,-0.9106990967910865,False,Michigan State,Central Michigan,17,7,3,12,10,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103888001,Pass Incompletion,3,14,58,42,-0.3341759954741832,False,Michigan State,Central Michigan,17,7,3,11,19,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103954101,Pass Incompletion,2,26,91,9,-0.02137457617395456,False,Michigan State,Central Michigan,17,10,3,4,58,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103939901,Pass Reception,1,20,85,15,-0.02762880726407779,False,Michigan State,Central Michigan,17,10,3,6,0,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103954701,Pass Incompletion,3,26,91,9,-0.00923068677497873,False,Michigan State,Central Michigan,17,10,3,4,52,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103998901,Pass Incompletion,3,6,38,62,-1.0644500925221916,False,Michigan State,Central Michigan,17,10,3,0,10,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520103977701,Pass Reception,1,10,63,37,1.3755540761931897,False,Michigan State,Central Michigan,17,10,3,2,22,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520104905601,Pass Reception,2,7,30,70,0.4827314774907395,False,Michigan State,Central Michigan,17,10,4,9,43,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520104894001,Pass Reception,2,8,59,41,2.625723444178675,False,Michigan State,Central Michigan,17,10,4,10,59,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520104909501,Pass Reception,1,10,20,80,1.153475996300362,False,Michigan State,Central Michigan,17,10,4,9,4,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763520104936901,Pass Reception,3,2,38,62,1.0068930437076253,False,Michigan State,Central Michigan,24,10,4,6,30,4,Central Michigan,2015,Michigan State,Connor Cook,2016
+400763531101877401,Pass Reception,2,10,68,32,-0.094545922939206,False,Michigan State,Purdue,0,0,1,12,25,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531101899201,Pass Incompletion,3,4,49,51,-1.0144959835453093,False,Michigan State,Purdue,0,0,1,10,7,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531101885501,Pass Reception,3,6,64,36,2.263481188362082,False,Michigan State,Purdue,0,0,1,11,44,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531101924702,Pass Incompletion,1,10,27,73,-0.490975886965904,False,Michigan State,Purdue,0,0,1,7,52,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531101968401,Pass Reception,2,8,75,25,3.3850600174695877,False,Michigan State,Purdue,7,0,1,3,15,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531101965401,Pass Reception,1,10,77,23,-0.41522254917671025,False,Michigan State,Purdue,7,0,1,3,45,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531102886001,Passing Touchdown,1,10,23,77,2.6639776780712285,True,Michigan State,Purdue,21,0,2,11,39,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531102876501,Pass Reception,2,7,36,64,0.7350172161201681,False,Michigan State,Purdue,14,0,2,12,34,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531102865901,Pass Reception,1,10,53,47,0.9548608786417567,False,Michigan State,Purdue,14,0,2,13,40,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531102858901,Pass Reception,2,11,65,35,2.260735244665737,False,Michigan State,Purdue,14,0,2,14,10,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531102917401,Pass Reception,2,18,94,6,-0.0074966325993824,False,Michigan State,Purdue,21,0,2,8,25,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531102924401,Pass Reception,3,14,90,10,0.2637870287984825,False,Michigan State,Purdue,21,0,2,7,55,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531103859001,Pass Incompletion,2,8,85,15,-0.2568864200753067,False,Michigan State,Purdue,21,0,3,14,9,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531103859501,Pass Incompletion,3,8,85,15,-0.1119173879838824,False,Michigan State,Purdue,21,0,3,14,4,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531103968001,Pass Incompletion,1,10,46,54,-1.0250974847844603,False,Michigan State,Purdue,21,7,3,3,19,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531104904001,Pass Incompletion,3,4,13,87,-0.427305807832212,False,Michigan State,Purdue,21,14,4,9,59,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531104954001,Pass Reception,3,3,64,36,1.8644064821019013,False,Michigan State,Purdue,24,21,4,4,59,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531104969301,Pass Reception,3,5,51,49,-1.0550704226653833,False,Michigan State,Purdue,24,21,4,3,6,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763531104937001,Pass Reception,1,10,71,29,-0.1350508541150131,False,Michigan State,Purdue,24,21,4,6,29,5,Purdue,2015,Michigan State,Connor Cook,2016
+400763540101877101,Pass Reception,2,6,53,53,1.8162376639291382,False,Rutgers,Michigan State,0,0,1,12,28,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101898501,Pass Incompletion,3,13,18,18,-0.7615169698290687,False,Rutgers,Michigan State,0,0,1,10,14,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101887401,Pass Reception,2,5,25,25,0.178369022178973,False,Rutgers,Michigan State,0,0,1,11,25,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101897801,Pass Incompletion,2,13,18,18,-0.473095219818374,False,Rutgers,Michigan State,0,0,1,10,21,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101939901,Pass Reception,2,10,52,52,0.3216903083971978,False,Rutgers,Michigan State,0,0,1,6,0,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101919701,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,Rutgers,Michigan State,0,0,1,8,2,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101947501,Pass Incompletion,3,4,46,46,-1.071428384521834,False,Rutgers,Michigan State,0,0,1,5,24,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101928601,Pass Reception,3,8,69,69,2.8837830491121066,False,Rutgers,Michigan State,0,0,1,7,13,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101969401,Pass Incompletion,2,10,34,34,-0.8862898506969809,False,Rutgers,Michigan State,0,0,1,3,5,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101964001,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Rutgers,Michigan State,0,0,1,3,59,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101969701,Pass Incompletion,3,10,34,34,-1.0236879046157308,False,Rutgers,Michigan State,0,0,1,3,2,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101974301,Pass Reception,4,10,34,34,3.0854883572581446,False,Rutgers,Michigan State,0,0,1,2,56,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101964901,Pass Reception,2,10,57,57,2.6857380879473265,False,Rutgers,Michigan State,0,0,1,3,50,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540101985301,Passing Touchdown,2,8,8,8,2.676770954733065,True,Rutgers,Michigan State,7,0,1,1,46,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102854701,Pass Incompletion,1,10,65,65,-1.0146424556055624,False,Rutgers,Michigan State,7,7,2,14,52,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102859701,Pass Incompletion,3,16,71,71,-0.11238022209747187,False,Rutgers,Michigan State,7,7,2,14,2,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102876901,Pass Incompletion,1,10,49,49,-1.0955888671820908,False,Rutgers,Michigan State,7,14,2,12,30,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102908301,Pass Incompletion,3,10,13,13,-0.5161718367530703,False,Rutgers,Michigan State,7,14,2,9,16,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102889001,Pass Reception,1,10,32,32,0.3325902105431154,False,Rutgers,Michigan State,7,14,2,11,9,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102957101,Pass Reception,3,5,62,62,2.145274938030185,False,Rutgers,Michigan State,10,14,2,4,28,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102968001,Pass Reception,2,12,56,56,1.547490341916598,False,Rutgers,Michigan State,10,14,2,3,19,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102938001,Pass Reception,3,11,87,87,1.8627166246326716,False,Rutgers,Michigan State,10,14,2,6,19,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102986901,Pass Reception,2,7,36,36,1.0793953254917046,False,Rutgers,Michigan State,10,14,2,1,30,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102937502,Pass Incompletion,2,11,87,87,-0.15597251655940436,False,Rutgers,Michigan State,10,14,2,6,24,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540102989301,Pass Interception Return,1,8,8,8,-4.680400431300308,False,Rutgers,Michigan State,10,14,2,1,6,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103894301,Pass Reception,2,9,31,31,0.7541205371107613,False,Rutgers,Michigan State,10,14,3,10,56,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103859301,Pass Reception,2,10,73,73,3.0125286336156236,False,Rutgers,Michigan State,10,14,3,14,6,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103875201,Pass Reception,2,10,48,48,0.8020593471668745,False,Rutgers,Michigan State,10,14,3,12,47,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103907701,Pass Reception,3,5,12,12,1.941447790238724,False,Rutgers,Michigan State,10,14,3,9,22,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103936901,Pass Reception,1,10,27,27,-0.262946006262057,False,Rutgers,Michigan State,17,14,3,6,30,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103944601,Pass Incompletion,2,8,25,25,-0.579657351242977,False,Rutgers,Michigan State,17,14,3,5,53,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103935001,Pass Reception,2,6,47,47,1.3283558658293746,False,Rutgers,Michigan State,17,14,3,6,49,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103945301,Passing Touchdown,3,8,25,25,3.58388419889652,True,Rutgers,Michigan State,24,14,3,5,46,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540103998901,Pass Reception,2,4,64,64,1.6333982375846627,False,Rutgers,Michigan State,24,21,3,0,10,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540104869501,Pass Reception,3,9,47,47,-0.3484250530496328,False,Rutgers,Michigan State,24,21,4,13,4,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540104858701,Pass Reception,2,10,48,48,0.3165383422092416,False,Rutgers,Michigan State,24,21,4,14,12,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540104966501,Pass Incompletion,2,9,75,75,-0.3864776799238472,False,Rutgers,Michigan State,24,24,4,3,34,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763540104967101,Pass Reception,3,9,75,75,3.5512893289232563,False,Rutgers,Michigan State,24,24,4,3,28,6,Rutgers,2015,Michigan State,Connor Cook,2016
+400763542101859501,Pass Reception,3,12,77,77,3.3705099122688633,False,Michigan,Michigan State,0,0,1,14,4,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101878201,Pass Incompletion,3,13,53,53,-0.49232838022227116,False,Michigan,Michigan State,0,0,1,12,17,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101854501,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Michigan,Michigan State,0,0,1,14,54,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101954501,Pass Reception,2,21,54,54,-0.2158695001751223,False,Michigan,Michigan State,0,0,1,4,54,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101979001,Pass Incompletion,2,8,28,28,-0.6665982481776124,False,Michigan,Michigan State,0,0,1,2,9,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101979501,Pass Incompletion,3,8,28,28,-0.9159036370388092,False,Michigan,Michigan State,0,0,1,2,4,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101904001,Pass Reception,1,10,98,98,0.39581297369705215,False,Michigan,Michigan State,0,0,1,9,59,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101925501,Pass Incompletion,2,10,74,74,-0.3675373383433538,False,Michigan,Michigan State,0,0,1,7,44,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101984001,Pass Incompletion,4,8,28,28,-2.3060570458835628,False,Michigan,Michigan State,0,0,1,1,59,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101925001,Pass Incompletion,1,10,74,74,-0.7342478781140684,False,Michigan,Michigan State,0,0,1,7,49,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101936601,Pass Reception,2,11,62,62,2.7985470159583965,False,Michigan,Michigan State,0,0,1,6,33,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542101926801,Pass Reception,3,10,74,74,2.2535454924535223,False,Michigan,Michigan State,0,0,1,7,31,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542102886901,Pass Reception,3,2,62,62,-1.0944573579962658,False,Michigan,Michigan State,0,7,2,11,30,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542102926601,Pass Reception,1,10,24,24,0.15969853523905,False,Michigan,Michigan State,0,7,2,7,33,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542102966301,Pass Incompletion,2,8,56,56,-0.9833047280384468,False,Michigan,Michigan State,7,10,2,3,36,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542102955401,Pass Reception,2,7,67,67,1.4874354609954015,False,Michigan,Michigan State,7,10,2,4,45,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103878501,Pass Incompletion,2,8,69,69,-0.5871164593471976,False,Michigan,Michigan State,7,10,3,12,14,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103879001,Pass Incompletion,3,8,69,69,-0.2865054811396517,False,Michigan,Michigan State,7,10,3,12,9,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103919601,Pass Reception,1,10,59,59,1.7874929242094648,False,Michigan,Michigan State,7,17,3,8,3,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103929201,Passing Touchdown,2,8,30,30,3.19506705480641,True,Michigan,Michigan State,14,17,3,7,7,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103916701,Pass Reception,2,7,72,72,1.71451018386691,False,Michigan,Michigan State,7,17,3,8,32,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104854401,Pass Incompletion,1,10,32,32,-0.6082596672078662,False,Michigan,Michigan State,14,20,4,14,55,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103988301,Pass Reception,1,10,54,54,0.1068990350586356,False,Michigan,Michigan State,14,20,3,1,16,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104854801,Pass Incompletion,2,10,32,32,-0.8264171095016728,False,Michigan,Michigan State,14,20,4,14,51,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104855201,Pass Incompletion,3,10,32,32,-1.012804565906361,False,Michigan,Michigan State,14,20,4,14,47,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104855701,Pass Incompletion,4,10,32,32,-1.6809992317951377,False,Michigan,Michigan State,14,20,4,14,42,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542103987401,Pass Reception,2,7,72,72,2.1886249959801294,False,Michigan,Michigan State,14,20,3,1,25,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104889801,Pass Incompletion,3,3,89,89,-0.19438917823087465,False,Michigan,Michigan State,14,20,4,11,1,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104887501,Pass Reception,2,10,96,96,0.1360451607269919,False,Michigan,Michigan State,14,20,4,11,24,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104907403,Pass Reception,1,10,75,75,5.139733844600879,False,Michigan,Michigan State,14,23,4,9,25,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104935101,Pass Incompletion,3,10,40,40,-0.9750953121346982,False,Michigan,Michigan State,21,23,4,6,48,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104929001,Pass Reception,1,10,68,68,2.3302615717045185,False,Michigan,Michigan State,21,23,4,7,9,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104934201,Pass Incompletion,1,10,40,40,-0.8457687366186873,False,Michigan,Michigan State,21,23,4,6,57,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104934501,Pass Incompletion,2,10,40,40,-1.0264463089218037,False,Michigan,Michigan State,21,23,4,6,54,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104984501,Pass Incompletion,3,19,45,45,-0.5110919030566272,False,Michigan,Michigan State,21,23,4,1,54,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104985201,Pass Incompletion,4,19,45,45,-0.0695926894854173,False,Michigan,Michigan State,21,23,4,1,47,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104984001,Pass Incompletion,2,19,45,45,-0.8340428369633779,False,Michigan,Michigan State,21,23,4,1,59,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104958901,Pass Reception,2,15,77,77,3.076751370400956,False,Michigan,Michigan State,21,23,4,4,10,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763542104968701,Pass Reception,2,8,50,50,0.6111651039956068,False,Michigan,Michigan State,21,23,4,3,12,7,Michigan,2015,Michigan State,Connor Cook,2016
+400763549101867001,Pass Incompletion,3,19,46,54,-0.48225346262210333,False,Michigan State,Indiana,0,0,1,13,29,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101928801,Pass Incompletion,2,8,49,51,-1.100103954902016,False,Michigan State,Indiana,0,7,1,7,11,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101939701,Pass Incompletion,2,14,22,78,-0.6149523752228044,False,Michigan State,Indiana,0,7,1,6,2,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101944301,Passing Touchdown,3,14,22,78,3.9068581554220554,True,Michigan State,Indiana,7,7,1,5,56,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101929601,Pass Reception,3,8,49,51,3.075309147158451,False,Michigan State,Indiana,0,7,1,7,3,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101924401,Pass Reception,2,11,69,31,2.6624994445986694,False,Michigan State,Indiana,0,7,1,7,55,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101914001,Pass Reception,1,10,78,22,0.7526740866992627,False,Michigan State,Indiana,0,7,1,8,59,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101978601,Pass Reception,1,10,52,48,0.7675346628139116,False,Michigan State,Indiana,7,7,1,2,13,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549101985201,Pass Reception,1,10,41,59,0.7015904108506724,False,Michigan State,Indiana,7,7,1,1,47,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102894901,Pass Incompletion,2,10,41,59,-1.0411051963664768,False,Michigan State,Indiana,14,7,2,10,50,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102895301,Pass Incompletion,3,10,41,59,-0.956206077295109,False,Michigan State,Indiana,14,7,2,10,46,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102885501,Pass Incompletion,2,6,76,24,-0.5148523715626974,False,Michigan State,Indiana,14,7,2,11,44,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102894501,Pass Incompletion,1,10,41,59,-0.8772679222659558,False,Michigan State,Indiana,14,7,2,10,54,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102886001,Pass Reception,3,6,76,24,2.1343262565041563,False,Michigan State,Indiana,14,7,2,11,39,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102934201,Pass Reception,3,2,67,33,1.3443389336674398,False,Michigan State,Indiana,14,13,2,6,57,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102919001,Pass Reception,1,10,75,25,-1.0670735924396633,False,Michigan State,Indiana,14,13,2,8,9,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102978701,Pass Reception,2,10,15,85,-0.0346881689245124,False,Michigan State,Indiana,14,13,2,2,12,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102955101,Pass Reception,2,9,49,51,1.951282444116057,False,Michigan State,Indiana,14,13,2,4,48,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102986201,Passing Touchdown,3,6,11,89,2.9138649179789144,True,Michigan State,Indiana,21,13,2,1,37,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102944301,Pass Reception,3,10,62,38,2.893419337861433,False,Michigan State,Indiana,14,13,2,5,56,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102927301,Pass Reception,2,10,75,25,0.4833825674180429,False,Michigan State,Indiana,14,13,2,7,26,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102966701,Pass Reception,2,8,26,74,0.4794885740253103,False,Michigan State,Indiana,14,13,2,3,32,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102939601,Pass Incompletion,2,10,62,38,-0.6938325521359872,False,Michigan State,Indiana,14,13,2,6,3,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102989901,Pass Reception,1,10,63,37,-1.2402959821642536,False,Michigan State,Indiana,21,20,2,1,0,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102995901,Pass Reception,2,11,64,36,2.604572939462047,False,Michigan State,Indiana,21,20,2,0,40,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102997801,Pass Incompletion,3,10,17,83,-0.6365330976772938,False,Michigan State,Indiana,21,20,2,0,21,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102997401,Pass Incompletion,2,10,17,83,-0.4016550456030307,False,Michigan State,Indiana,21,20,2,0,25,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102989601,Pass Reception,1,10,75,25,1.0272443261435713,False,Michigan State,Indiana,21,20,2,1,3,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102996601,Pass Reception,1,10,48,52,1.106330733495543,False,Michigan State,Indiana,21,20,2,0,33,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549102997101,Pass Incompletion,1,10,17,83,-0.340019558909725,False,Michigan State,Indiana,21,20,2,0,28,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103875001,Pass Incompletion,3,6,27,73,-0.8474255838911784,False,Michigan State,Indiana,21,20,3,12,49,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103888201,Pass Incompletion,1,13,13,87,-0.251639580797439,False,Michigan State,Indiana,21,20,3,11,17,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103875901,Pass Incompletion,1,10,15,85,-0.320977659489319,False,Michigan State,Indiana,21,20,3,12,40,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103874601,Pass Incompletion,2,6,27,73,-0.6262844301156693,False,Michigan State,Indiana,21,20,3,12,53,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103859201,Pass Reception,2,10,42,58,1.361478696770364,False,Michigan State,Indiana,21,20,3,14,7,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103889201,Passing Touchdown,3,13,13,87,3.326388671957332,True,Michigan State,Indiana,28,20,3,11,7,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103888701,Pass Incompletion,2,13,13,87,-0.35399317212498,False,Michigan State,Indiana,21,20,3,11,12,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103909501,Pass Incompletion,2,18,83,17,-0.0882905068208002,False,Michigan State,Indiana,28,26,3,9,4,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103914101,Pass Incompletion,3,18,83,17,-0.03856504486955981,False,Michigan State,Indiana,28,26,3,8,58,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103929901,Pass Reception,2,13,92,8,0.09742439347668078,False,Michigan State,Indiana,28,26,3,7,0,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104869602,Pass Incompletion,2,8,8,92,-0.26931522945819,False,Michigan State,Indiana,28,26,4,13,3,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103988201,Pass Reception,2,6,50,50,1.5284404873273567,False,Michigan State,Indiana,28,26,3,1,17,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104854401,Pass Incompletion,1,10,19,81,-0.362321296557512,False,Michigan State,Indiana,28,26,4,14,55,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549103958901,Pass Reception,1,10,76,24,0.9029013327244559,False,Michigan State,Indiana,28,26,3,4,10,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104855901,Pass Reception,2,10,19,81,0.412055142504236,False,Michigan State,Indiana,28,26,4,14,40,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104874201,Pass Reception,3,8,8,92,0.029739639688873,False,Michigan State,Indiana,28,26,4,12,57,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104919402,Pass Incompletion,1,10,39,61,-0.814236079442537,False,Michigan State,Indiana,31,26,4,8,5,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104954201,Passing Touchdown,3,9,10,90,3.03438204444857,True,Michigan State,Indiana,38,26,4,4,57,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104926701,Pass Reception,1,10,24,76,0.641938297485138,False,Michigan State,Indiana,31,26,4,7,32,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104919802,Pass Incompletion,2,10,39,61,-1.008878077670078,False,Michigan State,Indiana,31,26,4,8,1,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104924601,Pass Reception,3,10,39,61,2.282114763437191,False,Michigan State,Indiana,31,26,4,7,53,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763549104918401,Pass Reception,2,6,67,33,2.7702291719384267,False,Michigan State,Indiana,31,26,4,8,15,8,Indiana,2015,Michigan State,Connor Cook,2016
+400763560101858401,Pass Reception,1,10,32,32,0.2192055064438754,False,Nebraska,Michigan State,0,0,1,14,15,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101874401,Pass Reception,3,2,24,24,-0.5341491640187995,False,Nebraska,Michigan State,0,0,1,12,55,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101849903,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Nebraska,Michigan State,0,0,1,15,0,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101887901,Pass Incompletion,3,10,72,72,-0.19252985967911143,False,Nebraska,Michigan State,0,0,1,11,20,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101887401,Pass Incompletion,2,10,72,72,-0.41175635476850303,False,Nebraska,Michigan State,0,0,1,11,25,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101886502,Pass Incompletion,1,10,72,72,-0.7982008475508557,False,Nebraska,Michigan State,0,0,1,11,34,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101937801,Pass Reception,2,5,62,62,-0.6304703183912608,False,Nebraska,Michigan State,0,3,1,6,21,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101945401,Pass Incompletion,3,3,60,60,-0.7487229668751514,False,Nebraska,Michigan State,0,3,1,5,45,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560101995901,Pass Incompletion,3,8,28,28,-0.9159036370388092,False,Nebraska,Michigan State,0,10,1,0,40,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102858002,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Nebraska,Michigan State,3,10,2,14,19,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102874301,Pass Reception,1,10,40,40,-0.090113775884788,False,Nebraska,Michigan State,3,10,2,12,56,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102886401,Passing Touchdown,3,4,34,34,3.7653429436151598,True,Nebraska,Michigan State,10,10,2,11,35,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102867201,Pass Reception,3,8,55,55,2.970337341323445,False,Nebraska,Michigan State,3,10,2,13,27,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102927401,Pass Interception Return,2,12,52,52,-1.5824327153035664,False,Nebraska,Michigan State,10,10,2,7,25,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102964801,Pass Incompletion,2,8,73,73,-0.4788075161366292,False,Nebraska,Michigan State,10,13,2,3,51,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102969801,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Nebraska,Michigan State,10,13,2,3,1,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102967801,Pass Reception,3,8,73,73,2.543849617668662,False,Nebraska,Michigan State,10,13,2,3,21,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102998201,Passing Touchdown,3,9,18,18,3.301331139466047,True,Nebraska,Michigan State,17,13,2,0,17,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102987501,Pass Reception,2,24,48,48,3.7130859515353976,False,Nebraska,Michigan State,10,13,2,1,24,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560102975901,Pass Reception,1,10,47,47,0.67647608035276,False,Nebraska,Michigan State,10,13,2,2,40,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103895901,Pass Reception,1,10,64,64,2.136414512761535,False,Nebraska,Michigan State,17,20,3,10,40,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103885801,Pass Reception,2,4,78,78,-0.24912987717414656,False,Nebraska,Michigan State,17,20,3,11,41,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103908601,Passing Touchdown,2,7,33,33,3.236985734532144,True,Nebraska,Michigan State,24,20,3,9,13,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103889501,Pass Reception,3,1,75,75,1.4264182427757017,False,Nebraska,Michigan State,17,20,3,11,4,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103974001,Pass Reception,1,10,45,45,0.9077913637746936,False,Nebraska,Michigan State,24,20,3,2,59,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103966801,Pass Reception,3,1,50,50,1.239382939521299,False,Nebraska,Michigan State,24,20,3,3,31,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103978501,Passing Touchdown,2,10,16,16,2.89883592804679,True,Nebraska,Michigan State,31,20,3,2,14,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103947601,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,Nebraska,Michigan State,24,20,3,5,23,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560103977801,Pass Incompletion,1,10,16,16,-0.3301132067544156,False,Nebraska,Michigan State,24,20,3,2,21,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104879002,Pass Incompletion,1,15,69,69,-0.6035125831550907,False,Nebraska,Michigan State,31,26,4,12,9,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104899801,Pass Reception,2,7,50,50,0.09753726024425,False,Nebraska,Michigan State,31,26,4,10,1,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104869304,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Nebraska,Michigan State,31,26,4,13,6,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104884601,Pass Reception,2,15,69,69,0.02726330620578032,False,Nebraska,Michigan State,31,26,4,11,53,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104894201,Pass Reception,3,10,64,64,2.7240863283720795,False,Nebraska,Michigan State,31,26,4,10,57,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104946801,Pass Reception,3,11,28,28,2.194399683080917,False,Nebraska,Michigan State,31,26,4,5,31,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104874201,Pass Reception,2,10,75,75,1.6335325339896425,False,Nebraska,Michigan State,31,26,4,12,57,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104926801,Pass Reception,2,10,40,40,1.2935370391645424,False,Nebraska,Michigan State,31,26,4,7,31,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104999901,Pass Incompletion,1,10,41,41,-0.8772679222659558,False,Nebraska,Michigan State,38,39,4,0,0,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763560104998501,Pass Reception,1,10,58,58,1.321183586142796,False,Nebraska,Michigan State,38,39,4,0,14,10,Nebraska,2015,Michigan State,Connor Cook,2016
+400763567101868701,Pass Incompletion,3,8,58,42,-0.5456864727395683,False,Michigan State,Maryland,0,0,1,13,12,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101868201,Pass Incompletion,2,8,58,42,-0.9286544985354048,False,Michigan State,Maryland,0,0,1,13,17,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101905701,Pass Reception,3,4,28,72,0.7316020508887466,False,Michigan State,Maryland,0,0,1,9,42,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101887501,Pass Reception,1,10,50,50,1.094285718541039,False,Michigan State,Maryland,0,0,1,11,24,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101905002,Pass Incompletion,2,4,28,72,-0.6711891564291486,False,Michigan State,Maryland,0,0,1,9,49,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101919401,Pass Reception,3,4,16,84,0.38715104093523,False,Michigan State,Maryland,0,0,1,8,5,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101934701,Passing Touchdown,2,9,10,90,2.752081811262061,True,Michigan State,Maryland,7,0,1,6,52,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101974201,Pass Reception,1,20,47,53,-0.9938804880943852,False,Michigan State,Maryland,7,7,1,2,57,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101958801,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Michigan State,Maryland,7,7,1,4,11,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101977101,Pass Incompletion,2,20,47,53,-0.7374167797989308,False,Michigan State,Maryland,7,7,1,2,28,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567101965501,Pass Reception,2,10,58,42,2.659921268582904,False,Michigan State,Maryland,7,7,1,3,44,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102889401,Pass Incompletion,3,6,14,86,-0.4632482499979864,False,Michigan State,Maryland,7,7,2,11,5,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102888901,Pass Incompletion,2,6,14,86,-0.370301767976527,False,Michigan State,Maryland,7,7,2,11,10,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102877501,Pass Reception,3,6,46,54,2.530258348374806,False,Michigan State,Maryland,7,7,2,12,24,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102929401,Pass Incompletion,2,13,27,73,-0.743897406045992,False,Michigan State,Maryland,7,7,2,7,5,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102915701,Pass Reception,1,10,44,56,0.295635896925372,False,Michigan State,Maryland,7,7,2,8,42,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102934101,Pass Interception Return,3,13,27,73,-2.7984201028779214,False,Michigan State,Maryland,7,7,2,6,58,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102958801,Pass Incompletion,1,10,44,56,-0.9690270974076257,False,Michigan State,Maryland,7,7,2,4,11,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102959301,Pass Incompletion,2,10,44,56,-1.0658475431296655,False,Michigan State,Maryland,7,7,2,4,6,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102989001,Pass Incompletion,3,6,55,45,-0.7351396050304411,False,Michigan State,Maryland,14,7,2,1,9,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102987701,Pass Reception,1,10,59,41,-0.1673002614345122,False,Michigan State,Maryland,14,7,2,1,22,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102988601,Pass Incompletion,2,6,55,45,-1.1126244541815051,False,Michigan State,Maryland,14,7,2,1,13,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102998801,Pass Incompletion,2,10,17,83,-0.4016550456030307,False,Michigan State,Maryland,14,7,2,0,11,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102999401,Pass Incompletion,3,10,17,83,-0.6365330976772938,False,Michigan State,Maryland,14,7,2,0,5,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102998001,Pass Incompletion,1,10,17,83,-0.340019558909725,False,Michigan State,Maryland,14,7,2,0,19,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102996001,Pass Reception,1,10,35,65,0.393521863681004,False,Michigan State,Maryland,14,7,2,0,39,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567102997201,Pass Reception,2,3,28,72,-0.000836182688462,False,Michigan State,Maryland,14,7,2,0,27,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567103996901,Pass Incompletion,2,7,56,44,-1.0372452328048558,False,Michigan State,Maryland,24,7,3,0,30,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567103997501,Pass Incompletion,3,7,56,44,-0.6528971648971629,False,Michigan State,Maryland,24,7,3,0,24,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567104904602,Pass Interception Return,1,10,43,57,-3.6476299120691458,False,Michigan State,Maryland,24,7,4,9,53,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567104904601,Pass Interception Return,1,10,43,57,-3.6476299120691458,False,Michigan State,Maryland,24,7,4,9,53,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567104895601,Pass Reception,3,10,57,43,3.1216219013627704,False,Michigan State,Maryland,24,7,4,10,43,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763567104929401,Pass Incompletion,3,9,43,57,-0.9459898924641718,False,Michigan State,Maryland,24,7,4,7,5,11,Maryland,2015,Michigan State,Connor Cook,2016
+400763573101908401,Pass Incompletion,3,10,64,64,-0.32221199814427326,False,Ohio State,Michigan State,0,0,1,9,15,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573101959901,Pass Reception,1,10,72,72,0.3584299311182697,False,Ohio State,Michigan State,0,0,1,4,0,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573101976901,Pass Reception,2,10,58,58,-0.5199125839790238,False,Ohio State,Michigan State,0,0,1,2,30,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573101974901,Pass Incompletion,1,10,58,58,-1.1496266880203319,False,Ohio State,Michigan State,0,0,1,2,50,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102875404,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Ohio State,Michigan State,0,7,2,12,45,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102924201,Passing Touchdown,1,10,12,12,2.5300945420359255,True,Ohio State,Michigan State,7,7,2,7,57,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102879901,Pass Reception,3,9,74,74,2.316648011882042,False,Ohio State,Michigan State,0,7,2,12,0,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102906901,Pass Reception,3,14,64,64,4.241388975283011,False,Ohio State,Michigan State,0,7,2,9,30,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102948901,Pass Reception,3,19,32,32,0.4710638903515338,False,Ohio State,Michigan State,7,7,2,5,10,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102947901,Pass Incompletion,2,19,32,32,-0.9914599482941568,False,Ohio State,Michigan State,7,7,2,5,20,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102978401,Pass Incompletion,2,14,75,75,-0.229382641329277,False,Ohio State,Michigan State,7,7,2,2,15,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573102979401,Pass Reception,3,14,75,75,0.1448618044149539,False,Ohio State,Michigan State,7,7,2,2,5,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573104849901,Pass Incompletion,3,8,35,35,-1.0352375064725103,False,Ohio State,Michigan State,7,14,4,15,0,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573104938401,Pass Incompletion,2,8,63,63,-0.7734170183439133,False,Ohio State,Michigan State,14,14,4,6,15,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573104939702,Pass Incompletion,3,3,58,58,-0.813051991048222,False,Ohio State,Michigan State,14,14,4,6,2,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763573104967901,Pass Reception,2,7,45,45,0.3341261834989807,False,Ohio State,Michigan State,14,14,4,3,20,12,Ohio State,2015,Michigan State,Connor Cook,2016
+400763579101906401,Passing Touchdown,1,10,29,71,2.788301184598112,True,Michigan State,Penn State,6,0,1,9,35,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101886101,Pass Incompletion,1,10,53,47,-1.1527089917962545,False,Michigan State,Penn State,0,0,1,11,38,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101887601,Pass Reception,3,2,45,55,1.1690348284483056,False,Michigan State,Penn State,0,0,1,11,23,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101877201,Pass Reception,2,6,76,24,1.4239791278285745,False,Michigan State,Penn State,0,0,1,12,27,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101886601,Pass Reception,2,10,53,47,0.8384539710247372,False,Michigan State,Penn State,0,0,1,11,33,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101899401,Pass Reception,2,7,38,62,0.7339785272238735,False,Michigan State,Penn State,0,0,1,10,5,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101955901,Pass Reception,3,2,87,13,0.49520420631754725,False,Michigan State,Penn State,6,0,1,4,40,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101948401,Pass Reception,2,6,91,9,-0.030724116751559727,False,Michigan State,Penn State,6,0,1,5,15,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101966601,Pass Incompletion,2,7,79,21,-0.3941923778629635,False,Michigan State,Penn State,6,0,1,3,33,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579101967101,Pass Incompletion,3,7,79,21,-0.1769991696306121,False,Michigan State,Penn State,6,0,1,3,28,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579102877401,Pass Reception,3,15,57,43,0.13021805284167073,False,Michigan State,Penn State,6,3,2,12,25,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579102876601,Pass Incompletion,2,15,57,43,-0.6214992982081409,False,Michigan State,Penn State,6,3,2,12,33,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579102906901,Pass Reception,2,8,47,53,1.7142670678490148,False,Michigan State,Penn State,6,3,2,9,30,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579102998001,Pass Reception,2,10,76,24,0.4632936254277196,False,Michigan State,Penn State,20,10,2,0,19,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579102999701,Pass Reception,1,10,62,38,1.0296364367865516,False,Michigan State,Penn State,20,10,2,0,2,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579102997301,Pass Incompletion,1,10,76,24,-0.6723571521309859,False,Michigan State,Penn State,20,10,2,0,26,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103885901,Passing Touchdown,1,10,29,71,2.788301184598112,True,Michigan State,Penn State,27,10,3,11,40,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103858101,Pass Incompletion,2,9,74,26,-0.40831395320271024,False,Michigan State,Penn State,20,10,3,14,18,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103859901,Pass Reception,3,9,74,26,2.2185325795608515,False,Michigan State,Penn State,20,10,3,14,0,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103879901,Pass Reception,1,10,50,50,1.053110747523261,False,Michigan State,Penn State,20,10,3,12,0,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103966801,Passing Touchdown,2,6,6,94,2.528666992781938,True,Michigan State,Penn State,34,10,3,3,31,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103924901,Pass Reception,2,8,56,44,2.1533451074150367,False,Michigan State,Penn State,27,10,3,7,50,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579103956901,Pass Reception,3,8,24,76,1.2058647649442236,False,Michigan State,Penn State,27,10,3,4,30,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579104856401,Pass Reception,1,10,44,56,0.6488678833715903,False,Michigan State,Penn State,34,16,4,14,35,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579104866901,Pass Incompletion,2,7,25,75,-0.5735799483912875,False,Michigan State,Penn State,34,16,4,13,30,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579104869901,Pass Reception,3,7,25,75,0.9166025153123624,False,Michigan State,Penn State,34,16,4,13,0,13,Penn State,2015,Michigan State,Connor Cook,2016
+400763579104975401,Pass Incompletion,1,10,40,60,-0.8457687366186873,False,Michigan State,Penn State,55,16,4,2,45,13,Penn State,2015,Michigan State,Connor Cook,2016
+400852682101884801,Pass Incompletion,1,10,10,10,-0.2853930592519426,False,Iowa,Michigan State,0,0,1,11,51,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682101888401,Pass Incompletion,3,5,5,5,-0.290992528642002,False,Iowa,Michigan State,0,0,1,11,15,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682101878001,Pass Reception,3,15,32,32,2.3676415577946854,False,Iowa,Michigan State,0,0,1,12,19,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682101934201,Pass Interception Return,2,12,70,70,-0.29214026076227384,False,Iowa,Michigan State,3,0,1,6,57,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682101917801,Pass Reception,1,10,85,85,1.1016508342333502,False,Iowa,Michigan State,3,0,1,8,21,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682101956101,Pass Incompletion,1,20,85,85,-0.140464090692074,False,Iowa,Michigan State,3,3,1,4,38,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682101957001,Pass Reception,2,20,85,85,0.0291934533455178,False,Iowa,Michigan State,3,3,1,4,29,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102897101,Pass Incompletion,1,10,29,29,-0.534372502378378,False,Iowa,Michigan State,3,6,2,10,28,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102877801,Pass Reception,1,10,61,61,1.013604104343493,False,Iowa,Michigan State,3,6,2,12,21,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102895801,Pass Reception,3,3,43,43,1.5962357050664315,False,Iowa,Michigan State,3,6,2,10,41,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102969001,Pass Reception,2,7,77,77,0.2305005236001261,False,Iowa,Michigan State,3,6,2,3,9,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102976701,Pass Reception,3,1,71,71,-0.5611990698005247,False,Iowa,Michigan State,3,6,2,2,32,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102999301,Pass Incompletion,1,10,35,35,-0.6918622905019662,False,Iowa,Michigan State,3,6,2,0,6,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102996802,Pass Reception,1,10,55,55,-0.6797853383066688,False,Iowa,Michigan State,3,6,2,0,31,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682102998101,Pass Reception,2,8,53,53,1.9838097918460778,False,Iowa,Michigan State,3,6,2,0,18,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103875401,Pass Incompletion,2,15,60,60,-0.5302865096030152,False,Iowa,Michigan State,3,6,3,12,45,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103865801,Pass Incompletion,3,5,70,70,-0.3716239049161505,False,Iowa,Michigan State,3,6,3,13,41,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103888101,Pass Incompletion,3,5,39,39,-1.0808046011053933,False,Iowa,Michigan State,3,6,3,11,18,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103887601,Pass Incompletion,2,5,39,39,-0.9905248093881786,False,Iowa,Michigan State,3,6,3,11,23,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103876701,Pass Reception,3,15,60,60,3.5055447993921467,False,Iowa,Michigan State,3,6,3,12,32,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103957301,Pass Incompletion,3,6,11,11,-0.394943214989068,False,Iowa,Michigan State,3,6,3,4,26,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103927401,Pass Incompletion,1,10,47,47,-1.0507069190375147,False,Iowa,Michigan State,3,6,3,7,25,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103928301,Pass Reception,2,10,47,47,1.8496660273811736,False,Iowa,Michigan State,3,6,3,7,16,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103987601,Pass Reception,3,18,42,42,1.8989755944267577,False,Iowa,Michigan State,6,6,3,1,23,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103976701,Pass Incompletion,1,10,34,34,-0.6630222646782312,False,Iowa,Michigan State,6,6,3,2,32,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682103966402,Pass Reception,1,10,61,61,1.3117286283304017,False,Iowa,Michigan State,6,6,3,3,35,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104869101,Pass Incompletion,1,10,61,61,-1.1077677360468863,False,Iowa,Michigan State,9,13,4,13,8,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104877801,Pass Incompletion,3,9,60,60,-0.44917989514863876,False,Iowa,Michigan State,9,13,4,12,21,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104945901,Pass Incompletion,2,8,50,50,-1.0923917928310267,False,Iowa,Michigan State,9,13,4,5,40,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104914901,Pass Incompletion,2,4,76,76,-0.6545626180064668,False,Iowa,Michigan State,9,13,4,8,50,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104916001,Pass Reception,3,4,76,76,1.8208831478736238,False,Iowa,Michigan State,9,13,4,8,39,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104948001,Pass Reception,3,8,50,50,2.8190294223579233,False,Iowa,Michigan State,9,13,4,5,19,14,Iowa,2015,Michigan State,Connor Cook,2016
+400852682104918401,Pass Reception,1,10,63,63,-0.1644248613169578,False,Iowa,Michigan State,9,13,4,8,15,14,Iowa,2015,Michigan State,Connor Cook,2016

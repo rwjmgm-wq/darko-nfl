@@ -1,0 +1,167 @@
+{
+  "player_name": "Patrick Mahomes",
+  "draft_year": 2017,
+  "college": "Texas Tech",
+  "outcome_probabilities": {
+    "Bust": 0.279,
+    "Elite": 0.37,
+    "Journeyman": 0.277,
+    "Solid Starter": 0.074
+  },
+  "rookie_leaf_estimate": -0.17,
+  "trajectories": {
+    "pessimistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.15,
+        "conf_lower": -0.313,
+        "conf_upper": 0.012
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.123,
+        "conf_lower": -0.298,
+        "conf_upper": 0.052
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.127,
+        "conf_lower": -0.314,
+        "conf_upper": 0.061
+      },
+      {
+        "year": 4,
+        "leaf_estimate": -0.152,
+        "conf_lower": -0.352,
+        "conf_upper": 0.048
+      }
+    ],
+    "realistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.135,
+        "conf_lower": -0.293,
+        "conf_upper": 0.024
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.096,
+        "conf_lower": -0.263,
+        "conf_upper": 0.071
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.043,
+        "conf_lower": -0.218,
+        "conf_upper": 0.132
+      },
+      {
+        "year": 4,
+        "leaf_estimate": -0.03,
+        "conf_lower": -0.213,
+        "conf_upper": 0.153
+      },
+      {
+        "year": 5,
+        "leaf_estimate": -0.076,
+        "conf_lower": -0.268,
+        "conf_upper": 0.116
+      },
+      {
+        "year": 6,
+        "leaf_estimate": -0.122,
+        "conf_lower": -0.322,
+        "conf_upper": 0.078
+      }
+    ],
+    "optimistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.127,
+        "conf_lower": -0.283,
+        "conf_upper": 0.029
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.084,
+        "conf_lower": -0.246,
+        "conf_upper": 0.079
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.028,
+        "conf_lower": -0.197,
+        "conf_upper": 0.141
+      },
+      {
+        "year": 4,
+        "leaf_estimate": 0.037,
+        "conf_lower": -0.138,
+        "conf_upper": 0.212
+      },
+      {
+        "year": 5,
+        "leaf_estimate": 0.077,
+        "conf_lower": -0.104,
+        "conf_upper": 0.259
+      },
+      {
+        "year": 6,
+        "leaf_estimate": 0.021,
+        "conf_lower": -0.167,
+        "conf_upper": 0.208
+      },
+      {
+        "year": 7,
+        "leaf_estimate": -0.036,
+        "conf_lower": -0.23,
+        "conf_upper": 0.158
+      },
+      {
+        "year": 8,
+        "leaf_estimate": -0.092,
+        "conf_lower": -0.292,
+        "conf_upper": 0.108
+      }
+    ]
+  },
+  "historical_comps": [
+    {
+      "name": "Patrick Mahomes",
+      "draft_year": 2017,
+      "similarity": 100.0,
+      "outcome": "Elite",
+      "rookie_leaf": 0.2132129048139116
+    },
+    {
+      "name": "Nick Foles",
+      "draft_year": 2012,
+      "similarity": 15.8,
+      "outcome": "Elite",
+      "rookie_leaf": -0.0996025534728495
+    },
+    {
+      "name": "Ryan Finley",
+      "draft_year": 2019,
+      "similarity": 15.8,
+      "outcome": "Bust",
+      "rookie_leaf": -0.6049393792184671
+    },
+    {
+      "name": "Sean Mannion",
+      "draft_year": 2015,
+      "similarity": 13.8,
+      "outcome": "Bust",
+      "rookie_leaf": -0.1838029206431071
+    },
+    {
+      "name": "Daniel Jones",
+      "draft_year": 2019,
+      "similarity": 6.0,
+      "outcome": "Solid Starter",
+      "rookie_leaf": -0.0915713448260516
+    }
+  ],
+  "confidence_level": "MODERATE",
+  "model_notes": "Based on career average college stats. Mutually exclusive outcomes sum to 100%."
+}

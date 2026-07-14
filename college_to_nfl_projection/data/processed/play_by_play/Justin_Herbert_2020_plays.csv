@@ -1,0 +1,453 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401110722.0,Pass Incompletion,,,36.0,36,0.948210597038269,False,Auburn,Oregon,21.0,27.0,4,0,0,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,76.0,76,-0.4422872066497803,False,Auburn,Oregon,21.0,20.0,4,2,21,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Sack,,,69.0,69,-1.0380747318267822,False,Auburn,Oregon,21.0,20.0,4,2,30,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,78.0,78,0.47636282444000244,False,Auburn,Oregon,21.0,20.0,4,3,51,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,82.0,82,-0.09617239236831665,False,Auburn,Oregon,21.0,20.0,4,4,26,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,45.0,45,-0.37409746646881104,False,Auburn,Oregon,21.0,20.0,4,6,20,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,50.0,50,-0.3195323944091797,False,Auburn,Oregon,21.0,20.0,4,7,0,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,68.0,68,1.3953793048858643,False,Auburn,Oregon,21.0,20.0,4,8,18,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,71.0,71,0.8390061855316162,False,Auburn,Oregon,21.0,20.0,4,9,16,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,75.0,75,-0.2071061134338379,False,Auburn,Oregon,21.0,20.0,4,9,42,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,78.0,78,-1.0457162857055664,False,Auburn,Oregon,21.0,13.0,4,13,38,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,55.0,55,-1.1353121995925903,False,Auburn,Oregon,21.0,13.0,3,2,35,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,58.0,58,-0.3347311019897461,False,Auburn,Oregon,21.0,13.0,3,2,57,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,61.0,61,-0.3446643352508545,False,Auburn,Oregon,21.0,13.0,3,3,24,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,70.0,70,0.6657963991165161,False,Auburn,Oregon,21.0,13.0,3,3,51,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,75.0,75,0.11400902271270752,False,Auburn,Oregon,21.0,13.0,3,4,11,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Sack,,,80.0,89,0.6679589748382568,False,Auburn,Oregon,21.0,6.0,3,6,57,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,19.0,19,1.8788914680480957,False,Auburn,Oregon,14.0,6.0,3,9,57,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,26.0,26,1.1411213874816895,False,Auburn,Oregon,14.0,6.0,3,11,26,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,32.0,32,0.1468946933746338,False,Auburn,Oregon,14.0,6.0,3,11,47,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,33.0,33,-0.6322581768035889,False,Auburn,Oregon,14.0,6.0,3,12,18,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,53.0,53,1.5701501369476318,False,Auburn,Oregon,14.0,6.0,3,12,40,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,53.0,53,-0.6074392795562744,False,Auburn,Oregon,14.0,6.0,3,12,46,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,71.0,71,-0.77154541015625,False,Auburn,Oregon,14.0,6.0,2,1,7,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,71.0,71,-0.289185106754303,False,Auburn,Oregon,14.0,6.0,2,1,11,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Sack,,,74.0,74,-0.6917302012443542,False,Auburn,Oregon,14.0,6.0,2,2,47,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,87.0,87,0.2017335593700409,False,Auburn,Oregon,14.0,6.0,2,3,19,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,67.0,67,-1.7502238750457764,False,Auburn,Oregon,14.0,3.0,2,10,18,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,88.0,88,-0.6249271631240845,False,Auburn,Oregon,14.0,3.0,2,12,28,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Passing Touchdown,,,20.0,20,2.4065046310424805,True,Auburn,Oregon,14.0,3.0,1,2,11,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,2.0,2,-1.7723658084869385,False,Auburn,Oregon,7.0,0.0,1,4,44,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,27.0,27,1.8868064880371094,False,Auburn,Oregon,7.0,0.0,1,6,46,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,38.0,38,0.5615706443786621,False,Auburn,Oregon,7.0,0.0,1,7,57,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,44.0,44,0.09740614891052246,False,Auburn,Oregon,7.0,0.0,1,8,28,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,50.0,50,4.069521903991699,False,Auburn,Oregon,0.0,0.0,1,12,13,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,50.0,50,-0.6781570911407471,False,Auburn,Oregon,0.0,0.0,1,12,51,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,63.0,63,0.36055028438568115,False,Auburn,Oregon,0.0,0.0,1,13,54,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Incompletion,,,63.0,63,-0.6946456432342529,False,Auburn,Oregon,0.0,0.0,1,13,59,1,Auburn,2019,Oregon,Justin Herbert,2020
+401110722.0,Pass Reception,,,74.0,74,0.9425945281982422,False,Auburn,Oregon,0.0,0.0,1,14,44,1,Auburn,2019,Oregon,Justin Herbert,2020
+401114162.0,Passing Touchdown,,,17.0,17,3.742126703262329,True,Arizona State,Oregon,28.0,31.0,4,2,4,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,17.0,17,-0.6791989803314209,False,Arizona State,Oregon,21.0,31.0,4,2,20,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,31.0,31,2.069727659225464,False,Arizona State,Oregon,21.0,31.0,4,2,25,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,31.0,31,-0.6100211143493652,False,Arizona State,Oregon,21.0,31.0,4,2,39,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,31.0,31,-0.47083163261413574,False,Arizona State,Oregon,21.0,31.0,4,3,0,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,44.0,44,1.2475082874298096,False,Arizona State,Oregon,21.0,31.0,4,3,15,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,61.0,61,0.8386749029159546,False,Arizona State,Oregon,21.0,31.0,4,3,40,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Passing Touchdown,,,24.0,24,2.997802257537842,True,Arizona State,Oregon,21.0,24.0,4,5,24,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,47.0,47,1.3050823211669922,False,Arizona State,Oregon,14.0,24.0,4,5,43,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,66.0,66,1.1917680501937866,False,Arizona State,Oregon,14.0,24.0,4,5,50,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,49.0,49,2.210233688354492,False,Arizona State,Oregon,7.0,24.0,4,8,0,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,75.0,75,0.8290824294090271,False,Arizona State,Oregon,7.0,24.0,4,8,30,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Interception Return,,,72.0,72,-4.084372043609619,False,Arizona State,Oregon,7.0,21.0,4,11,59,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Interception Return,,,69.0,69,-5.6491804122924805,False,Arizona State,Oregon,7.0,13.0,4,14,53,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Sack,,,65.0,65,-2.552922487258911,False,Arizona State,Oregon,7.0,13.0,3,3,27,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,67.0,67,-0.4002312421798706,False,Arizona State,Oregon,7.0,13.0,3,4,30,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,35.0,35,-1.802321434020996,False,Arizona State,Oregon,7.0,13.0,3,9,54,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,35.0,35,-0.848024845123291,False,Arizona State,Oregon,7.0,13.0,3,9,55,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,35.0,35,-0.5190422534942627,False,Arizona State,Oregon,7.0,13.0,3,10,2,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,49.0,49,0.8669037818908691,False,Arizona State,Oregon,7.0,13.0,3,10,5,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,73.0,73,-1.0424169301986694,False,Arizona State,Oregon,7.0,10.0,2,2,34,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,76.0,76,-0.28714966773986816,False,Arizona State,Oregon,7.0,7.0,2,11,11,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,76.0,76,-1.0201785564422607,False,Arizona State,Oregon,7.0,7.0,2,11,19,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,9.0,9,-0.34156084060668945,False,Arizona State,Oregon,7.0,7.0,1,1,5,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,39.0,39,1.443389654159546,False,Arizona State,Oregon,7.0,7.0,1,3,0,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,64.0,64,0.6334453821182251,False,Arizona State,Oregon,7.0,7.0,1,4,20,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,5.0,5,-0.6842622756958008,False,Arizona State,Oregon,0.0,0.0,1,6,36,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,33.0,33,2.9018642902374268,False,Arizona State,Oregon,0.0,0.0,1,6,45,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,33.0,33,-0.8723471164703369,False,Arizona State,Oregon,0.0,0.0,1,6,56,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,62.0,62,-0.744770884513855,False,Arizona State,Oregon,0.0,0.0,1,8,59,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,76.0,76,1.2311856746673584,False,Arizona State,Oregon,0.0,0.0,1,9,29,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Incompletion,,,54.0,54,-1.78629469871521,False,Arizona State,Oregon,0.0,0.0,1,13,20,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,59.0,59,-0.023022174835205078,False,Arizona State,Oregon,0.0,0.0,1,13,30,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Sack,,,58.0,58,-1.0835648775100708,False,Arizona State,Oregon,0.0,0.0,1,14,0,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114162.0,Pass Reception,,,83.0,83,1.6223559379577637,False,Arizona State,Oregon,0.0,0.0,1,14,35,13,Arizona State,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,79.0,21,-0.6632806062698364,False,Oregon,Arizona,34.0,6.0,4,2,30,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Passing Touchdown,,,33.0,67,2.849977493286133,True,Oregon,Arizona,34.0,6.0,4,10,2,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,69.0,31,1.3982288837432861,False,Oregon,Arizona,28.0,6.0,4,11,51,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,75.0,25,0.10939621925354004,False,Oregon,Arizona,28.0,6.0,4,12,33,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,88.0,12,-0.2546572685241699,False,Oregon,Arizona,28.0,6.0,4,14,10,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Interception Return,,,29.0,71,-3.1438910961151123,False,Oregon,Arizona,28.0,6.0,3,0,40,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Incompletion,,,29.0,71,-0.8100097179412842,False,Oregon,Arizona,28.0,6.0,3,1,1,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,50.0,50,-1.274630069732666,False,Oregon,Arizona,28.0,6.0,3,3,35,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Passing Touchdown,,,24.0,76,1.8404250144958496,True,Oregon,Arizona,28.0,6.0,3,7,32,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Incompletion,,,40.0,60,-1.8757474422454834,False,Oregon,Arizona,21.0,6.0,3,13,0,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,45.0,55,-0.3705463409423828,False,Oregon,Arizona,21.0,6.0,3,13,29,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Incompletion,,,66.0,34,-0.47767552733421326,False,Oregon,Arizona,21.0,3.0,2,1,6,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,68.0,32,-0.26271960139274597,False,Oregon,Arizona,21.0,3.0,2,1,42,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Sack,,,63.0,37,-1.0540688037872314,False,Oregon,Arizona,21.0,3.0,2,2,20,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Passing Touchdown,,,53.0,47,3.9461545944213867,True,Oregon,Arizona,21.0,0.0,2,5,9,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,60.0,40,1.2806416749954224,False,Oregon,Arizona,14.0,0.0,2,5,43,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,77.0,23,2.197453498840332,False,Oregon,Arizona,14.0,0.0,2,6,56,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,88.0,12,0.03603288531303406,False,Oregon,Arizona,14.0,0.0,2,7,21,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Sack,,,80.0,20,-1.4565918445587158,False,Oregon,Arizona,14.0,0.0,2,8,5,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Incompletion,,,3.0,97,-0.3538379669189453,False,Oregon,Arizona,14.0,0.0,2,12,56,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,13.0,87,1.7747750282287598,False,Oregon,Arizona,7.0,0.0,1,3,4,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,17.0,83,-0.2176814079284668,False,Oregon,Arizona,7.0,0.0,1,3,45,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,20.0,80,-0.13771677017211914,False,Oregon,Arizona,7.0,0.0,1,4,12,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,50.0,50,1.398329734802246,False,Oregon,Arizona,7.0,0.0,1,5,34,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,77.0,23,3.2916035652160645,False,Oregon,Arizona,7.0,0.0,1,6,46,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Sack,,,76.0,24,-1.1200857162475586,False,Oregon,Arizona,7.0,0.0,1,7,50,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Incompletion,,,82.0,18,-1.0105173587799072,False,Oregon,Arizona,7.0,0.0,1,9,47,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Pass Reception,,,80.0,20,-1.3034846782684326,False,Oregon,Arizona,7.0,0.0,1,10,25,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114172.0,Passing Touchdown,,,73.0,27,5.3280415534973145,True,Oregon,Arizona,7.0,0.0,1,14,28,12,Arizona,2019,Oregon,Justin Herbert,2020
+401114177.0,Passing Touchdown,,,1.0,99,0.8214106559753418,True,Oregon,California,17.0,7.0,4,7,14,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,49.0,51,-1.3224025964736938,False,Oregon,California,10.0,7.0,4,9,0,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,28.0,72,-3.484163284301758,False,Oregon,California,10.0,7.0,4,13,44,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,36.0,64,0.5970859527587891,False,Oregon,California,10.0,7.0,4,14,0,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,54.0,46,1.2104299068450928,False,Oregon,California,10.0,7.0,4,14,50,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,31.0,69,3.250235080718994,False,Oregon,California,3.0,7.0,3,1,50,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,44.0,56,-1.0564262866973877,False,Oregon,California,3.0,7.0,3,4,55,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,10.0,90,-1.2346558570861816,False,Oregon,California,0.0,7.0,3,7,35,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,19.0,81,0.6518945693969727,False,Oregon,California,0.0,7.0,3,9,0,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,34.0,66,1.0199334621429443,False,Oregon,California,0.0,7.0,3,10,0,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,44.0,56,2.0146420001983643,False,Oregon,California,0.0,7.0,3,10,45,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,49.0,51,-0.2842528820037842,False,Oregon,California,0.0,7.0,3,11,11,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,49.0,51,-0.6936764717102051,False,Oregon,California,0.0,7.0,3,11,36,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,67.0,33,2.0691473484039307,False,Oregon,California,0.0,7.0,3,12,20,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,68.0,32,-1.1996492147445679,False,Oregon,California,0.0,7.0,3,14,23,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,68.0,32,-0.9035374522209167,False,Oregon,California,0.0,7.0,3,14,28,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,27.0,73,-1.5138216018676758,False,Oregon,California,0.0,7.0,2,4,20,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,29.0,71,-0.34919166564941406,False,Oregon,California,0.0,7.0,2,4,43,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,29.0,71,-0.6436765193939209,False,Oregon,California,0.0,7.0,2,4,59,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,50.0,50,1.51523756980896,False,Oregon,California,0.0,7.0,2,5,10,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,70.0,30,2.7611637115478516,False,Oregon,California,0.0,7.0,2,5,45,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Incompletion,,,74.0,26,-0.8129532337188721,False,Oregon,California,0.0,7.0,2,6,19,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,85.0,15,0.6417558789253235,False,Oregon,California,0.0,7.0,2,6,32,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,80.0,20,-0.1179971694946289,False,Oregon,California,0.0,7.0,2,9,0,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Sack,,,74.0,26,-1.6345417499542236,False,Oregon,California,0.0,7.0,2,9,40,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,60.0,40,1.421789288520813,False,Oregon,California,0.0,7.0,2,13,8,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,26.0,74,1.562906265258789,False,Oregon,California,0.0,7.0,1,2,0,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,33.0,67,0.5645263195037842,False,Oregon,California,0.0,7.0,1,2,42,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,54.0,46,0.030370116233825684,False,Oregon,California,0.0,7.0,1,5,31,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Interception Return,,,25.0,75,-5.193724632263184,False,Oregon,California,0.0,0.0,1,9,7,6,California,2019,Oregon,Justin Herbert,2020
+401114177.0,Pass Reception,,,79.0,21,0.8853515386581421,False,Oregon,California,0.0,0.0,1,12,45,6,California,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,33.0,67,1.6405894756317139,False,Oregon,Colorado,45.0,3.0,4,6,29,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,21.0,79,-1.4815669059753418,False,Oregon,Colorado,45.0,3.0,4,6,29,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,70.0,30,-0.9050226211547852,False,Oregon,Colorado,38.0,3.0,3,8,7,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Sack,,,70.0,30,-1.6985028982162476,False,Oregon,Colorado,38.0,3.0,3,8,7,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Passing Touchdown,,,13.0,87,2.6955604553222656,True,Oregon,Colorado,31.0,3.0,3,12,54,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,37.0,63,1.3595547676086426,False,Oregon,Colorado,24.0,3.0,3,14,17,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,13.0,87,-0.888495922088623,False,Oregon,Colorado,24.0,3.0,3,14,17,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,80.0,20,-0.5795468688011169,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,80.0,20,-0.357605904340744,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,65.0,35,0.2988417148590088,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,56.0,44,2.348593235015869,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,17.0,83,-0.4618072509765625,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,17.0,83,2.254060745239258,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,3.0,97,-0.3874964714050293,False,Oregon,Colorado,17.0,3.0,2,1,27,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,15.0,85,-0.3521437644958496,False,Oregon,Colorado,10.0,3.0,2,10,21,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,11.0,89,2.203671455383301,False,Oregon,Colorado,10.0,3.0,2,10,21,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,72.0,28,-0.2008814811706543,False,Oregon,Colorado,10.0,3.0,2,13,8,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,68.0,32,-0.907584547996521,False,Oregon,Colorado,10.0,3.0,2,13,8,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,68.0,32,-1.4746990203857422,False,Oregon,Colorado,10.0,3.0,2,13,8,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,19.0,81,-0.8159980773925781,False,Oregon,Colorado,7.0,3.0,2,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,14.0,86,-1.3957748413085938,False,Oregon,Colorado,7.0,3.0,2,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,76.0,24,1.4221891164779663,False,Oregon,Colorado,7.0,3.0,1,2,46,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,38.0,62,1.495192289352417,False,Oregon,Colorado,7.0,3.0,1,2,46,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,54.0,46,0.6633458137512207,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,40.0,60,-0.5798876285552979,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,35.0,65,-1.6985925436019897,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,35.0,65,3.194127082824707,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,26.0,74,-0.5557923316955566,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,20.0,80,-1.5455217361450195,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,19.0,81,-2.3559184074401855,False,Oregon,Colorado,7.0,0.0,1,10,40,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Passing Touchdown,,,7.0,93,2.7823448181152344,True,Oregon,Colorado,7.0,0.0,1,11,37,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,70.0,30,0.7340630292892456,False,Oregon,Colorado,0.0,0.0,1,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,72.0,28,1.2006208896636963,False,Oregon,Colorado,0.0,0.0,1,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,50.0,50,2.744879722595215,False,Oregon,Colorado,0.0,0.0,1,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Reception,,,33.0,67,1.1392576694488525,False,Oregon,Colorado,0.0,0.0,1,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114186.0,Pass Incompletion,,,7.0,93,-4.489641189575195,False,Oregon,Colorado,0.0,0.0,1,15,0,7,Colorado,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,76.0,24,0.6205222010612488,False,Oregon,Nevada,70.0,6.0,4,3,6,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,21.0,79,5.32316255569458,True,Oregon,Nevada,70.0,6.0,4,6,58,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,80.0,20,-1.4364449977874756,False,Oregon,Nevada,63.0,6.0,4,13,13,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,37.0,63,-0.12736177444458008,False,Oregon,Nevada,63.0,6.0,4,13,13,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,27.0,73,-0.9929907321929932,False,Oregon,Nevada,63.0,6.0,4,13,13,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,68.0,32,-0.6287074089050293,False,Oregon,Nevada,56.0,6.0,3,4,33,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Sack,,,57.0,43,-0.5553677082061768,False,Oregon,Nevada,56.0,6.0,3,4,33,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,46.0,54,-1.3906223773956299,False,Oregon,Nevada,56.0,6.0,3,4,33,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,7.0,93,2.3407325744628906,True,Oregon,Nevada,56.0,6.0,3,7,16,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,7.0,93,-0.9059009552001953,False,Oregon,Nevada,49.0,6.0,3,7,56,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,16.0,84,1.2047266960144043,True,Oregon,Nevada,42.0,6.0,3,10,12,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,79.0,21,-0.4222383499145508,False,Oregon,Nevada,35.0,6.0,3,13,28,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,73.0,27,1.8510212898254395,False,Oregon,Nevada,35.0,6.0,3,13,28,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,61.0,39,-0.7861206531524658,False,Oregon,Nevada,35.0,6.0,3,13,28,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,61.0,39,1.6036345958709717,False,Oregon,Nevada,35.0,6.0,3,13,28,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,51.0,49,0.5354080200195312,False,Oregon,Nevada,35.0,6.0,3,13,28,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,39.0,61,0.7593426704406738,False,Oregon,Nevada,35.0,6.0,3,13,28,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,24.0,76,4.726569175720215,True,Oregon,Nevada,35.0,6.0,2,0,12,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,54.0,46,1.1808230876922607,False,Oregon,Nevada,28.0,6.0,2,1,16,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,35.0,65,0.9747886657714844,False,Oregon,Nevada,28.0,6.0,2,1,16,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,1.0,99,0.9343619346618652,True,Oregon,Nevada,28.0,6.0,2,3,26,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,16.0,84,1.8936758041381836,True,Oregon,Nevada,21.0,6.0,2,7,13,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,72.0,28,-0.5314619541168213,False,Oregon,Nevada,7.0,6.0,2,10,3,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,71.0,29,3.0638861656188965,False,Oregon,Nevada,7.0,6.0,2,10,3,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,36.0,64,2.9607863426208496,False,Oregon,Nevada,7.0,6.0,2,10,3,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Passing Touchdown,,,66.0,34,4.7121052742004395,True,Oregon,Nevada,7.0,3.0,1,3,56,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,74.0,26,0.5191266536712646,False,Oregon,Nevada,0.0,3.0,1,6,13,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,45.0,55,-0.6183371543884277,False,Oregon,Nevada,0.0,0.0,1,12,4,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,33.0,67,0.26327013969421387,False,Oregon,Nevada,0.0,0.0,1,12,4,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,27.0,73,-1.4658781290054321,False,Oregon,Nevada,0.0,0.0,1,12,4,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,27.0,73,-3.1462435722351074,False,Oregon,Nevada,0.0,0.0,1,12,4,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,75.0,25,0.23594993352890015,False,Oregon,Nevada,0.0,0.0,1,15,0,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Reception,,,69.0,31,2.2201545238494873,False,Oregon,Nevada,0.0,0.0,1,15,0,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,50.0,50,-1.016000509262085,False,Oregon,Nevada,0.0,0.0,1,15,0,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114193.0,Pass Incompletion,,,50.0,50,-2.04886531829834,False,Oregon,Nevada,0.0,0.0,1,15,0,2,Nevada,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,20.0,80,-1.0587499141693115,False,Oregon,Montana,35.0,3.0,4,3,12,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,86.0,14,-0.7216413617134094,False,Oregon,Montana,35.0,3.0,4,6,55,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,80.0,20,-1.095548391342163,False,Oregon,Montana,35.0,3.0,4,6,55,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,81.0,19,0.018450021743774414,False,Oregon,Montana,35.0,3.0,4,10,5,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,66.0,34,1.4762639999389648,False,Oregon,Montana,35.0,3.0,4,10,5,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,50.0,50,0.48876214027404785,False,Oregon,Montana,35.0,3.0,4,10,5,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,41.0,59,-2.2400686740875244,False,Oregon,Montana,35.0,3.0,4,10,5,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Passing Touchdown,,,10.0,90,2.068497657775879,True,Oregon,Montana,35.0,3.0,4,12,27,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,79.0,21,0.6468961238861084,False,Oregon,Montana,28.0,3.0,4,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,70.0,30,-0.5451276302337646,False,Oregon,Montana,28.0,3.0,4,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,53.0,47,0.5601935386657715,False,Oregon,Montana,28.0,3.0,4,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,29.0,71,0.8167071342468262,False,Oregon,Montana,28.0,3.0,4,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,10.0,90,-0.548797607421875,False,Oregon,Montana,28.0,3.0,4,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,31.0,69,0.034917354583740234,False,Oregon,Montana,28.0,0.0,3,7,26,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,25.0,75,-0.6919765472412109,False,Oregon,Montana,28.0,0.0,3,7,26,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,25.0,75,-1.705930471420288,False,Oregon,Montana,28.0,0.0,3,7,26,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,25.0,75,-1.1445962190628052,False,Oregon,Montana,28.0,0.0,3,7,26,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Passing Touchdown,,,1.0,99,0.4674859046936035,True,Oregon,Montana,28.0,0.0,3,9,3,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,14.0,86,0.9170389175415039,False,Oregon,Montana,21.0,0.0,3,9,57,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,35.0,65,0.5712761878967285,False,Oregon,Montana,21.0,0.0,3,11,55,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,22.0,78,-0.2306990623474121,False,Oregon,Montana,21.0,0.0,3,11,55,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Passing Touchdown,,,18.0,82,3.9864656925201416,True,Oregon,Montana,21.0,0.0,2,0,10,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,60.0,40,0.17520034313201904,False,Oregon,Montana,14.0,0.0,2,0,54,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,50.0,50,-0.15791833400726318,False,Oregon,Montana,14.0,0.0,2,0,54,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,50.0,50,1.4775326251983643,False,Oregon,Montana,14.0,0.0,2,0,54,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,54.0,46,-0.49071502685546875,False,Oregon,Montana,14.0,0.0,2,4,30,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,54.0,46,0.5546708106994629,False,Oregon,Montana,14.0,0.0,2,4,30,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,45.0,55,-3.17462420463562,False,Oregon,Montana,14.0,0.0,2,4,30,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,72.0,28,-0.896237850189209,False,Oregon,Montana,14.0,0.0,2,11,29,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,68.0,32,1.0705859661102295,False,Oregon,Montana,14.0,0.0,2,11,29,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,55.0,45,0.01150822639465332,False,Oregon,Montana,14.0,0.0,2,11,29,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Incompletion,,,43.0,57,-1.665513515472412,False,Oregon,Montana,14.0,0.0,2,11,29,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Passing Touchdown,,,17.0,83,2.2147388458251953,True,Oregon,Montana,14.0,0.0,1,0,28,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,84.0,16,1.639689564704895,False,Oregon,Montana,7.0,0.0,1,4,32,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,66.0,34,1.7340121269226074,False,Oregon,Montana,7.0,0.0,1,4,32,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,86.0,14,-0.5306949615478516,False,Oregon,Montana,7.0,0.0,1,8,8,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,82.0,18,-1.174715280532837,False,Oregon,Montana,7.0,0.0,1,8,8,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Passing Touchdown,,,5.0,95,2.4720144271850586,True,Oregon,Montana,7.0,0.0,1,11,58,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,75.0,25,0.5941799283027649,False,Oregon,Montana,0.0,0.0,1,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,68.0,32,0.9001754522323608,False,Oregon,Montana,0.0,0.0,1,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,53.0,47,1.6917113065719604,False,Oregon,Montana,0.0,0.0,1,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114194.0,Pass Reception,,,35.0,65,0.5014362335205078,False,Oregon,Montana,0.0,0.0,1,15,0,3,Montana,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Incompletion,,,9.0,9,-1.5438222885131836,False,Stanford,Oregon,21.0,6.0,4,5,39,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,35.0,35,0.9950990676879883,False,Stanford,Oregon,21.0,6.0,4,6,8,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Passing Touchdown,,,24.0,24,2.240107536315918,True,Stanford,Oregon,21.0,3.0,4,10,40,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,36.0,36,1.0847086906433105,False,Stanford,Oregon,14.0,3.0,4,11,16,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,39.0,39,-0.41570425033569336,False,Stanford,Oregon,14.0,3.0,4,11,47,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,52.0,52,1.5720913410186768,False,Stanford,Oregon,14.0,3.0,4,12,17,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Fumble Recovery (Own),,,62.0,62,-1.293907642364502,False,Stanford,Oregon,14.0,3.0,4,15,0,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Incompletion,,,51.0,51,-1.8768562078475952,False,Stanford,Oregon,14.0,3.0,3,4,38,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,63.0,63,1.0372369289398193,False,Stanford,Oregon,14.0,3.0,3,6,14,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,67.0,67,-0.08179950714111328,False,Stanford,Oregon,14.0,3.0,3,6,41,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,63.0,63,-0.6463267803192139,False,Stanford,Oregon,14.0,3.0,3,12,47,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Sack,,,55.0,55,-1.792262077331543,False,Stanford,Oregon,14.0,3.0,3,13,14,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,74.0,74,2.534924030303955,False,Stanford,Oregon,14.0,3.0,3,14,23,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Incompletion,,,75.0,75,-1.9562214612960815,False,Stanford,Oregon,14.0,3.0,3,15,0,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Passing Touchdown,,,16.0,16,2.0224218368530273,True,Stanford,Oregon,14.0,3.0,2,5,58,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,32.0,32,0.5954246520996094,False,Stanford,Oregon,7.0,3.0,2,6,34,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,56.0,56,2.959181308746338,False,Stanford,Oregon,7.0,3.0,2,6,58,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Incompletion,,,56.0,56,-0.8876577615737915,False,Stanford,Oregon,7.0,3.0,2,7,12,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,65.0,65,1.8247449398040771,False,Stanford,Oregon,7.0,3.0,2,8,1,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,74.0,74,0.6288315057754517,False,Stanford,Oregon,7.0,3.0,2,9,40,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Sack,,,55.0,55,-2.355377674102783,False,Stanford,Oregon,7.0,3.0,1,1,22,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Incompletion,,,61.0,61,-0.5801784992218018,False,Stanford,Oregon,7.0,3.0,1,1,57,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,74.0,74,0.12056446075439453,False,Stanford,Oregon,7.0,3.0,1,2,36,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Passing Touchdown,,,36.0,36,3.1012704372406006,True,Stanford,Oregon,7.0,3.0,1,4,13,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,55.0,55,1.3146297931671143,False,Stanford,Oregon,0.0,3.0,1,4,48,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,66.0,66,-0.4413193166255951,False,Stanford,Oregon,0.0,3.0,1,6,42,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Sack,,,59.0,59,-1.8005794286727905,False,Stanford,Oregon,0.0,3.0,1,7,57,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114195.0,Pass Reception,,,68.0,68,0.9188694953918457,False,Stanford,Oregon,0.0,3.0,1,8,9,4,Stanford,2019,Oregon,Justin Herbert,2020
+401114196.0,Passing Touchdown,,,5.0,5,2.01580810546875,True,Washington,Oregon,35.0,31.0,4,5,10,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,70.0,70,1.2178679704666138,False,Washington,Oregon,28.0,31.0,4,8,28,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,52.0,52,-1.6538805961608887,False,Washington,Oregon,28.0,31.0,4,10,43,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,70.0,70,2.0413568019866943,False,Washington,Oregon,28.0,31.0,4,12,15,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,73.0,73,-0.24274682998657227,False,Washington,Oregon,28.0,31.0,4,12,30,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Passing Touchdown,,,36.0,36,6.189870834350586,True,Washington,Oregon,28.0,31.0,3,0,0,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,43.0,43,-0.6226301789283752,False,Washington,Oregon,21.0,31.0,3,0,5,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,43.0,43,-0.9661035537719727,False,Washington,Oregon,21.0,31.0,3,0,50,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,58.0,58,-0.5044554471969604,False,Washington,Oregon,21.0,31.0,3,1,44,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,71.0,71,-0.16113686561584473,False,Washington,Oregon,21.0,31.0,3,2,46,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,75.0,75,-0.5540406107902527,False,Washington,Oregon,21.0,31.0,3,3,33,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,37.0,37,2.708984613418579,False,Washington,Oregon,14.0,28.0,3,9,38,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,36.0,36,-0.9930455684661865,False,Washington,Oregon,14.0,28.0,3,10,0,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,72.0,72,1.6504201889038086,False,Washington,Oregon,14.0,28.0,3,12,31,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,34.0,34,0.21824860572814941,False,Washington,Oregon,14.0,21.0,2,0,0,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,34.0,34,-1.4822503328323364,False,Washington,Oregon,14.0,21.0,2,0,8,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,43.0,43,0.4921862483024597,False,Washington,Oregon,14.0,21.0,2,0,10,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,50.0,50,0.19494056701660156,False,Washington,Oregon,14.0,21.0,2,0,20,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,79.0,79,0.5643596649169922,False,Washington,Oregon,14.0,21.0,2,0,40,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,79.0,79,-0.14131243526935577,False,Washington,Oregon,14.0,21.0,2,0,47,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Passing Touchdown,,,16.0,16,2.770683765411377,True,Washington,Oregon,14.0,14.0,2,2,59,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,44.0,44,1.130246639251709,False,Washington,Oregon,7.0,14.0,2,4,22,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,44.0,44,-0.41288208961486816,False,Washington,Oregon,7.0,14.0,2,4,34,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,61.0,61,1.64691162109375,False,Washington,Oregon,7.0,14.0,2,4,48,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,69.0,69,-1.0304136276245117,False,Washington,Oregon,7.0,14.0,2,8,5,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,69.0,69,-0.7873131632804871,False,Washington,Oregon,7.0,14.0,2,8,15,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,82.0,82,1.2714382410049438,False,Washington,Oregon,7.0,14.0,2,8,57,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,75.0,75,-0.8664820194244385,False,Washington,Oregon,7.0,14.0,2,12,34,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,75.0,75,-0.5009747743606567,False,Washington,Oregon,7.0,14.0,2,12,41,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,76.0,76,-1.046828031539917,False,Washington,Oregon,7.0,7.0,2,14,48,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,76.0,76,-1.0448329448699951,False,Washington,Oregon,7.0,7.0,2,14,55,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Incompletion,,,80.0,80,-1.2248458862304688,False,Washington,Oregon,7.0,0.0,1,6,13,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Passing Touchdown,,,12.0,12,2.4587574005126953,True,Washington,Oregon,7.0,0.0,1,9,44,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,36.0,36,1.2539453506469727,False,Washington,Oregon,0.0,0.0,1,11,28,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,61.0,61,2.259577751159668,False,Washington,Oregon,0.0,0.0,1,13,0,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,66.0,66,-0.26503562927246094,False,Washington,Oregon,0.0,0.0,1,13,31,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,64.0,64,-1.1051337718963623,False,Washington,Oregon,0.0,0.0,1,14,8,8,Washington,2019,Oregon,Justin Herbert,2020
+401114196.0,Pass Reception,,,71.0,71,0.9415320754051208,False,Washington,Oregon,0.0,0.0,1,14,29,8,Washington,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,33.0,67,1.6209132671356201,False,Oregon,Washington State,34.0,35.0,4,0,26,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,48.0,52,1.232511281967163,False,Oregon,Washington State,34.0,35.0,4,0,35,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,55.0,45,0.262829065322876,False,Oregon,Washington State,34.0,35.0,4,0,40,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,61.0,39,0.10054183006286621,False,Oregon,Washington State,34.0,35.0,4,0,45,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,35.0,65,-0.44562506675720215,False,Oregon,Washington State,34.0,28.0,4,3,45,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,64.0,36,1.9473953247070312,False,Oregon,Washington State,34.0,28.0,4,5,5,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,12.0,88,-0.6021022796630859,False,Oregon,Washington State,31.0,28.0,4,6,45,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,48.0,52,-0.6714034080505371,False,Oregon,Washington State,31.0,28.0,4,9,30,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,65.0,35,2.4880731105804443,False,Oregon,Washington State,31.0,28.0,4,9,52,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,64.0,36,-0.9289472103118896,False,Oregon,Washington State,31.0,28.0,4,10,49,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,58.0,42,0.41017699241638184,False,Oregon,Washington State,24.0,20.0,3,2,0,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,16.0,84,0.6962776184082031,False,Oregon,Washington State,17.0,17.0,3,7,29,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,22.0,78,1.7617785930633545,False,Oregon,Washington State,17.0,17.0,3,8,20,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,22.0,78,-0.7207868099212646,False,Oregon,Washington State,17.0,17.0,3,8,28,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,40.0,60,2.307155132293701,False,Oregon,Washington State,17.0,17.0,3,10,0,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,43.0,64,0.5235466957092285,False,Oregon,Washington State,17.0,17.0,3,11,25,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,64.0,36,2.1909632682800293,False,Oregon,Washington State,17.0,17.0,3,12,15,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,68.0,32,-0.5014668107032776,False,Oregon,Washington State,17.0,17.0,2,0,3,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,68.0,32,-0.08733302354812622,False,Oregon,Washington State,17.0,17.0,2,0,11,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,74.0,26,-0.13279426097869873,False,Oregon,Washington State,17.0,17.0,2,0,17,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,80.0,20,-0.12547868490219116,False,Oregon,Washington State,17.0,17.0,2,0,40,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Sack,,,33.0,67,-1.3409684896469116,False,Oregon,Washington State,9.0,10.0,2,3,0,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,33.0,67,-0.4340484142303467,False,Oregon,Washington State,9.0,10.0,2,3,54,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Sack,,,22.0,78,-1.7304658889770508,False,Oregon,Washington State,9.0,10.0,2,4,25,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,40.0,60,1.9358325004577637,False,Oregon,Washington State,9.0,10.0,2,5,0,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Incompletion,,,43.0,57,-0.3795959949493408,False,Oregon,Washington State,9.0,10.0,2,5,33,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,76.0,24,0.4619424343109131,False,Oregon,Washington State,9.0,10.0,2,6,40,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,25.0,75,-0.701629638671875,False,Oregon,Washington State,0.0,3.0,1,3,45,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,60.0,40,1.1762670278549194,False,Oregon,Washington State,0.0,3.0,1,6,20,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Sack,,,54.0,46,-2.4893813133239746,False,Oregon,Washington State,0.0,0.0,1,12,0,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114197.0,Pass Reception,,,60.0,40,-0.06505107879638672,False,Oregon,Washington State,0.0,0.0,1,12,20,9,Washington State,2019,Oregon,Justin Herbert,2020
+401114198.0,Passing Touchdown,,,35.0,35,4.550257205963135,True,USC,Oregon,56.0,17.0,4,6,50,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Incompletion,,,35.0,35,-0.021772146224975586,False,USC,Oregon,49.0,17.0,4,6,58,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,41.0,41,0.6788089275360107,False,USC,Oregon,49.0,17.0,4,7,3,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,85.0,71,-0.5013105869293213,False,USC,Oregon,49.0,17.0,4,9,15,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Passing Touchdown,,,37.0,37,2.8628602027893066,True,USC,Oregon,49.0,17.0,4,13,55,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,59.0,59,-0.28736090660095215,False,USC,Oregon,42.0,17.0,3,0,1,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,92.0,92,0.1401064395904541,False,USC,Oregon,42.0,17.0,3,2,50,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Passing Touchdown,,,11.0,11,1.191586971282959,True,USC,Oregon,42.0,17.0,3,6,14,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,31.0,31,1.8781113624572754,False,USC,Oregon,35.0,17.0,3,7,37,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Passing Touchdown,,,15.0,15,2.0912833213806152,True,USC,Oregon,35.0,17.0,3,11,39,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,75.0,48,0.5858602523803711,False,USC,Oregon,28.0,17.0,3,13,38,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,77.0,77,-0.581123948097229,False,USC,Oregon,28.0,17.0,3,14,0,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,80.0,80,-0.36885952949523926,False,USC,Oregon,28.0,17.0,3,14,37,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,10.0,10,1.6050004959106445,False,USC,Oregon,7.0,10.0,2,3,15,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,14.0,14,-0.10188770294189453,False,USC,Oregon,7.0,10.0,2,3,45,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,33.0,33,0.06153988838195801,False,USC,Oregon,7.0,10.0,2,4,15,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,76.0,76,1.102555751800537,False,USC,Oregon,7.0,10.0,2,4,52,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,85.0,85,0.5977929830551147,False,USC,Oregon,7.0,10.0,2,5,15,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,92.0,92,0.432405024766922,False,USC,Oregon,7.0,10.0,2,5,30,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,12.0,12,-0.2775077819824219,False,USC,Oregon,0.0,10.0,2,10,55,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,26.0,26,0.8341770172119141,False,USC,Oregon,0.0,10.0,2,11,10,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,70.0,70,0.2247171401977539,False,USC,Oregon,0.0,10.0,1,0,50,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Sack,,,60.0,60,-2.2002477645874023,False,USC,Oregon,0.0,10.0,1,1,9,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,78.0,78,3.196305274963379,False,USC,Oregon,0.0,10.0,1,2,6,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Incompletion,,,78.0,78,-0.9425712823867798,False,USC,Oregon,0.0,10.0,1,2,21,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Reception,,,75.0,75,-1.0386537313461304,False,USC,Oregon,0.0,10.0,1,2,39,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Interception Return,,,87.0,87,-3.9385499954223633,False,USC,Oregon,0.0,7.0,1,3,55,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Incompletion,,,92.0,92,-0.6221867799758911,False,USC,Oregon,0.0,7.0,1,4,41,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Pass Incompletion,,,77.0,77,-0.9153797626495361,False,USC,Oregon,0.0,7.0,1,8,1,10,USC,2019,Oregon,Justin Herbert,2020
+401114198.0,Sack,,,71.0,71,-1.4940102100372314,False,USC,Oregon,0.0,7.0,1,8,6,10,USC,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,70.0,30,-0.5101621150970459,False,Oregon,Oregon State,17.0,10.0,4,11,3,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,61.0,39,0.7569022178649902,False,Oregon,Oregon State,17.0,10.0,4,11,3,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,29.0,71,-0.9940176010131836,False,Oregon,Oregon State,17.0,10.0,4,11,3,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Fumble Recovery (Own),,,25.0,75,3.3940300941467285,False,Oregon,Oregon State,17.0,10.0,4,11,3,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Fumble Recovery (Opponent),,,8.0,92,-5.751095294952393,False,Oregon,Oregon State,17.0,10.0,4,11,3,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,77.0,23,0.6930723190307617,False,Oregon,Oregon State,17.0,3.0,3,3,16,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,70.0,30,0.6132819652557373,False,Oregon,Oregon State,17.0,3.0,3,3,16,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Sack,,,55.0,45,-1.2811033725738525,False,Oregon,Oregon State,17.0,3.0,3,3,16,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,62.0,38,-0.07069253921508789,False,Oregon,Oregon State,17.0,3.0,3,3,16,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,52.0,48,-1.6968963146209717,False,Oregon,Oregon State,17.0,3.0,3,3,16,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,50.0,50,1.0028798580169678,False,Oregon,Oregon State,17.0,3.0,3,12,31,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,21.0,79,2.8131191730499268,False,Oregon,Oregon State,17.0,3.0,3,12,31,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,6.0,94,-1.2870452404022217,False,Oregon,Oregon State,17.0,3.0,3,12,31,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,43.0,57,-0.4441479444503784,False,Oregon,Oregon State,17.0,3.0,2,1,47,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,43.0,57,-0.8801999092102051,False,Oregon,Oregon State,17.0,3.0,2,1,47,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,41.0,59,-0.4645407199859619,False,Oregon,Oregon State,17.0,3.0,2,5,40,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,39.0,61,-1.4825310707092285,False,Oregon,Oregon State,17.0,3.0,2,5,40,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Sack,,,34.0,66,-0.9124233722686768,False,Oregon,Oregon State,17.0,3.0,2,10,14,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,35.0,65,-1.556238055229187,False,Oregon,Oregon State,17.0,3.0,2,10,14,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Passing Touchdown,,,28.0,72,2.2829384803771973,True,Oregon,Oregon State,17.0,3.0,2,12,55,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,61.0,39,-0.8740018606185913,False,Oregon,Oregon State,10.0,3.0,1,0,50,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,69.0,31,1.6342132091522217,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,53.0,47,-1.0106550455093384,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,53.0,47,2.1547341346740723,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,50.0,50,-0.4858734607696533,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,48.0,52,2.8345232009887695,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,20.0,80,0.6110858917236328,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Reception,,,12.0,88,-0.36027956008911133,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,9.0,91,-0.746497631072998,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401114199.0,Pass Incompletion,,,14.0,86,-2.821584701538086,False,Oregon,Oregon State,0.0,0.0,1,15,0,14,Oregon State,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,60.0,40,0.8227810859680176,False,Oregon,Utah,30.0,15.0,4,4,28,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,81.0,19,-0.15601444244384766,False,Oregon,Utah,23.0,15.0,4,9,8,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,90.0,10,0.8404945135116577,False,Oregon,Utah,23.0,15.0,4,9,22,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,70.0,30,-1.7376571893692017,False,Oregon,Utah,23.0,15.0,4,14,55,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,25.0,75,-0.784332275390625,False,Oregon,Utah,20.0,7.0,3,6,31,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,82.0,18,-0.5563822984695435,False,Oregon,Utah,20.0,7.0,3,10,44,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,85.0,15,-1.696083903312683,False,Oregon,Utah,20.0,0.0,3,13,27,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,12.0,88,-0.7784814834594727,False,Oregon,Utah,17.0,0.0,2,5,1,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,42.0,58,1.8015446662902832,False,Oregon,Utah,17.0,0.0,2,6,46,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,52.0,48,0.025006413459777832,False,Oregon,Utah,17.0,0.0,2,7,47,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,52.0,48,-0.8633863925933838,False,Oregon,Utah,17.0,0.0,2,8,0,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Passing Touchdown,,,45.0,55,3.1738152503967285,True,Oregon,Utah,17.0,0.0,2,11,2,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,60.0,40,0.22996258735656738,False,Oregon,Utah,10.0,0.0,2,11,23,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,70.0,30,-0.00793147087097168,False,Oregon,Utah,10.0,0.0,2,12,4,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,85.0,15,-1.2626304626464844,False,Oregon,Utah,10.0,0.0,1,0,22,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,85.0,15,-0.7253390550613403,False,Oregon,Utah,10.0,0.0,1,0,31,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Sack,,,48.0,38,-0.08524858951568604,False,Oregon,Utah,10.0,0.0,1,1,35,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,48.0,52,-1.0558820962905884,False,Oregon,Utah,10.0,0.0,1,1,41,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,43.0,57,-0.5979166030883789,False,Oregon,Utah,10.0,0.0,1,1,50,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,52.0,48,2.7389025688171387,False,Oregon,Utah,7.0,0.0,1,6,27,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,61.0,39,0.7017221450805664,False,Oregon,Utah,7.0,0.0,1,6,52,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,15.0,85,1.3699722290039062,False,Oregon,Utah,0.0,0.0,1,8,28,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Incompletion,,,23.0,77,-0.6029112339019775,False,Oregon,Utah,0.0,0.0,1,9,11,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,41.0,59,0.6820435523986816,False,Oregon,Utah,0.0,0.0,1,10,24,15,Utah,2019,Oregon,Justin Herbert,2020
+401132973.0,Pass Reception,,,67.0,33,-1.244064450263977,False,Oregon,Utah,0.0,0.0,1,11,35,15,Utah,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,37.0,37,2.7343783378601074,False,Wisconsin,Oregon,28.0,27.0,4,1,3,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,56.0,56,0.5812540054321289,False,Wisconsin,Oregon,28.0,27.0,4,1,49,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Incompletion,,,70.0,70,-1.24741792678833,False,Wisconsin,Oregon,28.0,27.0,4,4,6,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Sack,,,35.0,35,-3.324923276901245,False,Wisconsin,Oregon,21.0,27.0,4,10,5,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,43.0,43,0.48618650436401367,False,Wisconsin,Oregon,21.0,27.0,4,10,29,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Incompletion,,,43.0,43,-0.5543551445007324,False,Wisconsin,Oregon,21.0,27.0,4,10,36,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,57.0,57,0.8690288066864014,False,Wisconsin,Oregon,21.0,27.0,4,11,20,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,72.0,72,-1.0275137424468994,False,Wisconsin,Oregon,21.0,24.0,3,4,19,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,33.0,33,1.1667020320892334,False,Wisconsin,Oregon,7.0,10.0,2,3,57,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,36.0,36,0.4672262668609619,False,Wisconsin,Oregon,7.0,10.0,2,8,30,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Incompletion,,,69.0,69,-1.3050734996795654,False,Wisconsin,Oregon,7.0,10.0,2,9,35,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Incompletion,,,66.0,66,-1.1324163675308228,False,Wisconsin,Oregon,7.0,10.0,1,3,10,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Sack,,,57.0,57,-1.4739270210266113,False,Wisconsin,Oregon,7.0,10.0,1,4,18,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,68.0,68,0.6168273687362671,False,Wisconsin,Oregon,7.0,10.0,1,4,47,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,70.0,70,-1.701643466949463,False,Wisconsin,Oregon,7.0,10.0,1,7,18,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Incompletion,,,75.0,75,-0.9187722206115723,False,Wisconsin,Oregon,7.0,10.0,1,7,25,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,75.0,75,-0.6376789808273315,False,Wisconsin,Oregon,7.0,10.0,1,7,49,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Interception Return,,,75.0,75,-5.500636577606201,False,Wisconsin,Oregon,7.0,7.0,1,9,35,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,19.0,19,0.9928951263427734,False,Wisconsin,Oregon,0.0,0.0,1,10,23,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,29.0,29,0.8426578044891357,False,Wisconsin,Oregon,0.0,0.0,1,11,55,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,38.0,38,1.5746397972106934,False,Wisconsin,Oregon,0.0,0.0,1,12,15,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Incompletion,,,44.0,44,-0.6629409790039062,False,Wisconsin,Oregon,0.0,0.0,1,13,15,1,Wisconsin,2019,Oregon,Justin Herbert,2020
+401135288.0,Pass Reception,,,60.0,60,1.6578679084777832,False,Wisconsin,Oregon,0.0,0.0,1,13,49,1,Wisconsin,2019,Oregon,Justin Herbert,2020

@@ -1,0 +1,384 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401282124.0,Interception Return,,,16.0,16,-4.615981578826904,False,Ole Miss,Liberty,14.0,27.0,4,1,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,21.0,21,1.054645299911499,False,Ole Miss,Liberty,14.0,27.0,4,1,10,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,21.0,21,-0.4609804153442383,False,Ole Miss,Liberty,14.0,27.0,4,1,19,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,47.0,47,1.3334473371505737,False,Ole Miss,Liberty,14.0,27.0,4,1,45,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,53.0,53,-0.0659857988357544,False,Ole Miss,Liberty,14.0,27.0,4,1,58,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,49.0,49,-0.9690905809402466,False,Ole Miss,Liberty,14.0,27.0,4,6,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,39.0,39,-1.675045371055603,False,Ole Miss,Liberty,14.0,27.0,4,7,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,60.0,60,2.5860562324523926,False,Ole Miss,Liberty,14.0,27.0,4,7,20,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,60.0,60,-0.45899784564971924,False,Ole Miss,Liberty,14.0,27.0,4,7,40,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,82.0,82,0.783487856388092,False,Ole Miss,Liberty,14.0,27.0,4,9,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,42.0,42,-3.072655200958252,False,Ole Miss,Liberty,14.0,27.0,4,11,37,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,42.0,42,-1.554301142692566,False,Ole Miss,Liberty,14.0,27.0,4,11,43,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,64.0,64,0.5258737802505493,False,Ole Miss,Liberty,14.0,27.0,4,13,40,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,53.0,53,0.4546862542629242,False,Ole Miss,Liberty,7.0,27.0,3,3,35,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,54.0,54,1.5402624607086182,False,Ole Miss,Liberty,7.0,27.0,3,4,50,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,49.0,49,2.034672737121582,False,Ole Miss,Liberty,0.0,24.0,3,11,49,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,61.0,61,1.2184382677078247,False,Ole Miss,Liberty,0.0,24.0,3,12,45,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,52.0,52,-0.2112557739019394,False,Ole Miss,Liberty,0.0,24.0,2,0,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,57.0,57,0.07189434766769409,False,Ole Miss,Liberty,0.0,24.0,2,0,19,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,79.0,79,-0.42198967933654785,False,Ole Miss,Liberty,0.0,24.0,2,1,8,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Interception Return,,,25.0,25,-4.606724739074707,False,Ole Miss,Liberty,0.0,17.0,2,2,55,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,25.0,25,-0.6595327854156494,False,Ole Miss,Liberty,0.0,17.0,2,3,30,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,59.0,59,0.7671167254447937,False,Ole Miss,Liberty,0.0,17.0,2,6,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,59.0,59,-0.6159130930900574,False,Ole Miss,Liberty,0.0,17.0,2,6,14,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Interception Return,,,57.0,57,-3.971733570098877,False,Ole Miss,Liberty,0.0,17.0,2,11,10,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,75.0,75,1.7785409688949585,False,Ole Miss,Liberty,0.0,17.0,2,12,50,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,75.0,75,-0.581892192363739,False,Ole Miss,Liberty,0.0,17.0,2,13,5,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,73.0,73,-1.8387348651885986,False,Ole Miss,Liberty,0.0,10.0,2,14,30,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,12.0,12,-1.6843851804733276,False,Ole Miss,Liberty,0.0,7.0,1,2,45,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Incompletion,,,12.0,12,-0.7774481773376465,False,Ole Miss,Liberty,0.0,7.0,1,3,22,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,36.0,36,0.5300033092498779,False,Ole Miss,Liberty,0.0,7.0,1,6,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,35.0,35,-1.3114196062088013,False,Ole Miss,Liberty,0.0,7.0,1,10,20,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,30.0,30,-2.28251051902771,False,Ole Miss,Liberty,0.0,7.0,1,10,50,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Pass Reception,,,69.0,69,1.7420783042907715,False,Ole Miss,Liberty,0.0,7.0,1,13,30,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282124.0,Sack,,,75.0,75,-1.5023963451385498,False,Ole Miss,Liberty,0.0,7.0,1,14,0,10,Ole Miss,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,80.0,20,0.40360522270202637,False,Liberty,Old Dominion,42.0,17.0,4,11,57,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,61.0,39,0.4384326934814453,False,Liberty,Old Dominion,42.0,17.0,4,11,57,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,50.0,50,0.7539401054382324,False,Liberty,Old Dominion,42.0,17.0,4,11,57,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Incompletion,,,13.0,87,-1.4409022331237793,False,Liberty,Old Dominion,42.0,17.0,4,11,57,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Sack,,,59.0,41,-0.8303947448730469,False,Liberty,Old Dominion,42.0,17.0,3,2,54,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Sack,,,56.0,44,-2.270260810852051,False,Liberty,Old Dominion,42.0,17.0,3,2,54,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,63.0,37,1.4731051921844482,False,Liberty,Old Dominion,35.0,17.0,3,8,35,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,45.0,55,1.5566539764404297,False,Liberty,Old Dominion,35.0,17.0,3,8,35,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Incompletion,,,21.0,79,-0.7922132015228271,False,Liberty,Old Dominion,35.0,17.0,3,8,35,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,21.0,79,2.317974805831909,False,Liberty,Old Dominion,35.0,17.0,3,8,35,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Passing Touchdown,,,8.0,92,1.14713716506958,True,Liberty,Old Dominion,35.0,17.0,3,11,10,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,42.0,58,2.4070920944213867,False,Liberty,Old Dominion,28.0,17.0,3,13,10,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Passing Touchdown,,,38.0,62,4.3253889083862305,True,Liberty,Old Dominion,28.0,10.0,2,3,48,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,43.0,57,0.11289572715759277,False,Liberty,Old Dominion,21.0,10.0,2,6,19,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Sack,,,70.0,30,-1.7435169219970703,False,Liberty,Old Dominion,21.0,3.0,2,11,22,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Incompletion,,,80.0,20,-1.1983821392059326,False,Liberty,Old Dominion,21.0,3.0,2,11,22,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Passing Touchdown,,,33.0,67,2.439030170440674,True,Liberty,Old Dominion,21.0,3.0,2,13,23,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,71.0,29,0.3400232791900635,False,Liberty,Old Dominion,14.0,3.0,1,0,0,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,54.0,46,-0.08267807960510254,False,Liberty,Old Dominion,14.0,3.0,2,15,0,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,80.0,20,0.7499672174453735,False,Liberty,Old Dominion,14.0,3.0,1,0,41,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,79.0,21,-0.5540632009506226,False,Liberty,Old Dominion,7.0,0.0,1,6,2,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,78.0,22,-0.4072391986846924,False,Liberty,Old Dominion,7.0,0.0,1,6,2,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Incompletion,,,84.0,16,-0.9980655908584595,False,Liberty,Old Dominion,7.0,0.0,1,8,43,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Incompletion,,,84.0,16,-1.2517610788345337,False,Liberty,Old Dominion,7.0,0.0,1,8,43,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Passing Touchdown,,,14.0,86,3.0009491443634033,True,Liberty,Old Dominion,7.0,0.0,1,11,25,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,68.0,32,0.6175893545150757,False,Liberty,Old Dominion,0.0,0.0,1,14,53,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,60.0,40,0.28285670280456543,False,Liberty,Old Dominion,0.0,0.0,1,14,53,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,49.0,51,-0.6321201324462891,False,Liberty,Old Dominion,0.0,0.0,1,14,53,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Reception,,,47.0,53,1.378408432006836,False,Liberty,Old Dominion,0.0,0.0,1,14,53,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282201.0,Pass Incompletion,,,43.0,57,-0.655846118927002,False,Liberty,Old Dominion,0.0,0.0,1,14,53,3,Old Dominion,2021,Liberty,Malik Willis,2022
+401282221.0,Passing Touchdown,,,33.0,33,3.651224136352539,True,UAB,Liberty,36.0,5.0,4,6,21,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,50.0,50,1.976499319076538,False,UAB,Liberty,30.0,3.0,4,9,35,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,72.0,72,1.621704339981079,False,UAB,Liberty,24.0,3.0,3,1,59,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,83.0,83,3.094052791595459,False,UAB,Liberty,17.0,3.0,3,5,29,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,14.0,14,2.058411121368408,False,UAB,Liberty,17.0,3.0,3,5,29,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,84.0,84,1.1213802099227905,False,UAB,Liberty,17.0,3.0,3,8,30,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Incompletion,,,67.0,67,-1.0710842609405518,False,UAB,Liberty,17.0,3.0,3,8,30,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Incompletion,,,67.0,67,-1.0772197246551514,False,UAB,Liberty,17.0,3.0,3,8,30,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Passing Touchdown,,,39.0,39,2.62135648727417,True,UAB,Liberty,17.0,3.0,3,10,33,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,75.0,75,-0.8602007031440735,False,UAB,Liberty,3.0,3.0,3,15,0,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Incompletion,,,82.0,82,-0.933876633644104,False,UAB,Liberty,3.0,3.0,2,1,12,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,80.0,80,-0.5886773467063904,False,UAB,Liberty,3.0,3.0,2,3,17,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,87.0,87,0.40119388699531555,False,UAB,Liberty,3.0,3.0,2,3,17,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Incompletion,,,70.0,70,-0.7391926646232605,False,UAB,Liberty,3.0,3.0,2,8,8,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Incompletion,,,70.0,70,-0.9213459491729736,False,UAB,Liberty,3.0,3.0,2,8,8,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,36.0,36,0.7920498847961426,False,UAB,Liberty,3.0,3.0,2,8,8,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Sack,,,55.0,55,-0.9662255048751831,False,UAB,Liberty,0.0,3.0,1,0,0,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,50.0,50,1.058701992034912,False,UAB,Liberty,0.0,3.0,2,15,0,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,79.0,79,1.8766815662384033,False,UAB,Liberty,0.0,3.0,1,1,56,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,75.0,75,2.245029926300049,False,UAB,Liberty,0.0,3.0,1,10,44,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Sack,,,55.0,55,-1.008499264717102,False,UAB,Liberty,0.0,3.0,1,10,44,5,UAB,2021,Liberty,Malik Willis,2022
+401282221.0,Pass Reception,,,56.0,56,-0.7047654390335083,False,UAB,Liberty,0.0,3.0,1,10,44,5,UAB,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,75.0,25,-0.6670756340026855,False,Liberty,Middle Tennessee,36.0,13.0,4,15,0,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,74.0,26,1.2514722347259521,False,Liberty,Middle Tennessee,36.0,13.0,4,15,0,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,67.0,33,-0.9058448076248169,False,Liberty,Middle Tennessee,36.0,13.0,4,15,0,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Sack,,,77.0,23,-1.1808494329452515,False,Liberty,Middle Tennessee,36.0,13.0,4,15,0,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Interception Return,,,50.0,50,-4.437485694885254,False,Liberty,Middle Tennessee,26.0,7.0,3,11,54,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Sack,,,41.0,59,-0.007012277841567993,False,Liberty,Middle Tennessee,24.0,7.0,2,0,0,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Incompletion,,,19.0,81,-0.37733006477355957,False,Liberty,Middle Tennessee,21.0,7.0,2,0,53,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Incompletion,,,93.0,7,-0.7279030680656433,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Incompletion,,,93.0,7,-0.5775337219238281,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,93.0,7,1.620833396911621,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,79.0,21,1.9886527061462402,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Incompletion,,,30.0,70,-0.4173407554626465,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Incompletion,,,16.0,84,-0.518195390701294,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Sack,,,16.0,84,-1.7190446853637695,False,Liberty,Middle Tennessee,21.0,7.0,2,2,50,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Incompletion,,,80.0,20,-0.6215341091156006,False,Liberty,Middle Tennessee,14.0,0.0,2,12,26,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,80.0,20,1.178445816040039,False,Liberty,Middle Tennessee,14.0,0.0,2,12,26,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,28.0,72,-0.4088315963745117,False,Liberty,Middle Tennessee,14.0,0.0,2,12,26,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Passing Touchdown,,,5.0,95,0.9217052459716797,True,Liberty,Middle Tennessee,14.0,0.0,1,0,13,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,84.0,16,1.1205331087112427,False,Liberty,Middle Tennessee,7.0,0.0,1,2,35,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,57.0,43,2.381826877593994,False,Liberty,Middle Tennessee,7.0,0.0,1,2,35,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,63.0,37,-1.9538512229919434,False,Liberty,Middle Tennessee,7.0,0.0,1,5,57,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,76.0,24,1.3863885402679443,False,Liberty,Middle Tennessee,7.0,0.0,1,7,12,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Interception Return,,,76.0,24,-4.916416645050049,False,Liberty,Middle Tennessee,7.0,0.0,1,7,19,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,88.0,12,0.4844163656234741,False,Liberty,Middle Tennessee,7.0,0.0,1,7,58,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,81.0,19,0.1303849220275879,False,Liberty,Middle Tennessee,7.0,0.0,1,7,58,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Passing Touchdown,,,35.0,65,2.711866855621338,True,Liberty,Middle Tennessee,7.0,0.0,1,10,59,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282229.0,Pass Reception,,,47.0,53,1.8968417644500732,False,Liberty,Middle Tennessee,0.0,0.0,1,12,18,6,Middle Tennessee,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,67.0,67,-1.0297503471374512,False,North Texas,Liberty,35.0,26.0,4,5,42,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Passing Touchdown,,,37.0,37,4.746130466461182,True,North Texas,Liberty,35.0,26.0,4,11,19,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,82.0,82,1.681380033493042,False,North Texas,Liberty,28.0,26.0,4,13,58,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Sack,,,54.0,54,-1.614410161972046,False,North Texas,Liberty,28.0,26.0,4,13,58,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,65.0,65,1.0424816608428955,False,North Texas,Liberty,28.0,26.0,4,13,58,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,40.0,40,-1.4121488332748413,False,North Texas,Liberty,28.0,26.0,4,13,58,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,97.0,97,2.767357587814331,False,North Texas,Liberty,28.0,26.0,4,14,54,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Passing Touchdown,,,20.0,20,2.3688926696777344,True,North Texas,Liberty,21.0,26.0,3,5,16,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,31.0,31,0.29297304153442383,False,North Texas,Liberty,14.0,26.0,3,5,53,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,75.0,75,-0.5437421798706055,False,North Texas,Liberty,14.0,26.0,3,7,27,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Sack,,,75.0,75,-1.7051162719726562,False,North Texas,Liberty,14.0,26.0,3,7,27,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,40.0,40,-1.0404666662216187,False,North Texas,Liberty,14.0,26.0,3,7,27,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,62.0,62,8.013961791992188,False,North Texas,Liberty,14.0,20.0,3,13,46,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,27.0,27,-3.0181005001068115,False,North Texas,Liberty,14.0,20.0,2,0,7,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,42.0,42,0.9420343637466431,False,North Texas,Liberty,14.0,20.0,2,1,8,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,35.0,35,-1.0423321723937988,False,North Texas,Liberty,14.0,20.0,2,1,8,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,35.0,35,2.3004348278045654,False,North Texas,Liberty,14.0,20.0,2,1,8,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Passing Touchdown,,,39.0,39,5.899511337280273,True,North Texas,Liberty,14.0,20.0,2,1,13,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,39.0,39,-0.36821532249450684,False,North Texas,Liberty,7.0,20.0,2,1,48,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,65.0,65,0.2112363576889038,False,North Texas,Liberty,7.0,17.0,2,6,14,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Incompletion,,,59.0,59,-0.7176673412322998,False,North Texas,Liberty,7.0,17.0,2,6,14,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,59.0,59,-1.4911231994628906,False,North Texas,Liberty,7.0,17.0,2,6,14,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,75.0,75,0.1720261573791504,False,North Texas,Liberty,7.0,14.0,2,10,25,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Interception Return,,,70.0,70,-2.718296527862549,False,North Texas,Liberty,7.0,14.0,2,10,25,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Sack,,,61.0,61,-1.6081883907318115,False,North Texas,Liberty,7.0,14.0,2,10,25,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Sack,,,69.0,69,-1.3403258323669434,False,North Texas,Liberty,7.0,14.0,2,10,25,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Passing Touchdown,,,27.0,27,3.6616384983062744,True,North Texas,Liberty,7.0,7.0,2,11,15,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,93.0,93,-0.07095736265182495,False,North Texas,Liberty,0.0,7.0,2,13,17,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Pass Reception,,,62.0,62,1.6779347658157349,False,North Texas,Liberty,0.0,7.0,2,13,17,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Sack,,,48.0,48,-1.5329985618591309,False,North Texas,Liberty,0.0,7.0,1,5,51,8,North Texas,2021,Liberty,Malik Willis,2022
+401282240.0,Sack,,,96.0,96,-1.399712324142456,False,North Texas,Liberty,0.0,0.0,1,10,21,8,North Texas,2021,Liberty,Malik Willis,2022
+401282637.0,Fumble Recovery (Opponent),,,63.0,63,-5.761237621307373,False,Syracuse,Liberty,21.0,21.0,4,3,35,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,52.0,52,2.737102746963501,False,Syracuse,Liberty,21.0,21.0,4,11,56,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Passing Touchdown,,,33.0,33,2.933760643005371,True,Syracuse,Liberty,21.0,21.0,4,14,31,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,45.0,45,0.3693239688873291,False,Syracuse,Liberty,14.0,21.0,3,0,58,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Passing Touchdown,,,23.0,23,3.4052464962005615,True,Syracuse,Liberty,14.0,21.0,3,2,57,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,49.0,49,-0.24276316165924072,False,Syracuse,Liberty,7.0,21.0,3,6,15,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Sack,,,75.0,75,-1.141571283340454,False,Syracuse,Liberty,7.0,21.0,3,9,46,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,76.0,76,0.30982935428619385,False,Syracuse,Liberty,7.0,21.0,3,9,46,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Sack,,,75.0,75,-1.4537651538848877,False,Syracuse,Liberty,7.0,21.0,3,9,46,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,75.0,75,0.7157346606254578,False,Syracuse,Liberty,7.0,14.0,3,15,0,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Sack,,,68.0,68,-2.08953595161438,False,Syracuse,Liberty,7.0,14.0,3,15,0,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,72.0,72,1.8518710136413574,False,Syracuse,Liberty,7.0,14.0,3,15,0,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Passing Touchdown,,,7.0,7,1.7805461883544922,True,Syracuse,Liberty,7.0,14.0,2,1,33,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,64.0,64,1.418718695640564,False,Syracuse,Liberty,0.0,14.0,2,5,3,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,32.0,32,1.6019549369812012,False,Syracuse,Liberty,0.0,14.0,2,5,3,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,95.0,95,-0.4371281862258911,False,Syracuse,Liberty,0.0,14.0,2,9,45,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,83.0,83,1.5654112100601196,False,Syracuse,Liberty,0.0,14.0,2,9,45,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Incompletion,,,60.0,60,-0.7803946733474731,False,Syracuse,Liberty,0.0,14.0,2,9,45,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Sack,,,60.0,60,-2.4764747619628906,False,Syracuse,Liberty,0.0,14.0,2,9,45,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,90.0,90,0.16455090045928955,False,Syracuse,Liberty,0.0,7.0,2,13,35,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Sack,,,85.0,85,-1.7424585819244385,False,Syracuse,Liberty,0.0,7.0,2,13,35,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Reception,,,66.0,66,0.6950466632843018,False,Syracuse,Liberty,0.0,0.0,1,5,50,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Incompletion,,,47.0,47,-2.018425464630127,False,Syracuse,Liberty,0.0,0.0,1,5,50,4,Syracuse,2021,Liberty,Malik Willis,2022
+401282637.0,Pass Incompletion,,,51.0,51,-0.6856682300567627,False,Syracuse,Liberty,0.0,0.0,1,13,48,4,Syracuse,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,56.0,44,1.8893463611602783,False,Liberty,Campbell,41.0,7.0,4,8,33,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,30.0,70,3.0064923763275146,False,Liberty,Campbell,41.0,7.0,4,8,33,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Passing Touchdown,,,27.0,73,3.7376527786254883,True,Liberty,Campbell,41.0,7.0,4,10,46,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,65.0,35,-0.49413537979125977,False,Liberty,Campbell,34.0,7.0,4,14,5,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,45.0,55,2.0711143016815186,False,Liberty,Campbell,34.0,7.0,4,14,5,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,27.0,73,-0.7758738994598389,False,Liberty,Campbell,34.0,7.0,4,14,5,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,87.0,13,-0.20295965671539307,False,Liberty,Campbell,34.0,7.0,3,3,10,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,72.0,28,-0.6129968166351318,False,Liberty,Campbell,34.0,7.0,3,3,43,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,47.0,53,-0.6238136291503906,False,Liberty,Campbell,27.0,7.0,3,7,22,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,83.0,17,0.9634289741516113,False,Liberty,Campbell,27.0,7.0,3,9,13,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,28.0,72,0.5884823799133301,False,Liberty,Campbell,20.0,7.0,3,14,56,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,30.0,70,1.4719674587249756,False,Liberty,Campbell,14.0,7.0,2,0,59,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,80.0,20,0.4672732949256897,False,Liberty,Campbell,14.0,7.0,2,3,26,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,51.0,49,0.225372314453125,False,Liberty,Campbell,14.0,7.0,2,3,26,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,72.0,28,0.47310447692871094,False,Liberty,Campbell,14.0,7.0,2,10,41,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,53.0,47,0.07227706909179688,False,Liberty,Campbell,14.0,7.0,2,10,41,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,49.0,51,-1.5946877002716064,False,Liberty,Campbell,14.0,7.0,2,10,41,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,77.0,23,-1.178602695465088,False,Liberty,Campbell,14.0,0.0,2,11,36,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,80.0,20,1.088350534439087,False,Liberty,Campbell,14.0,0.0,2,13,34,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,72.0,28,-1.0758928060531616,False,Liberty,Campbell,14.0,0.0,2,13,34,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,65.0,35,-0.428804874420166,False,Liberty,Campbell,14.0,0.0,1,3,58,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,62.0,38,1.5891532897949219,False,Liberty,Campbell,14.0,0.0,1,3,58,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,37.0,63,0.6660556793212891,False,Liberty,Campbell,14.0,0.0,1,3,58,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,23.0,77,-0.597496509552002,False,Liberty,Campbell,14.0,0.0,1,3,58,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,23.0,77,-0.7967228889465332,False,Liberty,Campbell,14.0,0.0,1,3,58,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Incompletion,,,23.0,77,-1.167541742324829,False,Liberty,Campbell,14.0,0.0,1,3,58,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Pass Reception,,,46.0,54,2.108813762664795,False,Liberty,Campbell,7.0,0.0,1,7,35,1,Campbell,2021,Liberty,Malik Willis,2022
+401286294.0,Passing Touchdown,,,35.0,65,2.715428352355957,True,Liberty,Campbell,7.0,0.0,1,11,18,1,Campbell,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,66.0,66,1.1989212036132812,False,Troy,Liberty,21.0,7.0,4,10,38,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,39.0,39,-0.0215606689453125,False,Troy,Liberty,21.0,7.0,4,10,38,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Sack,,,33.0,33,-1.4375882148742676,False,Troy,Liberty,14.0,7.0,4,15,0,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,92.0,92,-0.35307687520980835,False,Troy,Liberty,14.0,7.0,3,15,0,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Sack,,,48.0,48,-1.3252174854278564,False,Troy,Liberty,14.0,7.0,3,15,0,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Sack,,,40.0,40,-1.067676067352295,False,Troy,Liberty,14.0,7.0,2,1,37,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Incompletion,,,43.0,43,-0.34578031301498413,False,Troy,Liberty,14.0,7.0,2,1,37,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Sack,,,43.0,43,-0.8156078457832336,False,Troy,Liberty,14.0,7.0,2,1,37,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,73.0,73,-0.45130616426467896,False,Troy,Liberty,14.0,7.0,2,5,39,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,71.0,71,2.5441014766693115,False,Troy,Liberty,14.0,7.0,2,5,39,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Sack,,,35.0,35,-2.2959399223327637,False,Troy,Liberty,14.0,7.0,2,5,39,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Incompletion,,,44.0,44,-1.2318447828292847,False,Troy,Liberty,14.0,7.0,2,5,39,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Passing Touchdown,,,2.0,2,3.473376512527466,True,Troy,Liberty,14.0,7.0,2,7,29,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Passing Touchdown,,,32.0,32,2.876223087310791,True,Troy,Liberty,7.0,7.0,1,4,29,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,75.0,75,-0.4246438145637512,False,Troy,Liberty,0.0,7.0,1,9,40,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,69.0,69,1.5344938039779663,False,Troy,Liberty,0.0,7.0,1,9,40,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,50.0,50,0.8814935684204102,False,Troy,Liberty,0.0,7.0,1,9,40,2,Troy,2021,Liberty,Malik Willis,2022
+401286295.0,Pass Reception,,,39.0,39,0.6013731956481934,False,Troy,Liberty,0.0,7.0,1,9,40,2,Troy,2021,Liberty,Malik Willis,2022
+401286296.0,Interception Return,,,73.0,73,-0.599044919013977,False,UL Monroe,Liberty,28.0,31.0,4,1,4,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Sack,,,67.0,67,-0.8416931629180908,False,UL Monroe,Liberty,28.0,31.0,4,1,38,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Sack,,,40.0,40,-1.9099262952804565,False,UL Monroe,Liberty,28.0,28.0,4,6,26,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,50.0,50,-1.0454349517822266,False,UL Monroe,Liberty,28.0,28.0,4,6,26,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,66.0,66,0.8058245182037354,False,UL Monroe,Liberty,21.0,28.0,4,12,14,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,43.0,43,0.7096498012542725,False,UL Monroe,Liberty,14.0,28.0,3,0,0,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Sack,,,76.0,76,-1.524841547012329,False,UL Monroe,Liberty,14.0,21.0,3,6,32,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Incompletion,,,80.0,80,-1.3995511531829834,False,UL Monroe,Liberty,14.0,14.0,3,10,5,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Interception Return,,,85.0,85,-5.493099212646484,False,UL Monroe,Liberty,14.0,7.0,3,10,16,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Passing Touchdown,,,9.0,9,2.761488437652588,True,UL Monroe,Liberty,14.0,0.0,2,0,16,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,15.0,15,0.5371601581573486,False,UL Monroe,Liberty,7.0,0.0,2,0,25,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,73.0,73,0.5604156255722046,False,UL Monroe,Liberty,7.0,0.0,2,1,49,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,53.0,53,0.14434385299682617,False,UL Monroe,Liberty,7.0,0.0,2,1,49,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,46.0,46,0.3959221839904785,False,UL Monroe,Liberty,7.0,0.0,2,1,49,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Interception Return,,,16.0,16,-4.476251602172852,False,UL Monroe,Liberty,0.0,0.0,2,7,38,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,33.0,33,0.029331445693969727,False,UL Monroe,Liberty,0.0,0.0,2,10,38,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,90.0,90,0.783356249332428,False,UL Monroe,Liberty,0.0,0.0,2,14,43,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Incompletion,,,77.0,77,-0.681850790977478,False,UL Monroe,Liberty,0.0,0.0,2,14,43,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,77.0,77,1.6911672353744507,False,UL Monroe,Liberty,0.0,0.0,2,14,43,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,62.0,62,2.7246272563934326,False,UL Monroe,Liberty,0.0,0.0,2,14,43,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Incompletion,,,32.0,32,-2.8620762825012207,False,UL Monroe,Liberty,0.0,0.0,1,7,34,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,72.0,72,-1.2882280349731445,False,UL Monroe,Liberty,0.0,0.0,1,14,53,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,73.0,73,1.648098111152649,False,UL Monroe,Liberty,0.0,0.0,1,14,53,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Reception,,,59.0,59,-0.3059178590774536,False,UL Monroe,Liberty,0.0,0.0,1,14,53,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Pass Incompletion,,,36.0,36,-0.8316044807434082,False,UL Monroe,Liberty,0.0,0.0,1,14,53,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286296.0,Sack,,,34.0,34,-1.387588381767273,False,UL Monroe,Liberty,0.0,0.0,1,14,53,7,UL Monroe,2021,Liberty,Malik Willis,2022
+401286297.0,Passing Touchdown,,,63.0,37,5.7239089012146,True,Liberty,UMass,62.0,10.0,4,8,1,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Passing Touchdown,,,39.0,61,4.976849555969238,True,Liberty,UMass,55.0,10.0,4,13,29,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,35.0,65,-0.5584533214569092,False,Liberty,UMass,48.0,10.0,4,15,0,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,35.0,65,-0.5383548736572266,False,Liberty,UMass,48.0,10.0,3,2,59,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,35.0,65,-0.8170759677886963,False,Liberty,UMass,48.0,10.0,3,2,59,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,35.0,65,-1.504791259765625,False,Liberty,UMass,48.0,10.0,3,2,59,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,58.0,42,0.5000643730163574,False,Liberty,UMass,41.0,10.0,3,9,38,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,46.0,54,0.05015754699707031,False,Liberty,UMass,41.0,10.0,3,9,38,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,20.0,80,0.6407227516174316,False,Liberty,UMass,41.0,10.0,3,9,38,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Sack,,,73.0,27,-2.313464879989624,False,Liberty,UMass,41.0,3.0,3,15,0,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Passing Touchdown,,,4.0,96,2.772502899169922,True,Liberty,UMass,41.0,3.0,2,0,5,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,12.0,88,1.2591395378112793,False,Liberty,UMass,34.0,3.0,2,0,19,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,68.0,32,0.6363765597343445,False,Liberty,UMass,34.0,3.0,2,2,10,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,54.0,46,0.05656313896179199,False,Liberty,UMass,34.0,3.0,2,2,10,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,44.0,56,0.8383980989456177,False,Liberty,UMass,34.0,3.0,2,2,10,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,31.0,69,-0.3411717414855957,False,Liberty,UMass,34.0,3.0,2,2,10,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Passing Touchdown,,,49.0,51,4.906432151794434,True,Liberty,UMass,34.0,3.0,2,4,36,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,72.0,28,1.0177626609802246,False,Liberty,UMass,27.0,3.0,2,5,34,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,99.0,1,2.3590197563171387,False,Liberty,UMass,21.0,3.0,2,11,58,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,55.0,45,1.2750778198242188,False,Liberty,UMass,21.0,3.0,2,11,58,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,38.0,62,-0.5581252574920654,False,Liberty,UMass,21.0,3.0,2,11,58,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,38.0,62,-0.9167249202728271,False,Liberty,UMass,21.0,3.0,2,11,58,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,38.0,62,0.5714061260223389,False,Liberty,UMass,21.0,3.0,2,11,58,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,75.0,25,0.47738003730773926,False,Liberty,UMass,21.0,3.0,1,3,35,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,64.0,36,-0.9349312782287598,False,Liberty,UMass,21.0,3.0,1,3,35,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,64.0,36,-1.4244365692138672,False,Liberty,UMass,21.0,3.0,1,3,35,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Passing Touchdown,,,60.0,40,5.158180236816406,True,Liberty,UMass,21.0,3.0,1,5,42,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,76.0,24,0.5913621187210083,False,Liberty,UMass,14.0,3.0,1,7,55,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,68.0,32,0.3000068664550781,False,Liberty,UMass,14.0,3.0,1,7,55,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Reception,,,61.0,39,-0.574965238571167,False,Liberty,UMass,14.0,3.0,1,7,55,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,71.0,29,-0.6671230792999268,False,Liberty,UMass,14.0,3.0,1,11,1,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Pass Incompletion,,,71.0,29,-1.013763666152954,False,Liberty,UMass,14.0,3.0,1,11,1,9,UMass,2021,Liberty,Malik Willis,2022
+401286297.0,Passing Touchdown,,,6.0,94,1.1354374885559082,True,Liberty,UMass,14.0,0.0,1,13,40,9,UMass,2021,Liberty,Malik Willis,2022
+401286298.0,Interception Return,,,55.0,45,0.03156578540802002,False,Liberty,Louisiana,14.0,42.0,4,1,0,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,28.0,72,-2.182440996170044,False,Liberty,Louisiana,14.0,35.0,4,10,24,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,73.0,27,1.4151806831359863,False,Liberty,Louisiana,14.0,35.0,4,14,4,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,64.0,36,-1.7611435651779175,False,Liberty,Louisiana,14.0,35.0,4,14,4,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,70.0,30,0.3303389549255371,False,Liberty,Louisiana,14.0,35.0,4,14,4,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,64.0,36,-0.31400156021118164,False,Liberty,Louisiana,14.0,35.0,4,14,4,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,28.0,72,-1.0493332147598267,False,Liberty,Louisiana,14.0,35.0,4,14,4,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,28.0,72,-1.88016939163208,False,Liberty,Louisiana,14.0,35.0,4,14,4,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Interception Return,,,42.0,58,-3.99895977973938,False,Liberty,Louisiana,14.0,28.0,3,1,33,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,46.0,54,-0.19289374351501465,False,Liberty,Louisiana,14.0,28.0,3,5,8,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,42.0,58,-0.806957483291626,False,Liberty,Louisiana,14.0,28.0,3,5,8,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Interception Return,,,83.0,17,-4.5693488121032715,False,Liberty,Louisiana,14.0,28.0,3,7,27,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Passing Touchdown,,,30.0,70,3.5652856826782227,True,Liberty,Louisiana,14.0,21.0,3,11,57,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,31.0,69,-0.7971428036689758,False,Liberty,Louisiana,7.0,21.0,2,1,18,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,22.0,78,-1.0025264024734497,False,Liberty,Louisiana,7.0,21.0,2,1,47,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,58.0,42,0.06521868705749512,False,Liberty,Louisiana,7.0,21.0,2,5,41,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,52.0,48,1.996766209602356,False,Liberty,Louisiana,7.0,21.0,2,5,41,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,39.0,61,-0.47544312477111816,False,Liberty,Louisiana,7.0,21.0,2,5,41,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,24.0,76,-0.5318880081176758,False,Liberty,Louisiana,7.0,21.0,2,5,41,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Passing Touchdown,,,29.0,71,5.8863420486450195,True,Liberty,Louisiana,7.0,21.0,2,7,14,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,78.0,22,1.5000001192092896,False,Liberty,Louisiana,0.0,21.0,2,9,0,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,65.0,35,3.504405975341797,False,Liberty,Louisiana,0.0,21.0,2,9,0,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,21.0,79,-0.6933283805847168,False,Liberty,Louisiana,0.0,21.0,2,9,0,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,21.0,79,-2.8200488090515137,False,Liberty,Louisiana,0.0,21.0,2,9,0,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,68.0,32,1.7324272394180298,False,Liberty,Louisiana,0.0,14.0,2,10,54,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,43.0,57,-1.0868093967437744,False,Liberty,Louisiana,0.0,14.0,2,10,54,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,43.0,57,-2.463629961013794,False,Liberty,Louisiana,0.0,14.0,2,10,54,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,69.0,31,-0.40061357617378235,False,Liberty,Louisiana,0.0,14.0,2,14,13,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,62.0,38,-1.7790147066116333,False,Liberty,Louisiana,0.0,14.0,2,14,13,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Sack,,,67.0,33,-2.0739479064941406,False,Liberty,Louisiana,0.0,7.0,1,1,50,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,87.0,13,-1.150526523590088,False,Liberty,Louisiana,0.0,0.0,1,6,39,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,80.0,20,1.007792353630066,False,Liberty,Louisiana,0.0,0.0,1,10,33,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,71.0,29,-0.9556329846382141,False,Liberty,Louisiana,0.0,0.0,1,10,33,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,65.0,35,-1.6340680122375488,False,Liberty,Louisiana,0.0,0.0,1,10,33,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,46.0,54,-2.1474876403808594,False,Liberty,Louisiana,0.0,0.0,1,14,49,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Reception,,,46.0,54,4.382386207580566,False,Liberty,Louisiana,0.0,0.0,1,14,49,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,33.0,67,-0.6110949516296387,False,Liberty,Louisiana,0.0,0.0,1,14,49,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286298.0,Pass Incompletion,,,33.0,67,-3.4265551567077637,False,Liberty,Louisiana,0.0,0.0,1,14,49,12,Louisiana,2021,Liberty,Malik Willis,2022
+401286299.0,Interception Return,,,68.0,32,0.009746264666318893,False,Liberty,Army,16.0,31.0,4,0,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,74.0,26,0.3017205595970154,False,Liberty,Army,16.0,31.0,4,1,31,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,65.0,35,0.3301416039466858,False,Liberty,Army,16.0,31.0,4,1,31,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,58.0,42,-0.352112352848053,False,Liberty,Army,16.0,31.0,4,1,31,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,25.0,75,-2.379837989807129,False,Liberty,Army,16.0,31.0,4,5,27,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,52.0,48,4.48778772354126,False,Liberty,Army,16.0,31.0,4,6,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,25.0,75,-0.5259435176849365,False,Liberty,Army,16.0,31.0,4,6,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,25.0,75,-1.522858738899231,False,Liberty,Army,16.0,31.0,4,6,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,99.0,1,-0.4852546453475952,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,99.0,1,1.5773628950119019,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,90.0,10,0.14179611206054688,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,78.0,22,2.861759662628174,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,54.0,46,-0.6164920330047607,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,54.0,46,-0.758496880531311,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,52.0,48,-1.537680745124817,False,Liberty,Army,16.0,31.0,4,9,20,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,7.0,93,-1.0450694561004639,False,Liberty,Army,10.0,31.0,3,0,35,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Sack,,,85.0,15,-1.1584045886993408,False,Liberty,Army,10.0,31.0,3,2,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,88.0,12,3.9461731910705566,False,Liberty,Army,10.0,31.0,3,2,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,47.0,53,1.5483402013778687,False,Liberty,Army,10.0,31.0,3,2,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,32.0,68,-0.8115366697311401,False,Liberty,Army,10.0,31.0,3,2,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,32.0,68,3.4058022499084473,False,Liberty,Army,10.0,31.0,3,2,17,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Passing Touchdown,,,14.0,86,2.557302474975586,True,Liberty,Army,10.0,31.0,3,4,35,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,50.0,50,2.1993765830993652,False,Liberty,Army,3.0,31.0,3,6,39,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,39.0,61,-0.7188955545425415,False,Liberty,Army,3.0,31.0,3,6,39,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,85.0,15,-0.0627414658665657,False,Liberty,Army,3.0,24.0,2,1,3,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Sack,,,82.0,18,-0.8543055057525635,False,Liberty,Army,3.0,24.0,2,1,3,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,92.0,8,-1.0094679594039917,False,Liberty,Army,3.0,24.0,2,1,3,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Sack,,,13.0,87,-2.2596421241760254,False,Liberty,Army,0.0,24.0,2,4,6,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,57.0,43,0.7849554419517517,False,Liberty,Army,0.0,24.0,2,6,41,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,47.0,53,2.6121273040771484,False,Liberty,Army,0.0,24.0,2,6,41,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,36.0,64,1.2564468383789062,False,Liberty,Army,0.0,24.0,2,6,41,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,13.0,87,-0.8636026382446289,False,Liberty,Army,0.0,24.0,2,6,41,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,45.0,55,-2.1890969276428223,False,Liberty,Army,0.0,17.0,2,8,39,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,77.0,23,1.7496461868286133,False,Liberty,Army,0.0,17.0,2,11,25,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,50.0,50,0.0011336803436279297,False,Liberty,Army,0.0,17.0,2,11,25,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Sack,,,40.0,60,-3.118521213531494,False,Liberty,Army,0.0,10.0,2,14,4,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,75.0,25,2.431608200073242,False,Liberty,Army,0.0,10.0,1,0,0,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,40.0,60,-1.0705589056015015,False,Liberty,Army,0.0,10.0,2,15,0,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,40.0,60,-1.8701026439666748,False,Liberty,Army,0.0,10.0,2,15,0,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Interception Return,,,58.0,42,-2.3924925327301025,False,Liberty,Army,0.0,3.0,1,3,4,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,74.0,26,-0.773761510848999,False,Liberty,Army,0.0,3.0,1,6,43,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,71.0,29,2.3368983268737793,False,Liberty,Army,0.0,3.0,1,6,43,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,57.0,43,-0.6856192350387573,False,Liberty,Army,0.0,3.0,1,6,43,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Incompletion,,,49.0,51,-2.16715669631958,False,Liberty,Army,0.0,0.0,1,12,35,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Sack,,,47.0,53,-1.0874700546264648,False,Liberty,Army,0.0,0.0,1,14,55,13,Army,2021,Liberty,Malik Willis,2022
+401286299.0,Pass Reception,,,49.0,51,-1.249678611755371,False,Liberty,Army,0.0,0.0,1,14,55,13,Army,2021,Liberty,Malik Willis,2022
+401331169.0,Sack,,,52.0,48,-1.316014051437378,False,Liberty,Eastern Michigan,56.0,20.0,4,1,4,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Interception Return Touchdown,,,75.0,25,-7.487330913543701,True,Liberty,Eastern Michigan,56.0,20.0,4,4,29,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Passing Touchdown,,,64.0,36,4.390861988067627,True,Liberty,Eastern Michigan,56.0,10.0,4,10,58,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,84.0,16,-0.6776657104492188,False,Liberty,Eastern Michigan,49.0,10.0,4,13,40,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Passing Touchdown,,,3.0,97,1.5831990242004395,True,Liberty,Eastern Michigan,49.0,10.0,3,2,44,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,3.0,97,-0.9520502090454102,False,Liberty,Eastern Michigan,42.0,10.0,3,2,57,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,26.0,74,-0.8518753051757812,False,Liberty,Eastern Michigan,39.0,10.0,3,8,1,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,44.0,56,0.5385332107543945,False,Liberty,Eastern Michigan,39.0,10.0,3,8,40,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Sack,,,57.0,43,-1.7360399961471558,False,Liberty,Eastern Michigan,33.0,10.0,3,13,16,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,61.0,39,-0.3559844493865967,False,Liberty,Eastern Michigan,33.0,10.0,3,14,18,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,8.0,96,5.710987091064453,False,Liberty,Eastern Michigan,26.0,10.0,2,0,42,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,55.0,45,2.184706211090088,False,Liberty,Eastern Michigan,26.0,10.0,2,2,3,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Passing Touchdown,,,20.0,80,2.7019877433776855,True,Liberty,Eastern Michigan,26.0,10.0,2,6,22,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,20.0,80,-0.797417163848877,False,Liberty,Eastern Michigan,19.0,10.0,2,6,34,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,32.0,68,3.1830172538757324,False,Liberty,Eastern Michigan,19.0,10.0,2,6,44,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,32.0,68,-1.3494532108306885,False,Liberty,Eastern Michigan,19.0,10.0,2,6,50,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,35.0,65,-0.46132874488830566,False,Liberty,Eastern Michigan,19.0,10.0,2,7,37,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,46.0,54,-0.47186851501464844,False,Liberty,Eastern Michigan,19.0,10.0,2,8,52,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,85.0,15,3.5928027629852295,False,Liberty,Eastern Michigan,19.0,10.0,2,9,2,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,88.0,30,0.8774832487106323,False,Liberty,Eastern Michigan,19.0,10.0,2,9,54,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,75.0,25,0.5141688585281372,False,Liberty,Eastern Michigan,13.0,10.0,2,13,1,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Passing Touchdown,,,54.0,46,3.859614849090576,True,Liberty,Eastern Michigan,7.0,3.0,1,3,8,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Reception,,,84.0,16,1.373790979385376,False,Liberty,Eastern Michigan,0.0,3.0,1,4,13,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,65.0,35,-1.6652815341949463,False,Liberty,Eastern Michigan,0.0,3.0,1,7,18,1,Eastern Michigan,2021,Liberty,Malik Willis,2022
+401331169.0,Pass Incompletion,,,65.0,35,-0.808061420917511,False,Liberty,Eastern Michigan,0.0,3.0,1,7,25,1,Eastern Michigan,2021,Liberty,Malik Willis,2022

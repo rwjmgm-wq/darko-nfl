@@ -1,0 +1,340 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400935233.0,Pass Reception,,,83.0,83,-0.6868834495544434,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,82.0,82,1.8776334524154663,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,70.0,70,1.1410285234451294,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,56.0,56,-0.5868518948554993,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,56.0,56,-0.8140354752540588,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,45.0,45,-0.07327306270599365,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,41.0,41,-0.9692858457565308,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Interception Return,,,41.0,41,-4.620721817016602,False,Iowa,Wyoming,3.0,24.0,4,7,52,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,67.0,67,2.6090540885925293,False,Iowa,Wyoming,3.0,21.0,4,14,49,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,53.0,53,-0.6655731201171875,False,Iowa,Wyoming,3.0,21.0,4,14,49,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,53.0,53,2.647233486175537,False,Iowa,Wyoming,3.0,21.0,4,14,49,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Interception Return,,,24.0,24,-7.018972396850586,False,Iowa,Wyoming,3.0,21.0,4,14,49,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,36.0,36,-0.7425799369812012,False,Iowa,Wyoming,3.0,21.0,3,3,45,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,87.0,87,-0.1619352102279663,False,Iowa,Wyoming,3.0,21.0,3,5,34,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,83.0,83,-1.2657231092453003,False,Iowa,Wyoming,3.0,21.0,3,5,34,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,49.0,49,-1.965585470199585,False,Iowa,Wyoming,3.0,14.0,3,7,14,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,69.0,69,0.36918336153030396,False,Iowa,Wyoming,3.0,14.0,3,9,11,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,62.0,62,-0.8310240507125854,False,Iowa,Wyoming,3.0,14.0,3,9,11,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,62.0,62,1.2624812126159668,False,Iowa,Wyoming,3.0,14.0,3,9,11,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,49.0,49,-0.9600739479064941,False,Iowa,Wyoming,3.0,14.0,3,9,11,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,74.0,74,1.8420414924621582,False,Iowa,Wyoming,3.0,14.0,3,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,55.0,55,0.9098049402236938,False,Iowa,Wyoming,3.0,14.0,3,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,37.0,37,-0.7065622806549072,False,Iowa,Wyoming,3.0,14.0,3,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Sack,,,60.0,60,-0.7290247082710266,False,Iowa,Wyoming,3.0,7.0,2,0,38,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Sack,,,43.0,43,2.8975653648376465,False,Iowa,Wyoming,3.0,7.0,2,0,50,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,62.0,62,-0.1712806224822998,False,Iowa,Wyoming,3.0,7.0,2,5,7,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,36.0,36,-1.0324022769927979,False,Iowa,Wyoming,0.0,0.0,2,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,36.0,36,0.557323694229126,False,Iowa,Wyoming,0.0,0.0,2,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,36.0,36,0.4432835578918457,False,Iowa,Wyoming,0.0,0.0,2,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Sack,,,27.0,27,-2.0478076934814453,False,Iowa,Wyoming,0.0,0.0,2,15,0,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,67.0,67,0.040528297424316406,False,Iowa,Wyoming,0.0,0.0,1,1,6,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,61.0,61,2.504610061645508,False,Iowa,Wyoming,0.0,0.0,1,1,6,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,81.0,81,0.8536862730979919,False,Iowa,Wyoming,0.0,0.0,1,6,28,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,70.0,70,-0.7185088992118835,False,Iowa,Wyoming,0.0,0.0,1,6,28,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,55.0,55,0.8122456073760986,False,Iowa,Wyoming,0.0,0.0,1,10,57,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,43.0,43,-0.657252311706543,False,Iowa,Wyoming,0.0,0.0,1,10,57,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,40.0,40,0.5658408403396606,False,Iowa,Wyoming,0.0,0.0,1,10,57,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,70.0,70,-0.8252187967300415,False,Iowa,Wyoming,0.0,0.0,1,13,21,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Reception,,,69.0,69,-0.3479868173599243,False,Iowa,Wyoming,0.0,0.0,1,13,21,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935233.0,Pass Incompletion,,,66.0,66,-1.561154842376709,False,Iowa,Wyoming,0.0,0.0,1,13,21,1,Iowa,2017,Wyoming,Josh Allen,2018
+400935273.0,Sack,,,52.0,48,-1.525164246559143,False,Wyoming,Oregon,13.0,49.0,4,9,21,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,75.0,25,-0.852239727973938,False,Wyoming,Oregon,13.0,49.0,4,11,13,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,87.0,13,0.260708212852478,False,Wyoming,Oregon,13.0,49.0,4,11,13,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Interception Return,,,40.0,60,-5.486671447753906,False,Wyoming,Oregon,13.0,42.0,4,15,0,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,28.0,72,-1.233393907546997,False,Wyoming,Oregon,10.0,42.0,3,4,14,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,72.0,28,0.7638258934020996,False,Wyoming,Oregon,10.0,42.0,3,8,28,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,66.0,34,1.0326032638549805,False,Wyoming,Oregon,10.0,42.0,3,8,28,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,60.0,40,2.1894946098327637,False,Wyoming,Oregon,10.0,42.0,3,8,28,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,52.0,48,-0.6137275695800781,False,Wyoming,Oregon,10.0,42.0,3,13,36,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,52.0,48,-0.9287500977516174,False,Wyoming,Oregon,10.0,42.0,3,13,36,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,38.0,62,-1.7956112623214722,False,Wyoming,Oregon,10.0,42.0,3,13,36,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,75.0,25,-0.5160501003265381,False,Wyoming,Oregon,10.0,28.0,2,5,58,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,71.0,29,-0.10042715072631836,False,Wyoming,Oregon,10.0,28.0,2,5,58,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,21.0,79,-0.6672487258911133,False,Wyoming,Oregon,7.0,14.0,1,3,0,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,13.0,87,-1.4322595596313477,False,Wyoming,Oregon,7.0,14.0,1,3,0,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,25.0,75,-0.7828874588012695,False,Wyoming,Oregon,0.0,14.0,1,5,19,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,73.0,27,-0.3307461738586426,False,Wyoming,Oregon,0.0,14.0,1,6,41,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,75.0,25,-0.550960898399353,False,Wyoming,Oregon,0.0,7.0,1,9,4,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,80.0,20,-0.9215669631958008,False,Wyoming,Oregon,0.0,7.0,1,9,4,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Incompletion,,,80.0,20,-0.9198753833770752,False,Wyoming,Oregon,0.0,7.0,1,9,4,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Pass Reception,,,75.0,25,0.030005186796188354,False,Wyoming,Oregon,0.0,0.0,1,15,0,3,Oregon,2017,Wyoming,Josh Allen,2018
+400935273.0,Sack,,,70.0,30,-2.525115966796875,False,Wyoming,Oregon,0.0,0.0,1,15,0,3,Oregon,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,69.0,31,-1.3581624031066895,False,Wyoming,Texas State,45.0,10.0,4,9,44,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Fumble Recovery (Own),,,80.0,20,-1.5934967994689941,False,Wyoming,Texas State,45.0,10.0,4,12,31,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Passing Touchdown,,,8.0,92,2.34177303314209,True,Wyoming,Texas State,45.0,10.0,3,3,29,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,68.0,32,0.3623032569885254,False,Wyoming,Texas State,38.0,10.0,3,10,22,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,58.0,42,1.305178165435791,False,Wyoming,Texas State,38.0,10.0,3,10,22,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,44.0,56,2.2568187713623047,False,Wyoming,Texas State,38.0,10.0,3,10,22,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,23.0,77,0.7109956741333008,False,Wyoming,Texas State,38.0,10.0,3,10,22,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,21.0,79,-0.2813248634338379,False,Wyoming,Texas State,28.0,10.0,2,0,28,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,12.0,88,-0.378098726272583,False,Wyoming,Texas State,28.0,10.0,2,0,28,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,12.0,88,-0.47446513175964355,False,Wyoming,Texas State,28.0,10.0,2,0,28,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,65.0,35,1.9745854139328003,False,Wyoming,Texas State,28.0,10.0,2,0,53,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,25.0,75,-0.1595914363861084,False,Wyoming,Texas State,28.0,10.0,2,0,53,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Passing Touchdown,,,15.0,85,3.08337664604187,True,Wyoming,Texas State,28.0,10.0,2,1,35,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,54.0,46,2.5261988639831543,False,Wyoming,Texas State,21.0,10.0,2,2,21,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Passing Touchdown,,,22.0,78,2.12973690032959,True,Wyoming,Texas State,7.0,3.0,2,9,46,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,68.0,32,0.7270140647888184,False,Wyoming,Texas State,0.0,3.0,2,13,43,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,53.0,47,1.653940200805664,False,Wyoming,Texas State,0.0,3.0,2,13,43,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Sack,,,47.0,53,-1.5304157733917236,False,Wyoming,Texas State,0.0,3.0,2,13,43,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,52.0,48,3.098059892654419,False,Wyoming,Texas State,0.0,3.0,2,13,43,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,68.0,32,-0.9798054099082947,False,Wyoming,Texas State,0.0,0.0,1,6,41,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,52.0,48,1.205484390258789,False,Wyoming,Texas State,0.0,0.0,1,6,41,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Reception,,,41.0,59,-0.22842979431152344,False,Wyoming,Texas State,0.0,0.0,1,6,41,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,82.0,18,-0.6575297117233276,False,Wyoming,Texas State,0.0,0.0,1,11,30,5,Texas State,2017,Wyoming,Josh Allen,2018
+400944845.0,Pass Incompletion,,,80.0,20,-1.281677484512329,False,Wyoming,Texas State,0.0,0.0,1,11,30,5,Texas State,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,12.0,88,-0.6787517070770264,False,Wyoming,Gardner-Webb,24.0,0.0,4,2,5,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,36.0,64,2.345289707183838,False,Wyoming,Gardner-Webb,24.0,0.0,4,6,42,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,78.0,22,-0.13860607147216797,False,Wyoming,Gardner-Webb,24.0,0.0,4,10,31,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,69.0,31,0.32242679595947266,False,Wyoming,Gardner-Webb,24.0,0.0,4,10,31,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,51.0,49,-1.2257180213928223,False,Wyoming,Gardner-Webb,24.0,0.0,4,10,31,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,75.0,25,-0.4464833736419678,False,Wyoming,Gardner-Webb,24.0,0.0,4,14,12,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,64.0,36,1.8715343475341797,False,Wyoming,Gardner-Webb,24.0,0.0,3,11,53,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,51.0,49,0.03751397132873535,False,Wyoming,Gardner-Webb,24.0,0.0,3,11,53,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Passing Touchdown,,,29.0,71,4.223356246948242,True,Wyoming,Gardner-Webb,24.0,0.0,2,1,27,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,37.0,63,0.6590003967285156,False,Wyoming,Gardner-Webb,17.0,0.0,2,1,36,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,39.0,61,-0.5654206275939941,False,Wyoming,Gardner-Webb,17.0,0.0,2,5,45,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,76.0,24,2.7791364192962646,False,Wyoming,Gardner-Webb,14.0,0.0,2,9,51,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,14.0,86,-0.3761887550354004,False,Wyoming,Gardner-Webb,14.0,0.0,2,9,51,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,11.0,89,-1.4548518657684326,False,Wyoming,Gardner-Webb,14.0,0.0,2,9,51,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,72.0,28,-1.04812753200531,False,Wyoming,Gardner-Webb,14.0,0.0,2,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,72.0,28,2.189513683319092,False,Wyoming,Gardner-Webb,14.0,0.0,2,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,65.0,35,-0.40123891830444336,False,Wyoming,Gardner-Webb,14.0,0.0,2,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,59.0,41,-1.4257140159606934,False,Wyoming,Gardner-Webb,14.0,0.0,2,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,95.0,5,2.6967506408691406,False,Wyoming,Gardner-Webb,14.0,0.0,1,1,53,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,72.0,28,-0.6943645477294922,False,Wyoming,Gardner-Webb,14.0,0.0,1,1,53,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Passing Touchdown,,,27.0,73,2.6926627159118652,True,Wyoming,Gardner-Webb,14.0,0.0,1,4,43,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,75.0,25,2.6711699962615967,False,Wyoming,Gardner-Webb,7.0,0.0,1,7,47,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,41.0,59,-0.5692138671875,False,Wyoming,Gardner-Webb,7.0,0.0,1,7,47,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,41.0,59,1.0818657875061035,False,Wyoming,Gardner-Webb,7.0,0.0,1,7,47,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,60.0,40,0.8396425247192383,False,Wyoming,Gardner-Webb,0.0,0.0,1,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,49.0,51,0.6168267726898193,False,Wyoming,Gardner-Webb,0.0,0.0,1,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,34.0,66,1.6789498329162598,False,Wyoming,Gardner-Webb,0.0,0.0,1,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Incompletion,,,27.0,73,-0.6234102249145508,False,Wyoming,Gardner-Webb,0.0,0.0,1,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,25.0,75,2.083256483078003,False,Wyoming,Gardner-Webb,0.0,0.0,1,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945255.0,Pass Reception,,,9.0,91,-4.830833911895752,False,Wyoming,Gardner-Webb,0.0,0.0,1,15,0,2,Gardner-Webb,2017,Wyoming,Josh Allen,2018
+400945261.0,Passing Touchdown,,,25.0,75,4.820380210876465,True,Wyoming,Hawai'i,28.0,21.0,5,0,0,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,63.0,37,-0.35949236154556274,False,Wyoming,Hawai'i,21.0,21.0,4,0,57,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Sack,,,58.0,42,-0.8834494352340698,False,Wyoming,Hawai'i,21.0,21.0,4,1,2,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,47.0,53,0.537034273147583,False,Wyoming,Hawai'i,21.0,21.0,4,8,18,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,37.0,63,-0.5491313934326172,False,Wyoming,Hawai'i,21.0,21.0,4,8,18,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,86.0,14,-0.3785691261291504,False,Wyoming,Hawai'i,14.0,14.0,4,13,39,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,55.0,45,-1.9248157739639282,False,Wyoming,Hawai'i,7.0,7.0,3,9,18,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,73.0,27,-0.6827539801597595,False,Wyoming,Hawai'i,7.0,7.0,3,15,0,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,68.0,32,-1.6897916793823242,False,Wyoming,Hawai'i,7.0,7.0,3,15,0,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,48.0,52,-0.20531076192855835,False,Wyoming,Hawai'i,7.0,7.0,2,0,10,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,70.0,30,-0.7997510433197021,False,Wyoming,Hawai'i,7.0,7.0,2,2,42,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,70.0,30,-0.26669150590896606,False,Wyoming,Hawai'i,7.0,7.0,2,2,42,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,70.0,30,-0.4718288481235504,False,Wyoming,Hawai'i,7.0,7.0,2,5,52,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Sack,,,60.0,40,-1.210883617401123,False,Wyoming,Hawai'i,7.0,7.0,2,5,52,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,50.0,50,3.085808277130127,False,Wyoming,Hawai'i,0.0,0.0,2,13,49,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,49.0,51,-0.6779308319091797,False,Wyoming,Hawai'i,0.0,0.0,2,15,0,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,48.0,52,-0.6904687881469727,False,Wyoming,Hawai'i,0.0,0.0,1,6,23,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,48.0,52,0.24739813804626465,False,Wyoming,Hawai'i,0.0,0.0,1,6,23,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Reception,,,55.0,45,-0.4479639530181885,False,Wyoming,Hawai'i,0.0,0.0,1,11,40,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945261.0,Pass Incompletion,,,49.0,51,-1.900988221168518,False,Wyoming,Hawai'i,0.0,0.0,1,11,40,4,Hawai'i,2017,Wyoming,Josh Allen,2018
+400945276.0,Passing Touchdown,,,28.0,28,3.184122085571289,True,Utah State,Wyoming,26.0,23.0,4,3,45,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,63.0,63,-0.6233376264572144,False,Utah State,Wyoming,19.0,23.0,4,7,6,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,47.0,47,1.724297285079956,False,Utah State,Wyoming,19.0,23.0,4,7,6,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,75.0,75,2.117546319961548,False,Utah State,Wyoming,16.0,23.0,4,12,40,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,15.0,15,-0.5041356086730957,False,Utah State,Wyoming,16.0,23.0,4,12,40,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,12.0,12,-0.8283019065856934,False,Utah State,Wyoming,16.0,23.0,4,12,40,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,34.0,34,-0.04779243469238281,False,Utah State,Wyoming,16.0,16.0,3,7,59,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,40.0,40,-0.7600678205490112,False,Utah State,Wyoming,16.0,16.0,3,7,59,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,76.0,76,-0.20617753267288208,False,Utah State,Wyoming,9.0,16.0,3,14,54,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,71.0,71,1.8722349405288696,False,Utah State,Wyoming,9.0,16.0,3,14,54,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,64.0,64,1.5571483373641968,False,Utah State,Wyoming,9.0,16.0,3,14,54,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,62.0,62,-0.4386369585990906,False,Utah State,Wyoming,9.0,16.0,3,14,54,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,56.0,56,-0.9385497570037842,False,Utah State,Wyoming,9.0,16.0,3,14,54,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,49.0,49,-1.4318548440933228,False,Utah State,Wyoming,9.0,13.0,2,3,30,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,78.0,78,-0.8749409914016724,False,Utah State,Wyoming,9.0,13.0,2,6,41,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Sack,,,78.0,78,-1.090061902999878,False,Utah State,Wyoming,9.0,13.0,2,6,41,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Sack,,,38.0,38,-2.291663408279419,False,Utah State,Wyoming,3.0,6.0,2,15,0,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,49.0,49,0.5836238861083984,False,Utah State,Wyoming,3.0,6.0,2,15,0,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Sack,,,20.0,20,-1.2947118282318115,False,Utah State,Wyoming,3.0,6.0,2,15,0,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,28.0,28,3.540419816970825,False,Utah State,Wyoming,3.0,6.0,2,15,0,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,5.0,5,-1.0683064460754395,False,Utah State,Wyoming,3.0,6.0,2,15,0,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,5.0,5,0.6245560646057129,False,Utah State,Wyoming,3.0,6.0,2,15,0,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,68.0,68,1.8516610860824585,False,Utah State,Wyoming,3.0,6.0,1,0,13,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,42.0,42,-0.8705928325653076,False,Utah State,Wyoming,0.0,3.0,1,8,38,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,42.0,42,1.0128347873687744,False,Utah State,Wyoming,0.0,3.0,1,8,38,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,33.0,33,0.701770544052124,False,Utah State,Wyoming,0.0,3.0,1,8,38,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Incompletion,,,7.0,7,-0.9536228179931641,False,Utah State,Wyoming,0.0,3.0,1,8,38,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Pass Reception,,,7.0,7,-1.096508264541626,False,Utah State,Wyoming,0.0,3.0,1,8,38,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945276.0,Interception Return,,,81.0,81,-4.787936210632324,False,Utah State,Wyoming,0.0,0.0,1,13,23,7,Utah State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,89.0,89,-0.18254363536834717,False,Boise State,Wyoming,14.0,24.0,4,1,46,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,76.0,76,-0.3684976398944855,False,Boise State,Wyoming,14.0,24.0,4,1,46,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Interception Return,,,76.0,76,-1.8430458307266235,False,Boise State,Wyoming,14.0,24.0,4,1,46,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,87.0,87,0.013466894626617432,False,Boise State,Wyoming,14.0,24.0,4,2,19,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Sack,,,80.0,80,-1.330165147781372,False,Boise State,Wyoming,14.0,24.0,4,2,19,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,75.0,75,-0.525221049785614,False,Boise State,Wyoming,14.0,24.0,4,8,35,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,75.0,75,-0.8273609280586243,False,Boise State,Wyoming,14.0,24.0,4,8,35,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,71.0,71,-0.9214067459106445,False,Boise State,Wyoming,14.0,17.0,4,10,40,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,71.0,71,-1.3692940473556519,False,Boise State,Wyoming,14.0,17.0,4,10,40,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Passing Touchdown,,,20.0,20,3.174870491027832,True,Boise State,Wyoming,14.0,10.0,3,0,17,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Sack,,,18.0,18,-1.160632848739624,False,Boise State,Wyoming,7.0,10.0,3,1,41,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,70.0,70,1.857256531715393,False,Boise State,Wyoming,7.0,10.0,3,5,16,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,58.0,58,1.030712366104126,False,Boise State,Wyoming,7.0,3.0,2,0,49,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,45.0,45,-0.16049420833587646,False,Boise State,Wyoming,7.0,3.0,2,0,49,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Sack,,,45.0,45,-0.7755570411682129,False,Boise State,Wyoming,7.0,3.0,2,0,49,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Sack,,,52.0,52,-0.7304680347442627,False,Boise State,Wyoming,7.0,3.0,2,1,2,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,56.0,56,-0.10868370532989502,False,Boise State,Wyoming,7.0,3.0,2,1,25,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,82.0,82,0.2913980484008789,False,Boise State,Wyoming,7.0,3.0,2,1,37,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,51.0,51,-1.521817684173584,False,Boise State,Wyoming,7.0,3.0,2,5,51,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,66.0,66,1.7736029624938965,False,Boise State,Wyoming,7.0,3.0,2,8,48,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,65.0,65,-0.8417927622795105,False,Boise State,Wyoming,7.0,3.0,2,11,18,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,65.0,65,-1.2204835414886475,False,Boise State,Wyoming,7.0,3.0,2,11,18,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Interception Return,,,40.0,40,-6.086104869842529,False,Boise State,Wyoming,7.0,0.0,2,15,0,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,67.0,67,-0.9056036472320557,False,Boise State,Wyoming,7.0,0.0,1,0,48,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,62.0,62,-1.3639671802520752,False,Boise State,Wyoming,7.0,0.0,1,5,31,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,68.0,68,-0.8412468433380127,False,Boise State,Wyoming,0.0,0.0,1,15,0,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,65.0,65,2.2313520908355713,False,Boise State,Wyoming,0.0,0.0,1,15,0,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Incompletion,,,48.0,48,-1.0622684955596924,False,Boise State,Wyoming,0.0,0.0,1,15,0,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,48.0,48,-0.6325197815895081,False,Boise State,Wyoming,0.0,0.0,1,15,0,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945279.0,Pass Reception,,,42.0,42,1.490312099456787,False,Boise State,Wyoming,0.0,0.0,1,15,0,8,Boise State,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,82.0,18,-0.5504426956176758,False,Wyoming,New Mexico,42.0,0.0,3,9,39,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,77.0,23,1.870882511138916,False,Wyoming,New Mexico,42.0,0.0,3,9,39,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,60.0,40,-0.8303127288818359,False,Wyoming,New Mexico,42.0,0.0,3,9,39,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,60.0,40,0.10182666778564453,False,Wyoming,New Mexico,42.0,0.0,3,9,39,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Passing Touchdown,,,38.0,62,5.434045791625977,True,Wyoming,New Mexico,42.0,0.0,2,0,58,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Passing Touchdown,,,19.0,81,3.9901397228240967,True,Wyoming,New Mexico,35.0,0.0,2,2,46,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,30.0,70,0.8069078922271729,False,Wyoming,New Mexico,28.0,0.0,2,3,9,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Passing Touchdown,,,11.0,89,1.9813780784606934,True,Wyoming,New Mexico,28.0,0.0,2,3,25,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,80.0,20,-0.6155815124511719,False,Wyoming,New Mexico,21.0,0.0,2,6,21,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,52.0,48,2.4574339389801025,False,Wyoming,New Mexico,21.0,0.0,2,6,21,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,20.0,80,1.8289704322814941,False,Wyoming,New Mexico,21.0,0.0,2,6,21,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,16.0,84,1.2128314971923828,False,Wyoming,New Mexico,14.0,0.0,2,8,8,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Passing Touchdown,,,4.0,96,2.236264705657959,True,Wyoming,New Mexico,14.0,0.0,2,12,7,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,29.0,71,3.2794275283813477,False,Wyoming,New Mexico,7.0,0.0,2,14,10,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,8.0,92,-0.8824591636657715,False,Wyoming,New Mexico,7.0,0.0,2,14,10,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,74.0,26,-0.8579592108726501,False,Wyoming,New Mexico,0.0,0.0,1,5,57,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,74.0,26,-1.029885172843933,False,Wyoming,New Mexico,0.0,0.0,1,5,57,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,74.0,26,-1.4154064655303955,False,Wyoming,New Mexico,0.0,0.0,1,5,57,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,97.0,3,1.2016113996505737,False,Wyoming,New Mexico,0.0,0.0,1,7,1,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,79.0,21,3.165688991546631,False,Wyoming,New Mexico,0.0,0.0,1,10,47,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,58.0,42,-0.9679511785507202,False,Wyoming,New Mexico,0.0,0.0,1,10,47,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,58.0,42,-1.551079511642456,False,Wyoming,New Mexico,0.0,0.0,1,10,47,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Incompletion,,,80.0,20,-0.7211176156997681,False,Wyoming,New Mexico,0.0,0.0,1,14,47,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945285.0,Pass Reception,,,80.0,20,-0.18192434310913086,False,Wyoming,New Mexico,0.0,0.0,1,14,47,9,New Mexico,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,69.0,31,0.443936824798584,False,Wyoming,Colorado State,9.0,13.0,4,7,9,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,75.0,25,0.9730520844459534,False,Wyoming,Colorado State,9.0,13.0,4,10,39,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,72.0,28,-1.394364595413208,False,Wyoming,Colorado State,9.0,10.0,3,2,43,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,70.0,30,1.0669002532958984,False,Wyoming,Colorado State,6.0,10.0,3,15,0,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Incompletion,,,15.0,85,-0.7836570739746094,False,Wyoming,Colorado State,6.0,10.0,3,15,0,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Incompletion,,,15.0,85,-3.1809632778167725,False,Wyoming,Colorado State,6.0,10.0,3,15,0,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,46.0,54,1.3948273658752441,False,Wyoming,Colorado State,3.0,10.0,2,0,8,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,61.0,39,1.0103774070739746,False,Wyoming,Colorado State,3.0,10.0,2,1,0,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,77.0,23,1.031198263168335,False,Wyoming,Colorado State,3.0,10.0,2,6,50,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,23.0,77,2.506939172744751,False,Wyoming,Colorado State,0.0,3.0,2,15,0,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Incompletion,,,69.0,31,-0.910090982913971,False,Wyoming,Colorado State,0.0,3.0,1,2,49,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,69.0,31,2.242368459701538,False,Wyoming,Colorado State,0.0,3.0,1,2,49,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Reception,,,45.0,55,1.2730844020843506,False,Wyoming,Colorado State,0.0,3.0,1,2,49,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Incompletion,,,82.0,18,-0.6594142913818359,False,Wyoming,Colorado State,0.0,3.0,1,5,55,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Incompletion,,,82.0,18,-0.9518414735794067,False,Wyoming,Colorado State,0.0,3.0,1,5,55,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Sack,,,82.0,18,-1.8129113912582397,False,Wyoming,Colorado State,0.0,3.0,1,5,55,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945290.0,Pass Incompletion,,,72.0,28,-1.3776817321777344,False,Wyoming,Colorado State,0.0,3.0,1,11,46,10,Colorado State,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,57.0,57,2.21803617477417,False,Air Force,Wyoming,21.0,14.0,4,11,54,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,69.0,69,-0.6503968238830566,False,Air Force,Wyoming,21.0,14.0,3,4,7,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Incompletion,,,58.0,58,-0.9267740249633789,False,Air Force,Wyoming,21.0,14.0,3,9,28,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Sack,,,58.0,58,-2.064117431640625,False,Air Force,Wyoming,21.0,14.0,3,9,28,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Incompletion,,,59.0,59,-1.006345272064209,False,Air Force,Wyoming,21.0,7.0,3,14,53,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Incompletion,,,47.0,47,-0.8022618293762207,False,Air Force,Wyoming,21.0,0.0,2,3,35,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Incompletion,,,46.0,46,-1.1934866905212402,False,Air Force,Wyoming,21.0,0.0,2,3,35,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,26.0,26,0.036165475845336914,False,Air Force,Wyoming,14.0,0.0,2,9,24,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,21.0,21,1.6622960567474365,False,Air Force,Wyoming,14.0,0.0,2,9,24,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,69.0,69,0.8100898265838623,False,Air Force,Wyoming,14.0,0.0,2,12,7,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Passing Touchdown,,,17.0,17,2.2815308570861816,True,Air Force,Wyoming,14.0,0.0,2,14,4,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,66.0,66,-1.232931137084961,False,Air Force,Wyoming,7.0,0.0,1,2,24,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Sack,,,70.0,70,-1.4219224452972412,False,Air Force,Wyoming,7.0,0.0,1,2,24,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,69.0,69,0.4082663059234619,False,Air Force,Wyoming,7.0,0.0,1,3,59,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Sack,,,60.0,60,-1.24325692653656,False,Air Force,Wyoming,7.0,0.0,1,3,59,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,54.0,54,0.645338773727417,False,Air Force,Wyoming,7.0,0.0,1,6,58,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,24.0,24,1.081974983215332,False,Air Force,Wyoming,0.0,0.0,1,11,43,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945295.0,Pass Reception,,,8.0,8,0.8068342208862305,False,Air Force,Wyoming,0.0,0.0,1,11,43,11,Air Force,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,80.0,20,2.350837230682373,False,Wyoming,Fresno State,7.0,13.0,4,0,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,39.0,61,-0.3581146001815796,False,Wyoming,Fresno State,7.0,13.0,4,0,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,39.0,61,-0.6584342122077942,False,Wyoming,Fresno State,7.0,13.0,4,0,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,35.0,65,2.2035839557647705,False,Wyoming,Fresno State,7.0,13.0,4,0,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,27.0,73,-0.2635331153869629,False,Wyoming,Fresno State,7.0,13.0,4,0,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,27.0,73,-0.35962367057800293,False,Wyoming,Fresno State,7.0,13.0,4,0,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Passing Touchdown,,,6.0,94,1.5624051094055176,True,Wyoming,Fresno State,7.0,13.0,4,2,25,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,80.0,20,0.5658001899719238,False,Wyoming,Fresno State,0.0,13.0,4,4,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,71.0,29,0.8437706232070923,False,Wyoming,Fresno State,0.0,13.0,4,4,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,57.0,43,-0.5098086595535278,False,Wyoming,Fresno State,0.0,13.0,4,4,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,57.0,43,1.2868210077285767,False,Wyoming,Fresno State,0.0,13.0,4,4,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,45.0,55,0.8543691635131836,False,Wyoming,Fresno State,0.0,13.0,4,4,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,36.0,64,2.0391101837158203,False,Wyoming,Fresno State,0.0,13.0,4,4,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,74.0,26,-0.5778185129165649,False,Wyoming,Fresno State,0.0,13.0,4,6,16,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,74.0,26,-0.41408103704452515,False,Wyoming,Fresno State,0.0,13.0,4,6,16,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,70.0,30,-0.9621743559837341,False,Wyoming,Fresno State,0.0,13.0,4,6,16,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,82.0,18,1.6027840375900269,False,Wyoming,Fresno State,0.0,13.0,4,12,48,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,68.0,32,-0.4107031226158142,False,Wyoming,Fresno State,0.0,13.0,4,12,48,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,61.0,39,0.2772632837295532,False,Wyoming,Fresno State,0.0,13.0,3,3,46,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,71.0,29,-0.7326021194458008,False,Wyoming,Fresno State,0.0,10.0,3,11,55,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,67.0,33,-1.0006463527679443,False,Wyoming,Fresno State,0.0,10.0,3,11,55,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,67.0,33,1.60435950756073,False,Wyoming,Fresno State,0.0,10.0,2,4,2,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Fumble Recovery (Opponent),,,29.0,71,-4.333869457244873,False,Wyoming,Fresno State,0.0,10.0,2,4,2,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,67.0,33,-0.6989790797233582,False,Wyoming,Fresno State,0.0,10.0,2,7,45,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,55.0,45,2.1304235458374023,False,Wyoming,Fresno State,0.0,3.0,2,15,0,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,80.0,20,1.042802095413208,False,Wyoming,Fresno State,0.0,3.0,1,1,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,56.0,44,-0.5907131433486938,False,Wyoming,Fresno State,0.0,3.0,1,1,50,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Reception,,,72.0,28,0.028661668300628662,False,Wyoming,Fresno State,0.0,3.0,1,8,17,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Sack,,,79.0,21,-1.436133623123169,False,Wyoming,Fresno State,0.0,0.0,1,13,21,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945304.0,Pass Incompletion,,,80.0,20,-0.8995636701583862,False,Wyoming,Fresno State,0.0,0.0,1,13,21,12,Fresno State,2017,Wyoming,Josh Allen,2018
+400945309.0,Passing Touchdown,,,53.0,53,5.469362258911133,True,San Jose State,Wyoming,17.0,20.0,4,1,7,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,60.0,60,-0.6244211196899414,False,San Jose State,Wyoming,10.0,20.0,4,1,42,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,75.0,75,0.4452183246612549,False,San Jose State,Wyoming,10.0,20.0,4,2,9,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,70.0,70,0.13914251327514648,False,San Jose State,Wyoming,10.0,20.0,4,2,9,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,63.0,63,-0.12182784080505371,False,San Jose State,Wyoming,10.0,20.0,4,2,9,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,50.0,50,-1.9529340267181396,False,San Jose State,Wyoming,10.0,13.0,4,2,29,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,80.0,80,-0.6408631801605225,False,San Jose State,Wyoming,10.0,13.0,4,4,25,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,77.0,77,1.7134743928909302,False,San Jose State,Wyoming,10.0,13.0,4,4,25,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,54.0,54,-0.511204719543457,False,San Jose State,Wyoming,10.0,13.0,4,4,25,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,54.0,54,0.46743083000183105,False,San Jose State,Wyoming,10.0,13.0,4,4,25,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,62.0,62,-1.6020503044128418,False,San Jose State,Wyoming,10.0,13.0,4,7,18,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,68.0,68,-0.8316819071769714,False,San Jose State,Wyoming,10.0,13.0,4,7,18,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Sack,,,68.0,68,-1.310960292816162,False,San Jose State,Wyoming,10.0,13.0,4,7,18,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,65.0,65,-0.8249900937080383,False,San Jose State,Wyoming,10.0,13.0,4,12,59,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,89.0,89,0.7922511100769043,False,San Jose State,Wyoming,10.0,13.0,3,2,9,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Sack,,,42.0,42,-1.2947367429733276,False,San Jose State,Wyoming,10.0,13.0,3,2,9,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,63.0,63,-0.8933175802230835,False,San Jose State,Wyoming,10.0,13.0,3,4,59,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,64.0,64,-1.5277068614959717,False,San Jose State,Wyoming,10.0,13.0,3,4,59,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,42.0,42,-1.003596544265747,False,San Jose State,Wyoming,10.0,13.0,3,8,39,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,42.0,42,-1.99336838722229,False,San Jose State,Wyoming,10.0,13.0,3,8,39,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,75.0,75,1.0450941324234009,False,San Jose State,Wyoming,7.0,13.0,3,15,0,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,16.0,16,-2.9119768142700195,False,San Jose State,Wyoming,7.0,13.0,3,15,0,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,57.0,57,2.721139907836914,False,San Jose State,Wyoming,7.0,13.0,2,0,37,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Interception Return,,,22.0,22,-3.7824132442474365,False,San Jose State,Wyoming,7.0,13.0,2,0,37,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,7.0,7,0.9909477233886719,False,San Jose State,Wyoming,0.0,10.0,2,6,32,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,81.0,81,-0.9448142051696777,False,San Jose State,Wyoming,0.0,7.0,2,13,56,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,82.0,82,0.15208113193511963,False,San Jose State,Wyoming,0.0,7.0,2,13,56,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,47.0,47,-0.7131561040878296,False,San Jose State,Wyoming,0.0,7.0,1,3,33,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,44.0,44,-1.5025980472564697,False,San Jose State,Wyoming,0.0,7.0,1,3,33,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,72.0,72,-0.9814229011535645,False,San Jose State,Wyoming,0.0,7.0,1,7,45,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,72.0,72,-1.2279776334762573,False,San Jose State,Wyoming,0.0,7.0,1,7,45,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,54.0,54,-0.9164513349533081,False,San Jose State,Wyoming,0.0,0.0,1,9,46,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Interception Return,,,54.0,54,-5.813663959503174,False,San Jose State,Wyoming,0.0,0.0,1,9,46,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Incompletion,,,79.0,79,-0.6986815333366394,False,San Jose State,Wyoming,0.0,0.0,1,13,14,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400945309.0,Pass Reception,,,75.0,75,-0.5083998441696167,False,San Jose State,Wyoming,0.0,0.0,1,13,14,13,San Jose State,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Incompletion,,,75.0,25,-1.1526422500610352,False,Wyoming,Central Michigan,37.0,14.0,4,7,54,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,55.0,45,-0.08580374717712402,False,Wyoming,Central Michigan,30.0,14.0,3,1,25,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,64.0,36,0.9432628154754639,False,Wyoming,Central Michigan,30.0,14.0,3,2,10,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Sack,,,35.0,60,-1.237189769744873,False,Wyoming,Central Michigan,27.0,7.0,3,7,45,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,55.0,45,1.374333381652832,False,Wyoming,Central Michigan,27.0,7.0,3,9,2,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Sack,,,29.0,71,-1.4407998323440552,False,Wyoming,Central Michigan,27.0,7.0,2,0,58,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Incompletion,,,29.0,71,-0.4364672899246216,False,Wyoming,Central Michigan,27.0,7.0,2,1,34,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,43.0,57,1.1272752285003662,False,Wyoming,Central Michigan,27.0,7.0,2,2,18,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Incompletion,,,15.0,85,-0.751107931137085,False,Wyoming,Central Michigan,24.0,7.0,2,5,28,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Sack,,,12.0,88,-1.1628293991088867,False,Wyoming,Central Michigan,24.0,7.0,2,5,55,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Incompletion,,,58.0,42,-1.2032644748687744,False,Wyoming,Central Michigan,24.0,7.0,2,8,21,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Incompletion,,,59.0,41,-0.561614990234375,False,Wyoming,Central Michigan,24.0,7.0,2,9,9,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,68.0,32,-0.22527217864990234,False,Wyoming,Central Michigan,24.0,7.0,2,9,50,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Passing Touchdown,,,45.0,55,2.9981555938720703,True,Wyoming,Central Michigan,21.0,7.0,1,1,9,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,58.0,42,1.3136084079742432,False,Wyoming,Central Michigan,14.0,7.0,1,1,23,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Passing Touchdown,,,11.0,89,2.8921704292297363,True,Wyoming,Central Michigan,14.0,0.0,1,4,38,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Passing Touchdown,,,23.0,77,2.1226248741149902,True,Wyoming,Central Michigan,7.0,0.0,1,7,55,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,41.0,59,1.5828053951263428,False,Wyoming,Central Michigan,0.0,0.0,1,8,40,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Reception,,,46.0,54,0.05538320541381836,False,Wyoming,Central Michigan,0.0,0.0,1,9,38,1,Central Michigan,2017,Wyoming,Josh Allen,2018
+400953389.0,Pass Incompletion,,,54.0,46,-1.683128833770752,False,Wyoming,Central Michigan,0.0,0.0,1,13,31,1,Central Michigan,2017,Wyoming,Josh Allen,2018

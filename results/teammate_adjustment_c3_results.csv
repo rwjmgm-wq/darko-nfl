@@ -1,0 +1,3 @@
+method,correlation,rmse,n_qbs
+Baseline (EPA only),0.8877431802862236,0.1107108185631614,27
+C3: Direct Covariate,0.8789085475715718,0.08875040682335679,27

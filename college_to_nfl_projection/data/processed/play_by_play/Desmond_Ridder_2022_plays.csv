@@ -1,0 +1,398 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401282708.0,Pass Reception,,,53.0,53,2.6786930561065674,False,Notre Dame,Cincinnati,17.0,13.0,4,6,15,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,59.0,59,0.05293762683868408,False,Notre Dame,Cincinnati,17.0,13.0,4,7,0,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,75.0,75,0.005655765533447266,False,Notre Dame,Cincinnati,17.0,13.0,4,8,5,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,24.0,24,0.06891393661499023,False,Notre Dame,Cincinnati,17.0,7.0,4,12,46,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,69.0,69,2.4830620288848877,False,Notre Dame,Cincinnati,17.0,7.0,4,14,0,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,76.0,76,-1.1150161027908325,False,Notre Dame,Cincinnati,17.0,7.0,4,14,55,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Fumble Recovery (Opponent),,,24.0,24,-7.530428886413574,False,Notre Dame,Cincinnati,17.0,0.0,3,3,20,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,43.0,43,1.3541080951690674,False,Notre Dame,Cincinnati,17.0,0.0,3,4,0,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,70.0,70,0.34815430641174316,False,Notre Dame,Cincinnati,17.0,0.0,3,7,40,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,12.0,12,-1.4234042167663574,False,Notre Dame,Cincinnati,17.0,0.0,3,12,2,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,62.0,62,2.089987277984619,False,Notre Dame,Cincinnati,17.0,0.0,3,13,58,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,75.0,75,0.5870733261108398,False,Notre Dame,Cincinnati,17.0,0.0,3,14,53,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Passing Touchdown,,,27.0,27,4.216350555419922,True,Notre Dame,Cincinnati,17.0,0.0,2,0,40,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,49.0,49,1.5899125337600708,False,Notre Dame,Cincinnati,10.0,0.0,2,0,54,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,49.0,49,-0.21684908866882324,False,Notre Dame,Cincinnati,10.0,0.0,2,1,0,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,76.0,76,0.7938328385353088,False,Notre Dame,Cincinnati,10.0,0.0,2,1,15,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,86.0,86,-1.4403748512268066,False,Notre Dame,Cincinnati,10.0,0.0,2,4,5,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,93.0,93,0.29242706298828125,False,Notre Dame,Cincinnati,10.0,0.0,2,4,28,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,5.0,5,-1.4554188251495361,False,Notre Dame,Cincinnati,7.0,0.0,2,10,45,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Passing Touchdown,,,1.0,1,0.981959342956543,True,Notre Dame,Cincinnati,7.0,0.0,2,12,9,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,61.0,61,-0.8930572271347046,False,Notre Dame,Cincinnati,0.0,0.0,2,14,56,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,45.0,45,-0.8508648872375488,False,Notre Dame,Cincinnati,0.0,0.0,1,2,55,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,45.0,45,-0.6626293659210205,False,Notre Dame,Cincinnati,0.0,0.0,1,3,16,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,62.0,62,2.6722216606140137,False,Notre Dame,Cincinnati,0.0,0.0,1,4,0,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,67.0,67,0.08738672733306885,False,Notre Dame,Cincinnati,0.0,0.0,1,5,0,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,80.0,80,-1.2495789527893066,False,Notre Dame,Cincinnati,0.0,0.0,1,8,48,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,80.0,80,-0.9980270266532898,False,Notre Dame,Cincinnati,0.0,0.0,1,8,51,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Incompletion,,,80.0,80,-0.6746749877929688,False,Notre Dame,Cincinnati,0.0,0.0,1,8,54,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,86.0,86,-0.09876203536987305,False,Notre Dame,Cincinnati,0.0,0.0,1,9,20,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282708.0,Pass Reception,,,95.0,95,0.9453251957893372,False,Notre Dame,Cincinnati,0.0,0.0,1,9,45,5,Notre Dame,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Passing Touchdown,,,19.0,19,2.2060904502868652,True,Indiana,Cincinnati,30.0,24.0,4,12,13,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,27.0,27,0.5282149314880371,False,Indiana,Cincinnati,23.0,24.0,4,12,40,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,38.0,38,-0.5725424289703369,False,Indiana,Cincinnati,23.0,24.0,4,14,9,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,53.0,53,-0.6862757205963135,False,Indiana,Cincinnati,23.0,24.0,4,14,19,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,64.0,64,1.1969884634017944,False,Indiana,Cincinnati,23.0,24.0,4,14,44,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,22.0,22,0.26314806938171387,False,Indiana,Cincinnati,10.0,14.0,3,7,54,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,22.0,22,-0.5636675357818604,False,Indiana,Cincinnati,10.0,14.0,3,8,12,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,43.0,43,1.3746495246887207,False,Indiana,Cincinnati,10.0,14.0,3,8,29,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,77.0,77,1.4691541194915771,False,Indiana,Cincinnati,10.0,14.0,3,9,28,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,38.0,38,0.3267683982849121,False,Indiana,Cincinnati,10.0,14.0,3,12,19,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,24.0,23,-0.3267683982849121,False,Indiana,Cincinnati,10.0,14.0,3,12,26,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,14.0,14,-0.4792308807373047,False,Indiana,Cincinnati,7.0,14.0,2,0,3,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,18.0,18,0.0590817928314209,False,Indiana,Cincinnati,7.0,14.0,2,0,13,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,46.0,46,2.3706021308898926,False,Indiana,Cincinnati,7.0,14.0,2,0,20,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,26.0,26,1.0276548862457275,False,Indiana,Cincinnati,0.0,14.0,2,2,16,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,36.0,36,-0.4902160167694092,False,Indiana,Cincinnati,0.0,14.0,2,2,51,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,48.0,48,0.7721848487854004,False,Indiana,Cincinnati,0.0,14.0,2,3,11,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,79.0,79,-0.161049485206604,False,Indiana,Cincinnati,0.0,14.0,2,4,17,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Fumble Recovery (Opponent),,,62.0,62,-5.674940586090088,False,Indiana,Cincinnati,0.0,7.0,2,5,48,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,63.0,63,0.1024782657623291,False,Indiana,Cincinnati,0.0,7.0,2,6,19,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,84.0,84,2.4077725410461426,False,Indiana,Cincinnati,0.0,7.0,2,6,34,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,84.0,84,-0.9139820337295532,False,Indiana,Cincinnati,0.0,7.0,2,6,49,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,90.0,90,0.35165905952453613,False,Indiana,Cincinnati,0.0,7.0,2,6,53,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,75.0,75,-1.3028879165649414,False,Indiana,Cincinnati,0.0,7.0,2,11,42,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,79.0,79,-0.010865777730941772,False,Indiana,Cincinnati,0.0,7.0,2,13,11,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,72.0,72,-1.232578992843628,False,Indiana,Cincinnati,0.0,7.0,1,5,24,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,72.0,72,-0.9771093130111694,False,Indiana,Cincinnati,0.0,7.0,1,5,31,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,80.0,80,0.26123109459877014,False,Indiana,Cincinnati,0.0,7.0,1,6,10,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Interception Return,,,65.0,65,-3.1809098720550537,False,Indiana,Cincinnati,0.0,0.0,1,8,37,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,65.0,65,-0.8909441232681274,False,Indiana,Cincinnati,0.0,0.0,1,8,53,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,88.0,88,0.3436870574951172,False,Indiana,Cincinnati,0.0,0.0,1,11,49,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,86.0,86,-0.7643380165100098,False,Indiana,Cincinnati,0.0,0.0,1,12,30,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Incompletion,,,83.0,83,-0.9859037399291992,False,Indiana,Cincinnati,0.0,0.0,1,14,6,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401282725.0,Pass Reception,,,83.0,83,-0.5310101509094238,False,Indiana,Cincinnati,0.0,0.0,1,14,6,3,Indiana,2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Interception Return Touchdown,,,71.0,29,-8.01045036315918,True,Cincinnati,Miami (OH),42.0,14.0,4,2,30,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Passing Touchdown,,,8.0,92,2.1724681854248047,True,Cincinnati,Miami (OH),42.0,0.0,4,11,46,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,19.0,91,1.1500630378723145,False,Cincinnati,Miami (OH),35.0,0.0,4,12,46,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,29.0,71,0.5443439483642578,False,Cincinnati,Miami (OH),35.0,0.0,4,13,2,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,40.0,60,0.45964956283569336,False,Cincinnati,Miami (OH),35.0,0.0,4,13,16,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,59.0,41,0.7398171424865723,False,Cincinnati,Miami (OH),35.0,0.0,4,13,36,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,67.0,33,0.44287586212158203,False,Cincinnati,Miami (OH),35.0,0.0,4,13,51,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Sack,,,73.0,27,-1.9232540130615234,False,Cincinnati,Miami (OH),35.0,0.0,3,4,18,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Incompletion,,,80.0,20,-0.4914870262145996,False,Cincinnati,Miami (OH),35.0,0.0,3,4,50,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Interception Return,,,22.0,78,-3.4449987411499023,False,Cincinnati,Miami (OH),35.0,0.0,3,9,40,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,29.0,71,-0.2352309226989746,False,Cincinnati,Miami (OH),28.0,0.0,2,3,42,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,44.0,56,0.5564088821411133,False,Cincinnati,Miami (OH),28.0,0.0,2,4,55,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,30.0,70,0.3394756317138672,False,Cincinnati,Miami (OH),21.0,0.0,2,9,26,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,72.0,28,2.713423728942871,False,Cincinnati,Miami (OH),21.0,0.0,2,10,5,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Sack,,,68.0,32,-1.144469976425171,False,Cincinnati,Miami (OH),21.0,0.0,2,10,41,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Incompletion,,,79.0,21,-2.0103683471679688,False,Cincinnati,Miami (OH),21.0,0.0,2,13,18,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,77.0,23,-1.1145210266113281,False,Cincinnati,Miami (OH),21.0,0.0,2,14,0,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Passing Touchdown,,,23.0,77,2.975008010864258,True,Cincinnati,Miami (OH),21.0,0.0,1,2,45,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,27.0,73,-0.6192789077758789,False,Cincinnati,Miami (OH),14.0,0.0,1,3,12,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,42.0,58,0.2114715576171875,False,Cincinnati,Miami (OH),14.0,0.0,1,4,47,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,54.0,46,0.46212315559387207,False,Cincinnati,Miami (OH),14.0,0.0,1,5,37,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,72.0,28,0.6601178646087646,False,Cincinnati,Miami (OH),14.0,0.0,1,6,30,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Passing Touchdown,,,8.0,92,1.3231234550476074,True,Cincinnati,Miami (OH),14.0,0.0,1,8,1,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,29.0,71,0.6721510887145996,False,Cincinnati,Miami (OH),7.0,0.0,1,9,27,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Reception,,,93.0,7,2.0637545585632324,False,Cincinnati,Miami (OH),7.0,0.0,1,10,35,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Pass Incompletion,,,93.0,7,-1.0599983930587769,False,Cincinnati,Miami (OH),7.0,0.0,1,11,21,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401300996.0,Passing Touchdown,,,81.0,19,5.634822368621826,True,Cincinnati,Miami (OH),7.0,0.0,1,14,15,1,Miami (OH),2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Passing Touchdown,,,18.0,82,3.241959571838379,True,Cincinnati,Murray State,42.0,7.0,4,1,8,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Incompletion,,,59.0,41,-1.0232223272323608,False,Cincinnati,Murray State,35.0,7.0,4,6,11,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Incompletion,,,64.0,36,-0.7930200099945068,False,Cincinnati,Murray State,35.0,7.0,4,8,5,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,52.0,48,2.1288185119628906,False,Cincinnati,Murray State,28.0,7.0,4,12,0,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Passing Touchdown,,,23.0,77,1.7083311080932617,True,Cincinnati,Murray State,28.0,7.0,4,14,13,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,36.0,64,0.33594179153442383,False,Cincinnati,Murray State,21.0,7.0,3,0,30,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,44.0,56,0.4396247863769531,False,Cincinnati,Murray State,21.0,7.0,3,1,0,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,82.0,18,1.9533355236053467,False,Cincinnati,Murray State,21.0,7.0,3,1,20,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,22.0,78,1.498741626739502,False,Cincinnati,Murray State,14.0,7.0,3,5,40,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Sack,,,40.0,60,-1.463700532913208,False,Cincinnati,Murray State,14.0,7.0,3,6,53,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,52.0,48,1.2629811763763428,False,Cincinnati,Murray State,14.0,7.0,3,7,25,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,45.0,55,3.3574416637420654,False,Cincinnati,Murray State,7.0,7.0,3,11,0,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Sack,,,47.0,53,-1.6073585748672485,False,Cincinnati,Murray State,7.0,7.0,3,12,30,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,63.0,37,1.7909048795700073,False,Cincinnati,Murray State,7.0,7.0,3,12,55,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,71.0,29,-0.12265396118164062,False,Cincinnati,Murray State,7.0,7.0,3,14,13,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,39.0,61,2.1417150497436523,False,Cincinnati,Murray State,7.0,7.0,2,8,5,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,40.0,60,-0.7947483062744141,False,Cincinnati,Murray State,7.0,7.0,2,8,40,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Passing Touchdown,,,2.0,98,3.4869682788848877,True,Cincinnati,Murray State,7.0,7.0,2,9,41,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Reception,,,40.0,60,1.4012830257415771,False,Cincinnati,Murray State,0.0,7.0,2,11,48,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Incompletion,,,52.0,48,-0.5829131603240967,False,Cincinnati,Murray State,0.0,7.0,2,13,32,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301002.0,Pass Incompletion,,,82.0,18,-1.6750130653381348,False,Cincinnati,Murray State,0.0,0.0,1,6,18,2,Murray State,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,64.0,36,-0.3354572057723999,False,Cincinnati,Temple,52.0,3.0,4,0,57,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Passing Touchdown,,,11.0,89,2.624927520751953,True,Cincinnati,Temple,45.0,3.0,3,0,54,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,11.0,89,-0.7735075950622559,False,Cincinnati,Temple,38.0,3.0,3,0,58,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,26.0,74,0.7751631736755371,False,Cincinnati,Temple,38.0,3.0,3,2,36,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,53.0,47,0.873077392578125,False,Cincinnati,Temple,38.0,3.0,3,3,0,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,57.0,43,-0.35622692108154297,False,Cincinnati,Temple,38.0,3.0,3,3,50,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,61.0,39,1.7344884872436523,False,Cincinnati,Temple,31.0,3.0,3,8,9,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Passing Touchdown,,,38.0,62,2.1152400970458984,True,Cincinnati,Temple,31.0,3.0,3,11,0,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,54.0,46,0.21377992630004883,False,Cincinnati,Temple,24.0,3.0,3,11,32,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,87.0,13,-1.6529394388198853,False,Cincinnati,Temple,24.0,3.0,3,11,52,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,91.0,9,-1.2175287008285522,False,Cincinnati,Temple,24.0,3.0,3,12,32,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,76.0,24,1.723876714706421,False,Cincinnati,Temple,17.0,3.0,2,0,25,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,26.0,74,-0.9995330572128296,False,Cincinnati,Temple,17.0,3.0,2,2,48,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,19.0,81,-1.4183034896850586,False,Cincinnati,Temple,17.0,3.0,2,2,54,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,26.0,74,0.31710124015808105,False,Cincinnati,Temple,17.0,3.0,2,3,15,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,30.0,70,-0.6858415603637695,False,Cincinnati,Temple,17.0,3.0,2,3,39,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,38.0,62,0.6184768676757812,False,Cincinnati,Temple,17.0,3.0,2,4,11,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,58.0,42,0.14799261093139648,False,Cincinnati,Temple,17.0,3.0,2,4,57,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,69.0,31,0.5851762294769287,False,Cincinnati,Temple,17.0,3.0,2,5,16,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,17.0,83,1.4292302131652832,False,Cincinnati,Temple,10.0,0.0,2,10,7,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,28.0,72,1.2202858924865723,False,Cincinnati,Temple,10.0,0.0,2,11,55,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,33.0,67,-0.6238834857940674,False,Cincinnati,Temple,10.0,0.0,2,12,39,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,47.0,53,0.7894117832183838,False,Cincinnati,Temple,10.0,0.0,2,13,8,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Passing Touchdown,,,9.0,91,1.8801422119140625,True,Cincinnati,Temple,10.0,0.0,1,2,52,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,63.0,37,-1.7690786123275757,False,Cincinnati,Temple,3.0,0.0,1,3,35,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,69.0,31,-0.3604264259338379,False,Cincinnati,Temple,3.0,0.0,1,4,51,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Sack,,,6.0,94,-1.5657939910888672,False,Cincinnati,Temple,0.0,0.0,1,7,46,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,23.0,77,0.27198290824890137,False,Cincinnati,Temple,0.0,0.0,1,10,9,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,23.0,77,-0.622901201248169,False,Cincinnati,Temple,0.0,0.0,1,10,15,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,44.0,56,1.857863426208496,False,Cincinnati,Temple,0.0,0.0,1,10,33,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Incompletion,,,44.0,56,-0.6376402378082275,False,Cincinnati,Temple,0.0,0.0,1,10,41,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301018.0,Pass Reception,,,70.0,30,2.2404050827026367,False,Cincinnati,Temple,0.0,0.0,1,11,14,6,Temple,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,74.0,26,-0.8536784648895264,False,Cincinnati,UCF,42.0,14.0,4,11,46,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Incompletion,,,74.0,26,-0.8829296827316284,False,Cincinnati,UCF,42.0,14.0,4,11,59,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Sack,,,67.0,33,-1.6820433139801025,False,Cincinnati,UCF,42.0,14.0,4,14,55,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,64.0,36,-0.5646212100982666,False,Cincinnati,UCF,42.0,14.0,3,0,10,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Fumble Recovery (Opponent),,,37.0,63,-3.923844814300537,False,Cincinnati,UCF,35.0,7.0,3,8,57,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,63.0,37,0.3713827133178711,False,Cincinnati,UCF,35.0,7.0,3,11,11,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,34.0,66,1.151883602142334,False,Cincinnati,UCF,28.0,0.0,2,4,14,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Passing Touchdown,,,19.0,81,1.7852463722229004,True,Cincinnati,UCF,21.0,0.0,2,7,40,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,42.0,58,0.8437683582305908,False,Cincinnati,UCF,14.0,0.0,2,7,59,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Incompletion,,,64.0,36,-1.3656675815582275,False,Cincinnati,UCF,14.0,0.0,2,11,9,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Incompletion,,,64.0,36,-0.8924763202667236,False,Cincinnati,UCF,14.0,0.0,2,11,15,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Incompletion,,,38.0,62,-1.8556820154190063,False,Cincinnati,UCF,14.0,0.0,2,14,10,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,7.0,93,-0.6763668060302734,False,Cincinnati,UCF,7.0,0.0,1,2,16,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,9.0,91,-0.3790907859802246,False,Cincinnati,UCF,7.0,0.0,1,2,55,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,29.0,71,1.0371294021606445,False,Cincinnati,UCF,7.0,0.0,1,3,0,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,41.0,59,2.0145797729492188,False,Cincinnati,UCF,7.0,0.0,1,3,45,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,57.0,43,0.521514892578125,False,Cincinnati,UCF,7.0,0.0,1,3,58,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Incompletion,,,57.0,43,-0.6066441535949707,False,Cincinnati,UCF,7.0,0.0,1,4,7,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Reception,,,31.0,69,1.2034101486206055,False,Cincinnati,UCF,0.0,0.0,1,12,34,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301023.0,Pass Incompletion,,,38.0,62,-0.6471834182739258,False,Cincinnati,UCF,0.0,0.0,1,13,25,7,UCF,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,50.0,50,0.44040846824645996,False,Navy,Cincinnati,27.0,13.0,4,7,19,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Passing Touchdown,,,3.0,3,0.6146807670593262,True,Navy,Cincinnati,27.0,10.0,3,1,13,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,20.0,20,1.4418489933013916,False,Navy,Cincinnati,20.0,10.0,3,2,35,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,25.0,25,0.09178400039672852,False,Navy,Cincinnati,20.0,10.0,3,3,11,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,33.0,33,3.313570022583008,False,Navy,Cincinnati,20.0,10.0,3,4,0,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,33.0,33,-1.5693597793579102,False,Navy,Cincinnati,20.0,10.0,3,4,20,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,35.0,35,-0.5886023044586182,False,Navy,Cincinnati,20.0,10.0,3,5,8,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,49.0,49,-0.12114429473876953,False,Navy,Cincinnati,13.0,10.0,3,8,28,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,14.0,14,-1.252821445465088,False,Navy,Cincinnati,7.0,10.0,2,4,11,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Sack,,,7.0,7,-1.8275032043457031,False,Navy,Cincinnati,7.0,10.0,2,4,49,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,14.0,14,0.6000223159790039,False,Navy,Cincinnati,7.0,10.0,2,5,20,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,25.0,25,0.576200008392334,False,Navy,Cincinnati,7.0,10.0,2,5,48,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,34.0,34,0.5346918106079102,False,Navy,Cincinnati,7.0,10.0,2,6,13,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,47.0,47,0.7259197235107422,False,Navy,Cincinnati,7.0,10.0,2,7,15,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,47.0,47,-0.5254709720611572,False,Navy,Cincinnati,7.0,10.0,2,7,25,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,60.0,60,0.012413501739501953,False,Navy,Cincinnati,7.0,10.0,2,8,58,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,73.0,73,2.4043948650360107,False,Navy,Cincinnati,7.0,10.0,2,9,31,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,73.0,73,-0.9307878017425537,False,Navy,Cincinnati,7.0,10.0,2,9,38,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Interception Return,,,22.0,22,-4.6882524490356445,False,Navy,Cincinnati,7.0,10.0,2,12,24,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,38.0,38,2.232288122177124,False,Navy,Cincinnati,7.0,10.0,2,12,41,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,38.0,38,-0.9468138217926025,False,Navy,Cincinnati,7.0,10.0,2,12,48,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,43.0,43,0.05968308448791504,False,Navy,Cincinnati,7.0,10.0,2,13,5,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,60.0,60,2.2467668056488037,False,Navy,Cincinnati,7.0,10.0,2,13,29,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Passing Touchdown,,,31.0,31,2.9203238487243652,True,Navy,Cincinnati,7.0,7.0,1,2,50,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,44.0,44,0.7368204593658447,False,Navy,Cincinnati,0.0,7.0,1,3,28,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,55.0,55,-1.3044962882995605,False,Navy,Cincinnati,0.0,0.0,1,11,13,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,50.0,50,-0.5355992317199707,False,Navy,Cincinnati,0.0,0.0,1,11,27,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Incompletion,,,53.0,53,-0.8616671562194824,False,Navy,Cincinnati,0.0,0.0,1,14,23,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301027.0,Pass Reception,,,62.0,62,1.000807523727417,False,Navy,Cincinnati,0.0,0.0,1,14,55,8,Navy,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Passing Touchdown,,,26.0,26,3.732956886291504,True,Tulane,Cincinnati,31.0,12.0,4,4,13,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,4.0,4,-1.5796921253204346,False,Tulane,Cincinnati,21.0,12.0,4,6,19,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Sack,,,46.0,46,-1.7829844951629639,False,Tulane,Cincinnati,21.0,12.0,4,8,19,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,44.0,44,-0.6440243721008301,False,Tulane,Cincinnati,21.0,12.0,4,9,0,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,74.0,74,1.9822509288787842,False,Tulane,Cincinnati,21.0,12.0,4,9,30,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,84.0,84,0.4672626256942749,False,Tulane,Cincinnati,21.0,12.0,4,10,19,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,67.0,67,-0.20889487862586975,False,Tulane,Cincinnati,21.0,12.0,4,14,19,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Passing Touchdown,,,5.0,5,1.0156474113464355,True,Tulane,Cincinnati,21.0,12.0,3,3,12,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,13.0,13,-0.8114199638366699,False,Tulane,Cincinnati,14.0,12.0,3,4,34,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,53.0,53,-0.12944626808166504,False,Tulane,Cincinnati,14.0,12.0,3,8,0,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,61.0,61,0.6710638999938965,False,Tulane,Cincinnati,14.0,12.0,3,8,30,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,40.0,40,-2.0954856872558594,False,Tulane,Cincinnati,14.0,12.0,3,12,0,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,64.0,64,-0.20911455154418945,False,Tulane,Cincinnati,14.0,12.0,3,13,40,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,75.0,75,-1.1737836599349976,False,Tulane,Cincinnati,14.0,12.0,3,14,55,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Interception Return,,,29.0,29,-2.3373358249664307,False,Tulane,Cincinnati,14.0,9.0,2,0,30,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Sack,,,23.0,23,-0.5382719039916992,False,Tulane,Cincinnati,14.0,9.0,2,1,14,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,68.0,68,2.249861001968384,False,Tulane,Cincinnati,7.0,9.0,2,6,55,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,68.0,68,-0.6599019765853882,False,Tulane,Cincinnati,7.0,9.0,2,7,20,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,80.0,80,0.8355170488357544,False,Tulane,Cincinnati,7.0,9.0,2,7,45,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,92.0,92,-0.13604074716567993,False,Tulane,Cincinnati,7.0,0.0,2,10,49,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Passing Touchdown,,,16.0,16,2.2080330848693848,True,Tulane,Cincinnati,7.0,0.0,1,1,14,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,37.0,37,3.024240493774414,False,Tulane,Cincinnati,0.0,0.0,1,2,13,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,28.0,27,-3.024240493774414,False,Tulane,Cincinnati,0.0,0.0,1,2,30,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,28.0,28,-0.6102950572967529,False,Tulane,Cincinnati,0.0,0.0,1,2,39,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,37.0,37,0.9447383880615234,False,Tulane,Cincinnati,0.0,0.0,1,3,10,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,48.0,48,-0.4086165428161621,False,Tulane,Cincinnati,0.0,0.0,1,5,4,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Incompletion,,,60.0,60,-0.6664494276046753,False,Tulane,Cincinnati,0.0,0.0,1,7,9,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301032.0,Pass Reception,,,98.0,98,4.646440029144287,False,Tulane,Cincinnati,0.0,0.0,1,7,15,9,Tulane,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Incompletion,,,61.0,39,-1.063016414642334,False,Cincinnati,Tulsa,28.0,20.0,4,5,34,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Incompletion,,,56.0,44,-0.7303367257118225,False,Cincinnati,Tulsa,28.0,20.0,4,5,37,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,72.0,28,-0.13979411125183105,False,Cincinnati,Tulsa,28.0,12.0,4,13,0,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Incompletion,,,72.0,28,-1.1978914737701416,False,Cincinnati,Tulsa,28.0,12.0,4,13,16,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,68.0,32,-1.1935195922851562,False,Cincinnati,Tulsa,28.0,12.0,4,13,43,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Fumble Recovery (Opponent),,,52.0,48,-2.709430694580078,False,Cincinnati,Tulsa,28.0,12.0,3,2,12,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,78.0,22,0.7469971179962158,False,Cincinnati,Tulsa,28.0,12.0,3,4,42,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Passing Touchdown,,,31.0,69,2.404405117034912,True,Cincinnati,Tulsa,28.0,12.0,3,9,4,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Passing Touchdown,,,12.0,88,1.903761863708496,True,Cincinnati,Tulsa,21.0,12.0,3,13,17,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,52.0,48,2.0195021629333496,False,Cincinnati,Tulsa,14.0,12.0,3,13,45,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,67.0,33,1.2094448804855347,False,Cincinnati,Tulsa,14.0,12.0,3,14,17,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Incompletion,,,74.0,26,-0.953362226486206,False,Cincinnati,Tulsa,14.0,9.0,2,2,0,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Sack,,,21.0,79,-1.186294436454773,False,Cincinnati,Tulsa,14.0,3.0,2,7,52,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Sack,,,18.0,82,-1.4028499126434326,False,Cincinnati,Tulsa,14.0,3.0,2,8,31,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,30.0,70,-0.3414473533630371,False,Cincinnati,Tulsa,14.0,3.0,2,10,56,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,43.0,57,0.6694402694702148,False,Cincinnati,Tulsa,14.0,3.0,2,11,21,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,77.0,23,1.7251479625701904,False,Cincinnati,Tulsa,14.0,3.0,2,12,1,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Incompletion,,,5.0,95,-0.49645376205444336,False,Cincinnati,Tulsa,7.0,0.0,1,2,6,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,41.0,59,2.057981014251709,False,Cincinnati,Tulsa,7.0,0.0,1,2,27,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Incompletion,,,75.0,25,-0.5376005172729492,False,Cincinnati,Tulsa,7.0,0.0,1,5,26,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,88.0,12,1.7716054916381836,False,Cincinnati,Tulsa,7.0,0.0,1,5,58,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Interception Return,,,75.0,25,-5.672539234161377,False,Cincinnati,Tulsa,7.0,0.0,1,9,6,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,43.0,57,3.1077699661254883,False,Cincinnati,Tulsa,0.0,0.0,1,11,28,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301037.0,Pass Reception,,,53.0,47,1.1474356651306152,False,Cincinnati,Tulsa,0.0,0.0,1,12,41,10,Tulsa,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,50.0,50,-1.2306801080703735,False,South Florida,Cincinnati,38.0,28.0,4,3,18,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,50.0,50,-0.5147867202758789,False,South Florida,Cincinnati,38.0,28.0,4,3,23,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,64.0,64,0.6714239120483398,False,South Florida,Cincinnati,38.0,28.0,4,4,45,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,75.0,75,0.5065971612930298,False,South Florida,Cincinnati,38.0,28.0,4,6,10,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,1.0,1,-0.796140193939209,False,South Florida,Cincinnati,38.0,21.0,4,11,35,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,20.0,20,0.6475424766540527,False,South Florida,Cincinnati,38.0,21.0,4,13,45,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,17.0,17,1.3830690383911133,False,South Florida,Cincinnati,31.0,21.0,4,14,53,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,45.0,45,0.9653975963592529,False,South Florida,Cincinnati,31.0,21.0,3,2,0,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,72.0,72,1.3548469543457031,False,South Florida,Cincinnati,31.0,21.0,3,3,0,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,73.0,73,-0.6746997833251953,False,South Florida,Cincinnati,31.0,21.0,3,3,40,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,66.0,66,-1.2161891460418701,False,South Florida,Cincinnati,31.0,14.0,3,4,8,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,64.0,64,-0.1971440315246582,False,South Florida,Cincinnati,31.0,14.0,3,5,40,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,74.0,74,1.1673616170883179,False,South Florida,Cincinnati,31.0,14.0,3,6,15,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Passing Touchdown,,,21.0,21,1.6917929649353027,True,South Florida,Cincinnati,31.0,7.0,3,11,48,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,29.0,29,-0.7384464740753174,False,South Florida,Cincinnati,24.0,7.0,3,12,29,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,47.0,47,0.4907543659210205,False,South Florida,Cincinnati,24.0,7.0,3,13,25,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,63.0,63,0.9754195213317871,False,South Florida,Cincinnati,24.0,7.0,3,14,18,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,66.0,66,-3.155141592025757,False,South Florida,Cincinnati,24.0,7.0,3,14,40,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,18.0,18,2.0626778602600098,False,South Florida,Cincinnati,21.0,7.0,2,0,5,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,18.0,18,-0.5435850620269775,False,South Florida,Cincinnati,21.0,7.0,2,0,16,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,37.0,37,1.2801223993301392,False,South Florida,Cincinnati,21.0,7.0,2,0,20,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,44.0,44,0.5075337886810303,False,South Florida,Cincinnati,21.0,7.0,2,0,35,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,51.0,51,-0.28556734323501587,False,South Florida,Cincinnati,21.0,7.0,2,1,30,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Incompletion,,,51.0,51,-0.7622333765029907,False,South Florida,Cincinnati,21.0,7.0,2,1,57,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Passing Touchdown,,,1.0,1,1.1227245330810547,True,South Florida,Cincinnati,21.0,7.0,2,5,30,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,28.0,28,1.6593875885009766,False,South Florida,Cincinnati,14.0,7.0,2,7,0,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,22.0,22,0.09375667572021484,False,South Florida,Cincinnati,7.0,7.0,2,10,10,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,29.0,29,0.4527745246887207,False,South Florida,Cincinnati,7.0,7.0,2,10,30,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,40.0,40,1.4159038066864014,False,South Florida,Cincinnati,7.0,7.0,2,11,0,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,46.0,46,0.1017293930053711,False,South Florida,Cincinnati,7.0,7.0,2,11,45,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Sack,,,52.0,52,-2.4862115383148193,False,South Florida,Cincinnati,7.0,7.0,2,14,20,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,15.0,15,-0.500791072845459,False,South Florida,Cincinnati,0.0,7.0,1,3,29,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,24.0,24,1.2230255603790283,False,South Florida,Cincinnati,0.0,7.0,1,4,5,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,39.0,39,1.0402641296386719,False,South Florida,Cincinnati,0.0,7.0,1,4,50,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,53.0,53,1.114595890045166,False,South Florida,Cincinnati,0.0,7.0,1,5,10,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,60.0,60,0.8306047320365906,False,South Florida,Cincinnati,0.0,7.0,1,5,35,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,67.0,67,0.17421352863311768,False,South Florida,Cincinnati,0.0,7.0,1,6,50,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Pass Reception,,,75.0,75,0.791018545627594,False,South Florida,Cincinnati,0.0,7.0,1,7,5,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Interception Return,,,50.0,50,-8.264341354370117,False,South Florida,Cincinnati,0.0,0.0,1,7,13,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301040.0,Fumble Recovery (Opponent),,,87.0,87,-4.388463497161865,False,South Florida,Cincinnati,0.0,0.0,1,8,34,11,South Florida,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Passing Touchdown,,,11.0,89,3.056065320968628,True,Cincinnati,SMU,48.0,0.0,4,11,6,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,21.0,79,2.8786675930023193,False,Cincinnati,SMU,41.0,0.0,4,13,25,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,26.0,74,-0.6797237396240234,False,Cincinnati,SMU,41.0,0.0,4,14,14,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,60.0,40,-0.6027541160583496,False,Cincinnati,SMU,41.0,0.0,3,0,10,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,74.0,26,-0.7120437622070312,False,Cincinnati,SMU,41.0,0.0,3,2,19,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Passing Touchdown,,,17.0,83,1.3393659591674805,True,Cincinnati,SMU,41.0,0.0,3,5,44,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,36.0,64,-0.4730110168457031,False,Cincinnati,SMU,34.0,0.0,3,9,4,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Passing Touchdown,,,5.0,95,0.7690677642822266,True,Cincinnati,SMU,34.0,0.0,3,10,59,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,40.0,60,1.8129868507385254,False,Cincinnati,SMU,27.0,0.0,3,11,48,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,62.0,38,-0.01225137710571289,False,Cincinnati,SMU,27.0,0.0,3,12,59,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,77.0,23,0.5803196430206299,False,Cincinnati,SMU,27.0,0.0,3,13,40,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,20.0,80,-0.5113010406494141,False,Cincinnati,SMU,27.0,0.0,2,0,31,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,21.0,79,-0.28378963470458984,False,Cincinnati,SMU,27.0,0.0,2,1,22,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,44.0,56,1.3166872262954712,False,Cincinnati,SMU,27.0,0.0,2,1,43,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,66.0,34,0.34882688522338867,False,Cincinnati,SMU,27.0,0.0,2,2,10,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,17.0,83,-0.6554722785949707,False,Cincinnati,SMU,27.0,0.0,2,3,47,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,17.0,83,-0.6814167499542236,False,Cincinnati,SMU,27.0,0.0,2,3,54,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,25.0,75,-0.11935758590698242,False,Cincinnati,SMU,27.0,0.0,2,6,1,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Passing Touchdown,,,17.0,83,2.045846462249756,True,Cincinnati,SMU,27.0,0.0,2,8,19,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,42.0,58,1.022629976272583,False,Cincinnati,SMU,20.0,0.0,2,9,29,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,54.0,46,-0.5068562030792236,False,Cincinnati,SMU,20.0,0.0,2,10,46,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,65.0,35,0.48490428924560547,False,Cincinnati,SMU,20.0,0.0,2,11,20,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,45.0,55,-0.1915285587310791,False,Cincinnati,SMU,14.0,0.0,2,14,18,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,49.0,51,-0.45020508766174316,False,Cincinnati,SMU,14.0,0.0,1,0,24,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,74.0,26,1.637528896331787,False,Cincinnati,SMU,14.0,0.0,1,0,55,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,14.0,86,-0.30170249938964844,False,Cincinnati,SMU,7.0,0.0,1,7,19,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Reception,,,24.0,76,1.1265053749084473,False,Cincinnati,SMU,7.0,0.0,1,7,51,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Pass Incompletion,,,57.0,43,-1.5528104305267334,False,Cincinnati,SMU,7.0,0.0,1,9,54,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301046.0,Passing Touchdown,,,53.0,47,3.6367931365966797,True,Cincinnati,SMU,7.0,0.0,1,12,54,12,SMU,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Interception Return,,,2.0,2,-5.568253993988037,False,East Carolina,Cincinnati,28.0,13.0,4,5,20,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,4.0,4,-0.23187971115112305,False,East Carolina,Cincinnati,28.0,13.0,4,6,3,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,29.0,29,1.5424561500549316,False,East Carolina,Cincinnati,28.0,13.0,4,7,22,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,29.0,29,-0.5237560272216797,False,East Carolina,Cincinnati,28.0,13.0,4,7,27,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,69.0,69,-0.17101609706878662,False,East Carolina,Cincinnati,28.0,13.0,4,9,9,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,93.0,93,-1.0548970699310303,False,East Carolina,Cincinnati,21.0,6.0,3,1,10,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,62.0,62,-1.4309179782867432,False,East Carolina,Cincinnati,21.0,3.0,3,8,31,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,87.0,87,1.731685757637024,False,East Carolina,Cincinnati,21.0,3.0,3,10,3,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Interception Return,,,55.0,55,-3.345275402069092,False,East Carolina,Cincinnati,21.0,3.0,3,13,50,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,55.0,55,-0.9303030967712402,False,East Carolina,Cincinnati,21.0,3.0,3,14,2,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,55.0,55,-0.5554232597351074,False,East Carolina,Cincinnati,21.0,3.0,3,14,7,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,81.0,70,0.5554232597351074,False,East Carolina,Cincinnati,21.0,3.0,3,14,22,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,8.0,8,-0.7253718376159668,False,East Carolina,Cincinnati,21.0,3.0,2,1,28,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,19.0,19,1.4388742446899414,False,East Carolina,Cincinnati,21.0,3.0,2,2,5,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,61.0,61,0.4976463317871094,False,East Carolina,Cincinnati,21.0,3.0,2,3,18,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Passing Touchdown,,,28.0,28,3.1062562465667725,True,East Carolina,Cincinnati,21.0,3.0,2,4,40,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,46.0,46,1.0951883792877197,False,East Carolina,Cincinnati,14.0,3.0,2,5,8,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,64.0,64,1.065044641494751,False,East Carolina,Cincinnati,14.0,3.0,2,5,44,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,90.0,90,3.1877219676971436,False,East Carolina,Cincinnati,14.0,3.0,2,6,43,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,58.0,58,3.275235891342163,False,East Carolina,Cincinnati,7.0,3.0,2,11,41,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Passing Touchdown,,,44.0,44,3.5738697052001953,True,East Carolina,Cincinnati,7.0,3.0,2,13,48,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,70.0,70,2.3143365383148193,False,East Carolina,Cincinnati,0.0,3.0,2,14,29,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,76.0,76,0.033843934535980225,False,East Carolina,Cincinnati,0.0,3.0,2,15,0,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,29.0,29,-3.208716869354248,False,East Carolina,Cincinnati,0.0,3.0,1,1,13,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Incompletion,,,32.0,32,-1.0314710140228271,False,East Carolina,Cincinnati,0.0,3.0,1,2,1,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,60.0,60,0.25481247901916504,False,East Carolina,Cincinnati,0.0,3.0,1,3,49,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Sack,,,17.0,17,-1.256316065788269,False,East Carolina,Cincinnati,0.0,0.0,1,10,58,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Sack,,,13.0,13,-1.0544018745422363,False,East Carolina,Cincinnati,0.0,0.0,1,11,40,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401301051.0,Pass Reception,,,30.0,30,1.5318841934204102,False,East Carolina,Cincinnati,0.0,0.0,1,13,3,13,East Carolina,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Incompletion,,,69.0,31,-0.7195979952812195,False,Cincinnati,Houston,35.0,20.0,4,5,22,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Incompletion,,,50.0,50,-1.4779720306396484,False,Cincinnati,Houston,35.0,13.0,4,13,40,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,51.0,49,-0.5467584133148193,False,Cincinnati,Houston,35.0,13.0,4,14,48,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,49.0,51,-0.2750875949859619,False,Cincinnati,Houston,35.0,13.0,3,4,0,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,60.0,40,0.5739614963531494,False,Cincinnati,Houston,28.0,13.0,3,8,0,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Passing Touchdown,,,21.0,79,2.447436809539795,True,Cincinnati,Houston,28.0,13.0,3,11,4,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Passing Touchdown,,,8.0,92,1.5577259063720703,True,Cincinnati,Houston,21.0,13.0,3,12,2,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,70.0,30,2.861330986022949,False,Cincinnati,Houston,14.0,13.0,3,14,10,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Incompletion,,,68.0,32,-0.3499562442302704,False,Cincinnati,Houston,14.0,13.0,2,0,55,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Sack,,,88.0,12,-1.3110922574996948,False,Cincinnati,Houston,14.0,13.0,2,5,30,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Incompletion,,,83.0,17,-0.47073811292648315,False,Cincinnati,Houston,14.0,13.0,2,5,49,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,40.0,60,1.7237615585327148,False,Cincinnati,Houston,14.0,13.0,2,11,10,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Incompletion,,,40.0,60,-0.5958826541900635,False,Cincinnati,Houston,14.0,13.0,2,11,26,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Passing Touchdown,,,25.0,75,2.4632387161254883,True,Cincinnati,Houston,7.0,3.0,1,9,38,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,42.0,58,0.7060818672180176,False,Cincinnati,Houston,0.0,3.0,1,10,10,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,59.0,41,1.2104072570800781,False,Cincinnati,Houston,0.0,3.0,1,10,30,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331162.0,Pass Reception,,,82.0,18,1.1732151508331299,False,Cincinnati,Houston,0.0,3.0,1,11,40,14,Houston,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,38.0,38,-2.713103771209717,False,Alabama,Cincinnati,6.0,27.0,4,3,10,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,49.0,49,-0.42355242371559143,False,Alabama,Cincinnati,6.0,27.0,4,4,14,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Sack,,,43.0,43,-1.719386339187622,False,Alabama,Cincinnati,6.0,27.0,4,4,50,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,69.0,69,1.2457396984100342,False,Alabama,Cincinnati,6.0,27.0,4,5,28,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,75.0,75,1.0014042854309082,False,Alabama,Cincinnati,6.0,27.0,4,6,20,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Sack,,,22.0,22,-3.800562858581543,False,Alabama,Cincinnati,6.0,24.0,4,10,22,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,23.0,23,-1.4169262647628784,False,Alabama,Cincinnati,6.0,24.0,4,11,12,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,23.0,23,-0.7218401432037354,False,Alabama,Cincinnati,6.0,24.0,4,11,20,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,57.0,57,2.414278507232666,False,Alabama,Cincinnati,6.0,24.0,4,12,18,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Sack,,,57.0,57,-1.7593648433685303,False,Alabama,Cincinnati,6.0,17.0,3,3,48,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,57.0,57,-0.972443163394928,False,Alabama,Cincinnati,6.0,17.0,3,3,53,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,65.0,65,-1.6127259731292725,False,Alabama,Cincinnati,6.0,17.0,3,6,18,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,71.0,71,-0.797348141670227,False,Alabama,Cincinnati,6.0,17.0,3,7,3,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,24.0,24,0.3916947841644287,False,Alabama,Cincinnati,3.0,17.0,3,11,18,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,48.0,48,0.9793312549591064,False,Alabama,Cincinnati,3.0,17.0,3,12,53,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,55.0,55,0.20075416564941406,False,Alabama,Cincinnati,3.0,17.0,3,13,24,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,64.0,64,1.0892398357391357,False,Alabama,Cincinnati,3.0,17.0,3,14,2,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Sack,,,51.0,51,-0.12277776002883911,False,Alabama,Cincinnati,3.0,17.0,2,0,0,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Sack,,,47.0,47,-0.8388525247573853,False,Alabama,Cincinnati,3.0,17.0,2,0,42,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,47.0,47,-0.2832454442977905,False,Alabama,Cincinnati,3.0,17.0,2,0,47,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,47.0,47,-0.2598186731338501,False,Alabama,Cincinnati,3.0,17.0,2,0,52,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,60.0,60,-0.17020750045776367,False,Alabama,Cincinnati,3.0,17.0,2,1,27,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,69.0,69,-1.1513888835906982,False,Alabama,Cincinnati,3.0,10.0,2,3,57,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,74.0,74,-0.12813186645507812,False,Alabama,Cincinnati,3.0,10.0,2,4,37,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,74.0,74,-0.6589432954788208,False,Alabama,Cincinnati,3.0,10.0,2,4,47,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,64.0,64,-1.5750679969787598,False,Alabama,Cincinnati,3.0,10.0,2,9,49,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,79.0,79,-0.40935730934143066,False,Alabama,Cincinnati,3.0,10.0,2,13,37,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Sack,,,70.0,70,-2.2762176990509033,False,Alabama,Cincinnati,3.0,10.0,2,14,20,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,9.0,9,-1.40604567527771,False,Alabama,Cincinnati,0.0,7.0,1,5,40,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,9.0,9,-0.847559928894043,False,Alabama,Cincinnati,0.0,7.0,1,5,44,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,9.0,9,-0.6739439964294434,False,Alabama,Cincinnati,0.0,7.0,1,5,48,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,31.0,31,2.3320255279541016,False,Alabama,Cincinnati,0.0,7.0,1,6,20,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,31.0,31,-0.647052526473999,False,Alabama,Cincinnati,0.0,7.0,1,6,23,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,50.0,50,1.5559221506118774,False,Alabama,Cincinnati,0.0,7.0,1,6,56,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Incompletion,,,53.0,53,-0.8097679615020752,False,Alabama,Cincinnati,0.0,7.0,1,7,37,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,66.0,66,0.5152122974395752,False,Alabama,Cincinnati,0.0,7.0,1,9,1,1,Alabama,2021,Cincinnati,Desmond Ridder,2022
+401331235.0,Pass Reception,,,75.0,75,0.4473145306110382,False,Alabama,Cincinnati,0.0,7.0,1,9,51,1,Alabama,2021,Cincinnati,Desmond Ridder,2022

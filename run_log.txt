@@ -1,0 +1,86 @@
+INFO:__main__:============================================================
+INFO:__main__:DARKO NFL - QB Projection System
+INFO:__main__:============================================================
+INFO:__main__:
+[Step 1/7] Fetching NFL data...
+INFO:data_pipeline.nfl_data_fetcher:Loading cached play-by-play data from data\cache\pbp_2024.parquet
+INFO:data_pipeline.nfl_data_fetcher:Filtered to 20,006 QB passing plays
+INFO:data_pipeline.nfl_data_fetcher:Loading cached roster data from data\cache\rosters_2024.parquet
+INFO:__main__:  \u2713 Loaded 20,006 QB passing plays
+INFO:__main__:
+[Step 2/7] Aggregating QB statistics...
+INFO:data_pipeline.qb_stats_aggregator:Aggregated stats for 707 QB-game combinations
+INFO:__main__:  \u2713 Aggregated 707 QB-game combinations
+INFO:__main__:  \u2713 Saved to data\processed\qb_game_stats.csv
+INFO:__main__:
+[Step 3/7] Calculating time-weighted metrics...
+INFO:features.time_weighted_metrics:Calculated weighted metrics for 113 players
+INFO:__main__:  \u2713 Calculated weighted metrics for 113 QBs
+INFO:__main__:
+[Step 4/7] Fitting age curve models...
+WARNING:models.age_curves:Insufficient data for epa_per_play: 46 observations
+WARNING:models.age_curves:Insufficient data for cpoe: 46 observations
+WARNING:models.age_curves:Insufficient data for success_rate: 46 observations
+INFO:__main__:  \u2713 Fitted age curves for key metrics
+INFO:__main__:
+[Step 5/7] Adding age information...
+INFO:__main__:  \u2713 Added age information
+INFO:__main__:
+[Step 6/7] Generating Bayesian projections...
+INFO:__main__:  \u2713 Generated projections for 113 QBs
+INFO:__main__:
+[Step 7/7] Ranking players and saving results...
+INFO:__main__:  \u2713 Saved epa_per_play rankings to results\epa_per_play_rankings.csv
+INFO:__main__:  \u2713 Saved cpoe rankings to results\cpoe_rankings.csv
+INFO:__main__:  \u2713 Saved success_rate rankings to results\success_rate_rankings.csv
+INFO:__main__:
+  \u2713 Saved complete projections to results\qb_projections.csv
+INFO:__main__:
+============================================================
+INFO:__main__:DARKO NFL QB Projections Complete!
+INFO:__main__:============================================================
+
+============================================================
+Top 10 QBs by EPA_PER_PLAY
+============================================================
+ rank  player_name  age  total_attempts  projection  lower_ci  upper_ci uncertainty
+    1    L.Jackson 27.0           544.0    0.252785  0.242006  0.263563         low
+    2       J.Goff 29.0           607.0    0.211748  0.201399  0.222097         low
+    3      J.Allen 28.0           586.0    0.193187  0.182701  0.203674         low
+    4   B.Mayfield 29.0           631.0    0.167436  0.157238  0.177635         low
+    5 T.Tagovailoa 26.0           421.0    0.142785  0.130987  0.154582         low
+    6     J.Burrow 27.0           701.0    0.126738  0.116944  0.136533         low
+    7      B.Purdy 24.0           482.0    0.115693  0.104436  0.126951         low
+    8      J.Hurts 26.0           503.0    0.106894  0.095805  0.117982         low
+    9    J.Daniels 23.0           648.0    0.103968  0.093873  0.114064         low
+   10       D.Carr 33.0           290.0    0.093698  0.080417  0.106979         low
+
+============================================================
+Top 10 QBs by CPOE
+============================================================
+ rank  player_name  age  total_attempts  projection  lower_ci  upper_ci uncertainty
+    1     J.Burrow 27.0           701.0    5.649929  5.454041  5.845816         low
+    2      J.Hurts 26.0           503.0    5.597399  5.375635  5.819164         low
+    3      G.Smith 33.0           629.0    4.650701  4.446484  4.854918         low
+    4    L.Jackson 27.0           544.0    3.962273  3.746705  4.177840         low
+    5       J.Goff 29.0           607.0    3.747450  3.540468  3.954432         low
+    6     R.Wilson 35.0           401.0    3.571813  3.331967  3.811659         low
+    7   B.Mayfield 29.0           631.0    3.465595  3.261623  3.669566         low
+    8 T.Tagovailoa 26.0           421.0    2.653677  2.417725  2.889629         low
+    9    T.Huntley 26.0           149.0    2.099711  1.784967  2.414454      medium
+   10    J.Daniels 23.0           648.0    1.989302  1.787385  2.191218         low
+
+============================================================
+Top 10 QBs by SUCCESS_RATE
+============================================================
+ rank  player_name  age  total_attempts  projection  lower_ci  upper_ci uncertainty
+    1       J.Goff 29.0           607.0    0.535895  0.528996  0.542794         low
+    2 T.Tagovailoa 26.0           421.0    0.522621  0.514755  0.530486         low
+    3   B.Mayfield 29.0           631.0    0.516819  0.510020  0.523618         low
+    4     J.Burrow 27.0           701.0    0.511098  0.504568  0.517627         low
+    5    L.Jackson 27.0           544.0    0.508597  0.501412  0.515783         low
+    6     K.Murray 27.0           570.0    0.500436  0.493373  0.507499         low
+    7      B.Purdy 24.0           482.0    0.499087  0.491581  0.506592         low
+    8      M.Penix 24.0           109.0    0.494881  0.483732  0.506031      medium
+    9      J.Allen 28.0           586.0    0.489109  0.482118  0.496100         low
+   10    M.Rudolph 29.0           237.0    0.488794  0.479418  0.498169         low

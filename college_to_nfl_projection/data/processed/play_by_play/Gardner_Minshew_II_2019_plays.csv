@@ -1,0 +1,658 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401012683.0,Pass Reception,,,28.0,28.0,3.941009044647217,False,Wyoming,Washington State,34.0,19.0,4,1,38,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,33.0,33.0,0.5722730159759521,False,Wyoming,Washington State,34.0,19.0,4,3,29,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,30.0,30.0,-0.8208441734313965,False,Wyoming,Washington State,34.0,19.0,4,3,29,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,62.0,62.0,-0.9295674562454224,False,Wyoming,Washington State,34.0,19.0,4,4,56,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,62.0,62.0,1.489343285560608,False,Wyoming,Washington State,34.0,19.0,4,4,56,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,44.0,44.0,-0.48665666580200195,False,Wyoming,Washington State,34.0,19.0,4,4,56,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,44.0,44.0,-0.7901453971862793,False,Wyoming,Washington State,34.0,19.0,4,4,56,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,44.0,44.0,0.2282853126525879,False,Wyoming,Washington State,34.0,19.0,4,4,56,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,54.0,54.0,-1.764718770980835,False,Wyoming,Washington State,27.0,19.0,4,8,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,55.0,55.0,-0.5371189713478088,False,Wyoming,Washington State,27.0,19.0,4,8,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,41.0,41.0,1.5983116626739502,False,Wyoming,Washington State,27.0,19.0,4,8,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,24.0,24.0,0.6014680862426758,False,Wyoming,Washington State,27.0,19.0,4,8,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Passing Touchdown,,,7.0,7.0,1.7865180969238281,True,Wyoming,Washington State,27.0,19.0,4,10,55,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,48.0,48.0,0.03490257263183594,False,Wyoming,Washington State,20.0,19.0,4,12,29,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,42.0,42.0,1.9585671424865723,False,Wyoming,Washington State,20.0,19.0,4,12,29,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,53.0,53.0,-1.6481214761734009,False,Wyoming,Washington State,20.0,19.0,4,15,0,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,71.0,71.0,-0.2521040439605713,False,Wyoming,Washington State,20.0,19.0,3,1,43,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,64.0,64.0,1.4581047296524048,False,Wyoming,Washington State,20.0,19.0,3,1,43,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,53.0,53.0,-0.6193054914474487,False,Wyoming,Washington State,20.0,19.0,3,1,43,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,58.0,58.0,-0.16483867168426514,False,Wyoming,Washington State,20.0,19.0,3,1,43,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Passing Touchdown,,,6.0,6.0,1.9735379219055176,True,Wyoming,Washington State,20.0,19.0,3,3,51,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,75.0,75.0,0.1657605767250061,False,Wyoming,Washington State,13.0,19.0,3,8,48,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,35.0,35.0,-1.1641931533813477,False,Wyoming,Washington State,13.0,19.0,3,8,48,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,40.0,40.0,4.031559944152832,False,Wyoming,Washington State,13.0,19.0,3,8,48,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,31.0,31.0,1.0136687755584717,False,Wyoming,Washington State,13.0,19.0,3,8,48,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,10.0,10.0,0.23960638046264648,False,Wyoming,Washington State,13.0,19.0,3,8,48,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,95.0,95.0,-0.15937283635139465,False,Wyoming,Washington State,13.0,16.0,2,2,53,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,95.0,95.0,-0.0861579179763794,False,Wyoming,Washington State,13.0,16.0,2,2,53,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,90.0,90.0,-1.0401618480682373,False,Wyoming,Washington State,13.0,16.0,2,2,53,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,59.0,59.0,-0.5251890420913696,False,Wyoming,Washington State,13.0,9.0,2,6,59,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,59.0,59.0,-0.8135080337524414,False,Wyoming,Washington State,13.0,9.0,2,6,59,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Interception Return,,,59.0,59.0,-3.305117607116699,False,Wyoming,Washington State,13.0,9.0,2,6,59,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,24.0,24.0,-1.1005610227584839,False,Wyoming,Washington State,10.0,9.0,2,8,48,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,75.0,75.0,1.0309935808181763,False,Wyoming,Washington State,10.0,9.0,2,12,23,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,66.0,66.0,-2.0245609283447266,False,Wyoming,Washington State,10.0,9.0,2,12,23,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,71.0,71.0,3.192711353302002,False,Wyoming,Washington State,10.0,9.0,2,12,23,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,40.0,40.0,-0.4359762668609619,False,Wyoming,Washington State,10.0,9.0,2,12,23,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,37.0,37.0,1.1749122142791748,False,Wyoming,Washington State,10.0,9.0,2,12,23,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,26.0,26.0,-0.5291352272033691,False,Wyoming,Washington State,10.0,9.0,2,12,23,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Fumble Recovery (Opponent),,,70.0,70.0,-5.723552703857422,False,Wyoming,Washington State,10.0,2.0,2,15,0,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,76.0,76.0,-0.15607798099517822,False,Wyoming,Washington State,10.0,0.0,1,2,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,76.0,76.0,-0.5763342976570129,False,Wyoming,Washington State,10.0,0.0,1,2,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,72.0,72.0,-1.5251094102859497,False,Wyoming,Washington State,10.0,0.0,1,2,32,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Passing Touchdown,,,2.0,2.0,0.8832321166992188,True,Wyoming,Washington State,10.0,0.0,1,3,28,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,63.0,63.0,-0.9497348070144653,False,Wyoming,Washington State,3.0,0.0,1,7,42,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,63.0,63.0,-0.1412947177886963,False,Wyoming,Washington State,3.0,0.0,1,7,42,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,46.0,46.0,-0.9464329481124878,False,Wyoming,Washington State,3.0,0.0,1,7,42,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Incompletion,,,46.0,46.0,-1.8536450862884521,False,Wyoming,Washington State,3.0,0.0,1,7,42,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,31.0,31.0,-0.04781150817871094,False,Wyoming,Washington State,3.0,0.0,1,7,42,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,27.0,27.0,0.655301570892334,False,Wyoming,Washington State,3.0,0.0,1,7,42,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,9.0,9.0,-0.9627196788787842,False,Wyoming,Washington State,0.0,0.0,1,10,45,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,51.0,51.0,1.22841477394104,False,Wyoming,Washington State,0.0,0.0,1,15,0,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,42.0,42.0,2.1444168090820312,False,Wyoming,Washington State,0.0,0.0,1,15,0,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012683.0,Pass Reception,,,14.0,14.0,-3.5535805225372314,False,Wyoming,Washington State,0.0,0.0,1,15,0,1,Wyoming,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Interception Return,,,66.0,34.0,-2.2163283824920654,False,Washington State,San Jose State,31.0,0.0,4,0,32,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,72.0,28.0,-0.39002668857574463,False,Washington State,San Jose State,31.0,0.0,4,1,41,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,72.0,28.0,0.6072946786880493,False,Washington State,San Jose State,31.0,0.0,4,1,41,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Passing Touchdown,,,3.0,97.0,1.5379815101623535,True,Washington State,San Jose State,31.0,0.0,4,4,39,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,75.0,25.0,2.246347427368164,False,Washington State,San Jose State,24.0,0.0,4,7,42,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,36.0,64.0,0.9400913715362549,False,Washington State,San Jose State,24.0,0.0,4,7,42,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,27.0,73.0,0.7618937492370605,False,Washington State,San Jose State,24.0,0.0,4,7,42,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,10.0,90.0,0.532292366027832,False,Washington State,San Jose State,24.0,0.0,4,7,42,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,90.0,10.0,0.769418478012085,False,Washington State,San Jose State,24.0,0.0,4,13,46,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,63.0,37.0,0.612797737121582,False,Washington State,San Jose State,24.0,0.0,4,13,46,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,44.0,56.0,0.35504984855651855,False,Washington State,San Jose State,24.0,0.0,4,13,46,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,30.0,70.0,-1.4446293115615845,False,Washington State,San Jose State,24.0,0.0,4,13,46,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,37.0,63.0,-1.1926183700561523,False,Washington State,San Jose State,24.0,0.0,3,0,57,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,88.0,12.0,2.366731882095337,False,Washington State,San Jose State,24.0,0.0,3,5,30,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,69.0,31.0,0.35060882568359375,False,Washington State,San Jose State,24.0,0.0,3,5,30,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,58.0,42.0,0.5509915351867676,False,Washington State,San Jose State,24.0,0.0,3,5,30,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,67.0,33.0,-0.7196853160858154,False,Washington State,San Jose State,24.0,0.0,3,11,39,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,52.0,48.0,-1.3094676733016968,False,Washington State,San Jose State,24.0,0.0,3,11,39,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,80.0,20.0,-0.5479114055633545,False,Washington State,San Jose State,24.0,0.0,3,13,44,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,80.0,20.0,-0.38146138191223145,False,Washington State,San Jose State,24.0,0.0,3,13,44,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,74.0,26.0,-1.4304018020629883,False,Washington State,San Jose State,24.0,0.0,3,13,44,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,4.0,96.0,-0.6370196342468262,False,Washington State,San Jose State,17.0,0.0,2,0,27,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,52.0,48.0,1.1525697708129883,False,Washington State,San Jose State,17.0,0.0,2,3,13,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,38.0,62.0,-0.3693392276763916,False,Washington State,San Jose State,17.0,0.0,2,3,13,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,38.0,62.0,-0.6181387901306152,False,Washington State,San Jose State,17.0,0.0,2,3,13,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,38.0,62.0,-0.8200082182884216,False,Washington State,San Jose State,17.0,0.0,2,3,13,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,34.0,66.0,3.9420928955078125,False,Washington State,San Jose State,17.0,0.0,2,3,13,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,45.0,55.0,1.213167667388916,False,Washington State,San Jose State,14.0,0.0,2,7,35,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,19.0,81.0,-0.9590141773223877,False,Washington State,San Jose State,14.0,0.0,2,7,35,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,19.0,81.0,-1.2032685279846191,False,Washington State,San Jose State,14.0,0.0,2,7,35,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,67.0,33.0,-0.0736079216003418,False,Washington State,San Jose State,14.0,0.0,2,13,8,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,60.0,40.0,0.275378942489624,False,Washington State,San Jose State,14.0,0.0,2,13,8,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,54.0,46.0,0.8566451072692871,False,Washington State,San Jose State,14.0,0.0,2,13,8,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,32.0,68.0,-0.7526664733886719,False,Washington State,San Jose State,14.0,0.0,2,13,8,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,31.0,69.0,-1.1479198932647705,False,Washington State,San Jose State,14.0,0.0,2,13,8,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Interception Return,,,13.0,87.0,-3.8162994384765625,False,Washington State,San Jose State,14.0,0.0,2,13,8,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,66.0,34.0,-0.9176759719848633,False,Washington State,San Jose State,14.0,0.0,1,4,45,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,71.0,29.0,2.6200315952301025,False,Washington State,San Jose State,14.0,0.0,1,4,45,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,27.0,73.0,-0.873685359954834,False,Washington State,San Jose State,14.0,0.0,1,4,45,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Interception Return,,,33.0,67.0,-3.6796247959136963,False,Washington State,San Jose State,14.0,0.0,1,4,45,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Passing Touchdown,,,36.0,64.0,5.834501266479492,True,Washington State,San Jose State,14.0,0.0,1,5,45,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,85.0,15.0,-0.19887685775756836,False,Washington State,San Jose State,7.0,0.0,1,11,15,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,78.0,22.0,0.36988162994384766,False,Washington State,San Jose State,7.0,0.0,1,11,15,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,55.0,45.0,-0.42535245418548584,False,Washington State,San Jose State,7.0,0.0,1,11,15,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,48.0,52.0,0.3840763568878174,False,Washington State,San Jose State,7.0,0.0,1,11,15,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,36.0,64.0,-1.6852717399597168,False,Washington State,San Jose State,7.0,0.0,1,11,15,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Passing Touchdown,,,15.0,85.0,2.279792308807373,True,Washington State,San Jose State,7.0,0.0,1,12,55,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,65.0,35.0,-0.11487078666687012,False,Washington State,San Jose State,0.0,0.0,1,15,0,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Reception,,,62.0,38.0,1.928600549697876,False,Washington State,San Jose State,0.0,0.0,1,15,0,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,20.0,80.0,-0.6790671348571777,False,Washington State,San Jose State,0.0,0.0,1,15,0,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012734.0,Pass Incompletion,,,15.0,85.0,-4.725874423980713,False,Washington State,San Jose State,0.0,0.0,1,15,0,2,San Jose State,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Passing Touchdown,,,6.0,94.0,3.4353079795837402,True,Washington State,Eastern Washington,59.0,24.0,4,1,21,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,56.0,44.0,0.5904886722564697,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,44.0,56.0,-0.24077343940734863,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,40.0,60.0,1.347832441329956,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,25.0,75.0,1.3952445983886719,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,15.0,85.0,-0.5146603584289551,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,15.0,85.0,0.9326419830322266,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,6.0,94.0,-1.3502039909362793,False,Washington State,Eastern Washington,52.0,24.0,4,4,56,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,18.0,82.0,0.30649423599243164,False,Washington State,Eastern Washington,45.0,24.0,4,9,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,11.0,89.0,0.3732013702392578,False,Washington State,Eastern Washington,45.0,24.0,4,9,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Passing Touchdown,,,21.0,79.0,3.016645908355713,True,Washington State,Eastern Washington,45.0,24.0,4,9,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,69.0,31.0,-1.1754233837127686,False,Washington State,Eastern Washington,38.0,24.0,4,13,9,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,65.0,35.0,1.1359829902648926,False,Washington State,Eastern Washington,38.0,24.0,4,13,9,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,49.0,51.0,1.0853214263916016,False,Washington State,Eastern Washington,38.0,24.0,4,13,9,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,23.0,77.0,-1.1577727794647217,False,Washington State,Eastern Washington,38.0,24.0,4,13,9,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,31.0,69.0,0.2779881954193115,False,Washington State,Eastern Washington,38.0,24.0,4,13,9,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,27.0,73.0,-1.4029366970062256,False,Washington State,Eastern Washington,35.0,24.0,4,15,0,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,27.0,73.0,-0.6231427192687988,False,Washington State,Eastern Washington,35.0,24.0,3,0,30,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,63.0,37.0,-0.6541436910629272,False,Washington State,Eastern Washington,35.0,24.0,3,2,40,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,63.0,37.0,-0.9607491493225098,False,Washington State,Eastern Washington,35.0,24.0,3,2,40,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,64.0,36.0,-1.0825421810150146,False,Washington State,Eastern Washington,35.0,24.0,3,2,40,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,75.0,25.0,0.7005789279937744,False,Washington State,Eastern Washington,35.0,24.0,3,3,54,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,64.0,36.0,0.4845161437988281,False,Washington State,Eastern Washington,35.0,24.0,3,3,54,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,99.0,1.0,0.34848320484161377,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,87.0,13.0,0.8359739780426025,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,74.0,26.0,0.7585868835449219,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,65.0,35.0,-0.016277790069580078,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,58.0,42.0,1.0431885719299316,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,40.0,60.0,0.6755409240722656,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,24.0,76.0,0.9520277976989746,False,Washington State,Eastern Washington,28.0,17.0,3,8,47,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,77.0,23.0,-1.07277512550354,False,Washington State,Eastern Washington,28.0,17.0,3,11,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,82.0,18.0,0.15336313843727112,False,Washington State,Eastern Washington,28.0,10.0,2,0,36,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,94.0,6.0,-0.22029703855514526,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,90.0,10.0,1.3600353002548218,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,83.0,17.0,-0.5776640176773071,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,81.0,19.0,1.1287063360214233,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,70.0,30.0,1.0038001537322998,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,58.0,42.0,0.6657922267913818,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,45.0,55.0,0.8282463550567627,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,20.0,80.0,-0.5392026901245117,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,20.0,80.0,0.6792750358581543,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,4.0,96.0,-0.9474968910217285,False,Washington State,Eastern Washington,21.0,3.0,2,9,37,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Passing Touchdown,,,14.0,86.0,1.7183094024658203,True,Washington State,Eastern Washington,14.0,0.0,1,1,45,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,83.0,17.0,0.3143930435180664,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,70.0,30.0,-0.5417301654815674,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,67.0,33.0,1.12790846824646,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,57.0,43.0,0.9670636653900146,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,38.0,62.0,0.6932458877563477,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,29.0,71.0,0.21805620193481445,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,20.0,80.0,0.21065664291381836,False,Washington State,Eastern Washington,7.0,0.0,1,5,46,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,64.0,36.0,-0.5274767875671387,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,64.0,36.0,1.2325444221496582,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,50.0,50.0,0.6103205680847168,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,39.0,61.0,0.04524040222167969,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Sack,,,34.0,66.0,-1.398378610610962,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,36.0,64.0,-1.6937947273254395,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Sack,,,36.0,64.0,-2.6947691440582275,False,Washington State,Eastern Washington,7.0,0.0,1,8,41,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,68.0,32.0,-1.7185888290405273,False,Washington State,Eastern Washington,0.0,0.0,1,11,34,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,68.0,32.0,2.4467737674713135,False,Washington State,Eastern Washington,0.0,0.0,1,11,34,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,34.0,66.0,0.560755729675293,False,Washington State,Eastern Washington,0.0,0.0,1,11,34,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,22.0,78.0,1.8609590530395508,False,Washington State,Eastern Washington,0.0,0.0,1,11,34,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,1.0,99.0,-0.25212955474853516,False,Washington State,Eastern Washington,0.0,0.0,1,11,34,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Reception,,,77.0,23.0,0.6663058996200562,False,Washington State,Eastern Washington,0.0,0.0,1,15,0,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012745.0,Pass Incompletion,,,68.0,32.0,-1.849137306213379,False,Washington State,Eastern Washington,0.0,0.0,1,15,0,3,Eastern Washington,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,25.0,25.0,-0.46234631538391113,False,USC,Washington State,36.0,39.0,4,2,50,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,39.0,39.0,1.5357351303100586,False,USC,Washington State,36.0,39.0,4,3,8,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,71.0,71.0,2.719205617904663,False,USC,Washington State,36.0,39.0,4,4,8,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,75.0,75.0,0.3265628516674042,False,USC,Washington State,36.0,39.0,4,7,40,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Passing Touchdown,,,4.0,4.0,0.5790472030639648,True,USC,Washington State,36.0,31.0,4,10,15,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,13.0,13.0,0.35071420669555664,False,USC,Washington State,30.0,31.0,4,13,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,76.0,76.0,3.972287178039551,False,USC,Washington State,30.0,31.0,4,14,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,71.0,71.0,-1.5819528102874756,False,USC,Washington State,30.0,24.0,3,3,24,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,69.0,69.0,-1.2149643898010254,False,USC,Washington State,30.0,24.0,3,4,40,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,72.0,72.0,-0.49349308013916016,False,USC,Washington State,30.0,24.0,3,5,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Sack,,,68.0,68.0,-1.3002071380615234,False,USC,Washington State,30.0,24.0,3,7,40,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,71.0,71.0,-1.1689865589141846,False,USC,Washington State,30.0,24.0,3,8,40,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,16.0,16.0,0.5141520500183105,False,USC,Washington State,24.0,17.0,3,11,27,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,24.0,24.0,0.6344833374023438,False,USC,Washington State,24.0,17.0,3,11,55,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,42.0,42.0,1.4606127738952637,False,USC,Washington State,24.0,17.0,3,12,35,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,42.0,42.0,-0.6034305095672607,False,USC,Washington State,24.0,17.0,3,12,47,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,53.0,53.0,0.5780301094055176,False,USC,Washington State,24.0,17.0,3,13,14,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,67.0,67.0,1.0861492156982422,False,USC,Washington State,24.0,17.0,3,14,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Passing Touchdown,,,7.0,7.0,2.6799192428588867,True,USC,Washington State,24.0,14.0,2,1,39,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,7.0,7.0,-0.6245617866516113,False,USC,Washington State,17.0,14.0,2,1,44,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,32.0,32.0,1.2691919803619385,False,USC,Washington State,17.0,14.0,2,2,44,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,44.0,44.0,0.8515429496765137,False,USC,Washington State,17.0,14.0,2,3,21,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,48.0,48.0,-0.18999028205871582,False,USC,Washington State,17.0,14.0,2,3,37,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,68.0,68.0,1.2232208251953125,False,USC,Washington State,17.0,14.0,2,5,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,73.0,73.0,-0.00035262107849121094,False,USC,Washington State,17.0,14.0,2,5,25,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,75.0,75.0,-0.20468801259994507,False,USC,Washington State,17.0,14.0,2,5,42,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Passing Touchdown,,,28.0,28.0,2.738210678100586,True,USC,Washington State,17.0,14.0,2,9,55,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,47.0,47.0,1.5003201961517334,False,USC,Washington State,10.0,14.0,2,10,30,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,47.0,47.0,-0.5734031200408936,False,USC,Washington State,10.0,14.0,2,10,43,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,58.0,58.0,0.8170373439788818,False,USC,Washington State,10.0,14.0,2,11,14,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,73.0,73.0,1.7047665119171143,False,USC,Washington State,10.0,14.0,2,12,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,14.0,14.0,1.395801067352295,False,USC,Washington State,3.0,7.0,2,13,57,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,26.0,26.0,0.17636537551879883,False,USC,Washington State,3.0,7.0,1,0,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,26.0,26.0,-0.4533729553222656,False,USC,Washington State,3.0,7.0,1,0,42,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,40.0,40.0,3.07260799407959,False,USC,Washington State,3.0,7.0,1,1,27,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,41.0,41.0,-0.5475356578826904,False,USC,Washington State,3.0,7.0,1,2,12,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,50.0,50.0,2.304187536239624,False,USC,Washington State,3.0,7.0,1,3,19,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,59.0,59.0,-0.01629677414894104,False,USC,Washington State,3.0,7.0,1,3,58,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,57.0,57.0,-0.9785957336425781,False,USC,Washington State,3.0,7.0,1,4,39,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,33.0,33.0,-2.2213096618652344,False,USC,Washington State,0.0,7.0,1,7,24,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,38.0,38.0,0.3950672149658203,False,USC,Washington State,0.0,7.0,1,8,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,60.0,60.0,-1.4473073482513428,False,USC,Washington State,0.0,7.0,1,10,48,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,60.0,60.0,-0.8464898467063904,False,USC,Washington State,0.0,7.0,1,11,30,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,60.0,60.0,-0.5709825754165649,False,USC,Washington State,0.0,7.0,1,11,40,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,75.0,75.0,2.8108887672424316,False,USC,Washington State,0.0,7.0,1,12,0,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Reception,,,75.0,75.0,-0.9105199575424194,False,USC,Washington State,0.0,7.0,1,12,17,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012748.0,Pass Incompletion,,,75.0,75.0,-0.5761727094650269,False,USC,Washington State,0.0,7.0,1,12,49,4,USC,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Passing Touchdown,,,89.0,11.0,7.030869960784912,True,Washington State,Utah,28.0,24.0,4,4,14,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,93.0,7.0,-0.7409101724624634,False,Washington State,Utah,21.0,24.0,4,5,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,90.0,10.0,0.9512823224067688,False,Washington State,Utah,21.0,24.0,4,10,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Sack,,,74.0,26.0,-1.8729150295257568,False,Washington State,Utah,21.0,24.0,4,10,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,83.0,17.0,-0.8201159238815308,False,Washington State,Utah,21.0,24.0,4,10,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,90.0,10.0,-0.8460351228713989,False,Washington State,Utah,21.0,24.0,4,13,12,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Sack,,,84.0,16.0,-2.381061315536499,False,Washington State,Utah,21.0,24.0,4,13,12,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,77.0,23.0,1.030608892440796,False,Washington State,Utah,21.0,24.0,3,6,11,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,66.0,34.0,-1.2389843463897705,False,Washington State,Utah,21.0,24.0,3,6,11,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,67.0,33.0,-0.9221005439758301,False,Washington State,Utah,21.0,24.0,3,6,11,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,67.0,33.0,-0.26643106341362,False,Washington State,Utah,21.0,24.0,3,6,11,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,75.0,25.0,-0.5909239053726196,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,67.0,33.0,2.245453357696533,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,48.0,52.0,0.5043332576751709,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,41.0,59.0,-2.0423107147216797,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,41.0,59.0,3.2850499153137207,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,35.0,65.0,-0.6011862754821777,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,35.0,65.0,-0.9686665534973145,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,35.0,65.0,-1.7838116884231567,False,Washington State,Utah,21.0,24.0,3,10,39,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,74.0,26.0,-0.641257643699646,False,Washington State,Utah,21.0,21.0,2,2,15,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,74.0,26.0,-0.174096941947937,False,Washington State,Utah,21.0,21.0,2,2,15,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,67.0,33.0,1.2561671733856201,False,Washington State,Utah,21.0,21.0,2,2,15,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,63.0,37.0,-0.526748538017273,False,Washington State,Utah,21.0,21.0,2,2,15,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,63.0,37.0,-0.25901496410369873,False,Washington State,Utah,21.0,21.0,2,2,15,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,59.0,41.0,-1.3828098773956299,False,Washington State,Utah,21.0,21.0,2,2,15,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,87.0,13.0,1.2248917818069458,False,Washington State,Utah,21.0,21.0,2,5,55,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,74.0,26.0,-0.986100435256958,False,Washington State,Utah,21.0,21.0,2,5,55,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,74.0,26.0,1.5646185874938965,False,Washington State,Utah,21.0,21.0,2,5,55,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,66.0,34.0,-0.6030397415161133,False,Washington State,Utah,21.0,21.0,2,5,55,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,66.0,34.0,-0.8377270698547363,False,Washington State,Utah,21.0,21.0,2,5,55,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,66.0,34.0,-0.20774324238300323,False,Washington State,Utah,21.0,21.0,2,5,55,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Passing Touchdown,,,65.0,35.0,5.663201808929443,True,Washington State,Utah,21.0,14.0,2,9,3,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,65.0,35.0,-0.5594758987426758,False,Washington State,Utah,14.0,14.0,2,10,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,50.0,50.0,-1.655834436416626,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,50.0,50.0,2.3442392349243164,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,40.0,60.0,-1.0246403217315674,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,40.0,60.0,2.5339791774749756,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,28.0,72.0,-0.5944578647613525,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,28.0,72.0,1.726588487625122,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,10.0,90.0,-0.5914187431335449,False,Washington State,Utah,7.0,14.0,2,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,75.0,25.0,1.2240183353424072,False,Washington State,Utah,7.0,14.0,1,1,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,66.0,34.0,0.6728827953338623,False,Washington State,Utah,7.0,14.0,1,1,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,50.0,50.0,-0.5840858221054077,False,Washington State,Utah,7.0,14.0,1,1,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Passing Touchdown,,,4.0,96.0,1.0776667594909668,True,Washington State,Utah,7.0,7.0,1,5,7,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,75.0,25.0,1.0471967458724976,False,Washington State,Utah,0.0,7.0,1,8,22,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,64.0,36.0,-0.6127086281776428,False,Washington State,Utah,0.0,7.0,1,8,22,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,52.0,48.0,1.1498777866363525,False,Washington State,Utah,0.0,7.0,1,8,22,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,31.0,69.0,-0.6023044586181641,False,Washington State,Utah,0.0,7.0,1,8,22,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,30.0,70.0,-0.9024537801742554,False,Washington State,Utah,0.0,7.0,1,8,22,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,30.0,70.0,3.958273410797119,False,Washington State,Utah,0.0,7.0,1,8,22,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,75.0,25.0,-0.468652606010437,False,Washington State,Utah,0.0,0.0,1,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,72.0,28.0,3.12339186668396,False,Washington State,Utah,0.0,0.0,1,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,39.0,61.0,0.6234571933746338,False,Washington State,Utah,0.0,0.0,1,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Reception,,,31.0,69.0,0.5812602043151855,False,Washington State,Utah,0.0,0.0,1,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Pass Incompletion,,,17.0,83.0,-0.5949501991271973,False,Washington State,Utah,0.0,0.0,1,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012756.0,Interception Return,,,17.0,83.0,-4.984908103942871,False,Washington State,Utah,0.0,0.0,1,15,0,5,Utah,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,71.0,71.0,-0.5784859657287598,False,Oregon State,Washington State,49.0,30.0,4,3,46,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,71.0,71.0,1.4468368291854858,False,Oregon State,Washington State,49.0,30.0,4,3,46,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,56.0,56.0,0.6347060203552246,False,Oregon State,Washington State,49.0,30.0,4,3,46,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,42.0,42.0,0.6633882522583008,False,Oregon State,Washington State,49.0,30.0,4,3,46,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,33.0,33.0,0.011938810348510742,False,Oregon State,Washington State,49.0,30.0,4,3,46,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Passing Touchdown,,,27.0,27.0,2.3861184120178223,True,Oregon State,Washington State,49.0,30.0,4,9,6,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,74.0,74.0,1.7829554080963135,False,Oregon State,Washington State,42.0,30.0,4,12,16,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,38.0,38.0,-0.16511178016662598,False,Oregon State,Washington State,42.0,30.0,4,12,16,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,35.0,35.0,1.300642728805542,False,Oregon State,Washington State,42.0,30.0,4,12,16,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Passing Touchdown,,,3.0,3.0,1.1008310317993164,True,Oregon State,Washington State,42.0,30.0,4,14,22,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,9.0,9.0,0.20143938064575195,False,Oregon State,Washington State,35.0,30.0,4,15,0,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,78.0,78.0,0.16278183460235596,False,Oregon State,Washington State,35.0,30.0,3,3,9,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,72.0,72.0,1.3618243932724,False,Oregon State,Washington State,35.0,30.0,3,3,9,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,53.0,53.0,0.861865758895874,False,Oregon State,Washington State,35.0,30.0,3,3,9,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,39.0,39.0,2.3455870151519775,False,Oregon State,Washington State,35.0,30.0,3,3,9,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,43.0,43.0,0.4831817150115967,False,Oregon State,Washington State,28.0,30.0,3,12,3,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,36.0,36.0,1.3413944244384766,False,Oregon State,Washington State,28.0,30.0,3,12,3,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,4.0,4.0,-1.2477049827575684,False,Oregon State,Washington State,28.0,30.0,3,12,3,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Passing Touchdown,,,15.0,15.0,3.959317922592163,True,Oregon State,Washington State,28.0,24.0,2,0,34,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,15.0,15.0,-0.49236536026000977,False,Oregon State,Washington State,21.0,24.0,2,0,51,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,73.0,73.0,-0.7757981419563293,False,Oregon State,Washington State,21.0,24.0,2,4,40,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,73.0,73.0,1.9435982704162598,False,Oregon State,Washington State,21.0,24.0,2,4,40,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,58.0,58.0,0.22788262367248535,False,Oregon State,Washington State,21.0,24.0,2,4,40,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,52.0,52.0,0.6527549028396606,False,Oregon State,Washington State,21.0,24.0,2,4,40,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,43.0,43.0,1.5623271465301514,False,Oregon State,Washington State,21.0,24.0,2,4,40,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Fumble Recovery (Own),,,20.0,20.0,1.7379088401794434,False,Oregon State,Washington State,21.0,24.0,2,4,40,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,73.0,73.0,-0.5996346473693848,False,Oregon State,Washington State,21.0,17.0,2,8,27,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Passing Touchdown,,,38.0,38.0,2.91868257522583,True,Oregon State,Washington State,21.0,14.0,2,13,42,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,46.0,46.0,-0.9821550846099854,False,Oregon State,Washington State,14.0,14.0,2,15,0,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,80.0,80.0,0.9686661958694458,False,Oregon State,Washington State,14.0,14.0,1,1,15,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,64.0,64.0,0.6308410167694092,False,Oregon State,Washington State,14.0,14.0,1,1,15,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,45.0,45.0,-0.5983250141143799,False,Oregon State,Washington State,14.0,7.0,1,6,16,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,45.0,45.0,-0.9207220077514648,False,Oregon State,Washington State,14.0,7.0,1,6,16,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Incompletion,,,45.0,45.0,-1.7797977924346924,False,Oregon State,Washington State,14.0,7.0,1,6,16,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Passing Touchdown,,,6.0,6.0,1.2334837913513184,True,Oregon State,Washington State,7.0,0.0,1,13,44,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,75.0,75.0,2.8209190368652344,False,Oregon State,Washington State,0.0,0.0,1,15,0,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012762.0,Pass Reception,,,34.0,34.0,-3.681119680404663,False,Oregon State,Washington State,0.0,0.0,1,15,0,6,Oregon State,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Passing Touchdown,,,22.0,78.0,3.2319982051849365,True,Washington State,Oregon,34.0,20.0,4,3,40,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,34.0,66.0,2.9924802780151367,False,Washington State,Oregon,27.0,20.0,4,4,43,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,34.0,66.0,-1.5320897102355957,False,Washington State,Oregon,27.0,20.0,4,4,49,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,37.0,63.0,-0.5750083923339844,False,Washington State,Oregon,27.0,20.0,4,5,19,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,75.0,25.0,2.6338679790496826,False,Washington State,Oregon,27.0,20.0,4,6,12,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,75.0,25.0,-0.5469141006469727,False,Washington State,Oregon,27.0,20.0,4,6,34,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,42.0,58.0,-1.8418183326721191,False,Washington State,Oregon,27.0,17.0,4,12,12,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,49.0,51.0,-0.6350147724151611,False,Washington State,Oregon,27.0,17.0,4,12,55,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,52.0,48.0,1.095353364944458,False,Washington State,Oregon,27.0,17.0,4,13,7,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,57.0,43.0,-0.10310912132263184,False,Washington State,Oregon,27.0,17.0,4,13,49,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,71.0,29.0,1.019705891609192,False,Washington State,Oregon,27.0,17.0,4,14,55,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Interception Return,,,70.0,30.0,-2.28936505317688,False,Washington State,Oregon,27.0,10.0,3,5,41,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,76.0,24.0,-1.3422513008117676,False,Washington State,Oregon,27.0,7.0,3,11,9,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,76.0,24.0,-1.0843355655670166,False,Washington State,Oregon,27.0,7.0,3,11,14,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,75.0,25.0,-0.714836835861206,False,Washington State,Oregon,27.0,7.0,3,11,42,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Passing Touchdown,,,15.0,85.0,2.829127788543701,True,Washington State,Oregon,27.0,0.0,2,0,41,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,24.0,76.0,0.6876828670501709,False,Washington State,Oregon,20.0,0.0,2,0,48,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,32.0,68.0,0.8035995960235596,False,Washington State,Oregon,20.0,0.0,2,0,59,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,35.0,65.0,-0.12000417709350586,False,Washington State,Oregon,20.0,0.0,2,1,12,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,58.0,50.0,0.07734084129333496,False,Washington State,Oregon,20.0,0.0,2,1,20,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,58.0,42.0,-0.4355933666229248,False,Washington State,Oregon,20.0,0.0,2,1,43,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Passing Touchdown,,,6.0,94.0,3.0989627838134766,True,Washington State,Oregon,20.0,0.0,2,2,59,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,7.0,93.0,-0.9098694324493408,False,Washington State,Oregon,13.0,0.0,2,3,41,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,8.0,92.0,-0.5405879020690918,False,Washington State,Oregon,13.0,0.0,2,4,30,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,18.0,82.0,1.9224424362182617,False,Washington State,Oregon,13.0,0.0,2,4,55,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,18.0,82.0,-0.7386102676391602,False,Washington State,Oregon,13.0,0.0,2,5,29,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,31.0,69.0,0.27609729766845703,False,Washington State,Oregon,13.0,0.0,2,6,34,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,33.0,67.0,-0.2511405944824219,False,Washington State,Oregon,13.0,0.0,2,7,8,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,46.0,54.0,0.3746984004974365,False,Washington State,Oregon,13.0,0.0,2,8,28,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,59.0,41.0,1.2319694757461548,False,Washington State,Oregon,13.0,0.0,2,9,35,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,62.0,38.0,-0.6701089143753052,False,Washington State,Oregon,13.0,0.0,2,10,20,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Passing Touchdown,,,16.0,84.0,2.3528618812561035,True,Washington State,Oregon,13.0,0.0,2,12,22,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,27.0,73.0,1.5692973136901855,False,Washington State,Oregon,7.0,0.0,2,13,27,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,27.0,73.0,-0.7794756889343262,False,Washington State,Oregon,7.0,0.0,2,13,52,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,43.0,57.0,0.6110689640045166,False,Washington State,Oregon,7.0,0.0,2,14,53,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,53.0,47.0,0.6780595779418945,False,Washington State,Oregon,7.0,0.0,1,0,52,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,64.0,36.0,0.33829164505004883,False,Washington State,Oregon,7.0,0.0,1,2,0,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,72.0,28.0,0.5073680877685547,False,Washington State,Oregon,7.0,0.0,1,2,22,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,79.0,21.0,0.32662177085876465,False,Washington State,Oregon,7.0,0.0,1,3,10,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,38.0,62.0,1.1954281330108643,False,Washington State,Oregon,0.0,0.0,1,5,10,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,59.0,41.0,0.6814053058624268,False,Washington State,Oregon,0.0,0.0,1,6,54,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Interception Return,,,11.0,89.0,-4.506870746612549,False,Washington State,Oregon,0.0,0.0,1,10,5,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,11.0,89.0,-0.8174693584442139,False,Washington State,Oregon,0.0,0.0,1,10,15,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,12.0,88.0,-0.5058507919311523,False,Washington State,Oregon,0.0,0.0,1,10,34,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,20.0,80.0,1.4994823932647705,False,Washington State,Oregon,0.0,0.0,1,11,9,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Incompletion,,,20.0,80.0,-0.7889997959136963,False,Washington State,Oregon,0.0,0.0,1,11,19,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,29.0,71.0,0.7630009651184082,False,Washington State,Oregon,0.0,0.0,1,12,21,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,34.0,66.0,0.18437957763671875,False,Washington State,Oregon,0.0,0.0,1,12,56,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,37.0,63.0,-0.22655367851257324,False,Washington State,Oregon,0.0,0.0,1,13,19,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,57.0,43.0,1.8254066705703735,False,Washington State,Oregon,0.0,0.0,1,14,6,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012773.0,Pass Reception,,,60.0,40.0,-0.7975524663925171,False,Washington State,Oregon,0.0,0.0,1,14,52,8,Oregon,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,25.0,25.0,0.12558746337890625,False,Stanford,Washington State,38.0,38.0,4,0,28,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,32.0,32.0,0.45693373680114746,False,Stanford,Washington State,38.0,38.0,4,0,32,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,67.0,67.0,2.3091073036193848,False,Stanford,Washington State,38.0,38.0,4,0,53,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,0.36927568912506104,False,Stanford,Washington State,38.0,38.0,4,1,10,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Passing Touchdown,,,3.0,3.0,0.9866995811462402,True,Stanford,Washington State,38.0,31.0,4,4,28,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,24.0,24.0,1.3907067775726318,False,Stanford,Washington State,31.0,31.0,4,5,8,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,36.0,36.0,-0.3759174346923828,False,Stanford,Washington State,31.0,31.0,4,7,38,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,51.0,51.0,1.4590380191802979,False,Stanford,Washington State,31.0,31.0,4,7,50,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,54.0,54.0,-0.3745241165161133,False,Stanford,Washington State,31.0,31.0,4,8,20,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,67.0,67.0,0.7222957611083984,False,Stanford,Washington State,31.0,31.0,4,9,6,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Passing Touchdown,,,7.0,7.0,2.783414840698242,True,Stanford,Washington State,31.0,31.0,4,12,26,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,12.0,12.0,-0.5028896331787109,False,Stanford,Washington State,24.0,31.0,4,13,55,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,24.0,24.0,0.9823863506317139,False,Stanford,Washington State,24.0,31.0,4,14,25,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,37.0,37.0,1.0811219215393066,False,Stanford,Washington State,24.0,31.0,3,0,0,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,50.0,50.0,0.715752124786377,False,Stanford,Washington State,24.0,31.0,3,0,40,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,58.0,58.0,0.6695858240127563,False,Stanford,Washington State,24.0,31.0,3,1,10,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,70.0,70.0,0.876919150352478,False,Stanford,Washington State,24.0,31.0,3,1,39,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,82.0,82.0,0.8015371561050415,False,Stanford,Washington State,24.0,31.0,3,2,2,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,69.0,69.0,-1.4840312004089355,False,Stanford,Washington State,24.0,31.0,3,4,36,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,71.0,71.0,-0.33013033866882324,False,Stanford,Washington State,24.0,31.0,3,5,30,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,-0.07244530320167542,False,Stanford,Washington State,24.0,31.0,3,6,0,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,24.0,24.0,1.568638563156128,False,Stanford,Washington State,17.0,28.0,3,11,20,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,37.0,37.0,2.095902919769287,False,Stanford,Washington State,17.0,28.0,3,11,54,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,52.0,52.0,1.3379254341125488,False,Stanford,Washington State,17.0,28.0,3,13,3,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,64.0,64.0,0.806768536567688,False,Stanford,Washington State,17.0,28.0,3,14,10,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,0.23739145696163177,False,Stanford,Washington State,17.0,28.0,3,14,50,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,13.0,13.0,-0.05011272430419922,False,Stanford,Washington State,14.0,28.0,2,0,6,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,67.0,67.0,3.39680814743042,False,Stanford,Washington State,14.0,28.0,2,0,20,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,67.0,67.0,-0.384779155254364,False,Stanford,Washington State,14.0,28.0,2,0,34,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,0.26183897256851196,False,Stanford,Washington State,14.0,28.0,2,0,45,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,38.0,38.0,-1.4992161989212036,False,Stanford,Washington State,14.0,21.0,2,5,42,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,51.0,51.0,1.368551254272461,False,Stanford,Washington State,14.0,21.0,2,6,0,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,46.0,46.0,-0.44110965728759766,False,Stanford,Washington State,14.0,21.0,2,6,54,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,55.0,55.0,1.0216501951217651,False,Stanford,Washington State,14.0,21.0,2,7,15,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,67.0,67.0,1.5161046981811523,False,Stanford,Washington State,14.0,21.0,2,7,45,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,0.8731051683425903,False,Stanford,Washington State,14.0,21.0,2,9,16,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,81.0,81.0,-1.941867709159851,False,Stanford,Washington State,14.0,14.0,2,12,20,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Sack,,,71.0,71.0,-2.1469433307647705,False,Stanford,Washington State,14.0,14.0,1,0,30,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,-0.46945515275001526,False,Stanford,Washington State,14.0,14.0,1,1,5,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,75.0,75.0,-0.635714054107666,False,Stanford,Washington State,14.0,14.0,1,1,17,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Passing Touchdown,,,4.0,4.0,2.17574405670166,True,Stanford,Washington State,14.0,7.0,1,5,23,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,8.0,8.0,-0.5119876861572266,False,Stanford,Washington State,7.0,7.0,1,6,0,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Incompletion,,,8.0,8.0,-0.6900262832641602,False,Stanford,Washington State,7.0,7.0,1,6,10,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,19.0,19.0,1.0197196006774902,False,Stanford,Washington State,7.0,7.0,1,6,30,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,23.0,23.0,-0.013504505157470703,False,Stanford,Washington State,7.0,7.0,1,7,25,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,38.0,38.0,2.1059083938598633,False,Stanford,Washington State,0.0,7.0,1,8,50,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,71.0,71.0,2.7394824028015137,False,Stanford,Washington State,0.0,7.0,1,9,51,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012779.0,Pass Reception,,,75.0,75.0,-0.3637532591819763,False,Stanford,Washington State,0.0,7.0,1,11,0,9,Stanford,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Passing Touchdown,,,10.0,90.0,2.785264015197754,True,Washington State,California,19.0,13.0,4,0,32,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,34.0,66.0,2.1704835891723633,False,Washington State,California,13.0,13.0,4,0,45,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,57.0,43.0,1.551797866821289,False,Washington State,California,13.0,13.0,4,1,20,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,61.0,39.0,-0.0914463996887207,False,Washington State,California,13.0,13.0,4,1,45,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,69.0,31.0,-0.8477945923805237,False,Washington State,California,13.0,13.0,4,2,25,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,13.0,87.0,-0.9756553173065186,False,Washington State,California,13.0,13.0,4,3,36,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,13.0,87.0,-0.7031092643737793,False,Washington State,California,13.0,13.0,4,3,44,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,30.0,70.0,1.384218454360962,False,Washington State,California,13.0,13.0,4,4,30,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,30.0,70.0,-0.6344482898712158,False,Washington State,California,13.0,13.0,4,4,50,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,35.0,65.0,0.28136324882507324,False,Washington State,California,13.0,13.0,4,5,45,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,52.0,48.0,1.5683367252349854,False,Washington State,California,13.0,13.0,4,6,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,80.0,20.0,0.8581501841545105,False,Washington State,California,13.0,13.0,4,7,30,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,55.0,45.0,-1.3880927562713623,False,Washington State,California,13.0,13.0,4,13,40,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,60.0,40.0,-0.5035620927810669,False,Washington State,California,13.0,13.0,4,14,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Sack,,,54.0,46.0,-1.5465757846832275,False,Washington State,California,13.0,13.0,4,14,55,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,76.0,24.0,1.4957633018493652,False,Washington State,California,13.0,13.0,3,1,30,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,77.0,23.0,-0.6069418787956238,False,Washington State,California,13.0,13.0,3,2,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,60.0,40.0,-1.7694075107574463,False,Washington State,California,13.0,10.0,3,7,50,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,66.0,34.0,-0.0640573501586914,False,Washington State,California,13.0,10.0,3,9,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,86.0,14.0,-0.12863558530807495,False,Washington State,California,13.0,10.0,3,10,38,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,19.0,81.0,0.146712064743042,False,Washington State,California,10.0,10.0,2,0,6,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,19.0,81.0,-0.4174036979675293,False,Washington State,California,10.0,10.0,2,0,11,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,23.0,77.0,-0.11275267601013184,False,Washington State,California,10.0,10.0,2,0,17,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,51.0,49.0,2.0050106048583984,False,Washington State,California,10.0,10.0,2,0,22,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,70.0,30.0,-0.8156253695487976,False,Washington State,California,10.0,7.0,2,2,10,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,65.0,35.0,-0.6487416625022888,False,Washington State,California,10.0,7.0,2,2,22,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,69.0,31.0,-0.004947066307067871,False,Washington State,California,10.0,7.0,2,2,45,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,80.0,20.0,0.43348103761672974,False,Washington State,California,10.0,7.0,2,3,20,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,16.0,84.0,0.9234957695007324,False,Washington State,California,3.0,7.0,2,7,17,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,29.0,71.0,0.9761240482330322,False,Washington State,California,3.0,7.0,2,7,47,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,43.0,57.0,1.601893663406372,False,Washington State,California,3.0,7.0,2,8,11,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,51.0,49.0,0.3332000970840454,False,Washington State,California,3.0,7.0,2,8,57,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,51.0,49.0,-0.6007581949234009,False,Washington State,California,3.0,7.0,2,9,12,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Interception Return,,,58.0,42.0,0.49459266662597656,False,Washington State,California,3.0,0.0,1,0,46,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,58.0,42.0,-0.9458518028259277,False,Washington State,California,3.0,0.0,1,0,54,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,62.0,38.0,-0.22532296180725098,False,Washington State,California,3.0,0.0,1,1,32,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,75.0,25.0,0.9679712057113647,False,Washington State,California,3.0,0.0,1,2,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,34.0,66.0,-4.2134175300598145,False,Washington State,California,3.0,0.0,1,3,51,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,36.0,64.0,-0.431715726852417,False,Washington State,California,3.0,0.0,1,4,17,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,43.0,57.0,-0.4818291664123535,False,Washington State,California,3.0,0.0,1,5,37,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,58.0,42.0,0.9320108890533447,False,Washington State,California,3.0,0.0,1,6,20,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,70.0,30.0,1.3173778057098389,False,Washington State,California,3.0,0.0,1,6,45,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,70.0,30.0,-0.7838907241821289,False,Washington State,California,3.0,0.0,1,7,8,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,12.0,88.0,-1.1710078716278076,False,Washington State,California,0.0,0.0,1,10,39,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,8.0,92.0,-1.5239803791046143,False,Washington State,California,0.0,0.0,1,11,25,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,9.0,91.0,-0.5696201324462891,False,Washington State,California,0.0,0.0,1,11,51,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,29.0,71.0,1.14085054397583,False,Washington State,California,0.0,0.0,1,13,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,41.0,59.0,1.3003389835357666,False,Washington State,California,0.0,0.0,1,13,10,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Incompletion,,,41.0,59.0,-0.6352012157440186,False,Washington State,California,0.0,0.0,1,13,19,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,57.0,43.0,1.117863655090332,False,Washington State,California,0.0,0.0,1,14,0,10,California,2018,Washington State,Gardner Minshew II,2019
+401012785.0,Pass Reception,,,72.0,28.0,1.8136839866638184,False,Washington State,California,0.0,0.0,1,14,30,10,California,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,26.0,26.0,0.32843446731567383,False,Colorado,Washington State,31.0,7.0,4,1,30,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,32.0,32.0,-0.014569520950317383,False,Colorado,Washington State,31.0,7.0,4,2,0,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,3.0,3.0,-0.6998038291931152,False,Colorado,Washington State,24.0,7.0,4,3,51,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,3.0,3.0,-0.3564305305480957,False,Colorado,Washington State,24.0,7.0,4,3,55,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,19.0,19.0,1.6227598190307617,False,Colorado,Washington State,24.0,7.0,4,4,33,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,26.0,26.0,0.16114330291748047,False,Colorado,Washington State,24.0,7.0,4,5,0,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,31.0,31.0,-0.45065951347351074,False,Colorado,Washington State,24.0,7.0,4,6,8,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,36.0,36.0,-0.00170135498046875,False,Colorado,Washington State,24.0,7.0,4,6,52,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,57.0,57.0,1.669142246246338,False,Colorado,Washington State,24.0,7.0,4,7,30,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,66.0,66.0,-0.5262115001678467,False,Colorado,Washington State,24.0,7.0,4,9,30,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,66.0,66.0,-1.3494704961776733,False,Colorado,Washington State,24.0,7.0,4,12,6,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,66.0,66.0,-0.875662088394165,False,Colorado,Washington State,24.0,7.0,4,12,12,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,68.0,68.0,-0.36769723892211914,False,Colorado,Washington State,24.0,7.0,4,12,43,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,19.0,19.0,0.3786487579345703,False,Colorado,Washington State,17.0,7.0,3,0,0,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,28.0,28.0,-0.8101711273193359,False,Colorado,Washington State,17.0,7.0,3,0,40,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,78.0,78.0,2.4808006286621094,False,Colorado,Washington State,17.0,7.0,3,1,36,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,88.0,88.0,0.6298166513442993,False,Colorado,Washington State,17.0,7.0,3,2,9,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,25.0,25.0,-2.611531972885132,False,Colorado,Washington State,17.0,7.0,3,4,20,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,43.0,43.0,0.6097259521484375,False,Colorado,Washington State,17.0,7.0,3,6,0,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,50.0,50.0,0.38670873641967773,False,Colorado,Washington State,17.0,7.0,3,6,50,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,64.0,65.0,-0.38670873641967773,False,Colorado,Washington State,17.0,7.0,3,7,0,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,64.0,64.0,-0.825386643409729,False,Colorado,Washington State,17.0,7.0,3,7,31,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,77.0,77.0,1.2705302238464355,False,Colorado,Washington State,17.0,7.0,3,8,30,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Passing Touchdown,,,1.0,1.0,1.0311007499694824,True,Colorado,Washington State,17.0,7.0,3,10,56,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,10.0,10.0,0.6147770881652832,False,Colorado,Washington State,10.0,7.0,3,12,45,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,18.0,18.0,0.4523482322692871,False,Colorado,Washington State,10.0,7.0,3,13,13,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,30.0,30.0,1.2205572128295898,False,Colorado,Washington State,10.0,7.0,3,13,48,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,38.0,38.0,-1.1348986625671387,False,Colorado,Washington State,10.0,7.0,2,0,26,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,38.0,38.0,-0.7465600967407227,False,Colorado,Washington State,10.0,7.0,2,0,31,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,38.0,38.0,-0.38509368896484375,False,Colorado,Washington State,10.0,7.0,2,0,35,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,38.0,38.0,-0.19106507301330566,False,Colorado,Washington State,10.0,7.0,2,0,43,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,49.0,49.0,1.0688153505325317,False,Colorado,Washington State,10.0,7.0,2,0,49,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,49.0,49.0,-0.2803058624267578,False,Colorado,Washington State,10.0,7.0,2,0,59,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,61.0,61.0,-0.8592391610145569,False,Colorado,Washington State,10.0,7.0,2,2,29,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,61.0,61.0,-0.4878664016723633,False,Colorado,Washington State,10.0,7.0,2,2,39,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,74.0,74.0,0.4410066604614258,False,Colorado,Washington State,10.0,7.0,2,3,26,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,70.0,70.0,-1.4169330596923828,False,Colorado,Washington State,10.0,7.0,2,4,59,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,71.0,71.0,-0.2717832922935486,False,Colorado,Washington State,10.0,7.0,2,5,39,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,85.0,85.0,-0.6041938066482544,False,Colorado,Washington State,10.0,7.0,2,6,51,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Passing Touchdown,,,28.0,28.0,4.003238201141357,True,Colorado,Washington State,10.0,7.0,2,8,31,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,48.0,48.0,1.588719129562378,False,Colorado,Washington State,3.0,7.0,2,9,50,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,19.0,19.0,-1.9635934829711914,False,Colorado,Washington State,0.0,7.0,2,14,18,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,27.0,27.0,0.6383025646209717,False,Colorado,Washington State,0.0,7.0,2,14,55,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,50.0,50.0,2.7110848426818848,False,Colorado,Washington State,0.0,7.0,1,0,31,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,58.0,58.0,0.45589959621429443,False,Colorado,Washington State,0.0,7.0,1,1,10,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,70.0,70.0,1.9489614963531494,False,Colorado,Washington State,0.0,7.0,1,2,53,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,20.0,20.0,-3.6724460124969482,False,Colorado,Washington State,0.0,0.0,1,5,2,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,25.0,25.0,0.2938249111175537,False,Colorado,Washington State,0.0,0.0,1,5,32,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,33.0,33.0,1.1787514686584473,False,Colorado,Washington State,0.0,0.0,1,7,25,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,39.0,39.0,0.1535167694091797,False,Colorado,Washington State,0.0,0.0,1,8,4,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,39.0,39.0,-0.6541554927825928,False,Colorado,Washington State,0.0,0.0,1,8,14,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,61.0,61.0,-0.7479957342147827,False,Colorado,Washington State,0.0,0.0,1,8,59,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,71.0,71.0,0.8150018453598022,False,Colorado,Washington State,0.0,0.0,1,10,5,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,83.0,83.0,2.5434422492980957,False,Colorado,Washington State,0.0,0.0,1,10,25,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,84.0,84.0,-0.7034993171691895,False,Colorado,Washington State,0.0,0.0,1,11,17,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Reception,,,85.0,85.0,-0.7621023058891296,False,Colorado,Washington State,0.0,0.0,1,11,51,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,74.0,74.0,-1.4089126586914062,False,Colorado,Washington State,0.0,0.0,1,14,17,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012788.0,Pass Incompletion,,,74.0,74.0,-1.0839468240737915,False,Colorado,Washington State,0.0,0.0,1,14,22,11,Colorado,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,65.0,35.0,0.34697210788726807,False,Washington State,Arizona,69.0,28.0,4,1,32,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,9.0,91.0,2.093703269958496,True,Washington State,Arizona,69.0,28.0,4,7,6,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,47.0,53.0,3.1632652282714844,False,Washington State,Arizona,62.0,28.0,4,7,39,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,61.0,39.0,0.15648484230041504,False,Washington State,Arizona,62.0,28.0,4,9,35,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,75.0,25.0,0.4200913906097412,False,Washington State,Arizona,62.0,28.0,4,10,0,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,2.0,98.0,0.6260085105895996,True,Washington State,Arizona,62.0,28.0,4,12,37,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,15.0,85.0,-0.668738842010498,False,Washington State,Arizona,55.0,28.0,4,14,3,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,58.0,42.0,-1.438643455505371,False,Washington State,Arizona,55.0,28.0,4,14,54,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,62.0,38.0,-0.47344088554382324,False,Washington State,Arizona,55.0,28.0,3,0,5,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,75.0,25.0,0.5173168182373047,False,Washington State,Arizona,55.0,28.0,3,0,56,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,10.0,90.0,-1.4801721572875977,False,Washington State,Arizona,55.0,21.0,3,4,58,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,6.0,94.0,-1.3956975936889648,False,Washington State,Arizona,55.0,21.0,3,5,45,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,12.0,88.0,0.16298341751098633,False,Washington State,Arizona,55.0,21.0,3,6,20,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,31.0,69.0,2.233612298965454,False,Washington State,Arizona,55.0,21.0,3,6,55,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,33.0,67.0,-0.33021116256713867,False,Washington State,Arizona,55.0,21.0,3,7,35,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,42.0,58.0,1.117699384689331,False,Washington State,Arizona,55.0,21.0,3,8,35,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,42.0,58.0,-0.7355482578277588,False,Washington State,Arizona,55.0,21.0,3,9,10,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,78.0,22.0,2.2553818225860596,False,Washington State,Arizona,55.0,21.0,3,9,35,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,78.0,22.0,-0.883392333984375,False,Washington State,Arizona,55.0,21.0,3,9,42,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,82.0,18.0,-0.42325401306152344,False,Washington State,Arizona,55.0,21.0,3,10,5,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Sack,,,77.0,23.0,-1.370410442352295,False,Washington State,Arizona,55.0,21.0,3,11,45,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,77.0,23.0,-1.065124750137329,False,Washington State,Arizona,55.0,21.0,3,11,59,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,50.0,50.0,6.668809413909912,True,Washington State,Arizona,55.0,14.0,2,0,10,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,80.0,20.0,0.2615562975406647,False,Washington State,Arizona,48.0,14.0,2,0,21,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,9.0,91.0,2.407289981842041,True,Washington State,Arizona,48.0,14.0,2,3,22,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,41.0,59.0,1.047572135925293,False,Washington State,Arizona,41.0,14.0,2,4,29,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,44.0,56.0,-0.5896847248077393,False,Washington State,Arizona,41.0,14.0,2,5,7,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,54.0,46.0,-0.36997103691101074,False,Washington State,Arizona,41.0,14.0,2,5,48,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,6.0,94.0,0.873847484588623,True,Washington State,Arizona,34.0,14.0,2,7,8,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,5.0,95.0,-0.7381553649902344,False,Washington State,Arizona,28.0,14.0,2,7,50,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,14.0,86.0,0.9875245094299316,False,Washington State,Arizona,28.0,14.0,2,8,25,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,19.0,81.0,-0.10002279281616211,False,Washington State,Arizona,28.0,14.0,2,9,5,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,42.0,58.0,1.0679893493652344,False,Washington State,Arizona,28.0,14.0,2,9,37,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,68.0,32.0,1.3013432025909424,False,Washington State,Arizona,28.0,14.0,2,10,10,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,75.0,25.0,0.23779702186584473,False,Washington State,Arizona,28.0,14.0,2,10,35,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,11.0,89.0,1.405545711517334,True,Washington State,Arizona,28.0,7.0,2,12,3,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,17.0,83.0,-0.34873056411743164,False,Washington State,Arizona,21.0,7.0,2,12,45,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,64.0,36.0,-0.20345449447631836,False,Washington State,Arizona,21.0,7.0,2,13,53,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,79.0,21.0,-0.589235782623291,False,Washington State,Arizona,21.0,7.0,2,14,6,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Passing Touchdown,,,27.0,73.0,2.211663246154785,True,Washington State,Arizona,21.0,7.0,1,0,19,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,33.0,67.0,1.1716718673706055,False,Washington State,Arizona,14.0,7.0,1,0,47,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,44.0,56.0,0.5292022228240967,False,Washington State,Arizona,14.0,7.0,1,2,45,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,49.0,51.0,-0.06081438064575195,False,Washington State,Arizona,14.0,7.0,1,3,5,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,66.0,34.0,-1.1907862424850464,False,Washington State,Arizona,14.0,0.0,1,5,25,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,66.0,34.0,-1.0116119384765625,False,Washington State,Arizona,14.0,0.0,1,5,30,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,65.0,35.0,-0.8624486923217773,False,Washington State,Arizona,14.0,0.0,1,6,0,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Incompletion,,,1.0,99.0,-0.19396734237670898,False,Washington State,Arizona,7.0,0.0,1,7,43,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,9.0,91.0,1.6226062774658203,False,Washington State,Arizona,7.0,0.0,1,8,10,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,11.0,89.0,-0.45821046829223633,False,Washington State,Arizona,7.0,0.0,1,8,30,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,53.0,54.0,-0.8747305870056152,False,Washington State,Arizona,7.0,0.0,1,9,15,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,9.0,91.0,0.6835761070251465,False,Washington State,Arizona,0.0,0.0,1,11,12,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,18.0,82.0,1.870774745941162,False,Washington State,Arizona,0.0,0.0,1,11,39,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Sack,,,17.0,83.0,-1.1458425521850586,False,Washington State,Arizona,0.0,0.0,1,12,25,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,36.0,64.0,-0.6081955432891846,False,Washington State,Arizona,0.0,0.0,1,13,40,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,65.0,35.0,1.8501496315002441,False,Washington State,Arizona,0.0,0.0,1,14,8,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012795.0,Pass Reception,,,75.0,25.0,0.3559373617172241,False,Washington State,Arizona,0.0,0.0,1,14,51,12,Arizona,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,57.0,43.0,-0.6048829555511475,False,Washington State,Washington,15.0,28.0,4,9,30,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Sack,,,52.0,48.0,-1.7820308208465576,False,Washington State,Washington,15.0,28.0,4,10,25,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,73.0,27.0,2.082669734954834,False,Washington State,Washington,15.0,28.0,4,11,42,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Incompletion,,,73.0,27.0,-0.8778736591339111,False,Washington State,Washington,15.0,28.0,4,11,47,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,79.0,21.0,0.37189990282058716,False,Washington State,Washington,15.0,28.0,4,12,12,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Incompletion,,,56.0,44.0,-1.9741692543029785,False,Washington State,Washington,15.0,20.0,4,14,11,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,61.0,39.0,-0.0057631731033325195,False,Washington State,Washington,15.0,20.0,4,14,45,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Interception Return,,,75.0,25.0,-4.720309734344482,False,Washington State,Washington,15.0,20.0,3,2,38,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,79.0,21.0,-0.15890800952911377,False,Washington State,Washington,15.0,20.0,3,2,50,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,21.0,79.0,1.0459051132202148,False,Washington State,Washington,9.0,20.0,3,6,9,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,65.0,35.0,-0.5654062032699585,False,Washington State,Washington,9.0,20.0,3,10,30,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Sack,,,53.0,35.0,0.565406084060669,False,Washington State,Washington,9.0,20.0,3,10,50,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,63.0,37.0,1.070736289024353,False,Washington State,Washington,9.0,20.0,3,12,0,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Incompletion,,,63.0,37.0,-0.8321934938430786,False,Washington State,Washington,9.0,20.0,3,12,4,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,70.0,30.0,0.5328868627548218,False,Washington State,Washington,9.0,20.0,3,12,20,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Interception Return,,,24.0,76.0,-4.086355209350586,False,Washington State,Washington,7.0,14.0,2,0,8,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,27.0,73.0,0.4046032428741455,False,Washington State,Washington,7.0,14.0,2,0,21,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,16.0,84.0,0.725949764251709,False,Washington State,Washington,0.0,14.0,2,0,41,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,17.0,83.0,-0.3883788585662842,False,Washington State,Washington,0.0,14.0,2,0,49,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,23.0,77.0,0.557213306427002,False,Washington State,Washington,0.0,14.0,2,0,59,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,30.0,70.0,2.0691161155700684,False,Washington State,Washington,0.0,14.0,2,1,15,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,36.0,64.0,-1.5037246942520142,False,Washington State,Washington,0.0,14.0,2,3,50,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,41.0,59.0,0.9693701267242432,False,Washington State,Washington,0.0,14.0,2,4,7,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,45.0,55.0,-0.14374756813049316,False,Washington State,Washington,0.0,14.0,2,4,20,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,48.0,52.0,-0.8024731874465942,False,Washington State,Washington,0.0,7.0,2,11,5,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Incompletion,,,48.0,52.0,-1.018672227859497,False,Washington State,Washington,0.0,7.0,2,11,12,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,47.0,53.0,-0.8156064748764038,False,Washington State,Washington,0.0,7.0,2,11,45,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,57.0,43.0,0.1472846269607544,False,Washington State,Washington,0.0,7.0,2,12,50,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,60.0,40.0,-0.2736973762512207,False,Washington State,Washington,0.0,7.0,2,13,30,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,89.0,11.0,-0.3849007487297058,False,Washington State,Washington,0.0,7.0,1,0,0,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,21.0,79.0,0.5595283508300781,False,Washington State,Washington,0.0,0.0,1,5,10,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,39.0,61.0,1.1942534446716309,False,Washington State,Washington,0.0,0.0,1,5,50,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,45.0,55.0,0.3063521385192871,False,Washington State,Washington,0.0,0.0,1,6,26,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Reception,,,67.0,33.0,2.170269012451172,False,Washington State,Washington,0.0,0.0,1,7,0,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Incompletion,,,70.0,30.0,-1.6975488662719727,False,Washington State,Washington,0.0,0.0,1,14,11,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401012798.0,Pass Incompletion,,,75.0,25.0,-0.4970705211162567,False,Washington State,Washington,0.0,0.0,1,14,56,13,Washington,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,60.0,40.0,0.840686559677124,False,Washington State,Iowa State,28.0,26.0,4,1,30,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,66.0,34.0,0.34253358840942383,False,Washington State,Iowa State,28.0,26.0,4,3,12,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,75.0,25.0,0.3284379243850708,False,Washington State,Iowa State,28.0,26.0,4,3,51,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,74.0,26.0,-1.2906792163848877,False,Washington State,Iowa State,28.0,20.0,4,7,0,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,82.0,18.0,0.12694597244262695,False,Washington State,Iowa State,28.0,20.0,4,7,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,82.0,18.0,-0.5682072639465332,False,Washington State,Iowa State,28.0,20.0,4,8,15,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,94.0,6.0,0.7612406611442566,False,Washington State,Iowa State,28.0,20.0,4,8,57,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,30.0,70.0,2.301320791244507,False,Washington State,Iowa State,21.0,20.0,4,10,52,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,30.0,70.0,-0.5464835166931152,False,Washington State,Iowa State,21.0,20.0,4,11,11,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,60.0,40.0,-1.688732624053955,False,Washington State,Iowa State,21.0,20.0,4,11,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,63.0,37.0,-0.19719398021697998,False,Washington State,Iowa State,21.0,20.0,4,12,29,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,68.0,32.0,-0.046518921852111816,False,Washington State,Iowa State,21.0,20.0,4,13,2,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,73.0,27.0,-1.4585437774658203,False,Washington State,Iowa State,21.0,20.0,3,0,36,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,73.0,27.0,-0.7631807327270508,False,Washington State,Iowa State,21.0,20.0,3,0,54,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,47.0,53.0,-1.4292610883712769,False,Washington State,Iowa State,21.0,17.0,3,7,51,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,54.0,46.0,-0.6571560502052307,False,Washington State,Iowa State,21.0,17.0,3,8,30,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,42.0,60.0,0.6173058748245239,False,Washington State,Iowa State,21.0,17.0,3,9,38,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,64.0,36.0,1.851938009262085,False,Washington State,Iowa State,21.0,17.0,3,10,7,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,64.0,36.0,-0.6784267425537109,False,Washington State,Iowa State,21.0,17.0,3,10,15,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,76.0,24.0,1.5761587619781494,False,Washington State,Iowa State,21.0,17.0,3,10,47,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,77.0,23.0,-0.4780285954475403,False,Washington State,Iowa State,21.0,17.0,3,11,27,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,88.0,12.0,0.4828476905822754,False,Washington State,Iowa State,21.0,17.0,3,12,0,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Passing Touchdown,,,9.0,91.0,3.5984268188476562,True,Washington State,Iowa State,21.0,7.0,2,1,2,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Sack,,,6.0,94.0,-1.2171056270599365,False,Washington State,Iowa State,14.0,7.0,2,1,15,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,29.0,71.0,1.3584988117218018,False,Washington State,Iowa State,14.0,7.0,2,2,19,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,29.0,71.0,-0.41007351875305176,False,Washington State,Iowa State,14.0,7.0,2,2,27,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,41.0,59.0,0.5832304954528809,False,Washington State,Iowa State,14.0,7.0,2,3,33,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,54.0,46.0,0.5468442440032959,False,Washington State,Iowa State,14.0,7.0,2,4,7,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,9.0,91.0,-0.4945979118347168,False,Washington State,Iowa State,7.0,0.0,2,6,51,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,14.0,86.0,1.0433063507080078,False,Washington State,Iowa State,7.0,0.0,2,7,29,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,21.0,79.0,0.3654317855834961,False,Washington State,Iowa State,7.0,0.0,2,8,13,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,26.0,74.0,0.14225006103515625,False,Washington State,Iowa State,7.0,0.0,2,8,30,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,33.0,67.0,0.2501659393310547,False,Washington State,Iowa State,7.0,0.0,2,9,17,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,37.0,63.0,0.25928688049316406,False,Washington State,Iowa State,7.0,0.0,2,9,51,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,66.0,34.0,-0.9220206141471863,False,Washington State,Iowa State,7.0,0.0,2,10,52,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,65.0,35.0,-0.8888083696365356,False,Washington State,Iowa State,7.0,0.0,2,11,26,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,88.0,12.0,1.3539788722991943,False,Washington State,Iowa State,7.0,0.0,2,11,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Sack,,,62.0,38.0,-2.0875802040100098,False,Washington State,Iowa State,7.0,0.0,1,0,21,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,63.0,37.0,-0.6108133792877197,False,Washington State,Iowa State,7.0,0.0,1,1,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,74.0,26.0,0.004817485809326172,False,Washington State,Iowa State,7.0,0.0,1,2,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,83.0,17.0,0.6871682405471802,False,Washington State,Iowa State,7.0,0.0,1,3,3,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Passing Touchdown,,,22.0,78.0,3.6964261531829834,True,Washington State,Iowa State,7.0,0.0,1,6,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,22.0,78.0,-0.8362925052642822,False,Washington State,Iowa State,0.0,0.0,1,7,2,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,54.0,46.0,-1.973468542098999,False,Washington State,Iowa State,0.0,0.0,1,12,10,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Incompletion,,,54.0,46.0,-0.9706543684005737,False,Washington State,Iowa State,0.0,0.0,1,12,20,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Fumble Recovery (Opponent),,,64.0,36.0,-4.485001564025879,False,Washington State,Iowa State,0.0,0.0,1,13,37,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,77.0,23.0,1.7528750896453857,False,Washington State,Iowa State,0.0,0.0,1,14,8,1,Iowa State,2018,Washington State,Gardner Minshew II,2019
+401032075.0,Pass Reception,,,79.0,21.0,-0.4915783405303955,False,Washington State,Iowa State,0.0,0.0,1,14,55,1,Iowa State,2018,Washington State,Gardner Minshew II,2019

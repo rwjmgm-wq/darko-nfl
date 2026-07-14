@@ -1,0 +1,213 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401249399.0,Pass Reception,,,46.0,46,-2.468559980392456,False,Oregon,Stanford,14.0,35.0,4,0,32,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,55.0,55,0.1541057825088501,False,Oregon,Stanford,14.0,35.0,4,1,18,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,78.0,78,0.5290130972862244,False,Oregon,Stanford,14.0,35.0,4,2,41,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,9.0,9,-1.4898065328598022,False,Oregon,Stanford,7.0,28.0,4,12,8,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,16.0,16,0.08141326904296875,False,Oregon,Stanford,7.0,28.0,4,12,52,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,2.0,2,-0.3814830780029297,False,Oregon,Stanford,7.0,28.0,4,13,5,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,13.0,13,1.27091646194458,False,Oregon,Stanford,7.0,28.0,4,13,58,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,34.0,34,-0.9023191332817078,False,Oregon,Stanford,7.0,28.0,4,14,52,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,75.0,75,4.120005130767822,False,Oregon,Stanford,7.0,28.0,3,0,46,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,17.0,17,-1.4713205099105835,False,Oregon,Stanford,7.0,21.0,3,4,55,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,21.0,21,-0.5441405773162842,False,Oregon,Stanford,7.0,21.0,3,6,28,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,26.0,26,1.5347111225128174,False,Oregon,Stanford,7.0,21.0,3,7,5,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,38.0,38,2.110396146774292,False,Oregon,Stanford,7.0,21.0,3,9,13,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,39.0,39,-0.8247542381286621,False,Oregon,Stanford,7.0,21.0,3,9,59,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,75.0,75,2.913470983505249,False,Oregon,Stanford,7.0,21.0,3,11,8,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,73.0,73,-3.392796754837036,False,Oregon,Stanford,7.0,14.0,2,0,4,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,77.0,77,-0.09019500017166138,False,Oregon,Stanford,7.0,14.0,2,0,54,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,66.0,66,1.2311655282974243,False,Oregon,Stanford,7.0,7.0,2,7,23,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,23.0,23,-1.4237260818481445,False,Oregon,Stanford,7.0,7.0,2,12,12,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,23.0,23,-0.7566893100738525,False,Oregon,Stanford,7.0,7.0,2,12,17,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,67.0,67,-1.3667471408843994,False,Oregon,Stanford,7.0,7.0,2,14,10,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,33.0,33,4.490797519683838,False,Oregon,Stanford,0.0,0.0,1,4,45,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,39.0,39,-0.14063692092895508,False,Oregon,Stanford,0.0,0.0,1,5,25,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Reception,,,75.0,75,3.8688457012176514,False,Oregon,Stanford,0.0,0.0,1,7,35,10,Oregon,2020,Stanford,Davis Mills,2021
+401249399.0,Pass Incompletion,,,30.0,30,-0.9988019466400146,False,Oregon,Stanford,0.0,0.0,1,11,53,10,Oregon,2020,Stanford,Davis Mills,2021
+401249406.0,Fumble Recovery (Opponent),,,92.0,8,-5.794308662414551,False,Stanford,Colorado,32.0,35.0,4,0,0,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Passing Touchdown,,,1.0,99,1.6554741859436035,True,Stanford,Colorado,32.0,35.0,4,2,34,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,2.0,98,-1.786592960357666,False,Stanford,Colorado,24.0,35.0,4,2,42,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,19.0,81,2.118882894515991,False,Stanford,Colorado,24.0,35.0,4,3,46,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,31.0,69,1.09135103225708,False,Stanford,Colorado,24.0,35.0,4,4,21,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,31.0,69,-0.23349738121032715,False,Stanford,Colorado,24.0,35.0,4,4,28,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,59.0,41,2.751127004623413,False,Stanford,Colorado,24.0,35.0,4,4,50,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,59.0,41,-0.6070312857627869,False,Stanford,Colorado,24.0,35.0,4,4,56,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,59.0,41,-0.6220719814300537,False,Stanford,Colorado,24.0,35.0,4,5,1,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,70.0,30,0.9168869853019714,False,Stanford,Colorado,24.0,35.0,4,5,20,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,80.0,20,0.7149616479873657,False,Stanford,Colorado,24.0,35.0,4,5,38,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,35.0,65,1.905585765838623,False,Stanford,Colorado,16.0,35.0,4,9,10,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,44.0,56,0.7265024185180664,False,Stanford,Colorado,16.0,35.0,4,9,32,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,44.0,56,-0.6483416557312012,False,Stanford,Colorado,16.0,35.0,4,10,0,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,54.0,46,3.4027633666992188,False,Stanford,Colorado,16.0,35.0,4,10,21,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,57.0,43,-0.11150956153869629,False,Stanford,Colorado,16.0,35.0,4,11,0,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,73.0,27,0.6941586136817932,False,Stanford,Colorado,16.0,35.0,4,11,50,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,50.0,50,-2.7316911220550537,False,Stanford,Colorado,16.0,35.0,4,13,32,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,50.0,50,-0.9379985332489014,False,Stanford,Colorado,16.0,35.0,4,13,41,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,58.0,42,0.8159435987472534,False,Stanford,Colorado,16.0,35.0,4,14,4,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,73.0,27,1.7704286575317383,False,Stanford,Colorado,16.0,35.0,4,14,37,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,2.0,98,-0.34075403213500977,False,Stanford,Colorado,9.0,28.0,3,4,42,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,16.0,84,2.391148805618286,False,Stanford,Colorado,9.0,28.0,3,5,14,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,50.0,50,2.5827484130859375,False,Stanford,Colorado,9.0,28.0,3,6,31,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,86.0,14,3.572714328765869,False,Stanford,Colorado,9.0,28.0,3,7,3,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,88.0,12,-0.5809955596923828,False,Stanford,Colorado,9.0,28.0,3,8,35,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,82.0,18,-1.3908262252807617,False,Stanford,Colorado,9.0,28.0,3,8,36,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,73.0,27,-0.28238925337791443,False,Stanford,Colorado,9.0,21.0,3,10,38,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,48.0,52,-0.7422171831130981,False,Stanford,Colorado,9.0,14.0,2,2,5,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,56.0,44,0.19475269317626953,False,Stanford,Colorado,9.0,14.0,2,2,30,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,67.0,33,1.0924606323242188,False,Stanford,Colorado,9.0,14.0,2,2,38,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,67.0,33,-0.5048966407775879,False,Stanford,Colorado,9.0,14.0,2,2,55,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,58.0,42,3.3563036918640137,False,Stanford,Colorado,6.0,14.0,2,7,26,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,61.0,39,-0.054590046405792236,False,Stanford,Colorado,6.0,14.0,2,8,2,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Sack,,,58.0,42,-1.1645896434783936,False,Stanford,Colorado,6.0,14.0,2,8,38,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,15.0,85,-1.5164964199066162,False,Stanford,Colorado,3.0,7.0,2,14,18,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,29.0,71,0.5641903877258301,False,Stanford,Colorado,3.0,7.0,1,0,35,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,35.0,65,0.3204996585845947,False,Stanford,Colorado,3.0,7.0,1,1,16,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,70.0,30,0.4117225408554077,False,Stanford,Colorado,3.0,7.0,1,2,40,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,77.0,23,-1.4747178554534912,False,Stanford,Colorado,3.0,0.0,1,4,12,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,87.0,13,-0.8712337613105774,False,Stanford,Colorado,3.0,0.0,1,7,35,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,65.0,35,-1.658430814743042,False,Stanford,Colorado,3.0,0.0,1,9,8,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Incompletion,,,30.0,70,-1.4669742584228516,False,Stanford,Colorado,0.0,0.0,1,11,51,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,35.0,65,0.12604999542236328,False,Stanford,Colorado,0.0,0.0,1,12,23,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,42.0,58,0.36481451988220215,False,Stanford,Colorado,0.0,0.0,1,13,36,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,50.0,50,0.7080497741699219,False,Stanford,Colorado,0.0,0.0,1,14,10,11,Colorado,2020,Stanford,Davis Mills,2021
+401249406.0,Pass Reception,,,67.0,33,1.1145819425582886,False,Stanford,Colorado,0.0,0.0,1,14,55,11,Colorado,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,48.0,48,1.5325846672058105,False,California,Stanford,24.0,17.0,4,8,44,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Sack,,,32.0,32,-3.0277459621429443,False,California,Stanford,24.0,17.0,4,8,44,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,54.0,54,-1.1995222568511963,False,California,Stanford,24.0,17.0,4,15,0,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,56.0,56,1.6658427715301514,False,California,Stanford,24.0,17.0,4,15,0,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,33.0,33,0.2767777442932129,False,California,Stanford,24.0,17.0,4,15,0,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,34.0,34,-1.2693945169448853,False,California,Stanford,24.0,17.0,4,15,0,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,60.0,60,0.057565927505493164,False,California,Stanford,24.0,17.0,3,0,17,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,71.0,71,-0.3073399066925049,False,California,Stanford,17.0,17.0,3,6,19,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,53.0,53,1.1473641395568848,False,California,Stanford,17.0,17.0,3,6,19,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,36.0,36,0.3177022933959961,False,California,Stanford,17.0,17.0,3,6,19,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,19.0,19,0.2310929298400879,False,California,Stanford,17.0,17.0,3,6,19,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,13.0,13,-0.057123661041259766,False,California,Stanford,17.0,17.0,3,6,19,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,69.0,69,-1.002386212348938,False,California,Stanford,17.0,17.0,3,9,13,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,69.0,69,-1.603878378868103,False,California,Stanford,17.0,17.0,3,9,13,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,41.0,41,1.3350496292114258,False,California,Stanford,10.0,10.0,3,11,57,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,69.0,69,-1.8115463256835938,False,California,Stanford,10.0,10.0,3,14,54,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Sack,,,64.0,64,-1.2907711267471313,False,California,Stanford,10.0,10.0,2,1,45,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,71.0,71,0.06390559673309326,False,California,Stanford,10.0,10.0,2,2,41,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,65.0,65,0.49707579612731934,False,California,Stanford,10.0,10.0,2,2,41,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,61.0,61,-1.1055939197540283,False,California,Stanford,10.0,10.0,2,2,41,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Passing Touchdown,,,11.0,11,3.0249106884002686,True,California,Stanford,10.0,10.0,2,3,9,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,16.0,16,-0.6358041763305664,False,California,Stanford,3.0,10.0,2,4,6,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,55.0,55,-0.7028270959854126,False,California,Stanford,3.0,10.0,2,5,33,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Sack,,,55.0,55,-2.0921754837036133,False,California,Stanford,3.0,10.0,2,5,33,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,75.0,75,0.6219094395637512,False,California,Stanford,3.0,10.0,2,10,15,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,52.0,52,2.1327524185180664,False,California,Stanford,0.0,7.0,1,4,24,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,40.0,40,2.0040628910064697,False,California,Stanford,0.0,7.0,1,4,24,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,16.0,16,0.002579212188720703,False,California,Stanford,0.0,7.0,1,4,24,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,75.0,75,-0.42300477623939514,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,73.0,73,-0.30903512239456177,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,65.0,65,-0.6044169068336487,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,70.0,70,1.1209253072738647,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,59.0,59,2.026392698287964,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Sack,,,43.0,43,-1.2679502964019775,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Reception,,,45.0,45,0.14591872692108154,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249417.0,Pass Incompletion,,,39.0,39,-1.9541878700256348,False,California,Stanford,0.0,7.0,1,10,32,13,California,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,60.0,60,1.9453831911087036,False,Washington,Stanford,31.0,26.0,4,2,5,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,88.0,88,1.9865503311157227,False,Washington,Stanford,31.0,26.0,4,6,0,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,56.0,56,-1.7791723012924194,False,Washington,Stanford,31.0,16.0,3,0,23,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,67.0,67,1.8933604955673218,False,Washington,Stanford,31.0,16.0,3,1,10,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Passing Touchdown,,,3.0,3,0.47466468811035156,True,Washington,Stanford,31.0,10.0,3,9,1,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,36.0,36,2.544923782348633,False,Washington,Stanford,24.0,10.0,3,9,23,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,36.0,36,-0.8994030952453613,False,Washington,Stanford,24.0,10.0,3,9,42,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,58.0,58,1.4443244934082031,False,Washington,Stanford,24.0,10.0,3,10,30,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,32.0,32,-0.8732200860977173,False,Washington,Stanford,21.0,3.0,2,0,22,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,37.0,37,1.4049628973007202,False,Washington,Stanford,21.0,3.0,2,0,25,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,37.0,37,-0.8263561725616455,False,Washington,Stanford,21.0,3.0,2,0,36,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,37.0,37,-0.30901896953582764,False,Washington,Stanford,21.0,3.0,2,0,40,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,57.0,57,0.5739930868148804,False,Washington,Stanford,21.0,3.0,2,1,5,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,59.0,59,-0.4722175598144531,False,Washington,Stanford,21.0,3.0,2,1,35,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,69.0,69,0.4445405602455139,False,Washington,Stanford,21.0,3.0,2,1,50,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,73.0,73,-0.463188111782074,False,Washington,Stanford,21.0,3.0,2,2,15,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,78.0,78,0.9179862141609192,False,Washington,Stanford,21.0,3.0,2,2,35,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,85.0,85,0.039577871561050415,False,Washington,Stanford,21.0,3.0,2,2,52,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,85.0,85,-0.4294045865535736,False,Washington,Stanford,21.0,3.0,2,3,5,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,29.0,29,0.26831674575805664,False,Washington,Stanford,14.0,3.0,2,9,52,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,34.0,34,0.08034420013427734,False,Washington,Stanford,14.0,3.0,2,10,25,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,46.0,46,2.1177725791931152,False,Washington,Stanford,7.0,0.0,1,2,54,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,76.0,76,1.8916807174682617,False,Washington,Stanford,7.0,0.0,1,5,25,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,76.0,76,-0.9984989166259766,False,Washington,Stanford,7.0,0.0,1,5,52,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,21.0,21,0.2985668182373047,False,Washington,Stanford,0.0,0.0,1,12,15,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,47.0,47,3.281538248062134,False,Washington,Stanford,0.0,0.0,1,12,34,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,47.0,47,-0.9912631511688232,False,Washington,Stanford,0.0,0.0,1,12,56,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Reception,,,61.0,61,2.2253804206848145,False,Washington,Stanford,0.0,0.0,1,13,50,14,Washington,2020,Stanford,Davis Mills,2021
+401249424.0,Pass Incompletion,,,65.0,65,-0.6512223482131958,False,Washington,Stanford,0.0,0.0,1,14,50,14,Washington,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,82.0,82,1.7146737575531006,False,Oregon State,Stanford,24.0,24.0,4,7,12,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,62.0,62,0.771977424621582,False,Oregon State,Stanford,24.0,24.0,4,7,12,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,55.0,55,2.167842388153076,False,Oregon State,Stanford,24.0,24.0,4,7,12,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,23.0,23,0.789893388748169,False,Oregon State,Stanford,24.0,24.0,4,7,12,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,21.0,21,-1.1773078441619873,False,Oregon State,Stanford,24.0,24.0,4,7,12,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,31.0,31,1.6409966945648193,False,Oregon State,Stanford,16.0,21.0,4,15,0,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,13.0,13,0.49453210830688477,False,Oregon State,Stanford,16.0,21.0,4,15,0,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,84.0,84,0.35111677646636963,False,Oregon State,Stanford,16.0,21.0,3,4,13,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,75.0,75,1.307850956916809,False,Oregon State,Stanford,16.0,21.0,3,4,13,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Fumble Recovery (Own),,,65.0,65,-1.7281147241592407,False,Oregon State,Stanford,16.0,21.0,3,4,13,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,62.0,62,-0.8771621584892273,False,Oregon State,Stanford,16.0,21.0,3,8,32,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Fumble Recovery (Own),,,62.0,62,-2.6665287017822266,False,Oregon State,Stanford,16.0,21.0,3,8,32,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,58.0,58,-0.21992449462413788,False,Oregon State,Stanford,9.0,14.0,3,14,53,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,34.0,34,0.4971224069595337,False,Oregon State,Stanford,6.0,14.0,2,1,30,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,29.0,29,-1.0620335340499878,False,Oregon State,Stanford,6.0,14.0,2,1,30,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,86.0,86,-0.3284238576889038,False,Oregon State,Stanford,6.0,14.0,2,2,30,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,81.0,81,2.004974603652954,False,Oregon State,Stanford,6.0,14.0,2,2,30,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,41.0,41,0.840747594833374,False,Oregon State,Stanford,6.0,14.0,2,2,30,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Sack,,,30.0,30,-1.2261080741882324,False,Oregon State,Stanford,6.0,14.0,2,2,30,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,69.0,69,1.3750672340393066,False,Oregon State,Stanford,6.0,14.0,2,7,4,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,65.0,65,-0.6193036437034607,False,Oregon State,Stanford,6.0,14.0,2,12,34,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,62.0,62,1.9701881408691406,False,Oregon State,Stanford,6.0,14.0,2,12,34,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,52.0,52,-0.5378216505050659,False,Oregon State,Stanford,6.0,14.0,2,12,34,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,52.0,52,-0.8587559461593628,False,Oregon State,Stanford,6.0,14.0,2,12,34,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,52.0,52,-1.5263378620147705,False,Oregon State,Stanford,6.0,14.0,2,12,34,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,43.0,43,-1.1125669479370117,False,Oregon State,Stanford,6.0,7.0,1,3,58,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Passing Touchdown,,,12.0,12,0.9962220191955566,True,Oregon State,Stanford,6.0,7.0,1,5,45,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Incompletion,,,44.0,44,-0.62474524974823,False,Oregon State,Stanford,0.0,7.0,1,7,46,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,37.0,37,1.8994677066802979,False,Oregon State,Stanford,0.0,7.0,1,7,46,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,24.0,24,0.9911282062530518,False,Oregon State,Stanford,0.0,7.0,1,7,46,15,Oregon State,2020,Stanford,Davis Mills,2021
+401249432.0,Pass Reception,,,54.0,54,0.7180026769638062,False,Oregon State,Stanford,0.0,7.0,1,9,41,15,Oregon State,2020,Stanford,Davis Mills,2021
+401269376.0,Passing Touchdown,,,14.0,14,4.596088409423828,True,UCLA,Stanford,48.0,41.0,5,0,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Passing Touchdown,,,14.0,14,5.252771854400635,True,UCLA,Stanford,41.0,41.0,5,0,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,13.0,13,0.34885525703430176,False,UCLA,Stanford,34.0,41.0,5,0,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,25.0,25,0.21131479740142822,False,UCLA,Stanford,34.0,41.0,5,0,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Passing Touchdown,,,21.0,21,3.651129722595215,True,UCLA,Stanford,34.0,34.0,4,0,18,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,72.0,72,-1.3970541954040527,False,UCLA,Stanford,27.0,34.0,4,1,38,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,72.0,72,0.2881411910057068,False,UCLA,Stanford,27.0,34.0,4,1,38,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,63.0,63,-1.063951849937439,False,UCLA,Stanford,27.0,34.0,4,1,38,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,62.0,62,0.505108118057251,False,UCLA,Stanford,27.0,34.0,4,1,38,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,49.0,49,1.556314468383789,False,UCLA,Stanford,27.0,34.0,4,1,38,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Passing Touchdown,,,11.0,11,3.510662794113159,True,UCLA,Stanford,27.0,34.0,4,2,34,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,17.0,17,0.6829662322998047,False,UCLA,Stanford,20.0,34.0,4,3,13,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,11.0,11,-0.7537848949432373,False,UCLA,Stanford,20.0,34.0,4,3,13,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Interception Return Touchdown,,,67.0,67,-6.993287086486816,True,UCLA,Stanford,20.0,34.0,4,5,39,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,75.0,75,0.2255992889404297,False,UCLA,Stanford,20.0,34.0,4,5,39,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,69.0,69,0.9001802206039429,False,UCLA,Stanford,20.0,34.0,4,5,39,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,61.0,61,2.28043794631958,False,UCLA,Stanford,20.0,34.0,4,5,39,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,37.0,37,0.8130500316619873,False,UCLA,Stanford,20.0,34.0,4,5,39,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,26.0,26,0.15757441520690918,False,UCLA,Stanford,20.0,34.0,4,5,39,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,75.0,75,-0.11359293013811111,False,UCLA,Stanford,20.0,27.0,4,6,28,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,72.0,72,1.3865444660186768,False,UCLA,Stanford,20.0,24.0,4,14,54,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,71.0,71,-0.3674987554550171,False,UCLA,Stanford,20.0,24.0,4,14,54,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,87.0,87,2.7180798053741455,False,UCLA,Stanford,20.0,17.0,3,3,4,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Interception Return,,,40.0,40,-2.5382425785064697,False,UCLA,Stanford,20.0,17.0,3,3,4,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,75.0,75,0.1217808723449707,False,UCLA,Stanford,20.0,10.0,3,9,10,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Interception Return,,,57.0,57,-4.001430988311768,False,UCLA,Stanford,20.0,10.0,3,9,10,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,75.0,75,-0.5357484817504883,False,UCLA,Stanford,20.0,3.0,3,15,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,70.0,70,1.7324061393737793,False,UCLA,Stanford,20.0,3.0,3,15,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Sack,,,58.0,58,-1.2443301677703857,False,UCLA,Stanford,20.0,3.0,3,15,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Sack,,,65.0,65,-2.1576430797576904,False,UCLA,Stanford,20.0,3.0,3,15,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,80.0,80,-0.307258665561676,False,UCLA,Stanford,13.0,3.0,2,2,1,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,77.0,77,0.9695810675621033,False,UCLA,Stanford,13.0,3.0,2,2,1,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,61.0,61,1.2480709552764893,False,UCLA,Stanford,13.0,3.0,2,2,1,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,22.0,22,2.420471429824829,False,UCLA,Stanford,13.0,3.0,2,2,1,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,33.0,33,-1.471422791481018,False,UCLA,Stanford,13.0,3.0,2,5,22,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,85.0,85,1.2152299880981445,False,UCLA,Stanford,13.0,3.0,2,10,25,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,61.0,61,-0.33626699447631836,False,UCLA,Stanford,13.0,3.0,2,10,25,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,58.0,58,1.940238118171692,False,UCLA,Stanford,13.0,3.0,2,10,25,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Incompletion,,,33.0,33,-0.8047928810119629,False,UCLA,Stanford,13.0,3.0,2,10,25,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,44.0,44,2.880999803543091,False,UCLA,Stanford,7.0,3.0,2,15,0,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,75.0,75,-0.11455512046813965,False,UCLA,Stanford,7.0,3.0,1,1,21,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,71.0,71,0.2942162752151489,False,UCLA,Stanford,7.0,3.0,1,1,21,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,43.0,43,1.44394850730896,False,UCLA,Stanford,0.0,0.0,1,10,56,16,UCLA,2020,Stanford,Davis Mills,2021
+401269376.0,Pass Reception,,,61.0,61,0.536452054977417,False,UCLA,Stanford,0.0,0.0,1,10,56,16,UCLA,2020,Stanford,Davis Mills,2021

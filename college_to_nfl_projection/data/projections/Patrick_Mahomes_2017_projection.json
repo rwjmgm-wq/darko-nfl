@@ -1,0 +1,149 @@
+{
+  "player_name": "Patrick Mahomes",
+  "draft_year": 2017,
+  "college": "Texas Tech",
+  "probabilities": {
+    "long_career": 0.249,
+    "elite_peak": 0.379,
+    "sustained_starter": 0.411,
+    "bust": 0.574
+  },
+  "rookie_leaf_estimate": -0.17,
+  "trajectories": {
+    "pessimistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.25,
+        "conf_lower": -0.45,
+        "conf_upper": -0.05
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.25,
+        "conf_lower": -0.4,
+        "conf_upper": -0.1
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.25,
+        "conf_lower": -0.4,
+        "conf_upper": -0.1
+      }
+    ],
+    "realistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.17,
+        "conf_lower": -0.37,
+        "conf_upper": 0.03
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.206,
+        "conf_lower": -0.356,
+        "conf_upper": -0.056
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.156,
+        "conf_lower": -0.306,
+        "conf_upper": -0.006
+      },
+      {
+        "year": 4,
+        "leaf_estimate": -0.128,
+        "conf_lower": -0.248,
+        "conf_upper": -0.008
+      }
+    ],
+    "optimistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.02,
+        "conf_lower": -0.22,
+        "conf_upper": 0.18
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.011,
+        "conf_lower": -0.161,
+        "conf_upper": 0.139
+      },
+      {
+        "year": 3,
+        "leaf_estimate": 0.039,
+        "conf_lower": -0.111,
+        "conf_upper": 0.189
+      },
+      {
+        "year": 4,
+        "leaf_estimate": 0.199,
+        "conf_lower": 0.079,
+        "conf_upper": 0.319
+      },
+      {
+        "year": 5,
+        "leaf_estimate": 0.222,
+        "conf_lower": 0.102,
+        "conf_upper": 0.342
+      },
+      {
+        "year": 6,
+        "leaf_estimate": 0.199,
+        "conf_lower": 0.079,
+        "conf_upper": 0.319
+      },
+      {
+        "year": 7,
+        "leaf_estimate": 0.002,
+        "conf_lower": -0.148,
+        "conf_upper": 0.152
+      },
+      {
+        "year": 8,
+        "leaf_estimate": -0.048,
+        "conf_lower": -0.198,
+        "conf_upper": 0.102
+      }
+    ]
+  },
+  "historical_comps": [
+    {
+      "name": "Patrick Mahomes",
+      "draft_year": 2017,
+      "similarity": 100.0,
+      "outcome": "Backup career",
+      "rookie_leaf": null
+    },
+    {
+      "name": "Ryan Finley",
+      "draft_year": 2019,
+      "similarity": 15.8,
+      "outcome": "Backup career",
+      "rookie_leaf": null
+    },
+    {
+      "name": "Nick Foles",
+      "draft_year": 2012,
+      "similarity": 15.8,
+      "outcome": "Backup career",
+      "rookie_leaf": null
+    },
+    {
+      "name": "Sean Mannion",
+      "draft_year": 2015,
+      "similarity": 13.8,
+      "outcome": "Backup career",
+      "rookie_leaf": null
+    },
+    {
+      "name": "Daniel Jones",
+      "draft_year": 2019,
+      "similarity": 6.0,
+      "outcome": "Backup career",
+      "rookie_leaf": null
+    }
+  ],
+  "confidence_level": "MODERATE",
+  "model_notes": "Based on career average college stats. Long-term outcomes more reliable than year-by-year predictions."
+}

@@ -1,0 +1,10 @@
+season,player_name,college,draft_year,down,distance,yards_gained,play_type,epa,scoring,yards_to_goal
+2021,Jalen Milroe,Alabama,2025,,,-1,pass,-0.8327295780181885,False,21.0
+2021,Jalen Milroe,Alabama,2025,,,0,pass,-0.9000918865203857,False,34.0
+2021,Jalen Milroe,Alabama,2025,,,24,pass,5.700148582458496,True,24.0
+2021,Jalen Milroe,Alabama,2025,,,0,pass,-1.57996666431427,False,11.0
+2021,Jalen Milroe,Alabama,2025,,,0,pass,-0.6696197986602783,False,11.0
+2021,Jalen Milroe,Alabama,2025,,,-1,pass,0.9273276329040527,False,10.0
+2021,Jalen Milroe,Alabama,2025,,,8,pass,0.7452585697174072,False,18.0
+2021,Jalen Milroe,Alabama,2025,,,-8,pass,-2.044151782989502,False,44.0
+2021,Jalen Milroe,Alabama,2025,,,0,pass,-0.3691396713256836,False,66.0

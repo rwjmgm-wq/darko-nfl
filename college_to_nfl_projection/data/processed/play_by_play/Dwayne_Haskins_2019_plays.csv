@@ -1,0 +1,552 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401012682.0,Pass Reception,,,57.0,43.0,0.4146806001663208,False,Ohio State,Oregon State,70.0,31.0,4,6,20,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,18.0,82.0,0.7760710716247559,False,Ohio State,Oregon State,63.0,31.0,4,10,0,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,35.0,65.0,0.29071044921875,False,Ohio State,Oregon State,56.0,31.0,3,2,20,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,39.0,61.0,-0.3566136360168457,False,Ohio State,Oregon State,56.0,31.0,3,2,55,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,51.0,49.0,1.206669807434082,False,Ohio State,Oregon State,56.0,31.0,3,3,25,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Fumble Recovery (Opponent),,,19.0,81.0,-6.236652851104736,False,Ohio State,Oregon State,56.0,28.0,3,7,16,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,69.0,31.0,0.7098069190979004,False,Ohio State,Oregon State,56.0,28.0,3,10,40,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Passing Touchdown,,,8.0,92.0,1.0987663269042969,True,Ohio State,Oregon State,56.0,21.0,3,11,55,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,29.0,71.0,1.243483066558838,False,Ohio State,Oregon State,49.0,21.0,3,12,7,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,39.0,61.0,1.124765396118164,False,Ohio State,Oregon State,49.0,21.0,3,13,0,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,39.0,61.0,-0.7180867195129395,False,Ohio State,Oregon State,49.0,21.0,3,13,6,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,66.0,34.0,-0.6256763935089111,False,Ohio State,Oregon State,49.0,21.0,3,13,56,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Passing Touchdown,,,75.0,25.0,3.4885497093200684,True,Ohio State,Oregon State,49.0,14.0,3,14,45,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,73.0,27.0,-0.6754103899002075,False,Ohio State,Oregon State,35.0,7.0,2,6,0,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,68.0,32.0,-0.6382104754447937,False,Ohio State,Oregon State,35.0,7.0,2,6,10,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Passing Touchdown,,,3.0,97.0,2.0679826736450195,True,Ohio State,Oregon State,35.0,7.0,2,7,58,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,3.0,97.0,-0.5939302444458008,False,Ohio State,Oregon State,28.0,7.0,2,8,3,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,28.0,72.0,0.8842978477478027,False,Ohio State,Oregon State,28.0,7.0,2,8,35,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,33.0,67.0,-0.6821296215057373,False,Ohio State,Oregon State,28.0,7.0,2,8,54,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,57.0,43.0,2.2366604804992676,False,Ohio State,Oregon State,28.0,7.0,2,9,50,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,49.0,51.0,-1.1015076637268066,False,Ohio State,Oregon State,21.0,7.0,2,12,34,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,68.0,32.0,1.3020055294036865,False,Ohio State,Oregon State,21.0,7.0,2,13,15,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Passing Touchdown,,,6.0,94.0,1.0415186882019043,True,Ohio State,Oregon State,21.0,7.0,1,3,41,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,33.0,67.0,1.5640506744384766,False,Ohio State,Oregon State,14.0,7.0,1,4,3,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Incompletion,,,33.0,67.0,-0.8613715171813965,False,Ohio State,Oregon State,14.0,7.0,1,4,14,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,48.0,52.0,-0.0031692981719970703,False,Ohio State,Oregon State,14.0,7.0,1,5,10,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,75.0,25.0,1.49857759475708,False,Ohio State,Oregon State,14.0,7.0,1,5,30,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,33.0,67.0,0.5303430557250977,False,Ohio State,Oregon State,7.0,7.0,1,8,37,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,49.0,51.0,1.0174206495285034,False,Ohio State,Oregon State,7.0,7.0,1,9,10,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,62.0,38.0,0.47025394439697266,False,Ohio State,Oregon State,7.0,7.0,1,10,13,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,65.0,35.0,-0.43282389640808105,False,Ohio State,Oregon State,7.0,7.0,1,10,25,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Passing Touchdown,,,2.0,98.0,0.8613500595092773,True,Ohio State,Oregon State,7.0,0.0,1,11,17,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012682.0,Pass Reception,,,33.0,67.0,1.7156777381896973,False,Ohio State,Oregon State,0.0,0.0,1,11,50,1,Oregon State,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,54.0,46.0,-0.46598875522613525,False,Ohio State,Rutgers,45.0,3.0,4,9,0,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,71.0,29.0,-1.1819021701812744,False,Ohio State,Rutgers,45.0,3.0,4,12,50,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Sack,,,70.0,30.0,-1.0608948469161987,False,Ohio State,Rutgers,45.0,3.0,4,13,19,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,78.0,22.0,0.2862563133239746,False,Ohio State,Rutgers,45.0,3.0,4,14,0,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,7.0,93.0,-0.44053173065185547,False,Ohio State,Rutgers,42.0,3.0,3,3,42,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,40.0,60.0,1.2404870986938477,False,Ohio State,Rutgers,42.0,3.0,3,5,30,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,21.0,79.0,0.39040327072143555,False,Ohio State,Rutgers,42.0,3.0,3,5,30,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,50.0,50.0,1.043384075164795,False,Ohio State,Rutgers,42.0,3.0,3,6,11,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,62.0,38.0,0.3004622459411621,False,Ohio State,Rutgers,42.0,3.0,3,7,30,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Passing Touchdown,,,44.0,56.0,2.8070855140686035,True,Ohio State,Rutgers,42.0,0.0,3,12,49,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,66.0,41.0,0.5355334281921387,False,Ohio State,Rutgers,35.0,0.0,3,13,58,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,84.0,16.0,-3.5236470699310303,False,Ohio State,Rutgers,35.0,0.0,3,14,48,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,78.0,22.0,-0.4854705333709717,False,Ohio State,Rutgers,35.0,0.0,2,2,33,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,78.0,22.0,-0.2511914372444153,False,Ohio State,Rutgers,35.0,0.0,2,3,35,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,4.0,96.0,-0.9595131874084473,False,Ohio State,Rutgers,28.0,0.0,2,5,30,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,9.0,91.0,0.06187725067138672,False,Ohio State,Rutgers,28.0,0.0,2,6,4,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,16.0,84.0,1.1050524711608887,False,Ohio State,Rutgers,28.0,0.0,2,6,14,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Incompletion,,,23.0,77.0,-0.5354957580566406,False,Ohio State,Rutgers,28.0,0.0,2,6,40,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,39.0,61.0,0.7900359630584717,False,Ohio State,Rutgers,28.0,0.0,2,7,5,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,50.0,50.0,0.7201182842254639,False,Ohio State,Rutgers,28.0,0.0,2,7,25,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Passing Touchdown,,,51.0,49.0,5.210205078125,True,Ohio State,Rutgers,28.0,0.0,2,11,5,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,53.0,47.0,-0.5395119190216064,False,Ohio State,Rutgers,21.0,0.0,2,11,46,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Passing Touchdown,,,9.0,91.0,1.0883259773254395,True,Ohio State,Rutgers,21.0,0.0,2,13,28,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,21.0,79.0,-0.5488462448120117,False,Ohio State,Rutgers,14.0,0.0,2,14,6,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,30.0,70.0,0.04546499252319336,False,Ohio State,Rutgers,14.0,0.0,1,0,0,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,58.0,42.0,0.34506821632385254,False,Ohio State,Rutgers,14.0,0.0,1,2,16,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,71.0,29.0,0.4515857696533203,False,Ohio State,Rutgers,14.0,0.0,1,2,49,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Passing Touchdown,,,16.0,84.0,2.85305118560791,True,Ohio State,Rutgers,14.0,0.0,1,3,22,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,29.0,71.0,1.311488151550293,False,Ohio State,Rutgers,7.0,0.0,1,5,10,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Incompletion,,,29.0,71.0,-0.6888866424560547,False,Ohio State,Rutgers,7.0,0.0,1,5,17,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Sack,,,49.0,51.0,-2.4214704036712646,False,Ohio State,Rutgers,7.0,0.0,1,9,30,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Incompletion,,,49.0,51.0,-0.9454202651977539,False,Ohio State,Rutgers,7.0,0.0,1,9,36,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Passing Touchdown,,,38.0,62.0,2.8781046867370605,True,Ohio State,Rutgers,7.0,0.0,1,10,57,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,46.0,54.0,1.1547973155975342,False,Ohio State,Rutgers,0.0,0.0,1,11,10,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012821.0,Pass Reception,,,62.0,38.0,0.3161497116088867,False,Ohio State,Rutgers,0.0,0.0,1,12,20,2,Rutgers,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,25.0,75.0,1.1442844867706299,False,Ohio State,Indiana,49.0,26.0,4,1,20,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,33.0,67.0,1.2805461883544922,False,Ohio State,Indiana,49.0,26.0,4,2,27,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Passing Touchdown,,,30.0,70.0,3.0678820610046387,True,Ohio State,Indiana,49.0,26.0,4,6,51,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,43.0,57.0,1.8709867000579834,False,Ohio State,Indiana,42.0,26.0,4,7,21,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,51.0,49.0,0.06641793251037598,False,Ohio State,Indiana,42.0,26.0,4,8,10,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,62.0,38.0,2.125638961791992,False,Ohio State,Indiana,42.0,26.0,4,8,25,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,78.0,22.0,-0.5863208174705505,False,Ohio State,Indiana,42.0,26.0,4,10,15,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Passing Touchdown,,,17.0,83.0,2.9586172103881836,True,Ohio State,Indiana,42.0,26.0,4,12,21,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Incompletion,,,17.0,83.0,-0.9250888824462891,False,Ohio State,Indiana,35.0,26.0,4,12,30,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,28.0,72.0,1.1382391452789307,False,Ohio State,Indiana,35.0,26.0,4,12,40,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,98.0,2.0,-0.7897056341171265,False,Ohio State,Indiana,35.0,26.0,3,1,0,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Interception Return,,,68.0,32.0,-2.4002432823181152,False,Ohio State,Indiana,35.0,26.0,3,2,58,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,78.0,22.0,-0.852637529373169,False,Ohio State,Indiana,35.0,26.0,3,3,19,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,70.0,30.0,0.5462932586669922,False,Ohio State,Indiana,35.0,26.0,3,4,37,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,51.0,49.0,0.10134172439575195,False,Ohio State,Indiana,35.0,20.0,3,8,20,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Sack,,,58.0,42.0,-2.0575668811798096,False,Ohio State,Indiana,35.0,20.0,3,12,0,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Incompletion,,,58.0,42.0,-0.9373500347137451,False,Ohio State,Indiana,35.0,20.0,3,12,30,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Passing Touchdown,,,71.0,29.0,5.578719139099121,True,Ohio State,Indiana,35.0,20.0,3,14,9,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Incompletion,,,75.0,25.0,-1.5828735828399658,False,Ohio State,Indiana,28.0,20.0,3,14,55,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Passing Touchdown,,,7.0,93.0,1.6255054473876953,True,Ohio State,Indiana,28.0,17.0,2,2,16,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,20.0,80.0,1.4958860874176025,False,Ohio State,Indiana,21.0,17.0,2,2,36,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,28.0,72.0,-0.2883279323577881,False,Ohio State,Indiana,21.0,17.0,2,4,0,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Passing Touchdown,,,18.0,82.0,2.75732421875,True,Ohio State,Indiana,21.0,17.0,2,4,39,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,46.0,54.0,1.0868360996246338,False,Ohio State,Indiana,14.0,17.0,2,5,55,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,69.0,31.0,1.015576720237732,False,Ohio State,Indiana,14.0,17.0,2,6,45,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,75.0,25.0,0.31362587213516235,False,Ohio State,Indiana,14.0,17.0,2,7,0,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Interception Return,,,40.0,60.0,-4.078731536865234,False,Ohio State,Indiana,14.0,10.0,2,8,37,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,53.0,47.0,0.4871668815612793,False,Ohio State,Indiana,14.0,10.0,2,9,55,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,75.0,25.0,1.7501349449157715,False,Ohio State,Indiana,14.0,10.0,2,10,27,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Passing Touchdown,,,39.0,61.0,2.826014518737793,True,Ohio State,Indiana,14.0,3.0,2,12,21,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,51.0,49.0,0.8972632884979248,False,Ohio State,Indiana,7.0,3.0,2,12,50,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,64.0,36.0,-0.3685380220413208,False,Ohio State,Indiana,7.0,3.0,2,14,5,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Incompletion,,,64.0,36.0,-0.9466596245765686,False,Ohio State,Indiana,7.0,3.0,2,14,24,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,78.0,22.0,0.6203500032424927,False,Ohio State,Indiana,7.0,3.0,1,0,38,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,14.0,86.0,2.2873520851135254,False,Ohio State,Indiana,0.0,3.0,1,3,5,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,21.0,79.0,0.40590524673461914,False,Ohio State,Indiana,0.0,3.0,1,3,29,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,32.0,68.0,1.0431394577026367,False,Ohio State,Indiana,0.0,3.0,1,4,30,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,59.0,41.0,1.5716205835342407,False,Ohio State,Indiana,0.0,3.0,1,5,10,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Incompletion,,,40.0,60.0,-0.6232500076293945,False,Ohio State,Indiana,0.0,3.0,1,9,28,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,52.0,48.0,0.6796705722808838,False,Ohio State,Indiana,0.0,3.0,1,10,12,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012855.0,Pass Reception,,,76.0,24.0,1.4327524900436401,False,Ohio State,Indiana,0.0,3.0,1,11,0,6,Indiana,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,16.0,16.0,-0.05778646469116211,False,Maryland,Ohio State,45.0,45.0,5,0,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,16.0,16.0,0.525397777557373,False,Maryland,Ohio State,45.0,45.0,5,0,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Passing Touchdown,,,3.0,3.0,1.1753640174865723,True,Maryland,Ohio State,45.0,45.0,4,0,40,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,6.0,6.0,-0.5527863502502441,False,Maryland,Ohio State,38.0,45.0,4,0,50,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,37.0,37.0,1.9677478075027466,False,Maryland,Ohio State,38.0,45.0,4,1,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,37.0,37.0,-0.5635520219802856,False,Maryland,Ohio State,38.0,45.0,4,1,7,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,39.0,39.0,-0.15148234367370605,False,Maryland,Ohio State,38.0,45.0,4,1,14,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,50.0,50.0,0.8640317916870117,False,Maryland,Ohio State,38.0,45.0,4,1,30,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,6.0,6.0,0.5485324859619141,False,Maryland,Ohio State,31.0,38.0,4,4,31,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,17.0,17.0,0.8838005065917969,False,Maryland,Ohio State,31.0,38.0,4,5,25,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,28.0,28.0,1.9717471599578857,False,Maryland,Ohio State,31.0,38.0,4,5,46,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,28.0,28.0,-0.4554100036621094,False,Maryland,Ohio State,31.0,38.0,4,6,33,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,35.0,35.0,-0.8479900360107422,False,Maryland,Ohio State,31.0,38.0,4,7,6,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,75.0,75.0,2.6213090419769287,False,Maryland,Ohio State,31.0,38.0,4,7,40,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Passing Touchdown,,,6.0,6.0,2.8976306915283203,True,Maryland,Ohio State,31.0,31.0,4,12,25,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,24.0,24.0,2.2973036766052246,False,Maryland,Ohio State,24.0,31.0,4,13,50,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,38.0,38.0,-2.0010159015655518,False,Maryland,Ohio State,24.0,31.0,3,2,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,44.0,44.0,0.29213953018188477,False,Maryland,Ohio State,24.0,31.0,3,2,20,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,60.0,60.0,1.1736449003219604,False,Maryland,Ohio State,24.0,31.0,3,2,27,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,80.0,80.0,2.10568904876709,False,Maryland,Ohio State,24.0,31.0,3,2,50,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,92.0,92.0,0.7650994062423706,False,Maryland,Ohio State,24.0,31.0,3,4,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,81.0,81.0,1.3957545757293701,False,Maryland,Ohio State,24.0,31.0,3,7,45,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,37.0,37.0,1.5499043464660645,False,Maryland,Ohio State,17.0,31.0,3,12,30,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,57.0,57.0,-0.623583197593689,False,Maryland,Ohio State,17.0,31.0,3,13,10,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Interception Return Touchdown,,,70.0,70.0,-6.141969203948975,True,Maryland,Ohio State,17.0,31.0,3,14,15,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,66.0,28.0,-1.1914234161376953,False,Maryland,Ohio State,17.0,24.0,2,0,50,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,79.0,79.0,0.2855241596698761,False,Maryland,Ohio State,17.0,24.0,2,1,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,86.0,86.0,0.21777822077274323,False,Maryland,Ohio State,17.0,24.0,2,1,15,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,60.0,60.0,3.8838415145874023,False,Maryland,Ohio State,10.0,24.0,2,4,45,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,61.0,61.0,-0.503145694732666,False,Maryland,Ohio State,10.0,24.0,2,5,17,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,75.0,75.0,0.18050022423267365,False,Maryland,Ohio State,10.0,24.0,2,6,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Passing Touchdown,,,68.0,68.0,5.65625,True,Maryland,Ohio State,10.0,17.0,2,10,21,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Incompletion,,,63.0,63.0,-1.3620496988296509,False,Maryland,Ohio State,3.0,17.0,2,15,0,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,81.0,81.0,0.300436407327652,False,Maryland,Ohio State,3.0,17.0,1,1,39,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,44.0,44.0,0.6998035907745361,False,Maryland,Ohio State,3.0,14.0,1,7,5,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,62.0,62.0,0.5008400678634644,False,Maryland,Ohio State,3.0,14.0,1,8,50,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Pass Reception,,,25.0,25.0,-0.4173731803894043,False,Maryland,Ohio State,0.0,7.0,1,9,45,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012878.0,Sack,,,24.0,24.0,-1.2363855838775635,False,Maryland,Ohio State,0.0,7.0,1,11,15,12,Maryland,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,28.0,28.0,1.4131598472595215,False,Michigan State,Ohio State,19.0,6.0,4,2,57,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,38.0,38.0,1.4992170333862305,False,Michigan State,Ohio State,19.0,6.0,4,4,16,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,45.0,45.0,0.6993575096130371,False,Michigan State,Ohio State,19.0,6.0,4,10,34,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,16.0,16.0,-0.7865891456604004,False,Michigan State,Ohio State,16.0,6.0,4,12,59,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,46.0,46.0,-1.9269328117370605,False,Michigan State,Ohio State,9.0,6.0,4,14,22,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,44.0,44.0,0.6677500009536743,False,Michigan State,Ohio State,7.0,6.0,3,1,48,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,44.0,44.0,-0.9645854234695435,False,Michigan State,Ohio State,7.0,6.0,3,2,0,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,65.0,65.0,1.1445260047912598,False,Michigan State,Ohio State,7.0,6.0,3,2,21,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,56.0,56.0,-1.9202519655227661,False,Michigan State,Ohio State,7.0,6.0,3,4,14,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,58.0,58.0,-0.4752471446990967,False,Michigan State,Ohio State,7.0,6.0,3,4,34,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,31.0,31.0,-1.6109051704406738,False,Michigan State,Ohio State,7.0,3.0,3,8,56,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,60.0,60.0,1.8350962400436401,False,Michigan State,Ohio State,7.0,3.0,3,10,42,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,46.0,46.0,-0.3612722158432007,False,Michigan State,Ohio State,7.0,3.0,3,12,48,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,69.0,69.0,0.6034412384033203,False,Michigan State,Ohio State,7.0,3.0,3,14,27,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Passing Touchdown,,,1.0,1.0,1.5428481101989746,True,Michigan State,Ohio State,7.0,0.0,2,1,29,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,16.0,16.0,0.9489188194274902,False,Michigan State,Ohio State,0.0,0.0,2,2,56,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,21.0,21.0,0.2779383659362793,False,Michigan State,Ohio State,0.0,0.0,2,3,20,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,50.0,50.0,2.1282148361206055,False,Michigan State,Ohio State,0.0,0.0,2,5,13,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,55.0,55.0,-0.7842996120452881,False,Michigan State,Ohio State,0.0,0.0,2,5,20,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,32.0,32.0,-0.5054061412811279,False,Michigan State,Ohio State,0.0,0.0,2,7,20,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,17.0,17.0,-0.7942843437194824,False,Michigan State,Ohio State,0.0,0.0,2,8,2,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,36.0,36.0,0.8867201805114746,False,Michigan State,Ohio State,0.0,0.0,2,8,48,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,47.0,47.0,0.574561357498169,False,Michigan State,Ohio State,0.0,0.0,2,8,58,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,72.0,72.0,2.893263339996338,False,Michigan State,Ohio State,0.0,0.0,2,9,20,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Sack,,,68.0,68.0,-1.5909368991851807,False,Michigan State,Ohio State,0.0,0.0,2,9,44,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,81.0,81.0,0.36778631806373596,False,Michigan State,Ohio State,0.0,0.0,2,10,51,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,81.0,81.0,-0.6843680143356323,False,Michigan State,Ohio State,0.0,0.0,2,10,59,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Sack,,,74.0,74.0,-1.8018089532852173,False,Michigan State,Ohio State,0.0,0.0,1,2,24,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,74.0,74.0,-1.0249661207199097,False,Michigan State,Ohio State,0.0,0.0,1,2,31,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,74.0,74.0,-0.8536100387573242,False,Michigan State,Ohio State,0.0,0.0,1,2,35,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,84.0,84.0,1.915804386138916,False,Michigan State,Ohio State,0.0,0.0,1,2,47,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,92.0,92.0,0.6786366105079651,False,Michigan State,Ohio State,0.0,0.0,1,3,6,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,77.0,77.0,-1.3315484523773193,False,Michigan State,Ohio State,0.0,0.0,1,6,7,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Incompletion,,,78.0,78.0,-0.6607877612113953,False,Michigan State,Ohio State,0.0,0.0,1,6,51,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,89.0,89.0,0.9618551135063171,False,Michigan State,Ohio State,0.0,0.0,1,7,32,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,79.0,79.0,0.14419710636138916,False,Michigan State,Ohio State,0.0,0.0,1,10,15,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012886.0,Pass Reception,,,77.0,77.0,-1.030554175376892,False,Michigan State,Ohio State,0.0,0.0,1,10,55,11,Michigan State,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Passing Touchdown,,,16.0,84.0,3.841458559036255,True,Ohio State,Michigan,62.0,32.0,4,5,26,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Passing Touchdown,,,1.0,99.0,0.5687689781188965,True,Ohio State,Michigan,55.0,32.0,4,6,59,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,75.0,25.0,0.33646059036254883,False,Ohio State,Michigan,48.0,32.0,4,9,27,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Passing Touchdown,,,78.0,22.0,4.432886600494385,True,Ohio State,Michigan,48.0,25.0,4,13,55,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,22.0,78.0,1.1386480331420898,False,Ohio State,Michigan,34.0,19.0,3,3,38,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,36.0,64.0,2.0537309646606445,False,Ohio State,Michigan,24.0,19.0,3,10,23,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,59.0,41.0,-1.1480040550231934,False,Ohio State,Michigan,24.0,19.0,3,13,19,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,76.0,24.0,3.1024422645568848,False,Ohio State,Michigan,24.0,19.0,3,14,8,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,75.0,25.0,-1.1587955951690674,False,Ohio State,Michigan,24.0,19.0,3,14,55,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,1.0,99.0,-0.7284200191497803,False,Ohio State,Michigan,21.0,19.0,2,0,3,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,3.0,97.0,-0.22079133987426758,False,Ohio State,Michigan,21.0,19.0,2,0,12,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,36.0,64.0,3.411184072494507,False,Ohio State,Michigan,21.0,19.0,2,0,15,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Passing Touchdown,,,31.0,69.0,3.7027089595794678,True,Ohio State,Michigan,21.0,6.0,2,3,18,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,38.0,62.0,-0.11232280731201172,False,Ohio State,Michigan,14.0,6.0,2,4,7,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,75.0,25.0,2.6540298461914062,False,Ohio State,Michigan,14.0,6.0,2,5,33,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Passing Touchdown,,,24.0,76.0,3.025026559829712,True,Ohio State,Michigan,14.0,6.0,2,9,8,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,55.0,45.0,2.1363649368286133,False,Ohio State,Michigan,7.0,6.0,2,10,5,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,55.0,45.0,-0.5219794511795044,False,Ohio State,Michigan,7.0,6.0,2,10,13,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,67.0,33.0,1.6445472240447998,False,Ohio State,Michigan,7.0,6.0,2,10,45,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,72.0,28.0,1.3458278179168701,False,Ohio State,Michigan,7.0,6.0,2,11,28,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,80.0,20.0,-0.6678847074508667,False,Ohio State,Michigan,7.0,6.0,2,12,2,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,81.0,19.0,-1.0052789449691772,False,Ohio State,Michigan,7.0,6.0,2,14,15,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,75.0,25.0,-0.5642666220664978,False,Ohio State,Michigan,7.0,6.0,2,14,42,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,81.0,19.0,-1.0146106481552124,False,Ohio State,Michigan,7.0,3.0,1,5,40,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,81.0,19.0,-0.9596881866455078,False,Ohio State,Michigan,7.0,3.0,1,5,47,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Passing Touchdown,,,24.0,76.0,3.087787628173828,True,Ohio State,Michigan,7.0,0.0,1,11,29,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Incompletion,,,24.0,76.0,-1.1165614128112793,False,Ohio State,Michigan,0.0,0.0,1,11,36,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,35.0,65.0,1.0672600269317627,False,Ohio State,Michigan,0.0,0.0,1,11,59,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401012895.0,Pass Reception,,,46.0,54.0,0.9476485252380371,False,Ohio State,Michigan,0.0,0.0,1,12,38,13,Michigan,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,54.0,54.0,-0.31963014602661133,False,TCU,Ohio State,40.0,28.0,4,4,8,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,81.0,81.0,1.113268256187439,False,TCU,Ohio State,40.0,28.0,4,6,47,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Sack,,,4.0,4.0,-0.8783063888549805,False,TCU,Ohio State,33.0,28.0,4,13,7,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,35.0,35.0,1.3047046661376953,False,TCU,Ohio State,33.0,28.0,4,13,57,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,75.0,75.0,0.6376316547393799,False,TCU,Ohio State,33.0,28.0,3,0,55,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Passing Touchdown,,,24.0,24.0,2.901381492614746,True,TCU,Ohio State,33.0,21.0,3,2,57,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Passing Touchdown,,,63.0,63.0,4.7383198738098145,True,TCU,Ohio State,19.0,21.0,3,6,58,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,63.0,63.0,-1.3633337020874023,False,TCU,Ohio State,13.0,21.0,3,7,9,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,75.0,75.0,2.1661016941070557,False,TCU,Ohio State,13.0,21.0,3,10,8,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,82.0,82.0,-1.3840669393539429,False,TCU,Ohio State,13.0,14.0,3,11,43,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,85.0,85.0,-0.5504917502403259,False,TCU,Ohio State,13.0,14.0,3,12,7,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,33.0,33.0,0.772382378578186,False,TCU,Ohio State,13.0,14.0,2,0,8,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,33.0,33.0,-0.36299026012420654,False,TCU,Ohio State,13.0,14.0,2,0,13,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,33.0,33.0,-0.23587417602539062,False,TCU,Ohio State,13.0,14.0,2,0,19,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,51.0,51.0,1.8732881546020508,False,TCU,Ohio State,13.0,14.0,2,0,24,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,55.0,55.0,-0.08414983749389648,False,TCU,Ohio State,13.0,14.0,2,0,29,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,55.0,55.0,-0.22725725173950195,False,TCU,Ohio State,13.0,14.0,2,0,37,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,56.0,56.0,0.49293315410614014,False,TCU,Ohio State,13.0,14.0,2,0,52,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,59.0,59.0,-0.10175597667694092,False,TCU,Ohio State,13.0,14.0,2,1,0,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,69.0,69.0,0.3301990032196045,False,TCU,Ohio State,13.0,14.0,2,1,35,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,79.0,79.0,0.21344268321990967,False,TCU,Ohio State,13.0,14.0,2,1,47,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,90.0,90.0,0.09232369065284729,False,TCU,Ohio State,13.0,14.0,2,2,33,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,13.0,13.0,-1.2242851257324219,False,TCU,Ohio State,10.0,14.0,2,5,39,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,13.0,13.0,-0.7281770706176758,False,TCU,Ohio State,10.0,14.0,2,5,43,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,48.0,48.0,1.1979327201843262,False,TCU,Ohio State,10.0,14.0,2,7,59,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,49.0,49.0,-1.2210851907730103,False,TCU,Ohio State,10.0,7.0,2,9,36,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,49.0,49.0,-0.987863302230835,False,TCU,Ohio State,10.0,7.0,2,9,41,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,90.0,90.0,2.1559531688690186,False,TCU,Ohio State,10.0,7.0,2,11,10,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,96.0,96.0,0.02013075351715088,False,TCU,Ohio State,10.0,7.0,2,11,52,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,45.0,45.0,-1.9682183265686035,False,TCU,Ohio State,10.0,7.0,1,1,56,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,49.0,49.0,0.14510488510131836,False,TCU,Ohio State,10.0,7.0,1,2,58,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,51.0,51.0,-1.2136167287826538,False,TCU,Ohio State,3.0,0.0,1,8,11,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,51.0,51.0,-1.0379894971847534,False,TCU,Ohio State,3.0,0.0,1,8,20,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,76.0,76.0,1.7433340549468994,False,TCU,Ohio State,3.0,0.0,1,9,11,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,3.0,3.0,-1.6058540344238281,False,TCU,Ohio State,0.0,0.0,1,13,24,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Incompletion,,,3.0,3.0,-1.0622639656066895,False,TCU,Ohio State,0.0,0.0,1,13,28,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,50.0,50.0,3.3772337436676025,False,TCU,Ohio State,0.0,0.0,1,14,20,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013074.0,Pass Reception,,,66.0,66.0,1.9695435762405396,False,TCU,Ohio State,0.0,0.0,1,14,30,3,TCU,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Passing Touchdown,,,27.0,73.0,3.679115056991577,True,Ohio State,Minnesota,30.0,14.0,4,2,15,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,49.0,51.0,1.1922708749771118,False,Ohio State,Minnesota,23.0,14.0,4,3,25,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,79.0,21.0,-0.994857132434845,False,Ohio State,Minnesota,23.0,14.0,4,7,32,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Sack,,,73.0,27.0,-1.3979389667510986,False,Ohio State,Minnesota,23.0,14.0,4,8,7,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,88.0,12.0,0.9816178679466248,False,Ohio State,Minnesota,23.0,14.0,4,8,51,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,9.0,91.0,-1.1479339599609375,False,Ohio State,Minnesota,20.0,14.0,4,10,24,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,5.0,95.0,-1.7284233570098877,False,Ohio State,Minnesota,20.0,14.0,4,10,57,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,12.0,88.0,0.5526547431945801,False,Ohio State,Minnesota,20.0,14.0,4,11,30,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,21.0,79.0,0.942418098449707,False,Ohio State,Minnesota,20.0,14.0,4,11,59,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,47.0,53.0,1.2824280261993408,False,Ohio State,Minnesota,20.0,14.0,4,13,17,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,69.0,31.0,2.2063610553741455,False,Ohio State,Minnesota,20.0,14.0,4,13,47,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,83.0,17.0,2.8707501888275146,False,Ohio State,Minnesota,20.0,14.0,4,14,53,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,85.0,15.0,-0.7819230556488037,False,Ohio State,Minnesota,20.0,14.0,3,0,23,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,30.0,70.0,-0.9488986730575562,False,Ohio State,Minnesota,17.0,14.0,3,7,16,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,30.0,70.0,-0.9476637840270996,False,Ohio State,Minnesota,17.0,14.0,3,7,21,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Sack,,,27.0,73.0,-1.2724132537841797,False,Ohio State,Minnesota,17.0,14.0,3,7,41,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,38.0,62.0,1.2675514221191406,False,Ohio State,Minnesota,17.0,14.0,3,8,14,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,50.0,50.0,1.2771754264831543,False,Ohio State,Minnesota,17.0,14.0,3,8,42,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Sack,,,49.0,51.0,-1.710555076599121,False,Ohio State,Minnesota,17.0,14.0,3,13,11,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,69.0,31.0,2.318284511566162,False,Ohio State,Minnesota,17.0,14.0,3,13,47,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,44.0,56.0,-0.37167415022850037,False,Ohio State,Minnesota,17.0,14.0,2,0,0,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,48.0,52.0,-0.1761465072631836,False,Ohio State,Minnesota,17.0,14.0,2,0,37,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,55.0,45.0,0.2664628028869629,False,Ohio State,Minnesota,17.0,14.0,2,0,42,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,74.0,30.0,-0.2664628028869629,False,Ohio State,Minnesota,17.0,14.0,2,0,56,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,77.0,23.0,-0.26859235763549805,False,Ohio State,Minnesota,17.0,14.0,2,1,13,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Passing Touchdown,,,36.0,64.0,3.804060935974121,True,Ohio State,Minnesota,17.0,14.0,2,3,59,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,48.0,52.0,0.4635777473449707,False,Ohio State,Minnesota,10.0,14.0,2,4,23,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,68.0,32.0,1.5188571214675903,False,Ohio State,Minnesota,10.0,14.0,2,5,25,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,76.0,24.0,0.12474638223648071,False,Ohio State,Minnesota,10.0,14.0,2,6,4,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,24.0,76.0,0.6077659130096436,False,Ohio State,Minnesota,10.0,14.0,2,7,54,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,31.0,69.0,0.1011347770690918,False,Ohio State,Minnesota,10.0,14.0,2,8,37,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,31.0,69.0,-0.630176305770874,False,Ohio State,Minnesota,10.0,14.0,2,8,46,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,32.0,68.0,2.706179618835449,False,Ohio State,Minnesota,10.0,14.0,2,9,36,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,40.0,60.0,-0.04778122901916504,False,Ohio State,Minnesota,10.0,14.0,2,10,9,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,39.0,61.0,-0.5664384365081787,False,Ohio State,Minnesota,10.0,14.0,2,10,57,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,49.0,51.0,0.5921797752380371,False,Ohio State,Minnesota,10.0,14.0,2,11,12,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Passing Touchdown,,,41.0,59.0,3.4039647579193115,True,Ohio State,Minnesota,10.0,7.0,1,1,7,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,51.0,49.0,0.3588395118713379,False,Ohio State,Minnesota,3.0,7.0,1,2,53,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,52.0,48.0,-0.5796298980712891,False,Ohio State,Minnesota,3.0,7.0,1,3,14,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,4.0,96.0,-1.6415114402770996,False,Ohio State,Minnesota,0.0,0.0,1,9,7,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,51.0,49.0,3.1720829010009766,False,Ohio State,Minnesota,0.0,0.0,1,10,34,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,51.0,49.0,-0.6531264781951904,False,Ohio State,Minnesota,0.0,0.0,1,10,40,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,62.0,38.0,0.7301173210144043,False,Ohio State,Minnesota,0.0,0.0,1,11,0,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,69.0,31.0,0.8815544843673706,False,Ohio State,Minnesota,0.0,0.0,1,11,23,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Reception,,,84.0,16.0,2.3922958374023438,False,Ohio State,Minnesota,0.0,0.0,1,12,26,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013331.0,Pass Incompletion,,,87.0,13.0,-0.8037269711494446,False,Ohio State,Minnesota,0.0,0.0,1,13,5,7,Minnesota,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,69.0,31.0,0.8213227987289429,False,Ohio State,Nebraska,30.0,24.0,4,6,46,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,81.0,19.0,1.2803080081939697,False,Ohio State,Nebraska,30.0,24.0,4,7,1,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,78.0,22.0,-0.6991046667098999,False,Ohio State,Nebraska,30.0,21.0,4,11,25,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Passing Touchdown,,,9.0,91.0,2.180975914001465,True,Ohio State,Nebraska,30.0,21.0,3,1,43,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,14.0,86.0,0.5700869560241699,False,Ohio State,Nebraska,16.0,21.0,3,6,32,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,74.0,26.0,0.9461976289749146,False,Ohio State,Nebraska,16.0,21.0,3,8,13,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Interception Return,,,18.0,82.0,-4.767816543579102,False,Ohio State,Nebraska,16.0,21.0,3,11,24,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,37.0,63.0,3.2553586959838867,False,Ohio State,Nebraska,16.0,21.0,3,12,35,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,59.0,41.0,0.5125411748886108,False,Ohio State,Nebraska,16.0,21.0,3,13,55,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,66.0,34.0,0.07658445835113525,False,Ohio State,Nebraska,16.0,21.0,3,14,18,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Fumble Recovery (Opponent),,,83.0,17.0,-2.796973466873169,False,Ohio State,Nebraska,16.0,14.0,2,4,9,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Fumble Recovery (Opponent),,,26.0,74.0,-5.510819911956787,False,Ohio State,Nebraska,16.0,7.0,2,8,52,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,56.0,44.0,1.4769797325134277,False,Ohio State,Nebraska,16.0,7.0,2,9,35,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,68.0,32.0,0.6645927429199219,False,Ohio State,Nebraska,16.0,7.0,2,10,55,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Incompletion,,,66.0,34.0,-1.8662023544311523,False,Ohio State,Nebraska,16.0,7.0,2,12,42,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Fumble Recovery (Own),,,75.0,25.0,0.5832771062850952,False,Ohio State,Nebraska,16.0,7.0,2,13,1,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Incompletion,,,26.0,74.0,-0.5725867748260498,False,Ohio State,Nebraska,9.0,7.0,1,2,23,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,35.0,65.0,0.914628267288208,False,Ohio State,Nebraska,9.0,7.0,1,2,42,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,52.0,48.0,0.8260676860809326,False,Ohio State,Nebraska,9.0,7.0,1,3,30,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Passing Touchdown,,,42.0,58.0,3.7737488746643066,True,Ohio State,Nebraska,9.0,7.0,1,5,11,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,54.0,46.0,0.9458482265472412,False,Ohio State,Nebraska,2.0,7.0,1,5,49,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Reception,,,66.0,34.0,2.1119158267974854,False,Ohio State,Nebraska,2.0,7.0,1,6,20,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013341.0,Pass Incompletion,,,66.0,34.0,-0.8453122973442078,False,Ohio State,Nebraska,2.0,7.0,1,6,33,10,Nebraska,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,51.0,49.0,2.761420249938965,False,Ohio State,Tulane,42.0,6.0,4,2,1,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Incompletion,,,51.0,49.0,-0.25650084018707275,False,Ohio State,Tulane,42.0,6.0,4,2,8,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,70.0,30.0,0.5538792610168457,False,Ohio State,Tulane,42.0,6.0,4,3,5,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Incompletion,,,70.0,30.0,-0.2321656048297882,False,Ohio State,Tulane,42.0,6.0,4,3,26,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,35.0,65.0,3.1350603103637695,False,Ohio State,Tulane,42.0,6.0,4,9,42,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,52.0,48.0,1.5237927436828613,False,Ohio State,Tulane,42.0,6.0,4,11,59,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,64.0,36.0,0.5489835739135742,False,Ohio State,Tulane,42.0,6.0,4,13,8,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,68.0,32.0,-0.40191173553466797,False,Ohio State,Tulane,42.0,6.0,4,13,49,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Fumble Recovery (Own),,,47.0,53.0,-1.9070360660552979,False,Ohio State,Tulane,42.0,6.0,3,4,11,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,48.0,52.0,-0.927628755569458,False,Ohio State,Tulane,42.0,6.0,3,4,49,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Sack,,,44.0,56.0,-1.9557548761367798,False,Ohio State,Tulane,42.0,6.0,3,9,5,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,42.0,58.0,-0.5305445194244385,False,Ohio State,Tulane,42.0,6.0,3,9,44,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,45.0,55.0,-0.4312610626220703,False,Ohio State,Tulane,42.0,6.0,3,10,30,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Passing Touchdown,,,14.0,86.0,3.636890172958374,True,Ohio State,Tulane,42.0,6.0,2,0,52,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,30.0,70.0,2.181492567062378,False,Ohio State,Tulane,35.0,6.0,2,0,56,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Incompletion,,,30.0,70.0,-0.25954532623291016,False,Ohio State,Tulane,35.0,6.0,2,1,1,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,39.0,61.0,1.783273458480835,False,Ohio State,Tulane,35.0,6.0,2,1,22,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Sack,,,38.0,62.0,-0.6873447895050049,False,Ohio State,Tulane,35.0,6.0,2,1,37,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Incompletion,,,38.0,62.0,-0.4875752925872803,False,Ohio State,Tulane,35.0,6.0,2,1,46,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,45.0,55.0,0.28858983516693115,False,Ohio State,Tulane,35.0,6.0,2,1,52,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,53.0,47.0,0.4813629388809204,False,Ohio State,Tulane,35.0,6.0,2,1,58,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,55.0,45.0,-0.39193809032440186,False,Ohio State,Tulane,35.0,6.0,2,2,13,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,65.0,35.0,0.22349083423614502,False,Ohio State,Tulane,35.0,6.0,2,2,25,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Incompletion,,,14.0,86.0,-0.554990291595459,False,Ohio State,Tulane,28.0,6.0,2,3,58,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,38.0,62.0,2.56693696975708,False,Ohio State,Tulane,28.0,6.0,2,4,4,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Passing Touchdown,,,31.0,69.0,2.8469185829162598,True,Ohio State,Tulane,28.0,6.0,2,7,55,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,44.0,56.0,0.8710424900054932,False,Ohio State,Tulane,21.0,6.0,2,8,12,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,66.0,34.0,0.31531381607055664,False,Ohio State,Tulane,21.0,6.0,2,9,16,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,79.0,21.0,1.0822232961654663,False,Ohio State,Tulane,21.0,6.0,2,9,48,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Passing Touchdown,,,37.0,63.0,2.7387146949768066,True,Ohio State,Tulane,21.0,0.0,1,0,32,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Incompletion,,,37.0,63.0,-1.1361656188964844,False,Ohio State,Tulane,14.0,0.0,1,0,45,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,72.0,28.0,0.20512056350708008,False,Ohio State,Tulane,14.0,0.0,1,2,4,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,88.0,12.0,1.0747730731964111,False,Ohio State,Tulane,14.0,0.0,1,2,30,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Passing Touchdown,,,17.0,83.0,2.303661823272705,True,Ohio State,Tulane,14.0,0.0,1,6,56,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,29.0,71.0,2.2400362491607666,False,Ohio State,Tulane,7.0,0.0,1,7,18,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,32.0,68.0,-0.16829299926757812,False,Ohio State,Tulane,7.0,0.0,1,8,47,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Passing Touchdown,,,14.0,86.0,1.8748679161071777,True,Ohio State,Tulane,7.0,0.0,1,11,19,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,37.0,63.0,1.0949947834014893,False,Ohio State,Tulane,0.0,0.0,1,12,5,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,44.0,56.0,0.40474700927734375,False,Ohio State,Tulane,0.0,0.0,1,12,27,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013346.0,Pass Reception,,,89.0,11.0,3.210329294204712,False,Ohio State,Tulane,0.0,0.0,1,14,22,4,Tulane,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Passing Touchdown,,,24.0,24.0,3.1602563858032227,True,Penn State,Ohio State,27.0,26.0,4,2,3,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,43.0,43.0,0.8646559715270996,False,Penn State,Ohio State,21.0,26.0,4,3,8,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,54.0,54.0,-0.7799699306488037,False,Penn State,Ohio State,21.0,26.0,4,3,39,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,96.0,96.0,1.9614719152450562,False,Penn State,Ohio State,21.0,26.0,4,4,34,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Passing Touchdown,,,47.0,47.0,3.986009359359741,True,Penn State,Ohio State,21.0,26.0,4,6,42,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,70.0,70.0,1.1007580757141113,False,Penn State,Ohio State,14.0,26.0,4,7,26,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,75.0,75.0,0.07883894443511963,False,Penn State,Ohio State,14.0,26.0,4,7,59,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,53.0,53.0,-0.03964030742645264,False,Penn State,Ohio State,14.0,20.0,4,11,1,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,77.0,77.0,-1.0717320442199707,False,Penn State,Ohio State,14.0,13.0,4,15,0,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,88.0,88.0,-0.9027963876724243,False,Penn State,Ohio State,14.0,13.0,3,4,9,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,16.0,16.0,-1.091364860534668,False,Penn State,Ohio State,14.0,13.0,3,6,23,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,27.0,27.0,1.8683631420135498,False,Penn State,Ohio State,14.0,13.0,3,7,59,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,27.0,27.0,-0.8417308330535889,False,Penn State,Ohio State,14.0,13.0,3,8,5,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,43.0,43.0,0.7313756942749023,False,Penn State,Ohio State,14.0,13.0,3,8,47,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,16.0,16.0,0.8074216842651367,False,Penn State,Ohio State,7.0,13.0,3,10,46,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,24.0,24.0,0.8773856163024902,False,Penn State,Ohio State,7.0,13.0,3,11,2,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,45.0,45.0,0.4587740898132324,False,Penn State,Ohio State,7.0,13.0,3,13,6,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,59.0,59.0,0.8651411533355713,False,Penn State,Ohio State,7.0,13.0,3,14,9,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,67.0,67.0,-1.3718760013580322,False,Penn State,Ohio State,7.0,13.0,3,14,34,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Passing Touchdown,,,26.0,26.0,4.480167388916016,True,Penn State,Ohio State,7.0,13.0,2,1,50,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,72.0,72.0,-0.3472960889339447,False,Penn State,Ohio State,0.0,13.0,2,3,22,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,63.0,63.0,-1.3565459251403809,False,Penn State,Ohio State,0.0,13.0,2,5,26,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,70.0,70.0,0.6580841541290283,False,Penn State,Ohio State,0.0,13.0,2,5,51,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,70.0,70.0,-0.6181046962738037,False,Penn State,Ohio State,0.0,13.0,2,5,58,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Sack,,,58.0,58.0,-1.4482043981552124,False,Penn State,Ohio State,0.0,6.0,2,7,57,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,58.0,58.0,-0.7721064686775208,False,Penn State,Ohio State,0.0,6.0,2,8,4,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,57.0,57.0,-1.6337969303131104,False,Penn State,Ohio State,0.0,6.0,2,9,37,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,57.0,57.0,-0.7979844212532043,False,Penn State,Ohio State,0.0,6.0,2,9,42,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Interception Return,,,44.0,44.0,-7.341617107391357,False,Penn State,Ohio State,0.0,3.0,2,12,48,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,75.0,75.0,-0.21016454696655273,False,Penn State,Ohio State,0.0,3.0,1,0,0,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,75.0,75.0,-1.015604853630066,False,Penn State,Ohio State,0.0,3.0,1,0,41,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,72.0,72.0,-1.427366018295288,False,Penn State,Ohio State,0.0,3.0,1,3,52,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,75.0,75.0,-0.46882301568984985,False,Penn State,Ohio State,0.0,3.0,1,4,58,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,70.0,70.0,-0.800113320350647,False,Penn State,Ohio State,0.0,0.0,1,9,19,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Incompletion,,,70.0,70.0,-0.720360517501831,False,Penn State,Ohio State,0.0,0.0,1,9,56,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013347.0,Pass Reception,,,80.0,80.0,0.8639475107192993,False,Penn State,Ohio State,0.0,0.0,1,10,10,5,Penn State,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Interception Return Touchdown,,,75.0,75.0,-8.611745834350586,True,Purdue,Ohio State,20.0,49.0,4,2,8,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,55.0,55.0,-0.12607884407043457,False,Purdue,Ohio State,20.0,49.0,4,2,8,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,50.0,50.0,-0.41049230098724365,False,Purdue,Ohio State,20.0,49.0,4,2,8,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,38.0,38.0,0.997915506362915,False,Purdue,Ohio State,20.0,49.0,4,2,8,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,30.0,30.0,-0.4339158535003662,False,Purdue,Ohio State,20.0,49.0,4,2,8,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,19.0,19.0,-0.2568385601043701,False,Purdue,Ohio State,20.0,49.0,4,2,8,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,99.0,99.0,-0.4234735369682312,False,Purdue,Ohio State,20.0,42.0,4,3,37,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,99.0,99.0,0.14025139808654785,False,Purdue,Ohio State,20.0,42.0,4,3,37,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,92.0,92.0,1.017622947692871,False,Purdue,Ohio State,20.0,42.0,4,3,37,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,87.0,87.0,0.3600013256072998,False,Purdue,Ohio State,20.0,42.0,4,3,37,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,80.0,80.0,0.16920119524002075,False,Purdue,Ohio State,20.0,42.0,4,3,37,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Passing Touchdown,,,34.0,34.0,6.277096271514893,True,Purdue,Ohio State,20.0,35.0,4,4,40,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,70.0,70.0,0.3054669499397278,False,Purdue,Ohio State,13.0,35.0,4,6,46,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,64.0,64.0,-0.06401443481445312,False,Purdue,Ohio State,13.0,35.0,4,6,46,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,55.0,55.0,1.6630630493164062,False,Purdue,Ohio State,13.0,35.0,4,6,46,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,39.0,39.0,-0.24143648147583008,False,Purdue,Ohio State,13.0,35.0,4,6,46,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,34.0,34.0,-1.607580304145813,False,Purdue,Ohio State,13.0,35.0,4,6,46,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Passing Touchdown,,,32.0,32.0,3.7634472846984863,True,Purdue,Ohio State,13.0,28.0,4,9,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,71.0,71.0,-0.7697981595993042,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,71.0,71.0,2.109072685241699,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,52.0,52.0,-0.6303418874740601,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,52.0,52.0,-0.8504048585891724,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,52.0,52.0,-0.8789327144622803,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,47.0,47.0,3.3448314666748047,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,41.0,41.0,1.1990786790847778,False,Purdue,Ohio State,6.0,28.0,4,11,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,79.0,79.0,-0.8638843297958374,False,Purdue,Ohio State,6.0,21.0,3,0,27,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,79.0,79.0,-0.03152585029602051,False,Purdue,Ohio State,6.0,21.0,3,0,27,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,37.0,37.0,-0.7401989698410034,False,Purdue,Ohio State,6.0,21.0,3,3,27,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,37.0,37.0,-1.1336088180541992,False,Purdue,Ohio State,6.0,21.0,3,3,27,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,37.0,37.0,-1.886277198791504,False,Purdue,Ohio State,6.0,21.0,3,3,27,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,57.0,57.0,-0.025988638401031494,False,Purdue,Ohio State,6.0,21.0,3,8,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,53.0,53.0,1.4815027713775635,False,Purdue,Ohio State,6.0,21.0,3,8,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,44.0,44.0,-1.1427428722381592,False,Purdue,Ohio State,6.0,21.0,3,8,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,44.0,44.0,2.8803441524505615,False,Purdue,Ohio State,6.0,21.0,3,8,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,31.0,31.0,1.8075611591339111,False,Purdue,Ohio State,6.0,21.0,3,8,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,2.0,2.0,-4.449048042297363,False,Purdue,Ohio State,6.0,21.0,3,8,36,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,75.0,75.0,1.0925414562225342,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,65.0,65.0,-0.21535813808441162,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,61.0,61.0,2.114284038543701,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,37.0,37.0,1.470130443572998,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,25.0,25.0,0.9976356029510498,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,10.0,10.0,-0.2676386833190918,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,7.0,7.0,-0.8325963020324707,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,6.0,6.0,-3.455840587615967,False,Purdue,Ohio State,3.0,14.0,3,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,15.0,15.0,-1.1018924713134766,False,Purdue,Ohio State,3.0,7.0,2,1,59,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,95.0,95.0,0.18346863985061646,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,89.0,89.0,0.7564520239830017,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,83.0,83.0,-0.8287981748580933,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,83.0,83.0,1.7661088705062866,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,74.0,74.0,-0.9026275277137756,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,81.0,81.0,1.683919906616211,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,61.0,61.0,-0.5596370697021484,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,59.0,59.0,2.0663609504699707,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,49.0,49.0,2.0174548625946045,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,16.0,16.0,-0.5438370704650879,False,Purdue,Ohio State,3.0,7.0,2,6,18,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Sack,,,88.0,88.0,-1.4433989524841309,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,90.0,90.0,2.286656379699707,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,77.0,77.0,0.2669852375984192,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,75.0,75.0,2.4690451622009277,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,75.0,75.0,-0.06863164901733398,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,69.0,69.0,0.3543565571308136,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,61.0,61.0,-1.6085243225097656,False,Purdue,Ohio State,3.0,7.0,2,12,39,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Incompletion,,,6.0,6.0,-1.2425312995910645,False,Purdue,Ohio State,0.0,7.0,2,15,0,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,18.0,18.0,0.9043192863464355,False,Purdue,Ohio State,0.0,7.0,1,1,10,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,75.0,75.0,0.2727300524711609,False,Purdue,Ohio State,0.0,0.0,1,11,51,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,70.0,70.0,1.245945692062378,False,Purdue,Ohio State,0.0,0.0,1,11,51,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,51.0,51.0,0.3979330062866211,False,Purdue,Ohio State,0.0,0.0,1,11,51,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,44.0,44.0,0.13538527488708496,False,Purdue,Ohio State,0.0,0.0,1,11,51,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,82.0,82.0,-0.7561262845993042,False,Purdue,Ohio State,0.0,0.0,1,14,16,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,82.0,82.0,-0.7909523844718933,False,Purdue,Ohio State,0.0,0.0,1,14,16,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401013348.0,Pass Reception,,,78.0,78.0,-0.9998642206192017,False,Purdue,Ohio State,0.0,0.0,1,14,16,8,Purdue,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,56.0,44.0,-0.4727528691291809,False,Ohio State,Washington,28.0,17.0,4,3,2,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,63.0,37.0,-1.3006632328033447,False,Ohio State,Washington,28.0,17.0,4,5,6,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Sack,,,57.0,43.0,-1.2007012367248535,False,Ohio State,Washington,28.0,17.0,4,5,30,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,75.0,25.0,0.6132441759109497,False,Ohio State,Washington,28.0,17.0,4,6,33,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,50.0,50.0,-1.2349433898925781,False,Ohio State,Washington,28.0,10.0,4,8,22,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,50.0,50.0,-0.9930853843688965,False,Ohio State,Washington,28.0,10.0,4,8,27,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,71.0,29.0,-1.1145983934402466,False,Ohio State,Washington,28.0,10.0,4,10,44,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,73.0,27.0,-1.3356919288635254,False,Ohio State,Washington,28.0,10.0,4,11,35,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Sack,,,71.0,29.0,-2.4504151344299316,False,Ohio State,Washington,28.0,3.0,3,2,15,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,37.0,63.0,1.5843849182128906,False,Ohio State,Washington,21.0,3.0,3,8,40,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,48.0,52.0,0.4131608009338379,False,Ohio State,Washington,21.0,3.0,3,9,0,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,54.0,46.0,1.1696984767913818,False,Ohio State,Washington,21.0,3.0,3,9,19,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,59.0,41.0,-0.16448426246643066,False,Ohio State,Washington,21.0,3.0,3,9,34,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,80.0,20.0,0.7519469261169434,False,Ohio State,Washington,21.0,3.0,3,10,15,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Passing Touchdown,,,1.0,99.0,1.2610011100769043,True,Ohio State,Washington,21.0,3.0,2,0,14,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,10.0,90.0,1.9851620197296143,False,Ohio State,Washington,14.0,3.0,2,0,20,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,47.0,53.0,1.3899641036987305,False,Ohio State,Washington,14.0,3.0,2,0,43,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,57.0,43.0,0.3338344097137451,False,Ohio State,Washington,14.0,3.0,2,0,53,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,38.0,62.0,-0.8269236087799072,False,Ohio State,Washington,14.0,3.0,2,1,31,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,39.0,61.0,-0.5772175788879395,False,Ohio State,Washington,14.0,3.0,2,2,14,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,73.0,27.0,1.303786277770996,False,Ohio State,Washington,14.0,3.0,2,2,30,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,73.0,27.0,-0.4887688159942627,False,Ohio State,Washington,14.0,3.0,2,2,50,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,86.0,14.0,0.03715938329696655,False,Ohio State,Washington,14.0,3.0,2,3,49,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,82.0,18.0,-0.6547373533248901,False,Ohio State,Washington,14.0,3.0,2,8,26,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,77.0,23.0,-1.0859501361846924,False,Ohio State,Washington,14.0,3.0,2,9,19,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,78.0,22.0,-0.7009711265563965,False,Ohio State,Washington,14.0,3.0,2,9,30,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Passing Touchdown,,,19.0,81.0,3.26088809967041,True,Ohio State,Washington,14.0,3.0,2,12,23,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,18.0,82.0,-0.058365821838378906,False,Ohio State,Washington,7.0,3.0,2,13,13,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,29.0,71.0,1.2032370567321777,False,Ohio State,Washington,7.0,3.0,2,14,0,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,44.0,56.0,1.0445382595062256,False,Ohio State,Washington,7.0,3.0,1,0,0,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,78.0,22.0,2.8822309970855713,False,Ohio State,Washington,7.0,3.0,1,0,40,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,69.0,31.0,-0.9488866329193115,False,Ohio State,Washington,7.0,0.0,1,7,12,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Passing Touchdown,,,12.0,88.0,2.2328062057495117,True,Ohio State,Washington,7.0,0.0,1,9,4,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,12.0,88.0,-0.880889892578125,False,Ohio State,Washington,0.0,0.0,1,9,8,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,40.0,60.0,-1.0252301692962646,False,Ohio State,Washington,0.0,0.0,1,10,15,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Incompletion,,,40.0,60.0,-0.6284844875335693,False,Ohio State,Washington,0.0,0.0,1,10,19,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,77.0,23.0,-0.4663856327533722,False,Ohio State,Washington,0.0,0.0,1,11,30,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Sack,,,81.0,19.0,-0.9129123687744141,False,Ohio State,Washington,0.0,0.0,1,13,50,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401032085.0,Pass Reception,,,80.0,20.0,-0.9807794094085693,False,Ohio State,Washington,0.0,0.0,1,14,20,1,Washington,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Passing Touchdown,,,17.0,83.0,2.241649627685547,True,Ohio State,Northwestern,45.0,24.0,4,4,9,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,36.0,64.0,1.8745336532592773,False,Ohio State,Northwestern,38.0,24.0,4,4,37,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,42.0,58.0,0.989884614944458,False,Ohio State,Northwestern,38.0,24.0,4,5,21,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Incompletion,,,42.0,58.0,-0.5774011611938477,False,Ohio State,Northwestern,38.0,24.0,4,5,28,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,48.0,62.0,-0.43480610847473145,False,Ohio State,Northwestern,38.0,24.0,4,6,10,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Passing Touchdown,,,9.0,91.0,1.6882843971252441,True,Ohio State,Northwestern,38.0,24.0,4,9,11,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,78.0,22.0,3.987802505493164,False,Ohio State,Northwestern,31.0,24.0,4,10,6,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,14.0,86.0,-0.9934930801391602,False,Ohio State,Northwestern,31.0,21.0,4,13,0,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Sack,,,11.0,89.0,-1.1583547592163086,False,Ohio State,Northwestern,31.0,21.0,4,13,40,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,30.0,70.0,2.2012972831726074,False,Ohio State,Northwestern,31.0,21.0,4,14,22,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,38.0,62.0,0.19098949432373047,False,Ohio State,Northwestern,31.0,21.0,4,14,53,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Sack,,,32.0,68.0,-1.551933765411377,False,Ohio State,Northwestern,31.0,21.0,3,0,1,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,60.0,40.0,1.4019296169281006,False,Ohio State,Northwestern,31.0,21.0,3,0,15,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Passing Touchdown,,,29.0,71.0,3.4873592853546143,True,Ohio State,Northwestern,31.0,21.0,3,1,21,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,44.0,56.0,0.9514424800872803,False,Ohio State,Northwestern,24.0,21.0,3,2,8,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,53.0,47.0,1.4937267303466797,False,Ohio State,Northwestern,24.0,21.0,3,2,23,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Incompletion,,,60.0,40.0,-0.6216658353805542,False,Ohio State,Northwestern,24.0,21.0,3,2,44,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,29.0,71.0,1.5062549114227295,False,Ohio State,Northwestern,24.0,21.0,3,5,15,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Incompletion,,,81.0,19.0,-1.0374518632888794,False,Ohio State,Northwestern,24.0,21.0,3,6,54,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,82.0,18.0,-0.8601774573326111,False,Ohio State,Northwestern,24.0,21.0,3,7,30,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Sack,,,75.0,25.0,-1.3634954690933228,False,Ohio State,Northwestern,24.0,21.0,3,7,53,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Sack,,,51.0,49.0,-2.611502170562744,False,Ohio State,Northwestern,24.0,14.0,3,12,5,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,57.0,43.0,-0.3434150218963623,False,Ohio State,Northwestern,24.0,14.0,3,13,0,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Passing Touchdown,,,42.0,58.0,6.253142356872559,True,Ohio State,Northwestern,24.0,7.0,2,1,21,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,43.0,57.0,0.7062206268310547,False,Ohio State,Northwestern,17.0,7.0,2,2,45,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,53.0,47.0,0.300838828086853,False,Ohio State,Northwestern,17.0,7.0,2,3,15,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,64.0,36.0,-0.20656275749206543,False,Ohio State,Northwestern,17.0,7.0,2,4,20,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,78.0,22.0,0.49430131912231445,False,Ohio State,Northwestern,17.0,7.0,2,5,5,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,31.0,69.0,-0.3417015075683594,False,Ohio State,Northwestern,14.0,7.0,2,6,40,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Interception Return,,,42.0,58.0,-3.8241918087005615,False,Ohio State,Northwestern,14.0,7.0,2,11,16,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,64.0,36.0,1.508013367652893,False,Ohio State,Northwestern,14.0,7.0,2,12,5,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,80.0,20.0,0.5960788726806641,False,Ohio State,Northwestern,14.0,7.0,2,13,24,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,71.0,29.0,-0.14588111639022827,False,Ohio State,Northwestern,14.0,7.0,1,0,45,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Incompletion,,,71.0,29.0,-0.961081862449646,False,Ohio State,Northwestern,14.0,7.0,1,0,54,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,19.0,81.0,2.5586068630218506,False,Ohio State,Northwestern,7.0,7.0,1,4,1,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Incompletion,,,19.0,81.0,-0.8339998722076416,False,Ohio State,Northwestern,7.0,7.0,1,4,12,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,44.0,56.0,1.1171119213104248,False,Ohio State,Northwestern,7.0,7.0,1,4,55,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,57.0,43.0,1.7091350555419922,False,Ohio State,Northwestern,7.0,7.0,1,5,25,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,68.0,32.0,-0.34564846754074097,False,Ohio State,Northwestern,7.0,0.0,1,7,55,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Incompletion,,,68.0,32.0,-0.957894504070282,False,Ohio State,Northwestern,7.0,0.0,1,8,4,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,75.0,25.0,0.9418151378631592,False,Ohio State,Northwestern,7.0,0.0,1,9,4,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Passing Touchdown,,,16.0,84.0,3.2929270267486572,True,Ohio State,Northwestern,7.0,0.0,1,10,31,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,42.0,58.0,2.6380977630615234,False,Ohio State,Northwestern,0.0,0.0,1,12,55,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,56.0,44.0,0.6727724075317383,False,Ohio State,Northwestern,0.0,0.0,1,14,5,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019
+401056702.0,Pass Reception,,,77.0,23.0,1.044970989227295,False,Ohio State,Northwestern,0.0,0.0,1,14,44,14,Northwestern,2018,Ohio State,Dwayne Haskins,2019

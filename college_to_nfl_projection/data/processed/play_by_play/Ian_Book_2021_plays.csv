@@ -1,0 +1,369 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401234574.0,Pass Reception,,,31.0,69,0.7962160110473633,False,Notre Dame,Duke,24.0,13.0,4,8,18,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Passing Touchdown,,,17.0,83,3.071509599685669,True,Notre Dame,Duke,24.0,13.0,4,10,58,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Incompletion,,,17.0,83,-0.9980840682983398,False,Notre Dame,Duke,17.0,13.0,4,11,5,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,35.0,65,1.1486454010009766,False,Notre Dame,Duke,17.0,13.0,4,11,32,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,55.0,45,1.9333304166793823,False,Notre Dame,Duke,17.0,13.0,4,13,58,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,67.0,33,2.1037521362304688,False,Notre Dame,Duke,17.0,13.0,3,0,0,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Sack,,,69.0,31,-1.1862969398498535,False,Notre Dame,Duke,17.0,13.0,3,1,40,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Incompletion,,,83.0,17,-0.7137826085090637,False,Notre Dame,Duke,17.0,13.0,3,2,8,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,94.0,6,-0.47163429856300354,False,Notre Dame,Duke,17.0,6.0,3,5,47,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,34.0,66,0.45297884941101074,False,Notre Dame,Duke,10.0,6.0,3,9,20,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,47.0,53,-0.15477871894836426,False,Notre Dame,Duke,10.0,6.0,3,11,5,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Incompletion,,,30.0,70,-1.7376911640167236,False,Notre Dame,Duke,7.0,6.0,2,0,4,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,46.0,54,0.7594454288482666,False,Notre Dame,Duke,7.0,6.0,2,0,13,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,61.0,39,0.2714111804962158,False,Notre Dame,Duke,7.0,6.0,2,0,19,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,79.0,21,-0.15178021788597107,False,Notre Dame,Duke,7.0,6.0,2,0,50,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Interception Return,,,11.0,89,-5.671996116638184,False,Notre Dame,Duke,7.0,6.0,2,2,32,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,86.0,14,4.175776481628418,False,Notre Dame,Duke,7.0,6.0,2,3,15,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,46.0,54,-1.742311954498291,False,Notre Dame,Duke,7.0,3.0,2,8,15,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,65.0,35,0.5010287761688232,False,Notre Dame,Duke,7.0,3.0,2,9,50,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,22.0,78,2.318692684173584,False,Notre Dame,Duke,0.0,3.0,2,11,2,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,65.0,35,0.9836304187774658,False,Notre Dame,Duke,0.0,3.0,2,12,20,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Incompletion,,,79.0,21,-1.164650559425354,False,Notre Dame,Duke,0.0,3.0,2,13,17,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Incompletion,,,81.0,19,-0.6657875776290894,False,Notre Dame,Duke,0.0,3.0,2,13,49,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,91.0,9,1.82438063621521,False,Notre Dame,Duke,0.0,3.0,2,14,2,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Reception,,,91.0,9,-0.26250267028808594,False,Notre Dame,Duke,0.0,3.0,1,2,12,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Sack,,,81.0,19,-1.9219284057617188,False,Notre Dame,Duke,0.0,3.0,1,2,54,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Pass Incompletion,,,62.0,38,-1.1447190046310425,False,Notre Dame,Duke,0.0,0.0,1,11,1,2,Duke,2020,Notre Dame,Ian Book,2021
+401234574.0,Sack,,,60.0,40,-1.4939593076705933,False,Notre Dame,Duke,0.0,0.0,1,12,0,2,Duke,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,52.0,48,0.24289226531982422,False,Notre Dame,Florida State,42.0,26.0,4,6,7,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,69.0,31,-1.0239908695220947,False,Notre Dame,Florida State,42.0,26.0,3,0,20,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,27.0,73,-1.6044692993164062,False,Notre Dame,Florida State,42.0,26.0,3,3,36,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,27.0,73,-0.8065903186798096,False,Notre Dame,Florida State,42.0,26.0,3,3,40,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,46.0,54,0.28847789764404297,False,Notre Dame,Florida State,42.0,26.0,3,5,5,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,57.0,43,-0.5472085475921631,False,Notre Dame,Florida State,42.0,26.0,3,6,46,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,25.0,75,1.283252239227295,False,Notre Dame,Florida State,35.0,26.0,3,8,55,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,63.0,37,2.0418550968170166,False,Notre Dame,Florida State,35.0,26.0,3,9,50,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,86.0,14,-0.2451000064611435,False,Notre Dame,Florida State,35.0,26.0,3,11,30,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Passing Touchdown,,,6.0,94,2.717776298522949,True,Notre Dame,Florida State,35.0,20.0,2,0,11,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,6.0,94,-0.5145993232727051,False,Notre Dame,Florida State,28.0,20.0,2,0,15,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,12.0,88,0.42419862747192383,False,Notre Dame,Florida State,28.0,20.0,2,0,18,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,57.0,43,-0.27930980920791626,False,Notre Dame,Florida State,28.0,20.0,2,1,4,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,75.0,25,1.004089117050171,False,Notre Dame,Florida State,21.0,17.0,2,6,37,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,65.0,35,-1.5459280014038086,False,Notre Dame,Florida State,21.0,17.0,2,9,25,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,22.0,78,1.3143320083618164,False,Notre Dame,Florida State,14.0,17.0,2,13,35,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,36.0,64,0.2148761749267578,False,Notre Dame,Florida State,14.0,17.0,2,14,46,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,72.0,28,3.1549525260925293,False,Notre Dame,Florida State,14.0,17.0,1,0,1,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,67.0,33,-1.8364150524139404,False,Notre Dame,Florida State,14.0,10.0,1,2,3,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Incompletion,,,75.0,25,-0.6019968390464783,False,Notre Dame,Florida State,14.0,10.0,1,2,45,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,60.0,40,0.899561882019043,False,Notre Dame,Florida State,7.0,3.0,1,6,45,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,67.0,33,0.06956005096435547,False,Notre Dame,Florida State,7.0,3.0,1,7,35,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,76.0,24,0.9445375204086304,False,Notre Dame,Florida State,7.0,3.0,1,8,1,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Passing Touchdown,,,8.0,92,2.142500400543213,True,Notre Dame,Florida State,7.0,3.0,1,10,43,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234606.0,Pass Reception,,,72.0,28,-0.4471241235733032,False,Notre Dame,Florida State,0.0,0.0,1,14,30,6,Florida State,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,52.0,48,1.3369865417480469,False,Notre Dame,Louisville,12.0,7.0,4,2,53,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,63.0,37,1.203564167022705,False,Notre Dame,Louisville,12.0,7.0,4,5,6,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,64.0,36,-1.0933010578155518,False,Notre Dame,Louisville,12.0,7.0,4,12,19,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,15.0,85,-0.5470170974731445,False,Notre Dame,Louisville,6.0,7.0,3,4,41,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,50.0,50,0.2512991428375244,False,Notre Dame,Louisville,6.0,7.0,3,6,18,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,13.0,87,-0.7115161418914795,False,Notre Dame,Louisville,6.0,0.0,2,0,54,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Sack,,,14.0,86,-1.250269889831543,False,Notre Dame,Louisville,6.0,0.0,2,1,38,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,26.0,74,0.7927212715148926,False,Notre Dame,Louisville,6.0,0.0,2,2,9,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,44.0,56,1.0290504693984985,False,Notre Dame,Louisville,6.0,0.0,2,3,17,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Sack,,,83.0,17,-1.9718021154403687,False,Notre Dame,Louisville,6.0,0.0,2,10,33,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Sack,,,7.0,93,-1.4424505233764648,False,Notre Dame,Louisville,3.0,0.0,1,1,8,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,9.0,91,-0.6499876976013184,False,Notre Dame,Louisville,3.0,0.0,1,1,57,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,13.0,87,1.0470514297485352,False,Notre Dame,Louisville,3.0,0.0,1,2,31,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,19.0,81,-0.5803041458129883,False,Notre Dame,Louisville,3.0,0.0,1,3,10,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,34.0,66,-0.5668320655822754,False,Notre Dame,Louisville,3.0,0.0,1,4,27,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,56.0,44,0.6132240295410156,False,Notre Dame,Louisville,3.0,0.0,1,6,7,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,21.0,79,-0.32189416885375977,False,Notre Dame,Louisville,0.0,0.0,1,10,7,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Sack,,,16.0,84,-1.3165597915649414,False,Notre Dame,Louisville,0.0,0.0,1,10,48,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,31.0,69,2.4353349208831787,False,Notre Dame,Louisville,0.0,0.0,1,12,1,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,31.0,69,-0.8630800247192383,False,Notre Dame,Louisville,0.0,0.0,1,12,9,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,31.0,69,-0.599449872970581,False,Notre Dame,Louisville,0.0,0.0,1,12,15,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Reception,,,65.0,35,1.129562497138977,False,Notre Dame,Louisville,0.0,0.0,1,14,0,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234613.0,Pass Incompletion,,,70.0,30,-0.8211016654968262,False,Notre Dame,Louisville,0.0,0.0,1,14,49,7,Louisville,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,47.0,47,-0.5549187660217285,False,Pittsburgh,Notre Dame,45.0,3.0,4,6,15,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,70.0,70,-1.0908193588256836,False,Pittsburgh,Notre Dame,45.0,3.0,4,14,22,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,77.0,77,-0.4091072082519531,False,Pittsburgh,Notre Dame,45.0,3.0,4,14,51,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,30.0,9,-0.14394760131835938,False,Pittsburgh,Notre Dame,38.0,3.0,3,3,23,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,35.0,35,-0.5213131904602051,False,Pittsburgh,Notre Dame,38.0,3.0,3,4,10,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Passing Touchdown,,,14.0,14,1.7496566772460938,True,Pittsburgh,Notre Dame,38.0,3.0,3,4,22,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,50.0,50,1.7221722602844238,False,Pittsburgh,Notre Dame,31.0,3.0,3,5,49,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Sack,,,2.0,2,-2.537317991256714,False,Pittsburgh,Notre Dame,28.0,3.0,3,8,11,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,2.0,2,-0.4549088478088379,False,Pittsburgh,Notre Dame,28.0,3.0,3,8,19,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,44.0,44,2.863175392150879,False,Pittsburgh,Notre Dame,28.0,3.0,3,9,37,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,53.0,53,2.0553650856018066,False,Pittsburgh,Notre Dame,28.0,3.0,3,11,3,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,53.0,53,-0.8264005184173584,False,Pittsburgh,Notre Dame,28.0,3.0,3,11,9,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,53.0,53,-0.5377438068389893,False,Pittsburgh,Notre Dame,28.0,3.0,3,11,16,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,63.0,63,0.37690067291259766,False,Pittsburgh,Notre Dame,28.0,3.0,3,12,29,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,63.0,63,-0.473036527633667,False,Pittsburgh,Notre Dame,28.0,3.0,3,12,34,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,75.0,75,0.4040658473968506,False,Pittsburgh,Notre Dame,28.0,3.0,3,13,35,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,14.0,14,-0.6479113101959229,False,Pittsburgh,Notre Dame,14.0,3.0,2,1,41,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,15.0,15,-0.7055459022521973,False,Pittsburgh,Notre Dame,14.0,3.0,2,2,22,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,46.0,46,1.5493266582489014,False,Pittsburgh,Notre Dame,14.0,3.0,2,4,27,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,74.0,74,-1.1192708015441895,False,Pittsburgh,Notre Dame,14.0,3.0,2,6,1,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,74.0,74,-0.8170343041419983,False,Pittsburgh,Notre Dame,14.0,3.0,2,6,6,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Passing Touchdown,,,73.0,73,6.555242538452148,True,Pittsburgh,Notre Dame,14.0,3.0,2,10,37,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Sack,,,69.0,69,-2.359282970428467,False,Pittsburgh,Notre Dame,7.0,3.0,2,11,22,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,69.0,69,-0.6361105442047119,False,Pittsburgh,Notre Dame,7.0,3.0,2,11,28,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,39.0,39,-1.8668787479400635,False,Pittsburgh,Notre Dame,7.0,3.0,2,14,46,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,39.0,39,-1.0120892524719238,False,Pittsburgh,Notre Dame,7.0,3.0,2,14,55,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,52.0,52,0.5215396881103516,False,Pittsburgh,Notre Dame,7.0,3.0,1,0,51,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,54.0,54,-0.7842531204223633,False,Pittsburgh,Notre Dame,7.0,3.0,1,1,27,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,63.0,63,0.7734308242797852,False,Pittsburgh,Notre Dame,7.0,3.0,1,2,2,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,72.0,63,1.262874960899353,False,Pittsburgh,Notre Dame,7.0,3.0,1,6,22,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Passing Touchdown,,,34.0,34,3.5495715141296387,True,Pittsburgh,Notre Dame,7.0,0.0,1,10,8,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,47.0,47,1.6032919883728027,False,Pittsburgh,Notre Dame,0.0,0.0,1,11,29,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,47.0,47,-0.682563304901123,False,Pittsburgh,Notre Dame,0.0,0.0,1,11,38,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Reception,,,59.0,59,1.9277794361114502,False,Pittsburgh,Notre Dame,0.0,0.0,1,12,11,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234622.0,Pass Incompletion,,,75.0,75,-0.48803526163101196,False,Pittsburgh,Notre Dame,0.0,0.0,1,14,56,8,Pittsburgh,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,79.0,79,-1.1881294250488281,False,Georgia Tech,Notre Dame,31.0,7.0,4,10,40,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,80.0,80,-0.4712827205657959,False,Georgia Tech,Notre Dame,31.0,7.0,4,11,35,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,34.0,34,1.3380775451660156,False,Georgia Tech,Notre Dame,24.0,7.0,3,0,1,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,38.0,38,-0.21140098571777344,False,Georgia Tech,Notre Dame,24.0,7.0,3,0,44,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,72.0,72,3.199035882949829,False,Georgia Tech,Notre Dame,24.0,7.0,3,1,8,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,61.0,61,-1.3898494243621826,False,Georgia Tech,Notre Dame,24.0,7.0,3,6,54,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Sack,,,55.0,55,-1.8961845636367798,False,Georgia Tech,Notre Dame,24.0,7.0,3,7,35,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,63.0,63,0.4883155822753906,False,Georgia Tech,Notre Dame,24.0,7.0,3,8,7,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,44.0,44,1.659708023071289,False,Georgia Tech,Notre Dame,17.0,7.0,3,11,51,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,14.0,14,-0.7340853214263916,False,Georgia Tech,Notre Dame,14.0,7.0,2,1,53,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,14.0,14,-0.7109787464141846,False,Georgia Tech,Notre Dame,14.0,7.0,2,1,59,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,27.0,27,-0.39965009689331055,False,Georgia Tech,Notre Dame,14.0,7.0,2,2,48,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,65.0,65,-0.38911139965057373,False,Georgia Tech,Notre Dame,14.0,7.0,2,8,22,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,76.0,76,0.5206263065338135,False,Georgia Tech,Notre Dame,14.0,7.0,2,8,50,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,70.0,57,-0.6918981075286865,False,Georgia Tech,Notre Dame,7.0,7.0,2,13,9,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,75.0,75,-1.431762456893921,False,Georgia Tech,Notre Dame,7.0,7.0,2,14,29,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,30.0,30,1.3246502876281738,False,Georgia Tech,Notre Dame,7.0,0.0,1,0,42,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Incompletion,,,30.0,30,-0.5530014038085938,False,Georgia Tech,Notre Dame,7.0,0.0,1,0,48,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Sack,,,41.0,41,-1.3109705448150635,False,Georgia Tech,Notre Dame,7.0,0.0,1,1,47,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,57.0,57,1.5832421779632568,False,Georgia Tech,Notre Dame,7.0,0.0,1,2,16,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Passing Touchdown,,,8.0,8,1.9277920722961426,True,Georgia Tech,Notre Dame,7.0,0.0,1,6,16,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,58.0,58,0.935455322265625,False,Georgia Tech,Notre Dame,0.0,0.0,1,10,20,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,65.0,65,2.0810537338256836,False,Georgia Tech,Notre Dame,0.0,0.0,1,11,34,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,76.0,76,-0.252714067697525,False,Georgia Tech,Notre Dame,0.0,0.0,1,12,27,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,73.0,73,1.656415581703186,False,Georgia Tech,Notre Dame,0.0,0.0,1,13,35,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,78.0,78,0.03341040015220642,False,Georgia Tech,Notre Dame,0.0,0.0,1,14,5,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234626.0,Pass Reception,,,81.0,81,-0.4955427944660187,False,Georgia Tech,Notre Dame,0.0,0.0,1,14,29,9,Georgia Tech,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,23.0,77,0.6366326808929443,False,Notre Dame,Clemson,33.0,40.0,5,0,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,8.0,92,0.6127066612243652,False,Notre Dame,Clemson,33.0,40.0,5,0,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,13.0,87,0.6376059055328369,False,Notre Dame,Clemson,40.0,40.0,6,0,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Passing Touchdown,,,4.0,96,2.7387475967407227,True,Notre Dame,Clemson,33.0,33.0,4,0,22,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,4.0,96,-0.8030929565429688,False,Notre Dame,Clemson,26.0,33.0,4,0,27,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,4.0,96,-0.4739804267883301,False,Notre Dame,Clemson,26.0,33.0,4,0,30,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,57.0,43,4.425806999206543,False,Notre Dame,Clemson,26.0,33.0,4,1,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,72.0,28,-0.3577876091003418,False,Notre Dame,Clemson,26.0,33.0,4,1,19,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,91.0,9,0.14518852531909943,False,Notre Dame,Clemson,26.0,33.0,4,1,41,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,47.0,53,-2.1000187397003174,False,Notre Dame,Clemson,26.0,33.0,4,2,10,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,50.0,50,-0.35956478118896484,False,Notre Dame,Clemson,26.0,33.0,4,2,40,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,62.0,38,0.4459044933319092,False,Notre Dame,Clemson,26.0,33.0,4,3,3,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,75.0,25,0.8299600481987,False,Notre Dame,Clemson,26.0,33.0,4,3,30,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,80.0,20,-0.8724886178970337,False,Notre Dame,Clemson,26.0,26.0,4,9,21,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,75.0,25,-0.6131811738014221,False,Notre Dame,Clemson,26.0,26.0,4,9,34,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,58.0,42,3.8420093059539795,False,Notre Dame,Clemson,23.0,23.0,4,13,45,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,58.0,42,-1.0159248113632202,False,Notre Dame,Clemson,23.0,23.0,4,14,2,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,23.0,77,1.2641799449920654,False,Notre Dame,Clemson,23.0,23.0,3,2,35,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,75.0,25,3.0547924041748047,False,Notre Dame,Clemson,23.0,23.0,3,3,42,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,62.0,38,0.011261522769927979,False,Notre Dame,Clemson,23.0,13.0,2,0,35,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,67.0,33,-0.4802889823913574,False,Notre Dame,Clemson,23.0,13.0,2,1,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,37.0,63,-0.03226780891418457,False,Notre Dame,Clemson,20.0,10.0,2,3,10,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,40.0,60,-0.7826141119003296,False,Notre Dame,Clemson,20.0,10.0,2,4,35,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,69.0,31,-0.8912242650985718,False,Notre Dame,Clemson,13.0,10.0,2,6,5,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Sack,,,62.0,38,-1.316449522972107,False,Notre Dame,Clemson,13.0,10.0,2,7,40,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,75.0,25,1.4310088157653809,False,Notre Dame,Clemson,13.0,10.0,2,8,18,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,75.0,25,-0.5536580085754395,False,Notre Dame,Clemson,13.0,10.0,2,8,28,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,9.0,91,-1.0780889987945557,False,Notre Dame,Clemson,10.0,7.0,2,13,13,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Incompletion,,,9.0,91,-0.8423929214477539,False,Notre Dame,Clemson,10.0,7.0,2,13,21,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,42.0,58,0.8546798229217529,False,Notre Dame,Clemson,10.0,7.0,1,0,10,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,56.0,44,1.7336225509643555,False,Notre Dame,Clemson,10.0,7.0,1,0,40,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,69.0,31,1.4614667892456055,False,Notre Dame,Clemson,10.0,7.0,1,2,50,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,19.0,81,1.1314687728881836,False,Notre Dame,Clemson,7.0,0.0,1,9,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Pass Reception,,,53.0,47,2.86879301071167,False,Notre Dame,Clemson,7.0,0.0,1,11,0,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234632.0,Sack,,,56.0,44,-0.9775936603546143,False,Notre Dame,Clemson,7.0,0.0,1,12,10,10,Clemson,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,30.0,30,-1.4774426221847534,False,Boston College,Notre Dame,45.0,23.0,4,5,42,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,63.0,63,1.3018953800201416,False,Boston College,Notre Dame,45.0,23.0,4,10,14,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,6.0,6,-0.8642668724060059,False,Boston College,Notre Dame,38.0,23.0,4,12,27,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,28.0,28,1.4575047492980957,False,Boston College,Notre Dame,31.0,16.0,3,7,5,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Fumble Recovery (Opponent),,,66.0,66,-3.8760218620300293,False,Boston College,Notre Dame,31.0,16.0,3,8,42,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Passing Touchdown,,,7.0,7,3.1026415824890137,True,Boston College,Notre Dame,31.0,16.0,2,0,4,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,7.0,7,-0.8073017597198486,False,Boston College,Notre Dame,24.0,16.0,2,0,9,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,27.0,27,-0.24109745025634766,False,Boston College,Notre Dame,24.0,16.0,2,0,19,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,44.0,44,-0.17580997943878174,False,Boston College,Notre Dame,24.0,16.0,2,1,33,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Fumble Recovery (Opponent),,,70.0,70,-3.581550359725952,False,Boston College,Notre Dame,24.0,16.0,2,2,58,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Passing Touchdown,,,13.0,13,2.882387161254883,True,Boston College,Notre Dame,24.0,13.0,2,5,43,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,13.0,13,-0.875173807144165,False,Boston College,Notre Dame,17.0,13.0,2,5,52,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,16.0,16,0.8586974143981934,False,Boston College,Notre Dame,17.0,13.0,2,7,1,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,38.0,38,1.1042609214782715,False,Boston College,Notre Dame,17.0,13.0,2,8,6,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,50.0,50,4.590538501739502,False,Boston College,Notre Dame,10.0,13.0,2,10,58,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,50.0,50,-0.8095253705978394,False,Boston College,Notre Dame,10.0,13.0,2,11,9,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,50.0,50,-0.5779483318328857,False,Boston College,Notre Dame,10.0,13.0,2,11,18,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Passing Touchdown,,,10.0,10,1.832779884338379,True,Boston College,Notre Dame,10.0,10.0,1,0,11,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,20.0,20,1.132411003112793,False,Boston College,Notre Dame,3.0,10.0,1,0,37,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,22.0,22,-0.5026149749755859,False,Boston College,Notre Dame,3.0,10.0,1,1,10,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,53.0,53,2.304504632949829,False,Boston College,Notre Dame,3.0,10.0,1,2,47,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,77.0,77,1.7190310955047607,False,Boston College,Notre Dame,3.0,10.0,1,3,42,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,5.0,5,-1.4873263835906982,False,Boston College,Notre Dame,0.0,0.0,1,9,44,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Incompletion,,,13.0,13,-0.8228676319122314,False,Boston College,Notre Dame,0.0,0.0,1,10,59,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,31.0,31,0.857914924621582,False,Boston College,Notre Dame,0.0,0.0,1,12,40,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,43.0,43,0.7538280487060547,False,Boston College,Notre Dame,0.0,0.0,1,13,10,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,61.0,61,0.37964725494384766,False,Boston College,Notre Dame,0.0,0.0,1,14,8,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234637.0,Pass Reception,,,75.0,75,0.7060204744338989,False,Boston College,Notre Dame,0.0,0.0,1,14,52,11,Boston College,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,39.0,39,0.8997302055358887,False,North Carolina,Notre Dame,24.0,17.0,4,4,12,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,65.0,65,-1.5692882537841797,False,North Carolina,Notre Dame,24.0,17.0,4,9,17,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,80.0,80,1.9107950925827026,False,North Carolina,Notre Dame,24.0,17.0,4,11,20,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,81.0,81,-0.7728815078735352,False,North Carolina,Notre Dame,24.0,17.0,4,12,1,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,96.0,96,-0.03267878293991089,False,North Carolina,Notre Dame,24.0,17.0,3,0,20,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,17.0,17,-0.7777020931243896,False,North Carolina,Notre Dame,24.0,17.0,3,4,3,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,18.0,18,-0.41623401641845703,False,North Carolina,Notre Dame,24.0,17.0,3,4,39,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,71.0,71,2.6810390949249268,False,North Carolina,Notre Dame,24.0,17.0,3,4,57,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,20.0,20,0.10635137557983398,False,North Carolina,Notre Dame,17.0,17.0,3,7,19,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,35.0,35,-0.6240923404693604,False,North Carolina,Notre Dame,17.0,17.0,3,7,48,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,50.0,50,-0.956449031829834,False,North Carolina,Notre Dame,17.0,17.0,3,8,33,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,50.0,50,2.611140251159668,False,North Carolina,Notre Dame,17.0,17.0,3,8,33,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,71.0,71,2.0869297981262207,False,North Carolina,Notre Dame,17.0,17.0,3,9,12,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,81.0,81,-0.7452902793884277,False,North Carolina,Notre Dame,17.0,17.0,3,10,4,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,85.0,85,-0.6231774091720581,False,North Carolina,Notre Dame,17.0,17.0,3,11,18,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,97.0,97,1.8408225774765015,False,North Carolina,Notre Dame,17.0,17.0,3,11,35,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,14.0,14,0.6912646293640137,False,North Carolina,Notre Dame,14.0,17.0,2,0,5,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,38.0,38,-0.4411945343017578,False,North Carolina,Notre Dame,14.0,17.0,2,0,26,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,48.0,48,0.7030066251754761,False,North Carolina,Notre Dame,14.0,17.0,2,0,30,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,59.0,59,0.23559319972991943,False,North Carolina,Notre Dame,14.0,17.0,2,0,38,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,65.0,65,0.197365403175354,False,North Carolina,Notre Dame,14.0,17.0,2,0,45,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,42.0,42,-1.8533461093902588,False,North Carolina,Notre Dame,14.0,14.0,2,5,58,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,55.0,55,2.0399739742279053,False,North Carolina,Notre Dame,14.0,14.0,2,7,58,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Incompletion,,,60.0,60,-0.6313191652297974,False,North Carolina,Notre Dame,14.0,14.0,2,8,45,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,58.0,58,-1.0635156631469727,False,North Carolina,Notre Dame,14.0,14.0,2,11,45,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Sack,,,56.0,56,-1.3535014390945435,False,North Carolina,Notre Dame,14.0,14.0,2,12,24,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,74.0,74,0.8941045999526978,False,North Carolina,Notre Dame,14.0,14.0,2,13,56,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Passing Touchdown,,,4.0,4,1.4081110954284668,True,North Carolina,Notre Dame,14.0,14.0,1,1,5,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,82.0,82,3.146934747695923,False,North Carolina,Notre Dame,7.0,14.0,1,2,45,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,57.0,57,1.5150500535964966,False,North Carolina,Notre Dame,0.0,7.0,1,7,56,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Pass Reception,,,75.0,75,0.7783498764038086,False,North Carolina,Notre Dame,0.0,7.0,1,9,45,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234650.0,Sack,,,73.0,73,-1.9348170757293701,False,North Carolina,Notre Dame,0.0,0.0,1,13,22,13,North Carolina,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,40.0,60,-1.9288901090621948,False,Notre Dame,Syracuse,38.0,14.0,4,10,30,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,60.0,40,-0.49807024002075195,False,Notre Dame,Syracuse,38.0,14.0,4,12,36,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,71.0,29,1.765700101852417,False,Notre Dame,Syracuse,38.0,14.0,4,13,0,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,71.0,29,-0.9838857650756836,False,Notre Dame,Syracuse,38.0,14.0,4,13,20,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Passing Touchdown,,,26.0,74,2.4458861351013184,True,Notre Dame,Syracuse,38.0,14.0,3,1,7,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,32.0,68,-1.5234026908874512,False,Notre Dame,Syracuse,31.0,14.0,3,3,50,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,32.0,68,-1.5790331363677979,False,Notre Dame,Syracuse,24.0,14.0,3,7,53,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Interception Return,,,53.0,47,-3.998863697052002,False,Notre Dame,Syracuse,24.0,14.0,3,10,0,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Passing Touchdown,,,28.0,72,5.402227878570557,True,Notre Dame,Syracuse,24.0,7.0,2,0,6,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,49.0,51,1.1561279296875,False,Notre Dame,Syracuse,17.0,7.0,2,0,12,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,49.0,51,-0.271506130695343,False,Notre Dame,Syracuse,17.0,7.0,2,0,19,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,49.0,51,-0.033430516719818115,False,Notre Dame,Syracuse,17.0,7.0,2,0,20,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,63.0,37,0.2124786376953125,False,Notre Dame,Syracuse,17.0,7.0,2,0,28,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,68.0,32,-0.05736219882965088,False,Notre Dame,Syracuse,17.0,7.0,2,0,33,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Passing Touchdown,,,21.0,79,3.766430377960205,True,Notre Dame,Syracuse,17.0,7.0,2,1,30,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,39.0,61,0.5378870964050293,False,Notre Dame,Syracuse,3.0,7.0,2,3,45,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,57.0,43,1.1543954610824585,False,Notre Dame,Syracuse,3.0,7.0,2,4,0,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Sack,,,65.0,35,-1.8940768241882324,False,Notre Dame,Syracuse,3.0,7.0,2,4,45,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,35.0,65,-3.08335542678833,False,Notre Dame,Syracuse,3.0,7.0,2,6,35,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,36.0,64,-0.7720322608947754,False,Notre Dame,Syracuse,3.0,7.0,2,7,18,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,42.0,58,0.44835329055786133,False,Notre Dame,Syracuse,3.0,7.0,2,7,30,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,56.0,44,1.0346506834030151,False,Notre Dame,Syracuse,3.0,7.0,2,8,0,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,61.0,39,0.17924654483795166,False,Notre Dame,Syracuse,3.0,7.0,2,8,30,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,69.0,31,0.2843409776687622,False,Notre Dame,Syracuse,3.0,7.0,2,9,5,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,72.0,28,-1.4320013523101807,False,Notre Dame,Syracuse,3.0,0.0,2,14,8,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,72.0,28,-0.9655836224555969,False,Notre Dame,Syracuse,3.0,0.0,2,14,20,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,85.0,15,1.8030848503112793,False,Notre Dame,Syracuse,3.0,0.0,1,0,30,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Sack,,,90.0,10,-1.2486281394958496,False,Notre Dame,Syracuse,3.0,0.0,1,1,25,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,67.0,33,-1.2101943492889404,False,Notre Dame,Syracuse,3.0,0.0,1,5,10,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,72.0,28,-0.7251969575881958,False,Notre Dame,Syracuse,3.0,0.0,1,6,15,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,92.0,8,2.221526622772217,False,Notre Dame,Syracuse,3.0,0.0,1,6,55,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,7.0,93,-1.4537296295166016,False,Notre Dame,Syracuse,0.0,0.0,1,9,36,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,7.0,93,-0.8808107376098633,False,Notre Dame,Syracuse,0.0,0.0,1,9,41,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,22.0,78,0.4598560333251953,False,Notre Dame,Syracuse,0.0,0.0,1,10,50,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,28.0,72,0.3468766212463379,False,Notre Dame,Syracuse,0.0,0.0,1,11,20,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,57.0,43,3.4904983043670654,False,Notre Dame,Syracuse,0.0,0.0,1,12,15,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Incompletion,,,60.0,40,-0.6853265762329102,False,Notre Dame,Syracuse,0.0,0.0,1,13,0,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,74.0,26,2.2524070739746094,False,Notre Dame,Syracuse,0.0,0.0,1,13,30,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401234662.0,Pass Reception,,,80.0,20,0.5125669836997986,False,Notre Dame,Syracuse,0.0,0.0,1,14,50,14,Syracuse,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,15.0,15,1.7302439212799072,False,Alabama,Notre Dame,14.0,31.0,4,0,0,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,33.0,33,-0.021872997283935547,False,Alabama,Notre Dame,14.0,31.0,4,0,13,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,53.0,53,-0.2724054455757141,False,Alabama,Notre Dame,14.0,31.0,4,0,48,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,8.0,8,2.3270552158355713,False,Alabama,Notre Dame,7.0,31.0,4,1,36,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,13.0,13,-0.18671679496765137,False,Alabama,Notre Dame,7.0,31.0,4,2,0,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,13.0,13,-0.49111270904541016,False,Alabama,Notre Dame,7.0,31.0,4,2,8,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,23.0,23,1.2637531757354736,False,Alabama,Notre Dame,7.0,31.0,4,2,31,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,25.0,25,-0.4526808261871338,False,Alabama,Notre Dame,7.0,31.0,4,3,0,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,40.0,40,0.4526808261871338,False,Alabama,Notre Dame,7.0,31.0,4,3,9,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,55.0,55,3.1354663372039795,False,Alabama,Notre Dame,7.0,31.0,4,3,26,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,55.0,55,-1.0496187210083008,False,Alabama,Notre Dame,7.0,31.0,4,3,42,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Sack,,,54.0,54,-0.5703352689743042,False,Alabama,Notre Dame,7.0,31.0,4,4,3,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,77.0,77,1.5921813249588013,False,Alabama,Notre Dame,7.0,31.0,4,4,59,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,80.0,80,-0.31708407402038574,False,Alabama,Notre Dame,7.0,31.0,4,5,25,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,13.0,13,-2.7107295989990234,False,Alabama,Notre Dame,7.0,31.0,4,8,43,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,13.0,13,-1.4641722440719604,False,Alabama,Notre Dame,7.0,31.0,4,8,49,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,18.0,18,-0.14601373672485352,False,Alabama,Notre Dame,7.0,31.0,4,9,58,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,31.0,31,1.4574620723724365,False,Alabama,Notre Dame,7.0,31.0,4,10,30,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,35.0,35,0.25864338874816895,False,Alabama,Notre Dame,7.0,31.0,4,10,50,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,42.0,42,0.7868366241455078,False,Alabama,Notre Dame,7.0,31.0,4,11,25,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,57.0,57,0.899264395236969,False,Alabama,Notre Dame,7.0,31.0,4,12,10,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,75.0,75,1.3763415813446045,False,Alabama,Notre Dame,7.0,31.0,4,12,40,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,69.0,69,-0.4817526340484619,False,Alabama,Notre Dame,7.0,28.0,3,3,0,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Sack,,,56.0,56,-2.4223928451538086,False,Alabama,Notre Dame,7.0,28.0,3,4,0,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Interception Return,,,63.0,63,-3.0810320377349854,False,Alabama,Notre Dame,7.0,21.0,3,7,27,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,76.0,76,1.7294225692749023,False,Alabama,Notre Dame,7.0,21.0,3,8,40,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,84.0,84,1.1299583911895752,False,Alabama,Notre Dame,7.0,21.0,3,9,50,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,90.0,90,0.10900044441223145,False,Alabama,Notre Dame,7.0,21.0,3,10,32,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,41.0,41,0.5067503452301025,False,Alabama,Notre Dame,7.0,21.0,2,0,9,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,40.0,40,-0.5467454195022583,False,Alabama,Notre Dame,7.0,21.0,2,0,15,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,60.0,60,0.8961498141288757,False,Alabama,Notre Dame,7.0,21.0,2,0,23,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,60.0,60,-0.14974051713943481,False,Alabama,Notre Dame,7.0,21.0,2,0,26,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,57.0,57,-1.1673495769500732,False,Alabama,Notre Dame,7.0,21.0,2,5,48,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,59.0,59,-0.34466052055358887,False,Alabama,Notre Dame,7.0,21.0,2,7,5,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,69.0,69,2.015101194381714,False,Alabama,Notre Dame,7.0,21.0,2,7,35,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,72.0,72,-0.03430658578872681,False,Alabama,Notre Dame,7.0,21.0,2,8,17,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,9.0,9,0.2274460792541504,False,Alabama,Notre Dame,0.0,14.0,2,12,25,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,20.0,20,0.17608928680419922,False,Alabama,Notre Dame,0.0,14.0,2,15,0,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,34.0,34,-0.659125566482544,False,Alabama,Notre Dame,0.0,14.0,1,1,3,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,72.0,72,2.9336612224578857,False,Alabama,Notre Dame,0.0,14.0,1,3,28,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Reception,,,67.0,67,1.1354467868804932,False,Alabama,Notre Dame,0.0,7.0,1,8,55,1,Alabama,2020,Notre Dame,Ian Book,2021
+401240152.0,Pass Incompletion,,,78.0,78,-1.0485877990722656,False,Alabama,Notre Dame,0.0,0.0,1,13,33,1,Alabama,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,77.0,23,-0.8433372974395752,False,Notre Dame,South Florida,45.0,0.0,4,10,53,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,59.0,41,-0.45487189292907715,False,Notre Dame,South Florida,45.0,0.0,3,1,40,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,4.0,96,-1.9743165969848633,False,Notre Dame,South Florida,35.0,0.0,3,6,38,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,8.0,92,-0.5677647590637207,False,Notre Dame,South Florida,35.0,0.0,3,7,24,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,35.0,65,1.0994987487792969,False,Notre Dame,South Florida,35.0,0.0,3,7,41,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,49.0,51,0.17215704917907715,False,Notre Dame,South Florida,35.0,0.0,3,8,31,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,10.0,90,-0.4909963607788086,False,Notre Dame,South Florida,28.0,0.0,2,2,16,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,22.0,78,0.19671010971069336,False,Notre Dame,South Florida,28.0,0.0,2,7,10,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,35.0,65,0.7091338634490967,False,Notre Dame,South Florida,28.0,0.0,2,8,35,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,30.0,70,0.0037822723388671875,False,Notre Dame,South Florida,21.0,0.0,2,11,46,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,43.0,57,-0.595862865447998,False,Notre Dame,South Florida,21.0,0.0,2,12,38,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,19.0,81,3.3742525577545166,False,Notre Dame,South Florida,14.0,0.0,1,0,0,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,19.0,81,-0.9107720851898193,False,Notre Dame,South Florida,14.0,0.0,1,0,15,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,36.0,64,0.5644617080688477,False,Notre Dame,South Florida,14.0,0.0,1,1,45,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,10.0,90,-0.21293973922729492,False,Notre Dame,South Florida,7.0,0.0,1,8,14,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,43.0,57,1.0700747966766357,False,Notre Dame,South Florida,7.0,0.0,1,10,22,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Incompletion,,,11.0,89,-0.7766876220703125,False,Notre Dame,South Florida,0.0,0.0,1,12,43,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,23.0,77,0.3075828552246094,False,Notre Dame,South Florida,0.0,0.0,1,13,47,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,30.0,70,0.39441919326782227,False,Notre Dame,South Florida,0.0,0.0,1,14,20,3,South Florida,2020,Notre Dame,Ian Book,2021
+401241282.0,Pass Reception,,,54.0,46,-2.6001291275024414,False,Notre Dame,South Florida,0.0,0.0,1,14,44,3,South Florida,2020,Notre Dame,Ian Book,2021
+401256001.0,Sack,,,55.0,45,-0.4376910626888275,False,Notre Dame,Clemson,10.0,34.0,4,1,11,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,55.0,45,-0.17843684554100037,False,Notre Dame,Clemson,10.0,34.0,4,1,21,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,59.0,41,1.1376460790634155,False,Notre Dame,Clemson,10.0,34.0,4,2,18,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,61.0,39,-0.2644670605659485,False,Notre Dame,Clemson,10.0,34.0,4,2,44,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,61.0,39,-0.5115686655044556,False,Notre Dame,Clemson,10.0,34.0,4,2,53,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,80.0,20,0.9589979648590088,False,Notre Dame,Clemson,10.0,34.0,4,3,18,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,92.0,8,1.2620372772216797,False,Notre Dame,Clemson,10.0,34.0,4,3,42,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,28.0,72,0.6749355792999268,False,Notre Dame,Clemson,3.0,34.0,4,8,34,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,43.0,57,-0.5460494756698608,False,Notre Dame,Clemson,3.0,34.0,4,8,44,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,55.0,45,1.293675422668457,False,Notre Dame,Clemson,3.0,34.0,4,9,7,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,55.0,45,-0.4637851119041443,False,Notre Dame,Clemson,3.0,34.0,4,9,18,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,75.0,25,0.2612951695919037,False,Notre Dame,Clemson,3.0,34.0,4,10,23,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,40.0,60,-2.013408660888672,False,Notre Dame,Clemson,3.0,31.0,3,2,14,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,40.0,60,-1.1888630390167236,False,Notre Dame,Clemson,3.0,31.0,3,2,43,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,75.0,41,-0.1299588680267334,False,Notre Dame,Clemson,3.0,31.0,3,3,37,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Sack,,,74.0,26,-0.8598906993865967,False,Notre Dame,Clemson,3.0,24.0,3,6,43,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,77.0,23,-0.6195648908615112,False,Notre Dame,Clemson,3.0,24.0,3,8,4,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Fumble Recovery (Own),,,82.0,18,0.3708384037017822,False,Notre Dame,Clemson,3.0,24.0,3,8,40,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Sack,,,83.0,17,-1.1737995147705078,False,Notre Dame,Clemson,3.0,24.0,3,12,22,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,82.0,18,-1.0765297412872314,False,Notre Dame,Clemson,3.0,24.0,3,13,26,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,65.0,35,-0.13697703182697296,False,Notre Dame,Clemson,3.0,17.0,2,2,35,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,75.0,25,0.883653998374939,False,Notre Dame,Clemson,3.0,17.0,2,4,18,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Sack,,,76.0,24,-0.9167348146438599,False,Notre Dame,Clemson,3.0,14.0,2,7,48,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Sack,,,66.0,34,-2.757584571838379,False,Notre Dame,Clemson,3.0,14.0,2,8,35,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,75.0,25,0.9728548526763916,False,Notre Dame,Clemson,3.0,14.0,2,9,15,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,28.0,72,-3.3849010467529297,False,Notre Dame,Clemson,3.0,7.0,2,12,8,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,65.0,35,1.8361433744430542,False,Notre Dame,Clemson,3.0,7.0,2,14,51,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Incompletion,,,6.0,94,-1.3251001834869385,False,Notre Dame,Clemson,3.0,0.0,1,1,45,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,62.0,38,1.4645004272460938,False,Notre Dame,Clemson,3.0,0.0,1,5,13,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Sack,,,28.0,72,-2.104257822036743,False,Notre Dame,Clemson,0.0,0.0,1,8,59,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,45.0,55,2.6755223274230957,False,Notre Dame,Clemson,0.0,0.0,1,10,58,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,51.0,49,0.08668398857116699,False,Notre Dame,Clemson,0.0,0.0,1,11,36,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,62.0,38,1.0921177864074707,False,Notre Dame,Clemson,0.0,0.0,1,12,50,16,Clemson,2020,Notre Dame,Ian Book,2021
+401256001.0,Pass Reception,,,74.0,26,2.2569162845611572,False,Notre Dame,Clemson,0.0,0.0,1,13,29,16,Clemson,2020,Notre Dame,Ian Book,2021

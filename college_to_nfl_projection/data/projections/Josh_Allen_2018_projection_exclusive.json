@@ -1,0 +1,179 @@
+{
+  "player_name": "Josh Allen",
+  "draft_year": 2018,
+  "college": "Wyoming",
+  "outcome_probabilities": {
+    "Bust": 0.27,
+    "Elite": 0.453,
+    "Journeyman": 0.202,
+    "Solid Starter": 0.075
+  },
+  "rookie_leaf_estimate": -0.295,
+  "trajectories": {
+    "pessimistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.237,
+        "conf_lower": -0.397,
+        "conf_upper": -0.077
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.164,
+        "conf_lower": -0.334,
+        "conf_upper": 0.006
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.077,
+        "conf_lower": -0.257,
+        "conf_upper": 0.103
+      },
+      {
+        "year": 4,
+        "leaf_estimate": -0.153,
+        "conf_lower": -0.343,
+        "conf_upper": 0.037
+      },
+      {
+        "year": 5,
+        "leaf_estimate": -0.23,
+        "conf_lower": -0.43,
+        "conf_upper": -0.03
+      }
+    ],
+    "realistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.224,
+        "conf_lower": -0.383,
+        "conf_upper": -0.066
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.147,
+        "conf_lower": -0.313,
+        "conf_upper": 0.02
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.041,
+        "conf_lower": -0.216,
+        "conf_upper": 0.134
+      },
+      {
+        "year": 4,
+        "leaf_estimate": -0.014,
+        "conf_lower": -0.197,
+        "conf_upper": 0.169
+      },
+      {
+        "year": 5,
+        "leaf_estimate": -0.107,
+        "conf_lower": -0.299,
+        "conf_upper": 0.085
+      },
+      {
+        "year": 6,
+        "leaf_estimate": -0.2,
+        "conf_lower": -0.4,
+        "conf_upper": 0.0
+      }
+    ],
+    "optimistic": [
+      {
+        "year": 1,
+        "leaf_estimate": -0.233,
+        "conf_lower": -0.389,
+        "conf_upper": -0.078
+      },
+      {
+        "year": 2,
+        "leaf_estimate": -0.171,
+        "conf_lower": -0.332,
+        "conf_upper": -0.01
+      },
+      {
+        "year": 3,
+        "leaf_estimate": -0.1,
+        "conf_lower": -0.267,
+        "conf_upper": 0.067
+      },
+      {
+        "year": 4,
+        "leaf_estimate": -0.007,
+        "conf_lower": -0.179,
+        "conf_upper": 0.165
+      },
+      {
+        "year": 5,
+        "leaf_estimate": 0.086,
+        "conf_lower": -0.092,
+        "conf_upper": 0.264
+      },
+      {
+        "year": 6,
+        "leaf_estimate": 0.074,
+        "conf_lower": -0.109,
+        "conf_upper": 0.258
+      },
+      {
+        "year": 7,
+        "leaf_estimate": -0.007,
+        "conf_lower": -0.196,
+        "conf_upper": 0.182
+      },
+      {
+        "year": 8,
+        "leaf_estimate": -0.088,
+        "conf_lower": -0.283,
+        "conf_upper": 0.106
+      },
+      {
+        "year": 9,
+        "leaf_estimate": -0.17,
+        "conf_lower": -0.37,
+        "conf_upper": 0.03
+      }
+    ]
+  },
+  "historical_comps": [
+    {
+      "name": "Josh Allen",
+      "draft_year": 2018,
+      "similarity": 100.0,
+      "outcome": "Elite",
+      "rookie_leaf": -0.1302806134397872
+    },
+    {
+      "name": "Malik Willis",
+      "draft_year": 2022,
+      "similarity": 72.1,
+      "outcome": "Bust",
+      "rookie_leaf": -0.5470097049467599
+    },
+    {
+      "name": "Trent Edwards",
+      "draft_year": 2007,
+      "similarity": 23.1,
+      "outcome": "Journeyman",
+      "rookie_leaf": -0.1747872222755019
+    },
+    {
+      "name": "Brock Osweiler",
+      "draft_year": 2012,
+      "similarity": 16.7,
+      "outcome": "Elite",
+      "rookie_leaf": -0.0666929545500749
+    },
+    {
+      "name": "Kyler Murray",
+      "draft_year": 2019,
+      "similarity": 12.0,
+      "outcome": "Elite",
+      "rookie_leaf": -0.015928079233116
+    }
+  ],
+  "confidence_level": "MODERATE",
+  "model_notes": "Based on career average college stats. Mutually exclusive outcomes sum to 100%."
+}

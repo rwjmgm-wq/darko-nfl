@@ -1,0 +1,576 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401110725.0,Pass Reception,,,66.0,34,-0.15079176425933838,False,LSU,Georgia Southern,55.0,3.0,4,3,54,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,65.0,35,-0.5299286842346191,False,LSU,Georgia Southern,55.0,3.0,4,5,24,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,64.0,36,-0.49809694290161133,False,LSU,Georgia Southern,55.0,3.0,4,6,2,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,35.0,65,-0.5361378192901611,False,LSU,Georgia Southern,52.0,3.0,4,14,5,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,60.0,40,-1.0440126657485962,False,LSU,Georgia Southern,52.0,3.0,3,1,17,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,75.0,25,1.7051546573638916,False,LSU,Georgia Southern,52.0,3.0,3,2,34,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,75.0,25,-0.6751227378845215,False,LSU,Georgia Southern,52.0,3.0,3,2,44,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,6.0,94,5.5651726722717285,False,LSU,Georgia Southern,45.0,3.0,3,5,47,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,43.0,57,1.2124614715576172,False,LSU,Georgia Southern,45.0,3.0,3,8,2,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,55.0,45,1.765122413635254,False,LSU,Georgia Southern,45.0,3.0,3,8,34,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,59.0,41,-0.0031290054321289062,False,LSU,Georgia Southern,45.0,3.0,3,9,8,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,30.0,70,0.7408099174499512,False,LSU,Georgia Southern,42.0,3.0,3,11,34,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,29.0,71,-0.8067746162414551,False,LSU,Georgia Southern,42.0,3.0,3,11,57,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,46.0,54,0.49254274368286133,False,LSU,Georgia Southern,42.0,3.0,3,12,35,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Passing Touchdown,,,11.0,89,3.1411375999450684,True,LSU,Georgia Southern,42.0,3.0,2,0,58,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,26.0,74,2.4112377166748047,False,LSU,Georgia Southern,35.0,3.0,2,1,10,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,65.0,35,2.0679574012756348,False,LSU,Georgia Southern,35.0,3.0,2,1,24,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,78.0,22,0.38700586557388306,False,LSU,Georgia Southern,35.0,3.0,2,1,43,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,80.0,20,-0.39467090368270874,False,LSU,Georgia Southern,35.0,3.0,2,1,58,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,70.0,30,-0.7389082908630371,False,LSU,Georgia Southern,35.0,3.0,2,4,14,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,75.0,25,-0.32432910799980164,False,LSU,Georgia Southern,35.0,3.0,2,4,49,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,75.0,25,-0.4463881254196167,False,LSU,Georgia Southern,35.0,3.0,2,5,8,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Passing Touchdown,,,3.0,97,2.019460678100586,True,LSU,Georgia Southern,35.0,0.0,2,9,58,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,25.0,75,0.8475966453552246,False,LSU,Georgia Southern,28.0,0.0,2,11,5,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Passing Touchdown,,,8.0,92,2.672393321990967,True,LSU,Georgia Southern,28.0,0.0,2,13,10,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,26.0,74,0.6340012550354004,False,LSU,Georgia Southern,21.0,0.0,1,0,5,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Passing Touchdown,,,9.0,91,1.0438928604125977,True,LSU,Georgia Southern,21.0,0.0,1,3,9,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,22.0,78,0.34302711486816406,False,LSU,Georgia Southern,14.0,0.0,1,4,5,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,41.0,59,0.38376784324645996,False,LSU,Georgia Southern,14.0,0.0,1,5,15,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,41.0,59,-0.5763490200042725,False,LSU,Georgia Southern,14.0,0.0,1,5,40,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,53.0,47,0.9688072204589844,False,LSU,Georgia Southern,14.0,0.0,1,6,13,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,52.0,48,-0.9444456100463867,False,LSU,Georgia Southern,14.0,0.0,1,6,43,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,27.0,73,1.3884167671203613,False,LSU,Georgia Southern,7.0,0.0,1,9,5,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Passing Touchdown,,,13.0,87,1.8775968551635742,True,LSU,Georgia Southern,7.0,0.0,1,12,36,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,47.0,53,3.024264097213745,False,LSU,Georgia Southern,0.0,0.0,1,13,24,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,64.0,36,1.1024935245513916,False,LSU,Georgia Southern,0.0,0.0,1,13,54,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Reception,,,68.0,32,1.4601457118988037,False,LSU,Georgia Southern,0.0,0.0,1,14,0,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110725.0,Pass Incompletion,,,75.0,25,-0.7518473267555237,False,LSU,Georgia Southern,0.0,0.0,1,14,52,1,Georgia Southern,2019,LSU,Joe Burrow,2020
+401110778.0,Passing Touchdown,,,61.0,61,7.353672981262207,True,Texas,LSU,45.0,31.0,4,2,27,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Sack,,,54.0,54,-0.9463983178138733,False,Texas,LSU,37.0,31.0,4,2,39,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,64.0,64,0.1145024299621582,False,Texas,LSU,37.0,31.0,4,3,41,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,75.0,75,0.6083988547325134,False,Texas,LSU,37.0,31.0,4,3,54,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,24.0,24,0.4649782180786133,False,Texas,LSU,30.0,28.0,4,10,12,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,54.0,54,1.4403581619262695,False,Texas,LSU,30.0,28.0,4,10,34,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,56.0,56,-0.5047197341918945,False,Texas,LSU,30.0,28.0,4,11,7,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,74.0,74,1.7231974601745605,False,Texas,LSU,30.0,28.0,4,11,23,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,75.0,75,-0.5644865036010742,False,Texas,LSU,30.0,28.0,4,12,3,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Passing Touchdown,,,26.0,26,2.53511905670166,True,Texas,LSU,30.0,21.0,4,14,52,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,38.0,38,0.5882842540740967,False,Texas,LSU,23.0,21.0,3,0,20,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,70.0,70,2.729686737060547,False,Texas,LSU,23.0,21.0,3,1,13,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,75.0,75,-0.5175108909606934,False,Texas,LSU,23.0,21.0,3,2,31,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,39.0,39,0.7678933143615723,False,Texas,LSU,20.0,14.0,3,6,24,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,80.0,80,2.674077033996582,False,Texas,LSU,20.0,14.0,3,6,42,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,75.0,75,-0.18062198162078857,False,Texas,LSU,20.0,7.0,3,14,52,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Passing Touchdown,,,21.0,21,3.8122732639312744,True,Texas,LSU,20.0,7.0,2,0,47,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,39.0,39,1.2890653610229492,False,Texas,LSU,13.0,7.0,2,1,0,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,58.0,58,0.7001920938491821,False,Texas,LSU,13.0,7.0,2,1,7,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Sack,,,4.0,4,-2.019061326980591,False,Texas,LSU,10.0,7.0,2,1,48,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Incompletion,,,9.0,9,-0.6322975158691406,False,Texas,LSU,10.0,7.0,2,2,6,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,24.0,24,0.43995022773742676,False,Texas,LSU,10.0,7.0,2,2,53,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,44.0,44,1.709155559539795,False,Texas,LSU,10.0,7.0,2,3,8,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,67.0,67,1.401271939277649,False,Texas,LSU,10.0,7.0,2,4,12,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,80.0,80,0.4490663409233093,False,Texas,LSU,10.0,7.0,2,4,28,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Passing Touchdown,,,6.0,6,3.051880121231079,True,Texas,LSU,10.0,7.0,2,7,30,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Incompletion,,,6.0,6,-0.895789623260498,False,Texas,LSU,3.0,7.0,2,7,36,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,21.0,21,0.5326223373413086,False,Texas,LSU,3.0,7.0,2,8,24,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,54.0,54,-0.24224400520324707,False,Texas,LSU,3.0,7.0,2,9,32,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,71.0,71,1.5288152694702148,False,Texas,LSU,3.0,7.0,2,9,50,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Sack,,,65.0,65,-1.4538745880126953,False,Texas,LSU,3.0,0.0,2,14,53,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Sack,,,79.0,79,-1.293247938156128,False,Texas,LSU,3.0,0.0,1,1,7,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,85.0,85,0.09150457382202148,False,Texas,LSU,3.0,0.0,1,1,33,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,97.0,97,1.1437866687774658,False,Texas,LSU,3.0,0.0,1,2,12,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Interception Return,,,96.0,96,-4.75152063369751,False,Texas,LSU,3.0,0.0,1,4,6,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Incompletion,,,97.0,97,-0.7320269346237183,False,Texas,LSU,3.0,0.0,1,4,58,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Incompletion,,,18.0,18,-1.4281392097473145,False,Texas,LSU,0.0,0.0,1,8,8,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,21.0,21,-0.34989142417907715,False,Texas,LSU,0.0,0.0,1,8,47,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,61.0,61,2.3214333057403564,False,Texas,LSU,0.0,0.0,1,9,43,2,Texas,2019,LSU,Joe Burrow,2020
+401110778.0,Pass Reception,,,75.0,75,0.14648282527923584,False,Texas,LSU,0.0,0.0,1,10,37,2,Texas,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,37.0,63,4.345808029174805,False,LSU,Northwestern State,58.0,14.0,4,2,45,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,39.0,61,-0.44568777084350586,False,LSU,Northwestern State,58.0,14.0,4,3,30,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,62.0,38,0.22164344787597656,False,LSU,Northwestern State,58.0,14.0,4,5,25,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Incompletion,,,50.0,50,-0.9985888004302979,False,LSU,Northwestern State,51.0,14.0,4,10,7,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,57.0,43,-0.32004737854003906,False,LSU,Northwestern State,51.0,14.0,4,10,48,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,80.0,20,0.6007301807403564,False,LSU,Northwestern State,51.0,14.0,4,11,53,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,28.0,72,0.5742397308349609,False,LSU,Northwestern State,44.0,14.0,3,3,0,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,35.0,65,0.41656970977783203,False,LSU,Northwestern State,44.0,14.0,3,3,25,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,55.0,45,0.5448751449584961,False,LSU,Northwestern State,44.0,14.0,3,4,41,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,14.0,86,0.9773969650268555,False,LSU,Northwestern State,37.0,14.0,3,6,46,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,78.0,22,2.4787280559539795,False,LSU,Northwestern State,37.0,14.0,3,7,45,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Passing Touchdown,,,6.0,94,0.9512085914611816,True,LSU,Northwestern State,37.0,14.0,3,9,36,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,26.0,74,0.5233235359191895,False,LSU,Northwestern State,24.0,14.0,3,14,0,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,74.0,26,-2.1552155017852783,False,LSU,Northwestern State,24.0,14.0,3,14,36,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Sack,,,55.0,45,-0.19042707979679108,False,LSU,Northwestern State,24.0,14.0,2,0,9,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,71.0,29,0.027441948652267456,False,LSU,Northwestern State,24.0,14.0,2,0,21,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Interception Return,,,85.0,15,-4.368783950805664,False,LSU,Northwestern State,24.0,14.0,2,0,58,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,23.0,77,0.5445032119750977,False,LSU,Northwestern State,17.0,14.0,2,4,20,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,42.0,58,1.11167573928833,False,LSU,Northwestern State,17.0,14.0,2,4,55,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,70.0,30,1.53130304813385,False,LSU,Northwestern State,17.0,14.0,2,5,20,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Passing Touchdown,,,14.0,86,3.749265432357788,True,LSU,Northwestern State,17.0,7.0,2,8,50,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,30.0,70,0.7999858856201172,False,LSU,Northwestern State,10.0,7.0,2,10,40,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,56.0,44,1.4105820655822754,False,LSU,Northwestern State,10.0,7.0,2,11,0,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,77.0,23,1.2835755348205566,False,LSU,Northwestern State,10.0,7.0,2,11,24,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,17.0,83,0.45786190032958984,False,LSU,Northwestern State,3.0,7.0,2,13,17,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,30.0,70,1.4883062839508057,False,LSU,Northwestern State,3.0,7.0,2,13,46,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Incompletion,,,30.0,70,-0.5688154697418213,False,LSU,Northwestern State,3.0,7.0,2,13,53,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,45.0,55,1.5010976791381836,False,LSU,Northwestern State,3.0,7.0,2,14,20,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,69.0,31,1.2998329401016235,False,LSU,Northwestern State,3.0,7.0,1,0,1,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,15.0,85,-0.037833213806152344,False,LSU,Northwestern State,0.0,0.0,1,6,10,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,25.0,75,0.6463074684143066,False,LSU,Northwestern State,0.0,0.0,1,7,5,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,49.0,51,1.7584680318832397,False,LSU,Northwestern State,0.0,0.0,1,7,50,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110790.0,Pass Reception,,,65.0,35,0.4802980422973633,False,LSU,Northwestern State,0.0,0.0,1,9,40,3,Northwestern State,2019,LSU,Joe Burrow,2020
+401110805.0,Interception Return Touchdown,,,65.0,65,-8.216240882873535,True,Vanderbilt,LSU,66.0,38.0,4,1,51,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,65.0,65,-0.4703691005706787,False,Vanderbilt,LSU,66.0,31.0,4,7,15,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,74.0,74,-0.6796762943267822,False,Vanderbilt,LSU,66.0,31.0,4,7,55,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,30.0,30,1.7009093761444092,False,Vanderbilt,LSU,59.0,31.0,4,10,15,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,57.0,57,-1.8628908395767212,False,Vanderbilt,LSU,59.0,31.0,4,14,55,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,62.0,62,-0.24131512641906738,False,Vanderbilt,LSU,59.0,31.0,3,0,26,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,87.0,87,-1.2869932651519775,False,Vanderbilt,LSU,59.0,24.0,3,4,52,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,90.0,90,-0.669151782989502,False,Vanderbilt,LSU,59.0,24.0,3,5,36,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Passing Touchdown,,,16.0,16,1.7482762336730957,True,Vanderbilt,LSU,52.0,24.0,3,9,29,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,31.0,31,-0.1994457244873047,False,Vanderbilt,LSU,45.0,24.0,3,10,50,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,35.0,35,-0.2124497890472412,False,Vanderbilt,LSU,45.0,24.0,3,12,0,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,75.0,75,0.6996164321899414,False,Vanderbilt,LSU,45.0,24.0,3,13,15,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Passing Touchdown,,,6.0,6,0.9524979591369629,True,Vanderbilt,LSU,45.0,17.0,3,14,48,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Sack,,,75.0,75,1.4088917970657349,False,Vanderbilt,LSU,38.0,17.0,2,0,25,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Passing Touchdown,,,51.0,51,4.957671165466309,True,Vanderbilt,LSU,38.0,10.0,2,1,56,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,64.0,64,1.280698537826538,False,Vanderbilt,LSU,31.0,10.0,2,2,15,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,64.0,64,-0.42609846591949463,False,Vanderbilt,LSU,31.0,10.0,2,2,27,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,64.0,64,-0.44530999660491943,False,Vanderbilt,LSU,31.0,10.0,2,2,31,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,78.0,78,-0.1179419755935669,False,Vanderbilt,LSU,31.0,10.0,2,2,55,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,7.0,7,-1.679964542388916,False,Vanderbilt,LSU,28.0,10.0,2,5,58,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,7.0,7,-0.964421272277832,False,Vanderbilt,LSU,28.0,10.0,2,6,6,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,43.0,15,-0.27712345123291016,False,Vanderbilt,LSU,28.0,10.0,2,7,12,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,57.0,57,0.8691599369049072,False,Vanderbilt,LSU,28.0,10.0,2,7,30,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,39.0,39,-1.3387364149093628,False,Vanderbilt,LSU,28.0,10.0,2,9,19,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,44.0,44,-0.7502931356430054,False,Vanderbilt,LSU,28.0,10.0,2,9,50,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Sack,,,34.0,34,-1.5852642059326172,False,Vanderbilt,LSU,28.0,10.0,2,10,40,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,64.0,64,1.8367021083831787,False,Vanderbilt,LSU,28.0,10.0,2,10,50,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,75.0,75,0.5572154521942139,False,Vanderbilt,LSU,28.0,10.0,2,12,4,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Passing Touchdown,,,25.0,25,1.7243452072143555,True,Vanderbilt,LSU,28.0,7.0,1,0,51,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,39.0,39,-0.014414310455322266,False,Vanderbilt,LSU,21.0,7.0,1,1,0,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,58.0,54,-0.5356264114379883,False,Vanderbilt,LSU,21.0,7.0,1,1,8,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,70.0,70,0.4504830837249756,False,Vanderbilt,LSU,21.0,7.0,1,1,53,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,16.0,16,0.4782295227050781,False,Vanderbilt,LSU,14.0,7.0,1,5,5,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,38.0,38,1.0839686393737793,False,Vanderbilt,LSU,14.0,7.0,1,6,26,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,67.0,67,1.48687744140625,False,Vanderbilt,LSU,14.0,7.0,1,6,33,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Passing Touchdown,,,64.0,64,4.126735210418701,True,Vanderbilt,LSU,14.0,7.0,1,8,38,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Passing Touchdown,,,4.0,4,2.4291133880615234,True,Vanderbilt,LSU,7.0,7.0,1,9,51,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Incompletion,,,9.0,9,-0.7125916481018066,False,Vanderbilt,LSU,0.0,7.0,1,10,12,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110805.0,Pass Reception,,,75.0,75,1.7430622577667236,False,Vanderbilt,LSU,0.0,7.0,1,10,55,4,Vanderbilt,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,52.0,48,0.9081835746765137,False,LSU,Utah State,42.0,6.0,4,11,3,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Passing Touchdown,,,8.0,92,1.8697457313537598,True,LSU,Utah State,42.0,6.0,4,13,23,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,20.0,80,0.6492676734924316,False,LSU,Utah State,35.0,6.0,4,14,21,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,33.0,67,0.23941516876220703,False,LSU,Utah State,35.0,6.0,3,0,0,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Passing Touchdown,,,39.0,61,2.2258267402648926,True,LSU,Utah State,35.0,6.0,3,2,54,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,59.0,41,1.502809762954712,False,LSU,Utah State,28.0,6.0,3,3,30,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Fumble Recovery (Opponent),,,29.0,71,-3.425626277923584,False,LSU,Utah State,28.0,6.0,3,5,3,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,64.0,36,-1.5002191066741943,False,LSU,Utah State,28.0,6.0,3,6,54,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,64.0,36,-0.8965258598327637,False,LSU,Utah State,28.0,6.0,3,7,12,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,67.0,33,-0.34945058822631836,False,LSU,Utah State,28.0,6.0,3,7,49,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Passing Touchdown,,,4.0,96,1.7793769836425781,True,LSU,Utah State,28.0,6.0,3,9,55,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,4.0,96,-1.101851463317871,False,LSU,Utah State,21.0,6.0,3,10,9,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,20.0,80,0.45368003845214844,False,LSU,Utah State,21.0,6.0,3,11,8,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,40.0,60,-0.311248779296875,False,LSU,Utah State,21.0,6.0,3,12,47,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,53.0,47,0.4777684211730957,False,LSU,Utah State,21.0,6.0,3,14,10,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,36.0,64,-0.652206301689148,False,LSU,Utah State,21.0,6.0,2,0,48,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,36.0,64,-0.2867896556854248,False,LSU,Utah State,21.0,6.0,2,0,53,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,29.0,71,-1.3950133323669434,False,LSU,Utah State,21.0,6.0,2,1,27,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,83.0,17,1.2959620952606201,False,LSU,Utah State,21.0,6.0,2,2,52,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Passing Touchdown,,,25.0,75,2.6778721809387207,True,LSU,Utah State,21.0,6.0,2,4,55,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,54.0,46,2.2699105739593506,False,LSU,Utah State,14.0,6.0,2,5,55,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,57.0,43,-0.8153146505355835,False,LSU,Utah State,14.0,6.0,2,6,12,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,76.0,24,2.8136746883392334,False,LSU,Utah State,14.0,6.0,2,7,40,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Sack,,,71.0,29,-1.3439432382583618,False,LSU,Utah State,14.0,6.0,2,8,21,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,71.0,29,-0.678149938583374,False,LSU,Utah State,14.0,6.0,2,8,38,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,80.0,20,0.797423779964447,False,LSU,Utah State,14.0,6.0,2,9,2,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,93.0,7,1.7435497045516968,False,LSU,Utah State,14.0,6.0,2,10,16,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,99.0,1,-0.07722139358520508,False,LSU,Utah State,14.0,6.0,2,10,52,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,74.0,26,2.2735447883605957,False,LSU,Utah State,7.0,6.0,1,1,43,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,42.0,58,0.5399402379989624,False,LSU,Utah State,7.0,3.0,1,3,2,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Sack,,,44.0,56,-1.3911035060882568,False,LSU,Utah State,7.0,3.0,1,4,16,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,53.0,47,1.6694046258926392,False,LSU,Utah State,7.0,3.0,1,4,47,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Interception Return,,,92.0,8,-4.666023254394531,False,LSU,Utah State,7.0,0.0,1,7,23,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,92.0,8,-1.1232945919036865,False,LSU,Utah State,7.0,0.0,1,7,37,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Passing Touchdown,,,7.0,93,1.7815208435058594,True,LSU,Utah State,7.0,0.0,1,10,41,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,23.0,77,1.486936330795288,False,LSU,Utah State,0.0,0.0,1,12,2,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,32.0,68,1.2380239963531494,False,LSU,Utah State,0.0,0.0,1,12,46,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Reception,,,70.0,30,2.4744374752044678,False,LSU,Utah State,0.0,0.0,1,14,21,6,Utah State,2019,LSU,Joe Burrow,2020
+401110813.0,Pass Incompletion,,,70.0,30,-1.0709452629089355,False,LSU,Utah State,0.0,0.0,1,14,31,6,Utah State,2019,LSU,Joe Burrow,2020
+401110819.0,Passing Touchdown,,,54.0,46,4.431759834289551,True,LSU,Florida,42.0,28.0,4,5,43,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,62.0,38,0.2466280460357666,False,LSU,Florida,35.0,28.0,4,6,27,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,80.0,20,0.8320362567901611,False,LSU,Florida,35.0,28.0,4,7,16,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,40.0,60,-0.7560896873474121,False,LSU,Florida,35.0,28.0,4,13,21,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Incompletion,,,40.0,60,-0.912214994430542,False,LSU,Florida,35.0,28.0,4,13,37,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,59.0,41,1.2693748474121094,False,LSU,Florida,35.0,28.0,4,14,19,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,75.0,25,2.2684617042541504,False,LSU,Florida,35.0,28.0,3,0,26,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,52.0,48,1.5446176528930664,False,LSU,Florida,28.0,28.0,3,4,11,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,27.0,73,1.1463255882263184,False,LSU,Florida,21.0,28.0,3,8,12,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,38.0,62,1.1998488903045654,False,LSU,Florida,21.0,28.0,3,8,35,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,43.0,57,0.07373523712158203,False,LSU,Florida,21.0,28.0,3,8,55,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,58.0,42,0.9873508214950562,False,LSU,Florida,21.0,28.0,3,9,35,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,64.0,36,1.7144616842269897,False,LSU,Florida,14.0,14.0,2,4,20,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,75.0,25,0.010279178619384766,False,LSU,Florida,14.0,14.0,2,5,10,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Passing Touchdown,,,7.0,93,1.0773143768310547,True,LSU,Florida,14.0,7.0,2,12,44,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,67.0,33,2.2649621963500977,False,LSU,Florida,7.0,7.0,2,13,40,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,67.0,33,-1.2843592166900635,False,LSU,Florida,7.0,7.0,1,2,28,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,75.0,25,0.20049691200256348,False,LSU,Florida,7.0,7.0,1,3,17,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Passing Touchdown,,,9.0,91,1.402780532836914,True,LSU,Florida,7.0,0.0,1,9,55,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Incompletion,,,32.0,68,-0.6000669002532959,False,LSU,Florida,0.0,0.0,1,12,59,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,55.0,45,2.2116246223449707,False,LSU,Florida,0.0,0.0,1,13,20,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,56.0,44,-0.6757451295852661,False,LSU,Florida,0.0,0.0,1,13,53,7,Florida,2019,LSU,Joe Burrow,2020
+401110819.0,Pass Reception,,,75.0,25,1.198094129562378,False,LSU,Florida,0.0,0.0,1,14,45,7,Florida,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,52.0,52,-0.775607705116272,False,Mississippi State,LSU,36.0,7.0,4,3,49,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,44.0,44,-1.4158971309661865,False,Mississippi State,LSU,36.0,7.0,4,8,3,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,50.0,50,-0.5128533840179443,False,Mississippi State,LSU,36.0,7.0,4,8,52,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,86.0,86,-0.7995697855949402,False,Mississippi State,LSU,36.0,7.0,4,12,16,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Sack,,,77.0,77,-1.140505075454712,False,Mississippi State,LSU,36.0,7.0,4,13,2,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,60.0,60,0.3293876647949219,False,Mississippi State,LSU,36.0,7.0,3,2,51,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Passing Touchdown,,,18.0,18,2.72806978225708,True,Mississippi State,LSU,36.0,7.0,3,5,36,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,10.0,10,0.43787097930908203,False,Mississippi State,LSU,29.0,7.0,3,5,58,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,17.0,17,0.3693408966064453,False,Mississippi State,LSU,29.0,7.0,3,6,21,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,22.0,22,0.04122352600097656,False,Mississippi State,LSU,29.0,7.0,3,6,53,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,65.0,65,0.4256293773651123,False,Mississippi State,LSU,29.0,7.0,3,7,56,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Passing Touchdown,,,37.0,37,2.231776714324951,True,Mississippi State,LSU,29.0,7.0,3,10,36,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,55.0,55,0.30879974365234375,False,Mississippi State,LSU,22.0,7.0,3,11,19,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,66.0,66,0.0874016284942627,False,Mississippi State,LSU,22.0,7.0,3,11,45,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,82.0,82,-0.6234985589981079,False,Mississippi State,LSU,22.0,7.0,3,13,55,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Sack,,,75.0,75,-1.734800100326538,False,Mississippi State,LSU,22.0,7.0,3,14,41,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Passing Touchdown,,,8.0,8,2.2105307579040527,True,Mississippi State,LSU,22.0,7.0,2,0,50,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,28.0,28,0.46012234687805176,False,Mississippi State,LSU,15.0,7.0,2,1,9,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,44.0,44,1.2355958223342896,False,Mississippi State,LSU,15.0,7.0,2,1,12,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Passing Touchdown,,,60.0,60,4.117430686950684,True,Mississippi State,LSU,15.0,7.0,2,5,7,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,17.0,17,-0.3736145496368408,False,Mississippi State,LSU,6.0,0.0,2,8,52,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Sack,,,10.0,10,-1.196274757385254,False,Mississippi State,LSU,6.0,0.0,2,10,6,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,27.0,19,1.196274757385254,False,Mississippi State,LSU,6.0,0.0,2,10,54,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,29.0,29,-0.37465548515319824,False,Mississippi State,LSU,6.0,0.0,2,11,7,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,5.0,5,-1.4255306720733643,False,Mississippi State,LSU,3.0,0.0,2,12,31,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,29.0,29,1.39516019821167,False,Mississippi State,LSU,3.0,0.0,2,13,57,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,53.0,53,1.3205757141113281,False,Mississippi State,LSU,3.0,0.0,2,14,31,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,70.0,70,-0.9222441911697388,False,Mississippi State,LSU,3.0,0.0,2,14,57,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,89.0,89,0.6685918569564819,False,Mississippi State,LSU,3.0,0.0,1,0,48,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,3.0,3,-1.7978172302246094,False,Mississippi State,LSU,0.0,0.0,1,7,56,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Incompletion,,,2.0,2,-0.3350214958190918,False,Mississippi State,LSU,0.0,0.0,1,8,44,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,12.0,12,0.30354928970336914,False,Mississippi State,LSU,0.0,0.0,1,9,4,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,23.0,23,0.5329170227050781,False,Mississippi State,LSU,0.0,0.0,1,10,23,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,42.0,42,2.867835521697998,False,Mississippi State,LSU,0.0,0.0,1,10,57,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110828.0,Pass Reception,,,45.0,45,-0.5394856929779053,False,Mississippi State,LSU,0.0,0.0,1,12,1,8,Mississippi State,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,78.0,22,-0.5555967688560486,False,LSU,Auburn,23.0,13.0,4,8,4,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,67.0,33,0.27063608169555664,False,LSU,Auburn,23.0,13.0,4,9,50,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,12.0,88,0.20135211944580078,False,LSU,Auburn,16.0,13.0,4,13,57,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,27.0,73,0.5198073387145996,False,LSU,Auburn,16.0,13.0,4,14,53,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,51.0,49,1.6147501468658447,False,LSU,Auburn,16.0,13.0,3,0,39,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,67.0,33,0.4932982921600342,False,LSU,Auburn,16.0,13.0,3,2,44,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Interception Return,,,26.0,74,-3.827636480331421,False,LSU,Auburn,10.0,13.0,3,6,33,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,2.0,98,-3.0355560779571533,False,LSU,Auburn,10.0,13.0,3,8,36,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,51.0,49,3.2066516876220703,False,LSU,Auburn,10.0,13.0,3,10,33,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,56.0,44,0.3950340747833252,False,LSU,Auburn,10.0,13.0,3,10,46,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,54.0,46,-1.8216264247894287,False,LSU,Auburn,10.0,10.0,3,13,58,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,54.0,46,-0.8762603998184204,False,LSU,Auburn,10.0,10.0,3,14,8,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,58.0,42,-0.16399860382080078,False,LSU,Auburn,10.0,10.0,3,14,16,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,70.0,30,1.0222541093826294,False,LSU,Auburn,10.0,10.0,3,14,30,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,11.0,89,0.42982983589172363,False,LSU,Auburn,7.0,10.0,2,0,49,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,11.0,89,-0.5970184803009033,False,LSU,Auburn,7.0,10.0,2,0,58,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,31.0,78,1.1536719799041748,False,LSU,Auburn,7.0,10.0,2,1,10,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,49.0,51,0.9291238784790039,False,LSU,Auburn,7.0,10.0,2,1,20,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,56.0,44,0.7293407917022705,False,LSU,Auburn,7.0,10.0,2,1,37,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,62.0,38,0.22810661792755127,False,LSU,Auburn,7.0,10.0,2,2,37,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,75.0,25,0.6744795441627502,False,LSU,Auburn,7.0,10.0,2,2,58,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,29.0,71,-0.6943273544311523,False,LSU,Auburn,7.0,3.0,2,8,30,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,38.0,62,0.9130496978759766,False,LSU,Auburn,7.0,3.0,2,8,52,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,60.0,47,-0.9130496978759766,False,LSU,Auburn,7.0,3.0,2,9,20,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,58.0,55,-2.0708084106445312,False,LSU,Auburn,7.0,3.0,2,9,52,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Passing Touchdown,,,20.0,80,2.2870092391967773,True,LSU,Auburn,7.0,3.0,2,12,28,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,47.0,53,1.2557013034820557,False,LSU,Auburn,0.0,3.0,2,12,45,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,66.0,34,1.7884786128997803,False,LSU,Auburn,0.0,3.0,2,13,1,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,66.0,34,-0.6347367763519287,False,LSU,Auburn,0.0,3.0,2,13,9,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,72.0,28,1.996320128440857,False,LSU,Auburn,0.0,3.0,2,13,27,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,78.0,22,-0.01288101077079773,False,LSU,Auburn,0.0,3.0,2,14,1,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,98.0,2,-0.22715914249420166,False,LSU,Auburn,0.0,3.0,1,0,21,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Sack,,,89.0,11,-1.9083011150360107,False,LSU,Auburn,0.0,3.0,1,0,53,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,35.0,65,-0.5158506631851196,False,LSU,Auburn,0.0,3.0,1,4,52,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Sack,,,29.0,71,-1.6412923336029053,False,LSU,Auburn,0.0,3.0,1,5,35,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,32.0,68,-0.3435795307159424,False,LSU,Auburn,0.0,3.0,1,6,23,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,39.0,61,0.5276999473571777,False,LSU,Auburn,0.0,3.0,1,6,39,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,48.0,52,0.22277331352233887,False,LSU,Auburn,0.0,3.0,1,7,12,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,72.0,28,0.8002432584762573,False,LSU,Auburn,0.0,3.0,1,8,11,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,75.0,25,-0.4334494173526764,False,LSU,Auburn,0.0,3.0,1,8,32,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Incompletion,,,81.0,19,-1.7472394704818726,False,LSU,Auburn,0.0,0.0,1,12,53,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Pass Reception,,,89.0,11,0.6141952276229858,False,LSU,Auburn,0.0,0.0,1,13,22,9,Auburn,2019,LSU,Joe Burrow,2020
+401110833.0,Sack,,,88.0,12,-1.2381830215454102,False,LSU,Auburn,0.0,0.0,1,13,55,9,Auburn,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,29.0,29,0.08066916465759277,False,Alabama,LSU,39.0,34.0,4,2,40,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,50.0,50,1.8086504936218262,False,Alabama,LSU,39.0,34.0,4,4,0,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Sack,,,46.0,46,-1.2972137928009033,False,Alabama,LSU,39.0,34.0,4,4,40,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,75.0,75,1.498309850692749,False,Alabama,LSU,39.0,34.0,4,5,9,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,36.0,36,2.0393238067626953,False,Alabama,LSU,33.0,27.0,4,11,35,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Incompletion,,,36.0,36,-0.9007785320281982,False,Alabama,LSU,33.0,27.0,4,11,47,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,49.0,49,1.5929102897644043,False,Alabama,LSU,33.0,27.0,4,12,20,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,50.0,50,-0.5843322277069092,False,Alabama,LSU,33.0,27.0,4,12,45,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,56.0,56,0.05403280258178711,False,Alabama,LSU,33.0,27.0,4,13,15,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,75.0,75,0.4276372194290161,False,Alabama,LSU,33.0,27.0,4,14,20,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Incompletion,,,51.0,51,-1.9346015453338623,False,Alabama,LSU,33.0,20.0,3,3,25,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,57.0,57,-0.11311078071594238,False,Alabama,LSU,33.0,20.0,3,3,40,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Incompletion,,,57.0,57,-0.5486319065093994,False,Alabama,LSU,33.0,20.0,3,3,50,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,73.0,73,1.4375203847885132,False,Alabama,LSU,33.0,20.0,3,4,15,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,52.0,52,-0.039592742919921875,False,Alabama,LSU,33.0,13.0,3,9,5,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Incompletion,,,52.0,52,-1.155500888824463,False,Alabama,LSU,33.0,13.0,3,9,26,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,69.0,69,0.4558119773864746,False,Alabama,LSU,33.0,13.0,3,10,35,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,80.0,80,0.622791051864624,False,Alabama,LSU,33.0,13.0,3,11,0,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Fumble Recovery (Opponent),,,36.0,36,-4.738379001617432,False,Alabama,LSU,33.0,13.0,3,12,27,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Incompletion,,,36.0,36,-0.5871462821960449,False,Alabama,LSU,33.0,13.0,3,12,34,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Passing Touchdown,,,13.0,13,4.497990608215332,True,Alabama,LSU,33.0,13.0,2,0,6,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,1.0,1,-0.5088834762573242,False,Alabama,LSU,19.0,13.0,2,0,48,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,17.0,17,2.160457134246826,False,Alabama,LSU,19.0,13.0,2,1,11,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,31.0,31,1.4425289630889893,False,Alabama,LSU,19.0,13.0,2,1,35,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Sack,,,19.0,19,-1.5090991258621216,False,Alabama,LSU,16.0,13.0,2,4,50,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,20.0,20,-0.6834311485290527,False,Alabama,LSU,16.0,13.0,2,5,14,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Incompletion,,,20.0,20,-0.5015449523925781,False,Alabama,LSU,16.0,13.0,2,5,19,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,34.0,34,0.8219902515411377,False,Alabama,LSU,16.0,13.0,2,5,45,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,40.0,40,0.20617079734802246,False,Alabama,LSU,16.0,13.0,2,6,0,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,75.0,75,2.019761562347412,False,Alabama,LSU,16.0,13.0,2,6,30,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Fumble Recovery (Own),,,51.0,51,0.35349202156066895,False,Alabama,LSU,16.0,7.0,2,9,35,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Passing Touchdown,,,29.0,29,3.2073934078216553,True,Alabama,LSU,16.0,7.0,2,13,3,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,54.0,54,0.8183927536010742,False,Alabama,LSU,10.0,7.0,2,14,25,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,65.0,65,0.5317270755767822,False,Alabama,LSU,10.0,7.0,2,15,0,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,75.0,75,0.35205769538879395,False,Alabama,LSU,10.0,7.0,1,1,0,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,78.0,78,0.1894887387752533,False,Alabama,LSU,10.0,0.0,1,1,58,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Sack,,,69.0,69,-1.912124752998352,False,Alabama,LSU,10.0,0.0,1,2,35,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Sack,,,27.0,27,-1.9615037441253662,False,Alabama,LSU,7.0,0.0,1,6,30,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,27.0,27,-0.5836076736450195,False,Alabama,LSU,7.0,0.0,1,7,0,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Passing Touchdown,,,33.0,33,2.505417823791504,True,Alabama,LSU,7.0,0.0,1,9,15,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,51.0,51,0.5500984191894531,False,Alabama,LSU,0.0,0.0,1,9,55,11,Alabama,2019,LSU,Joe Burrow,2020
+401110842.0,Pass Reception,,,74.0,74,1.5030406713485718,False,Alabama,LSU,0.0,0.0,1,10,50,11,Alabama,2019,LSU,Joe Burrow,2020
+401110850.0,Passing Touchdown,,,61.0,61,5.357322692871094,True,Ole Miss,LSU,51.0,30.0,4,5,11,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Interception Return,,,37.0,37,-2.930140733718872,False,Ole Miss,LSU,44.0,30.0,4,11,13,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,53.0,53,0.7912967205047607,False,Ole Miss,LSU,44.0,30.0,4,12,43,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,69.0,69,0.542597770690918,False,Ole Miss,LSU,44.0,30.0,4,13,16,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Interception Return,,,77.0,77,-4.083252429962158,False,Ole Miss,LSU,44.0,23.0,4,13,36,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,34.0,34,-2.149176597595215,False,Ole Miss,LSU,41.0,23.0,3,3,31,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,42.0,42,0.3901207447052002,False,Ole Miss,LSU,41.0,23.0,3,4,2,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Sack,,,39.0,39,-1.2159724235534668,False,Ole Miss,LSU,41.0,23.0,3,4,41,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Passing Touchdown,,,7.0,7,1.137969970703125,True,Ole Miss,LSU,41.0,23.0,3,6,50,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,55.0,55,2.7841758728027344,False,Ole Miss,LSU,34.0,23.0,3,7,11,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,55.0,55,-0.49532413482666016,False,Ole Miss,LSU,34.0,23.0,3,7,22,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,9.0,9,-1.2979798316955566,False,Ole Miss,LSU,31.0,15.0,3,8,24,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,11.0,11,1.1009693145751953,False,Ole Miss,LSU,31.0,15.0,3,9,27,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,15.0,15,-0.052344322204589844,False,Ole Miss,LSU,31.0,15.0,3,9,47,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,31.0,31,-0.5610122680664062,False,Ole Miss,LSU,31.0,15.0,3,11,50,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,40.0,40,1.8137273788452148,False,Ole Miss,LSU,31.0,15.0,3,12,24,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,40.0,40,-1.0682346820831299,False,Ole Miss,LSU,31.0,15.0,3,12,35,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,60.0,60,-0.5126538276672363,False,Ole Miss,LSU,31.0,15.0,3,13,55,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Sack,,,6.0,6,-1.322620153427124,False,Ole Miss,LSU,28.0,7.0,2,0,9,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,18.0,18,1.3067398071289062,False,Ole Miss,LSU,28.0,7.0,2,1,10,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,43.0,43,0.8446011543273926,False,Ole Miss,LSU,28.0,7.0,2,2,25,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,60.0,60,0.933724045753479,False,Ole Miss,LSU,28.0,7.0,2,3,41,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Sack,,,57.0,57,-0.9958679676055908,False,Ole Miss,LSU,28.0,7.0,2,4,24,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,78.0,78,0.19831645488739014,False,Ole Miss,LSU,28.0,7.0,2,5,17,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Passing Touchdown,,,12.0,12,2.05019474029541,True,Ole Miss,LSU,28.0,0.0,2,8,27,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,73.0,41,-0.48740053176879883,False,Ole Miss,LSU,21.0,0.0,2,9,55,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,80.0,80,-0.1428360939025879,False,Ole Miss,LSU,21.0,0.0,2,10,38,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Passing Touchdown,,,51.0,51,2.656338691711426,True,Ole Miss,LSU,21.0,0.0,2,14,9,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,73.0,73,-0.22865629196166992,False,Ole Miss,LSU,14.0,0.0,2,14,43,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,22.0,22,1.781402587890625,False,Ole Miss,LSU,7.0,0.0,1,1,28,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,32.0,32,1.0502564907073975,False,Ole Miss,LSU,7.0,0.0,1,2,36,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,33.0,33,-0.5286538600921631,False,Ole Miss,LSU,7.0,0.0,1,3,32,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,46.0,46,0.6067323684692383,False,Ole Miss,LSU,7.0,0.0,1,4,18,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,57.0,57,0.6073756217956543,False,Ole Miss,LSU,7.0,0.0,1,4,28,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Fumble Recovery (Own),,,80.0,80,1.229600191116333,False,Ole Miss,LSU,7.0,0.0,1,5,0,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,37.0,37,0.30272626876831055,False,Ole Miss,LSU,7.0,0.0,1,8,46,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,37.0,37,-0.6168918609619141,False,Ole Miss,LSU,7.0,0.0,1,9,6,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,53.0,53,-0.35968565940856934,False,Ole Miss,LSU,7.0,0.0,1,10,5,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,79.0,79,0.9170200824737549,False,Ole Miss,LSU,7.0,0.0,1,10,53,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Passing Touchdown,,,34.0,34,2.674346923828125,True,Ole Miss,LSU,7.0,0.0,1,12,56,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,47.0,47,0.1464695930480957,False,Ole Miss,LSU,0.0,0.0,1,13,9,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,63.0,63,0.4416849613189697,False,Ole Miss,LSU,0.0,0.0,1,13,52,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Incompletion,,,63.0,63,-0.640805721282959,False,Ole Miss,LSU,0.0,0.0,1,14,2,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110850.0,Pass Reception,,,67.0,67,0.15902233123779297,False,Ole Miss,LSU,0.0,0.0,1,14,22,12,Ole Miss,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,57.0,43,-0.44070953130722046,False,LSU,Arkansas,56.0,20.0,4,6,0,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,48.0,52,0.2124476432800293,False,LSU,Arkansas,49.0,6.0,3,0,1,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,48.0,52,-0.7290537357330322,False,LSU,Arkansas,49.0,6.0,3,0,15,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,64.0,36,0.9663264751434326,False,LSU,Arkansas,49.0,6.0,3,1,0,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Passing Touchdown,,,50.0,50,2.672816753387451,True,LSU,Arkansas,35.0,6.0,3,7,48,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Fumble Recovery (Opponent),,,60.0,40,-4.159144878387451,False,LSU,Arkansas,28.0,6.0,3,11,16,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,73.0,27,0.43115949630737305,False,LSU,Arkansas,28.0,6.0,3,11,48,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Passing Touchdown,,,10.0,90,3.2893035411834717,True,LSU,Arkansas,28.0,6.0,2,0,14,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,10.0,90,-0.516742467880249,False,LSU,Arkansas,21.0,6.0,2,0,20,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,39.0,61,1.1522878408432007,False,LSU,Arkansas,21.0,6.0,2,0,45,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,43.0,57,0.0033937692642211914,False,LSU,Arkansas,21.0,6.0,2,1,0,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,43.0,57,-0.39414191246032715,False,LSU,Arkansas,21.0,6.0,2,1,11,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,65.0,35,0.6925820112228394,False,LSU,Arkansas,21.0,6.0,2,1,23,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,75.0,25,-0.3236219882965088,False,LSU,Arkansas,21.0,6.0,2,1,35,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,90.0,10,0.4589119553565979,False,LSU,Arkansas,21.0,6.0,2,1,45,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,39.0,61,0.16863584518432617,False,LSU,Arkansas,14.0,6.0,2,3,50,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,50.0,50,1.2039830684661865,False,LSU,Arkansas,14.0,6.0,2,4,8,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,62.0,38,0.3399733304977417,False,LSU,Arkansas,14.0,6.0,2,5,15,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,41.0,59,1.7909481525421143,False,LSU,Arkansas,7.0,6.0,2,8,40,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,49.0,51,0.6550564765930176,False,LSU,Arkansas,7.0,6.0,2,8,50,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,55.0,45,0.07349801063537598,False,LSU,Arkansas,7.0,6.0,2,9,20,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,75.0,25,1.1505309343338013,False,LSU,Arkansas,7.0,6.0,2,9,40,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,74.0,26,-0.29923856258392334,False,LSU,Arkansas,7.0,3.0,1,0,24,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,80.0,20,-0.6526357531547546,False,LSU,Arkansas,7.0,3.0,1,1,5,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,74.0,26,1.3425456285476685,False,LSU,Arkansas,7.0,3.0,1,3,0,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,75.0,25,-0.4931640625,False,LSU,Arkansas,7.0,3.0,1,3,35,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,86.0,14,-1.651689052581787,False,LSU,Arkansas,7.0,0.0,1,7,30,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,91.0,9,0.17980915307998657,False,LSU,Arkansas,7.0,0.0,1,7,50,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Passing Touchdown,,,37.0,63,2.835437774658203,True,LSU,Arkansas,7.0,0.0,1,12,33,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,50.0,50,0.656282901763916,False,LSU,Arkansas,0.0,0.0,1,12,45,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Incompletion,,,50.0,50,-0.6765096187591553,False,LSU,Arkansas,0.0,0.0,1,13,3,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110859.0,Pass Reception,,,61.0,39,0.7034716606140137,False,LSU,Arkansas,0.0,0.0,1,13,55,13,Arkansas,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,39.0,61,-0.7610223889350891,False,LSU,Texas A&M,48.0,7.0,4,4,27,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Passing Touchdown,,,58.0,42,4.635675430297852,True,LSU,Texas A&M,48.0,7.0,4,10,36,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,75.0,25,1.3979637622833252,False,LSU,Texas A&M,41.0,7.0,4,11,49,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,80.0,20,-0.4636331796646118,False,LSU,Texas A&M,41.0,7.0,4,12,34,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Passing Touchdown,,,18.0,82,2.1267104148864746,True,LSU,Texas A&M,41.0,7.0,3,1,31,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,18.0,82,-0.5469346046447754,False,LSU,Texas A&M,34.0,7.0,3,1,36,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,29.0,71,1.4920778274536133,False,LSU,Texas A&M,34.0,7.0,3,1,59,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,54.0,46,0.6303739547729492,False,LSU,Texas A&M,34.0,7.0,3,3,4,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,74.0,26,0.7343981266021729,False,LSU,Texas A&M,34.0,7.0,3,3,49,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,85.0,15,0.368457555770874,False,LSU,Texas A&M,34.0,7.0,3,4,1,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,32.0,68,-1.0468733310699463,False,LSU,Texas A&M,31.0,0.0,3,7,36,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Sack,,,22.0,78,-2.3001456260681152,False,LSU,Texas A&M,31.0,0.0,3,8,17,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,66.0,34,-1.3086791038513184,False,LSU,Texas A&M,31.0,0.0,3,10,5,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,64.0,36,-0.8425741195678711,False,LSU,Texas A&M,31.0,0.0,3,10,45,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,65.0,35,0.2995781898498535,False,LSU,Texas A&M,31.0,0.0,3,12,16,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,77.0,23,0.7878656387329102,False,LSU,Texas A&M,31.0,0.0,3,12,34,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,94.0,6,0.5939910411834717,False,LSU,Texas A&M,31.0,0.0,3,12,58,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Sack,,,46.0,54,-0.4885427951812744,False,LSU,Texas A&M,31.0,0.0,2,1,48,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Sack,,,36.0,64,-1.053640604019165,False,LSU,Texas A&M,31.0,0.0,2,2,57,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,51.0,49,0.8379844427108765,False,LSU,Texas A&M,31.0,0.0,2,4,17,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,32.0,68,-0.8489181995391846,False,LSU,Texas A&M,28.0,0.0,2,6,4,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,32.0,68,-0.7418162822723389,False,LSU,Texas A&M,28.0,0.0,2,6,11,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,89.0,11,2.626340627670288,False,LSU,Texas A&M,28.0,0.0,2,8,4,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,89.0,11,-0.7984585762023926,False,LSU,Texas A&M,28.0,0.0,2,8,13,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Sack,,,85.0,15,-1.2981688976287842,False,LSU,Texas A&M,28.0,0.0,2,9,1,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,14.0,86,1.5722579956054688,False,LSU,Texas A&M,21.0,0.0,2,11,35,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,20.0,80,0.09972810745239258,False,LSU,Texas A&M,21.0,0.0,2,12,14,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,38.0,62,0.6359381675720215,False,LSU,Texas A&M,21.0,0.0,2,14,13,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,38.0,62,-0.7018709182739258,False,LSU,Texas A&M,21.0,0.0,2,14,22,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,55.0,45,0.4455714225769043,False,LSU,Texas A&M,21.0,0.0,1,0,0,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Passing Touchdown,,,78.0,22,3.544203519821167,True,LSU,Texas A&M,21.0,0.0,1,1,47,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Passing Touchdown,,,12.0,88,3.0022802352905273,True,LSU,Texas A&M,14.0,0.0,1,7,0,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,12.0,88,-0.8684449195861816,False,LSU,Texas A&M,7.0,0.0,1,7,6,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,65.0,35,1.1648976802825928,False,LSU,Texas A&M,7.0,0.0,1,10,34,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Incompletion,,,65.0,35,-0.5345191955566406,False,LSU,Texas A&M,7.0,0.0,1,10,41,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,80.0,20,0.9441378116607666,False,LSU,Texas A&M,7.0,0.0,1,10,55,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,44.0,56,1.666555643081665,False,LSU,Texas A&M,0.0,0.0,1,13,21,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401110869.0,Pass Reception,,,54.0,46,0.8588616847991943,False,LSU,Texas A&M,0.0,0.0,1,13,53,14,Texas A&M,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,81.0,19,-0.38602012395858765,False,LSU,Georgia,37.0,10.0,4,4,55,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Sack,,,27.0,73,-2.545633316040039,False,LSU,Georgia,34.0,10.0,4,8,35,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Passing Touchdown,,,8.0,92,2.265913963317871,True,LSU,Georgia,34.0,3.0,3,0,45,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Passing Touchdown,,,4.0,96,1.9705801010131836,True,LSU,Georgia,27.0,3.0,3,2,18,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,9.0,91,-0.16427946090698242,False,LSU,Georgia,20.0,3.0,3,3,0,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,80.0,20,3.323042392730713,False,LSU,Georgia,20.0,3.0,3,3,57,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,10.0,90,-1.2840149402618408,False,LSU,Georgia,17.0,3.0,3,8,24,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Sack,,,3.0,97,-1.9624414443969727,False,LSU,Georgia,17.0,3.0,3,8,58,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,3.0,97,-0.3502798080444336,False,LSU,Georgia,17.0,3.0,3,9,17,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,23.0,77,0.49623870849609375,False,LSU,Georgia,17.0,3.0,3,10,0,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,34.0,66,0.5080318450927734,False,LSU,Georgia,17.0,3.0,3,11,15,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,49.0,51,0.5867700576782227,False,LSU,Georgia,17.0,3.0,3,11,45,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,62.0,38,0.5971050262451172,False,LSU,Georgia,17.0,3.0,3,12,50,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,80.0,20,0.970712423324585,False,LSU,Georgia,17.0,3.0,3,13,53,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,87.0,13,0.13036203384399414,False,LSU,Georgia,17.0,3.0,3,14,55,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,30.0,70,-0.6795002222061157,False,LSU,Georgia,17.0,3.0,2,0,20,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,30.0,70,-0.4460862874984741,False,LSU,Georgia,17.0,3.0,2,0,26,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,30.0,70,-0.12349486351013184,False,LSU,Georgia,17.0,3.0,2,0,30,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,41.0,59,1.215991735458374,False,LSU,Georgia,17.0,3.0,2,0,45,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,46.0,54,-0.0501561164855957,False,LSU,Georgia,17.0,3.0,2,1,5,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,87.0,13,0.8529358506202698,False,LSU,Georgia,17.0,3.0,2,1,35,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,31.0,69,0.24056529998779297,False,LSU,Georgia,14.0,3.0,2,3,10,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,55.0,45,0.5995557308197021,False,LSU,Georgia,14.0,3.0,2,5,35,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,74.0,26,1.9165680408477783,False,LSU,Georgia,14.0,3.0,2,6,5,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,80.0,20,-0.07228052616119385,False,LSU,Georgia,14.0,3.0,2,6,31,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,71.0,29,-1.2706018686294556,False,LSU,Georgia,14.0,3.0,2,10,35,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,71.0,29,-1.0885909795761108,False,LSU,Georgia,14.0,3.0,2,10,44,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,75.0,25,-0.06273794174194336,False,LSU,Georgia,14.0,3.0,2,11,25,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Passing Touchdown,,,7.0,93,1.669534683227539,True,LSU,Georgia,14.0,0.0,1,0,12,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,52.0,48,2.004957437515259,False,LSU,Georgia,7.0,0.0,1,1,0,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,63.0,37,1.0685744285583496,False,LSU,Georgia,7.0,0.0,1,1,30,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,86.0,14,-0.807621419429779,False,LSU,Georgia,7.0,0.0,1,6,0,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,81.0,19,-1.2282001972198486,False,LSU,Georgia,7.0,0.0,1,6,12,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Passing Touchdown,,,23.0,77,2.6795616149902344,True,LSU,Georgia,7.0,0.0,1,9,9,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,47.0,53,3.010436534881592,False,LSU,Georgia,0.0,0.0,1,10,35,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Incompletion,,,47.0,53,-0.6660642623901367,False,LSU,Georgia,0.0,0.0,1,11,7,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,63.0,37,1.050124168395996,False,LSU,Georgia,0.0,0.0,1,12,0,15,Georgia,2019,LSU,Joe Burrow,2020
+401132981.0,Pass Reception,,,66.0,34,-0.22402048110961914,False,LSU,Georgia,0.0,0.0,1,12,7,15,Georgia,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,23.0,77,2.9468634128570557,False,LSU,Oklahoma,56.0,28.0,4,4,20,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,38.0,62,0.4767177104949951,False,LSU,Oklahoma,56.0,28.0,4,6,30,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,48.0,52,0.9645874500274658,False,LSU,Oklahoma,56.0,28.0,4,7,15,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Sack,,,23.0,77,-2.2099688053131104,False,LSU,Oklahoma,56.0,21.0,4,15,0,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,45.0,55,0.29428720474243164,False,LSU,Oklahoma,56.0,21.0,3,1,40,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,54.0,46,0.6014108657836914,False,LSU,Oklahoma,56.0,21.0,3,2,20,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,60.0,40,-0.2707858085632324,False,LSU,Oklahoma,56.0,21.0,3,3,0,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,70.0,30,0.501917839050293,False,LSU,Oklahoma,56.0,21.0,3,3,35,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,75.0,25,0.2212367057800293,False,LSU,Oklahoma,56.0,21.0,3,4,10,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,25.0,75,0.06079745292663574,False,LSU,Oklahoma,49.0,14.0,3,12,15,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,25.0,75,-0.7684669494628906,False,LSU,Oklahoma,49.0,14.0,3,12,26,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,57.0,43,2.282294273376465,False,LSU,Oklahoma,49.0,14.0,3,12,51,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,57.0,43,-0.818784236907959,False,LSU,Oklahoma,49.0,14.0,3,12,59,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,72.0,28,0.9251272678375244,False,LSU,Oklahoma,49.0,14.0,3,14,5,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,2.0,98,1.4844393730163574,True,LSU,Oklahoma,49.0,14.0,2,0,50,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,49.0,51,2.6822361946105957,False,LSU,Oklahoma,42.0,14.0,2,1,32,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,58.0,42,0.3848910331726074,False,LSU,Oklahoma,42.0,14.0,2,2,30,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,62.0,38,5.12066125869751,True,LSU,Oklahoma,42.0,14.0,2,4,18,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,30.0,70,2.4164023399353027,True,LSU,Oklahoma,35.0,7.0,2,9,17,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,52.0,48,3.4324657917022705,False,LSU,Oklahoma,28.0,7.0,2,9,40,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,47.0,53,0.44744873046875,False,LSU,Oklahoma,28.0,7.0,2,10,20,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,57.0,43,-0.21898365020751953,False,LSU,Oklahoma,28.0,7.0,2,10,35,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,55.0,45,0.3101363182067871,False,LSU,Oklahoma,28.0,7.0,2,11,45,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,42.0,58,3.0838098526000977,True,LSU,Oklahoma,28.0,7.0,2,12,13,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,42.0,58,-1.0409283638000488,False,LSU,Oklahoma,21.0,7.0,2,12,21,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,80.0,20,-1.0140233039855957,False,LSU,Oklahoma,21.0,7.0,2,14,5,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,80.0,20,-0.6480317115783691,False,LSU,Oklahoma,21.0,7.0,2,14,11,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,35.0,65,3.1446619033813477,True,LSU,Oklahoma,21.0,7.0,1,1,16,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,35.0,65,-0.6997201442718506,False,LSU,Oklahoma,14.0,7.0,1,1,23,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,78.0,22,2.0898852348327637,False,LSU,Oklahoma,14.0,7.0,1,2,29,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,86.0,14,0.7989956140518188,False,LSU,Oklahoma,14.0,7.0,1,3,35,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,8.0,92,1.8934507369995117,True,LSU,Oklahoma,14.0,7.0,1,4,24,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,30.0,70,0.6117510795593262,False,LSU,Oklahoma,7.0,7.0,1,5,35,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,30.0,70,-0.5672383308410645,False,LSU,Oklahoma,7.0,7.0,1,5,41,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,43.0,57,0.6793961524963379,False,LSU,Oklahoma,7.0,7.0,1,6,34,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,56.0,44,0.8256690502166748,False,LSU,Oklahoma,7.0,7.0,1,7,9,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,75.0,25,1.539211392402649,False,LSU,Oklahoma,7.0,7.0,1,7,28,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Incompletion,,,73.0,27,-0.6400456428527832,False,LSU,Oklahoma,7.0,0.0,1,11,3,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Passing Touchdown,,,19.0,81,1.981579303741455,True,LSU,Oklahoma,7.0,0.0,1,12,3,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,25.0,75,-0.05596590042114258,False,LSU,Oklahoma,0.0,0.0,1,12,25,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135278.0,Pass Reception,,,42.0,58,1.0109176635742188,False,LSU,Oklahoma,0.0,0.0,1,12,50,1,Oklahoma,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,27.0,73,2.530121088027954,False,LSU,Clemson,42.0,25.0,4,2,10,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Sack,,,60.0,40,-1.1703356504440308,False,LSU,Clemson,42.0,25.0,4,5,24,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,59.0,41,0.767404317855835,False,LSU,Clemson,42.0,25.0,4,7,29,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Passing Touchdown,,,24.0,76,2.8090858459472656,True,LSU,Clemson,42.0,25.0,4,12,8,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,25.0,75,-0.770343542098999,False,LSU,Clemson,35.0,25.0,4,12,50,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,39.0,61,0.5726518630981445,False,LSU,Clemson,35.0,25.0,4,13,46,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,52.0,48,1.2214152812957764,False,LSU,Clemson,35.0,25.0,4,14,24,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,52.0,48,-0.5606880187988281,False,LSU,Clemson,35.0,25.0,4,14,50,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,52.0,48,0.9455442428588867,False,LSU,Clemson,35.0,25.0,3,0,5,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,30.0,70,-0.9174437522888184,False,LSU,Clemson,35.0,25.0,3,2,15,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,68.0,32,1.8917028903961182,False,LSU,Clemson,35.0,25.0,3,3,25,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Passing Touchdown,,,4.0,96,0.8142027854919434,True,LSU,Clemson,35.0,25.0,3,5,13,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,16.0,91,-0.9021172523498535,False,LSU,Clemson,28.0,25.0,3,5,53,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,59.0,41,4.421448707580566,False,LSU,Clemson,28.0,25.0,3,6,20,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,58.0,42,-0.5644034147262573,False,LSU,Clemson,28.0,25.0,3,7,15,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,67.0,33,-1.8107777833938599,False,LSU,Clemson,28.0,25.0,3,9,20,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,80.0,20,0.9435386061668396,False,LSU,Clemson,28.0,25.0,3,9,56,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Sack,,,75.0,25,-1.2390952110290527,False,LSU,Clemson,28.0,25.0,3,10,40,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Sack,,,69.0,31,-2.361098289489746,False,LSU,Clemson,28.0,17.0,3,14,1,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,75.0,25,-0.19100284576416016,False,LSU,Clemson,28.0,17.0,3,14,47,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,75.0,25,-0.31275391578674316,False,LSU,Clemson,28.0,17.0,3,14,55,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Passing Touchdown,,,6.0,94,2.2886223793029785,True,LSU,Clemson,28.0,17.0,2,0,10,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,35.0,65,-0.3442040681838989,False,LSU,Clemson,21.0,17.0,2,0,21,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,35.0,65,-0.32860660552978516,False,LSU,Clemson,21.0,17.0,2,0,28,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,44.0,56,0.9097920656204224,False,LSU,Clemson,21.0,17.0,2,0,40,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,64.0,36,0.396634578704834,False,LSU,Clemson,21.0,17.0,2,2,17,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,79.0,21,-0.5881596207618713,False,LSU,Clemson,21.0,17.0,2,2,29,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Sack,,,70.0,30,-0.9381418228149414,False,LSU,Clemson,21.0,17.0,2,3,4,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Passing Touchdown,,,14.0,86,2.1223435401916504,True,LSU,Clemson,21.0,17.0,2,5,19,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,32.0,68,1.0883193016052246,False,LSU,Clemson,14.0,17.0,2,6,3,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,55.0,45,1.3685247898101807,False,LSU,Clemson,14.0,17.0,2,6,25,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,77.0,23,1.388309359550476,False,LSU,Clemson,14.0,17.0,2,6,49,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,87.0,13,-0.6630796790122986,False,LSU,Clemson,14.0,17.0,2,7,18,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,59.0,41,3.9082088470458984,False,LSU,Clemson,7.0,17.0,2,9,53,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,75.0,25,1.3727624416351318,False,LSU,Clemson,7.0,17.0,2,10,32,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,48.0,52,-2.067441463470459,False,LSU,Clemson,7.0,10.0,2,12,21,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,48.0,52,-0.8850415945053101,False,LSU,Clemson,7.0,10.0,2,12,27,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,55.0,45,0.53253173828125,False,LSU,Clemson,7.0,10.0,2,12,57,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Passing Touchdown,,,52.0,48,4.16396427154541,True,LSU,Clemson,7.0,7.0,1,2,20,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,70.0,30,0.49387359619140625,False,LSU,Clemson,0.0,7.0,1,3,48,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,61.0,39,-1.1979303359985352,False,LSU,Clemson,0.0,7.0,1,4,52,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,61.0,39,-0.8984367847442627,False,LSU,Clemson,0.0,7.0,1,5,0,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Sack,,,58.0,42,-1.2607094049453735,False,LSU,Clemson,0.0,7.0,1,5,38,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,73.0,27,1.8450692892074585,False,LSU,Clemson,0.0,7.0,1,6,9,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,75.0,25,-0.4367363452911377,False,LSU,Clemson,0.0,7.0,1,6,28,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,89.0,11,-1.539906620979309,False,LSU,Clemson,0.0,0.0,1,8,54,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,98.0,2,0.6491255760192871,False,LSU,Clemson,0.0,0.0,1,9,7,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Reception,,,96.0,4,-0.9560503959655762,False,LSU,Clemson,0.0,0.0,1,11,3,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,96.0,4,-0.8771108388900757,False,LSU,Clemson,0.0,0.0,1,11,10,1,Clemson,2019,LSU,Joe Burrow,2020
+401135295.0,Pass Incompletion,,,96.0,4,-0.7646884918212891,False,LSU,Clemson,0.0,0.0,1,11,14,1,Clemson,2019,LSU,Joe Burrow,2020

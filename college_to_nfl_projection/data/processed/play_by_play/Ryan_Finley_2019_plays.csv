@@ -1,0 +1,481 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401013091.0,Pass Reception,,,28.0,72.0,1.7532868385314941,False,NC State,James Madison,17.0,13.0,4,2,23,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,77.0,23.0,1.5110331773757935,False,NC State,James Madison,17.0,13.0,4,6,55,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,68.0,32.0,3.636951208114624,False,NC State,James Madison,17.0,13.0,4,6,55,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,75.0,25.0,-0.2640155553817749,False,NC State,James Madison,17.0,10.0,4,15,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,97.0,3.0,2.592336893081665,False,NC State,James Madison,17.0,10.0,3,2,56,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,85.0,15.0,-0.9205847978591919,False,NC State,James Madison,17.0,10.0,3,2,56,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,76.0,24.0,-0.568954348564148,False,NC State,James Madison,17.0,10.0,3,2,56,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,69.0,31.0,-0.9770861864089966,False,NC State,James Madison,17.0,10.0,3,10,13,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,69.0,31.0,-0.23480439186096191,False,NC State,James Madison,17.0,10.0,3,10,13,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,62.0,38.0,1.0431525707244873,False,NC State,James Madison,17.0,10.0,3,10,13,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,25.0,75.0,-0.8036656379699707,False,NC State,James Madison,17.0,10.0,3,10,13,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,25.0,75.0,-1.270556926727295,False,NC State,James Madison,17.0,10.0,3,10,13,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,80.0,20.0,-0.6309245824813843,False,NC State,James Madison,17.0,7.0,3,15,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,80.0,20.0,-1.5226869583129883,False,NC State,James Madison,17.0,7.0,3,15,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Passing Touchdown,,,14.0,86.0,3.6368443965911865,True,NC State,James Madison,17.0,7.0,2,0,18,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,22.0,78.0,0.8183994293212891,False,NC State,James Madison,10.0,7.0,2,0,47,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,14.0,86.0,-0.6191775798797607,False,NC State,James Madison,10.0,7.0,2,0,47,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,33.0,67.0,-0.2299177646636963,False,NC State,James Madison,10.0,7.0,2,0,58,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,33.0,67.0,0.5571060180664062,False,NC State,James Madison,10.0,7.0,2,0,58,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,69.0,31.0,-0.9318763017654419,False,NC State,James Madison,10.0,7.0,2,3,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,73.0,27.0,-0.03539013862609863,False,NC State,James Madison,10.0,7.0,2,3,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,66.0,34.0,1.4600355625152588,False,NC State,James Madison,10.0,7.0,2,3,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,56.0,44.0,0.481309175491333,False,NC State,James Madison,10.0,7.0,2,3,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,44.0,56.0,0.5529017448425293,False,NC State,James Madison,10.0,7.0,2,3,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Passing Touchdown,,,16.0,84.0,2.646056652069092,True,NC State,James Madison,10.0,7.0,2,9,39,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,38.0,62.0,0.5178062915802002,False,NC State,James Madison,3.0,7.0,2,11,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,26.0,74.0,1.2728464603424072,False,NC State,James Madison,3.0,7.0,2,11,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,16.0,84.0,-0.5751461982727051,False,NC State,James Madison,3.0,7.0,2,11,8,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,7.0,93.0,-1.2076630592346191,False,NC State,James Madison,0.0,7.0,2,15,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,76.0,24.0,-0.37649086117744446,False,NC State,James Madison,0.0,7.0,1,3,36,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Sack,,,76.0,24.0,-1.4453825950622559,False,NC State,James Madison,0.0,7.0,1,3,36,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,80.0,20.0,3.5426149368286133,False,NC State,James Madison,0.0,7.0,1,3,36,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,52.0,48.0,1.8795539140701294,False,NC State,James Madison,0.0,7.0,1,3,36,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,27.0,73.0,1.7717311382293701,False,NC State,James Madison,0.0,7.0,1,3,36,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,78.0,22.0,1.0695445537567139,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,66.0,34.0,2.807856559753418,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,53.0,47.0,2.040026903152466,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Incompletion,,,40.0,60.0,-0.6435246467590332,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,35.0,65.0,2.15828800201416,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Pass Reception,,,18.0,82.0,-0.3879084587097168,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013091.0,Fumble Recovery (Opponent),,,26.0,74.0,-4.8377766609191895,False,NC State,James Madison,0.0,0.0,1,11,0,1,James Madison,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,52.0,48.0,1.0000507831573486,False,NC State,Georgia State,27.0,7.0,4,5,20,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,62.0,38.0,0.025382280349731445,False,NC State,Georgia State,27.0,7.0,4,13,57,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Fumble Recovery (Own),,,55.0,45.0,1.6045894622802734,False,NC State,Georgia State,27.0,7.0,4,13,57,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,38.0,62.0,0.8437180519104004,False,NC State,Georgia State,27.0,7.0,4,13,57,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Interception Return,,,22.0,78.0,-3.9834492206573486,False,NC State,Georgia State,27.0,7.0,4,13,57,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Passing Touchdown,,,1.0,99.0,0.6470460891723633,True,NC State,Georgia State,27.0,7.0,3,3,43,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,72.0,28.0,-0.24866557121276855,False,NC State,Georgia State,20.0,7.0,3,7,9,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,60.0,40.0,0.5193202495574951,False,NC State,Georgia State,20.0,7.0,3,7,9,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,48.0,52.0,0.035444021224975586,False,NC State,Georgia State,20.0,7.0,3,7,9,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,43.0,57.0,1.32999849319458,False,NC State,Georgia State,20.0,7.0,3,7,9,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,20.0,80.0,1.0895023345947266,False,NC State,Georgia State,20.0,7.0,3,7,9,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,9.0,91.0,0.8135771751403809,False,NC State,Georgia State,20.0,7.0,3,7,9,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Incompletion,,,53.0,47.0,-0.6485092639923096,False,NC State,Georgia State,20.0,7.0,3,9,13,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Incompletion,,,52.0,48.0,-1.6317168474197388,False,NC State,Georgia State,20.0,7.0,3,9,13,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,75.0,25.0,0.5107440948486328,False,NC State,Georgia State,20.0,7.0,3,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,68.0,32.0,0.24962162971496582,False,NC State,Georgia State,20.0,7.0,3,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Incompletion,,,59.0,41.0,-0.9264506101608276,False,NC State,Georgia State,20.0,7.0,3,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,59.0,41.0,1.9930156469345093,False,NC State,Georgia State,20.0,7.0,3,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,42.0,58.0,-0.23509955406188965,False,NC State,Georgia State,20.0,7.0,3,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Fumble Recovery (Own),,,36.0,64.0,-0.3410470485687256,False,NC State,Georgia State,20.0,7.0,3,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,73.0,27.0,0.105557382106781,False,NC State,Georgia State,17.0,7.0,2,0,46,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,68.0,32.0,1.796257495880127,False,NC State,Georgia State,17.0,7.0,2,0,46,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,34.0,66.0,2.0609970092773438,False,NC State,Georgia State,17.0,7.0,2,0,46,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,80.0,20.0,0.18182051181793213,False,NC State,Georgia State,17.0,7.0,2,7,59,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,75.0,25.0,1.2644315958023071,False,NC State,Georgia State,17.0,7.0,2,7,59,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,60.0,40.0,0.1413116455078125,False,NC State,Georgia State,17.0,7.0,2,7,59,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Incompletion,,,74.0,26.0,-1.4352102279663086,False,NC State,Georgia State,10.0,7.0,2,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,74.0,26.0,1.4541716575622559,False,NC State,Georgia State,10.0,7.0,2,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,70.0,30.0,2.1058335304260254,False,NC State,Georgia State,10.0,7.0,2,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,28.0,72.0,-1.101107120513916,False,NC State,Georgia State,10.0,7.0,2,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,23.0,77.0,3.4137463569641113,False,NC State,Georgia State,10.0,7.0,2,15,0,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,94.0,6.0,1.8168439865112305,False,NC State,Georgia State,7.0,7.0,1,7,4,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,79.0,21.0,3.6532180309295654,False,NC State,Georgia State,7.0,7.0,1,7,4,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Incompletion,,,7.0,93.0,-1.4154400825500488,False,NC State,Georgia State,7.0,7.0,1,7,4,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Passing Touchdown,,,5.0,95.0,2.6671690940856934,True,NC State,Georgia State,7.0,7.0,1,9,32,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,57.0,43.0,0.8867533206939697,False,NC State,Georgia State,0.0,7.0,1,12,29,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,34.0,66.0,1.2331504821777344,False,NC State,Georgia State,0.0,7.0,1,12,29,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Reception,,,25.0,75.0,0.5043509006500244,False,NC State,Georgia State,0.0,7.0,1,12,29,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013104.0,Pass Incompletion,,,19.0,81.0,-0.7899684906005859,False,NC State,Georgia State,0.0,7.0,1,12,29,2,Georgia State,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,38.0,38.0,3.3985211849212646,False,Marshall,NC State,37.0,20.0,4,8,48,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,14.0,14.0,-1.2751529216766357,False,Marshall,NC State,37.0,20.0,4,8,48,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,53.0,53.0,1.3151895999908447,False,Marshall,NC State,37.0,20.0,4,14,12,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,48.0,48.0,-0.5734689235687256,False,Marshall,NC State,37.0,20.0,4,14,12,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,48.0,48.0,-1.728085994720459,False,Marshall,NC State,37.0,20.0,4,14,12,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,55.0,55.0,-1.1249120235443115,False,Marshall,NC State,37.0,20.0,4,14,12,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Sack,,,75.0,75.0,-1.1777400970458984,False,Marshall,NC State,30.0,20.0,3,3,5,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,81.0,81.0,-0.35473668575286865,False,Marshall,NC State,30.0,20.0,3,3,5,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Passing Touchdown,,,30.0,30.0,3.380753755569458,True,Marshall,NC State,30.0,17.0,3,7,24,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,62.0,62.0,2.440122127532959,False,Marshall,NC State,23.0,17.0,3,9,11,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,61.0,61.0,-0.9332079887390137,False,Marshall,NC State,23.0,7.0,3,15,0,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,61.0,61.0,-1.3782248497009277,False,Marshall,NC State,23.0,7.0,3,15,0,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,10.0,10.0,0.09462785720825195,False,Marshall,NC State,20.0,7.0,2,0,9,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,56.0,56.0,0.29675883054733276,False,Marshall,NC State,20.0,7.0,2,0,30,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,37.0,37.0,-0.11295580863952637,False,Marshall,NC State,20.0,7.0,2,0,30,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,37.0,37.0,-0.2441849708557129,False,Marshall,NC State,20.0,7.0,2,0,30,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,37.0,37.0,2.635511875152588,False,Marshall,NC State,20.0,7.0,2,0,30,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,71.0,71.0,3.015856981277466,False,Marshall,NC State,13.0,7.0,2,6,39,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,9.0,9.0,1.8183794021606445,False,Marshall,NC State,13.0,7.0,2,6,39,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,75.0,75.0,1.442331314086914,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,53.0,53.0,-0.9806612133979797,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,53.0,53.0,2.936488151550293,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,34.0,34.0,-0.5544953346252441,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,39.0,39.0,-1.0313209295272827,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,39.0,39.0,3.4744982719421387,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,14.0,14.0,-0.7991368770599365,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,14.0,14.0,-1.1722474098205566,False,Marshall,NC State,10.0,7.0,2,14,4,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,76.0,76.0,1.291906476020813,False,Marshall,NC State,3.0,0.0,1,3,43,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,63.0,63.0,0.5799298286437988,False,Marshall,NC State,3.0,0.0,1,3,43,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,50.0,50.0,3.0971686840057373,False,Marshall,NC State,3.0,0.0,1,3,43,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,68.0,68.0,0.5337111949920654,False,Marshall,NC State,0.0,0.0,1,10,0,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,64.0,64.0,-0.9553564190864563,False,Marshall,NC State,0.0,0.0,1,10,0,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,64.0,64.0,2.7010655403137207,False,Marshall,NC State,0.0,0.0,1,10,0,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,40.0,40.0,1.056098222732544,False,Marshall,NC State,0.0,0.0,1,10,0,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Reception,,,68.0,68.0,1.6003657579421997,False,Marshall,NC State,0.0,0.0,1,12,35,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,42.0,42.0,-0.668881893157959,False,Marshall,NC State,0.0,0.0,1,12,35,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,42.0,42.0,-0.9885424375534058,False,Marshall,NC State,0.0,0.0,1,12,35,4,Marshall,2018,NC State,Ryan Finley,2019
+401013126.0,Pass Incompletion,,,42.0,42.0,-1.985288381576538,False,Marshall,NC State,0.0,0.0,1,12,35,4,Marshall,2018,NC State,Ryan Finley,2019
+401013135.0,Passing Touchdown,,,16.0,84.0,3.307553291320801,True,NC State,Virginia,35.0,14.0,4,7,25,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,74.0,26.0,1.8322198390960693,False,NC State,Virginia,27.0,14.0,4,12,13,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,75.0,25.0,1.0052181482315063,False,NC State,Virginia,27.0,14.0,3,3,11,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,48.0,52.0,-1.4926741123199463,False,NC State,Virginia,27.0,14.0,3,3,11,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,51.0,49.0,-1.414730429649353,False,NC State,Virginia,27.0,14.0,3,3,11,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,76.0,24.0,2.058631420135498,False,NC State,Virginia,20.0,7.0,3,12,39,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,27.0,73.0,2.024453639984131,False,NC State,Virginia,20.0,7.0,3,12,39,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,33.0,67.0,0.39981508255004883,False,NC State,Virginia,17.0,7.0,2,0,7,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,43.0,57.0,0.6391299962997437,False,NC State,Virginia,17.0,7.0,2,0,25,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,37.0,63.0,-0.10628080368041992,False,NC State,Virginia,17.0,7.0,2,0,25,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,48.0,52.0,-0.11184835433959961,False,NC State,Virginia,17.0,7.0,2,0,35,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Passing Touchdown,,,14.0,86.0,3.4206268787384033,True,NC State,Virginia,17.0,7.0,2,0,52,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,80.0,20.0,-0.18359017372131348,False,NC State,Virginia,10.0,7.0,2,10,4,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,73.0,27.0,1.8650277853012085,False,NC State,Virginia,10.0,7.0,2,10,4,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,57.0,43.0,-0.5302367210388184,False,NC State,Virginia,10.0,7.0,2,10,4,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,62.0,38.0,-1.0229361057281494,False,NC State,Virginia,10.0,7.0,2,10,4,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Passing Touchdown,,,16.0,84.0,3.2277345657348633,True,NC State,Virginia,10.0,7.0,2,11,50,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,42.0,58.0,0.31207823753356934,False,NC State,Virginia,3.0,7.0,2,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,36.0,64.0,1.1607303619384766,False,NC State,Virginia,3.0,7.0,2,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,27.0,73.0,0.6924512386322021,False,NC State,Virginia,3.0,7.0,2,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,69.0,31.0,0.0009911060333251953,False,NC State,Virginia,3.0,7.0,1,2,51,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,64.0,36.0,0.856937050819397,False,NC State,Virginia,3.0,7.0,1,2,51,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,53.0,47.0,-0.5999295711517334,False,NC State,Virginia,3.0,7.0,1,2,51,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,69.0,31.0,-0.7164106369018555,False,NC State,Virginia,3.0,0.0,1,9,19,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,69.0,31.0,2.340782642364502,False,NC State,Virginia,3.0,0.0,1,9,19,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,59.0,41.0,-1.0373916625976562,False,NC State,Virginia,3.0,0.0,1,9,19,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,59.0,41.0,-1.158491611480713,False,NC State,Virginia,3.0,0.0,1,9,19,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,75.0,25.0,-0.468652606010437,False,NC State,Virginia,0.0,0.0,1,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,72.0,28.0,1.5390703678131104,False,NC State,Virginia,0.0,0.0,1,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Reception,,,62.0,38.0,2.3414440155029297,False,NC State,Virginia,0.0,0.0,1,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013135.0,Pass Incompletion,,,17.0,83.0,-3.9905810356140137,False,NC State,Virginia,0.0,0.0,1,15,0,5,Virginia,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,33.0,67.0,2.2583091259002686,False,NC State,Boston College,28.0,23.0,4,1,17,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,78.0,22.0,-1.4157612323760986,False,NC State,Boston College,28.0,16.0,4,3,45,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,95.0,5.0,1.9117144346237183,False,NC State,Boston College,28.0,16.0,4,6,9,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,75.0,25.0,-0.5075984001159668,False,NC State,Boston College,28.0,16.0,4,11,10,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,75.0,25.0,-0.541412353515625,False,NC State,Boston College,28.0,10.0,3,1,33,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Passing Touchdown,,,34.0,66.0,2.088866710662842,True,NC State,Boston College,28.0,3.0,3,2,57,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,50.0,50.0,1.2829010486602783,False,NC State,Boston College,21.0,3.0,3,4,45,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,48.0,52.0,-0.9666919708251953,False,NC State,Boston College,21.0,3.0,3,14,56,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,48.0,52.0,1.9352128505706787,False,NC State,Boston College,21.0,3.0,3,14,56,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,35.0,65.0,0.05933856964111328,False,NC State,Boston College,21.0,3.0,3,14,56,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,30.0,70.0,0.8148581981658936,False,NC State,Boston College,21.0,3.0,3,14,56,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,16.0,84.0,0.12641429901123047,False,NC State,Boston College,21.0,3.0,3,14,56,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,10.0,90.0,-0.06894731521606445,False,NC State,Boston College,21.0,3.0,3,14,56,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Passing Touchdown,,,4.0,96.0,2.0935263633728027,True,NC State,Boston College,21.0,3.0,2,0,43,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,35.0,65.0,-0.9931002855300903,False,NC State,Boston College,14.0,3.0,2,1,9,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,35.0,65.0,1.8410855531692505,False,NC State,Boston College,14.0,3.0,2,1,9,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,28.0,72.0,1.756993293762207,False,NC State,Boston College,14.0,3.0,2,1,9,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,86.0,14.0,-0.03168952465057373,False,NC State,Boston College,14.0,3.0,2,2,27,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,57.0,43.0,0.6737784147262573,False,NC State,Boston College,14.0,3.0,2,2,27,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,42.0,58.0,0.7538120746612549,False,NC State,Boston College,14.0,3.0,2,2,27,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,66.0,34.0,1.2393537759780884,False,NC State,Boston College,7.0,3.0,2,8,8,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,42.0,58.0,1.1722455024719238,False,NC State,Boston College,7.0,3.0,2,11,22,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Interception Return,,,28.0,72.0,-4.995225429534912,False,NC State,Boston College,7.0,3.0,2,11,22,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,28.0,72.0,1.8599615097045898,False,NC State,Boston College,7.0,3.0,2,15,0,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,5.0,95.0,-0.9239544868469238,False,NC State,Boston College,7.0,3.0,2,15,0,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Interception Return,,,4.0,96.0,-4.326581001281738,False,NC State,Boston College,7.0,3.0,2,15,0,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,75.0,25.0,-0.6069545745849609,False,NC State,Boston College,7.0,3.0,1,4,53,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,47.0,53.0,0.7283077239990234,False,NC State,Boston College,7.0,3.0,1,4,53,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,53.0,47.0,3.4162611961364746,False,NC State,Boston College,7.0,3.0,1,4,53,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,69.0,31.0,0.3742099404335022,False,NC State,Boston College,0.0,0.0,1,12,39,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,62.0,38.0,0.9575700759887695,False,NC State,Boston College,0.0,0.0,1,12,39,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,53.0,47.0,1.5775151252746582,False,NC State,Boston College,0.0,0.0,1,12,39,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Reception,,,20.0,80.0,0.864403247833252,False,NC State,Boston College,0.0,0.0,1,12,39,6,Boston College,2018,NC State,Ryan Finley,2019
+401013139.0,Pass Incompletion,,,3.0,97.0,-1.042947769165039,False,NC State,Boston College,0.0,0.0,1,12,39,6,Boston College,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,42.0,42.0,3.595660924911499,False,Clemson,NC State,7.0,41.0,4,0,39,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,48.0,48.0,-0.6153020262718201,False,Clemson,NC State,7.0,41.0,4,1,31,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,52.0,52.0,-0.2900245189666748,False,Clemson,NC State,7.0,41.0,4,2,10,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,64.0,64.0,0.35999399423599243,False,Clemson,NC State,7.0,41.0,4,2,37,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,80.0,80.0,-0.1501154899597168,False,Clemson,NC State,7.0,41.0,4,3,0,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,52.0,52.0,-0.006695926189422607,False,Clemson,NC State,7.0,41.0,4,6,32,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,52.0,52.0,-0.44944995641708374,False,Clemson,NC State,7.0,41.0,4,7,9,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,68.0,68.0,-1.2865052223205566,False,Clemson,NC State,7.0,34.0,4,11,58,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,40.0,40.0,1.2963628768920898,False,Clemson,NC State,0.0,31.0,3,0,22,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,48.0,48.0,1.080906867980957,False,Clemson,NC State,0.0,31.0,3,0,37,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,59.0,59.0,0.2640935480594635,False,Clemson,NC State,0.0,31.0,3,2,15,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,78.0,78.0,-0.3770442008972168,False,Clemson,NC State,0.0,31.0,3,2,45,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,73.0,73.0,-0.9638071060180664,False,Clemson,NC State,0.0,24.0,3,5,31,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,72.0,72.0,0.9778864979743958,False,Clemson,NC State,0.0,24.0,3,8,33,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Interception Return,,,30.0,30.0,-5.979480266571045,False,Clemson,NC State,0.0,24.0,3,11,1,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,52.0,45.0,5.979480266571045,False,Clemson,NC State,0.0,24.0,3,11,45,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,61.0,61.0,-0.20110702514648438,False,Clemson,NC State,0.0,24.0,3,12,15,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,51.0,51.0,-0.7068594694137573,False,Clemson,NC State,0.0,24.0,3,12,48,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,69.0,69.0,0.7523568868637085,False,Clemson,NC State,0.0,24.0,3,14,25,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,75.0,75.0,1.3193707466125488,False,Clemson,NC State,0.0,24.0,3,14,56,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Interception Return,,,67.0,67.0,-5.734923362731934,False,Clemson,NC State,0.0,21.0,2,0,19,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,75.0,75.0,0.2127223163843155,False,Clemson,NC State,0.0,21.0,2,0,42,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,42.0,42.0,0.1828622817993164,False,Clemson,NC State,0.0,14.0,2,2,34,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,79.0,79.0,2.50131893157959,False,Clemson,NC State,0.0,14.0,2,4,48,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,84.0,84.0,-0.04739582538604736,False,Clemson,NC State,0.0,14.0,2,5,26,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,84.0,84.0,-0.41704061627388,False,Clemson,NC State,0.0,14.0,2,5,37,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,61.0,61.0,-1.3021790981292725,False,Clemson,NC State,0.0,14.0,2,11,21,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,61.0,61.0,-0.7762618660926819,False,Clemson,NC State,0.0,14.0,2,11,25,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,65.0,65.0,-0.08747810125350952,False,Clemson,NC State,0.0,14.0,2,11,43,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,75.0,75.0,-0.5741297006607056,False,Clemson,NC State,0.0,14.0,1,2,53,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,71.0,71.0,0.2554969787597656,False,Clemson,NC State,0.0,7.0,1,6,33,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Reception,,,84.0,84.0,-0.5856564044952393,False,Clemson,NC State,0.0,7.0,1,10,25,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Sack,,,75.0,75.0,-1.7703242301940918,False,Clemson,NC State,0.0,7.0,1,10,50,8,Clemson,2018,NC State,Ryan Finley,2019
+401013149.0,Pass Incompletion,,,75.0,75.0,-0.40552717447280884,False,Clemson,NC State,0.0,7.0,1,11,19,8,Clemson,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,70.0,70.0,0.5608086585998535,False,Syracuse,NC State,41.0,51.0,4,0,0,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,82.0,82.0,-0.08926700055599213,False,Syracuse,NC State,41.0,51.0,4,0,5,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,84.0,84.0,0.05718506872653961,False,Syracuse,NC State,41.0,51.0,4,0,45,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Interception Return,,,85.0,85.0,-3.430349349975586,False,Syracuse,NC State,41.0,44.0,4,2,10,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,85.0,85.0,-0.3397452235221863,False,Syracuse,NC State,41.0,44.0,4,2,30,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,85.0,85.0,-0.39458519220352173,False,Syracuse,NC State,41.0,44.0,4,3,7,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Passing Touchdown,,,12.0,12.0,3.1099090576171875,True,Syracuse,NC State,41.0,44.0,4,7,23,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,58.0,58.0,3.9468748569488525,False,Syracuse,NC State,34.0,44.0,4,8,20,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,75.0,75.0,0.9531974196434021,False,Syracuse,NC State,34.0,44.0,4,9,22,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,16.0,16.0,1.5613622665405273,False,Syracuse,NC State,27.0,41.0,4,14,50,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Sack,,,25.0,25.0,-1.8180915117263794,False,Syracuse,NC State,27.0,41.0,3,0,0,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,36.0,36.0,1.2220420837402344,False,Syracuse,NC State,27.0,41.0,3,0,48,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,50.0,50.0,2.010897397994995,False,Syracuse,NC State,27.0,41.0,3,1,53,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,57.0,57.0,0.8900821208953857,False,Syracuse,NC State,27.0,41.0,3,3,15,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,75.0,75.0,-0.1404469609260559,False,Syracuse,NC State,27.0,41.0,3,4,3,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,10.0,10.0,1.060359001159668,False,Syracuse,NC State,20.0,34.0,3,6,30,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,59.0,59.0,3.9704558849334717,False,Syracuse,NC State,20.0,34.0,3,6,45,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,64.0,64.0,0.11613339185714722,False,Syracuse,NC State,20.0,34.0,3,7,9,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,78.0,78.0,1.7458127737045288,False,Syracuse,NC State,20.0,34.0,3,8,24,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,64.0,64.0,-0.4343299865722656,False,Syracuse,NC State,20.0,24.0,2,0,42,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,11.0,11.0,-1.3959243297576904,False,Syracuse,NC State,17.0,24.0,2,3,17,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,14.0,14.0,-0.49057817459106445,False,Syracuse,NC State,17.0,24.0,2,4,4,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,24.0,24.0,1.502079963684082,False,Syracuse,NC State,17.0,24.0,2,4,14,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,29.0,29.0,-0.7927436828613281,False,Syracuse,NC State,17.0,24.0,2,4,31,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,73.0,73.0,2.831047534942627,False,Syracuse,NC State,17.0,24.0,2,5,20,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Passing Touchdown,,,74.0,74.0,6.2353386878967285,True,Syracuse,NC State,17.0,24.0,2,7,40,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,91.0,91.0,-0.6072014570236206,False,Syracuse,NC State,10.0,24.0,2,8,51,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,23.0,23.0,0.3686637878417969,False,Syracuse,NC State,7.0,24.0,2,13,1,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,47.0,47.0,2.436837673187256,False,Syracuse,NC State,7.0,24.0,2,14,23,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,59.0,59.0,0.28263604640960693,False,Syracuse,NC State,7.0,24.0,1,0,31,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,68.0,68.0,1.6890419721603394,False,Syracuse,NC State,7.0,24.0,1,0,50,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,77.0,77.0,0.8869419097900391,False,Syracuse,NC State,7.0,24.0,1,1,10,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,72.0,72.0,-0.9268953204154968,False,Syracuse,NC State,7.0,17.0,1,3,29,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,72.0,72.0,-1.2144969701766968,False,Syracuse,NC State,7.0,17.0,1,5,22,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,72.0,72.0,-0.961143970489502,False,Syracuse,NC State,7.0,17.0,1,5,27,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,80.0,80.0,-0.9317716360092163,False,Syracuse,NC State,7.0,10.0,1,7,38,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,86.0,86.0,-0.6683653593063354,False,Syracuse,NC State,7.0,10.0,1,7,45,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Passing Touchdown,,,67.0,67.0,4.749059677124023,True,Syracuse,NC State,7.0,3.0,1,9,44,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Reception,,,75.0,75.0,0.034249186515808105,False,Syracuse,NC State,0.0,3.0,1,10,3,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013159.0,Pass Incompletion,,,70.0,70.0,-1.6607877016067505,False,Syracuse,NC State,0.0,0.0,1,13,57,9,Syracuse,2018,NC State,Ryan Finley,2019
+401013164.0,Passing Touchdown,,,2.0,98.0,0.7074251174926758,True,NC State,Florida State,44.0,21.0,4,11,10,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,22.0,78.0,-0.7717306613922119,False,NC State,Florida State,37.0,21.0,4,13,49,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,40.0,60.0,0.9637207984924316,False,NC State,Florida State,37.0,21.0,4,14,6,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,49.0,51.0,1.397003412246704,False,NC State,Florida State,37.0,21.0,3,0,0,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Passing Touchdown,,,2.0,98.0,0.47623205184936523,True,NC State,Florida State,37.0,14.0,3,4,32,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,48.0,52.0,0.6246819496154785,False,NC State,Florida State,30.0,14.0,3,6,20,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,60.0,40.0,0.594423770904541,False,NC State,Florida State,30.0,14.0,3,6,58,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,26.0,74.0,0.15803837776184082,False,NC State,Florida State,27.0,14.0,3,11,37,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,7.0,93.0,0.0250701904296875,False,NC State,Florida State,20.0,7.0,2,1,17,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,24.0,76.0,1.5186995267868042,False,NC State,Florida State,20.0,7.0,2,2,2,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,32.0,68.0,-0.21805596351623535,False,NC State,Florida State,20.0,7.0,2,2,30,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,8.0,92.0,-1.1839299201965332,False,NC State,Florida State,17.0,7.0,2,5,6,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,47.0,53.0,2.355276107788086,False,NC State,Florida State,17.0,7.0,2,6,41,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,63.0,37.0,0.9977262020111084,False,NC State,Florida State,17.0,7.0,2,7,50,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,78.0,22.0,0.34507477283477783,False,NC State,Florida State,17.0,7.0,2,8,50,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Passing Touchdown,,,8.0,92.0,1.3338308334350586,True,NC State,Florida State,17.0,0.0,2,11,13,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,26.0,74.0,1.1211051940917969,False,NC State,Florida State,10.0,0.0,2,12,30,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,59.0,41.0,1.6472363471984863,False,NC State,Florida State,10.0,0.0,2,13,30,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,3.0,97.0,-1.8735342025756836,False,NC State,Florida State,7.0,0.0,1,0,14,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,4.0,96.0,-0.665367603302002,False,NC State,Florida State,7.0,0.0,1,0,50,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,54.0,46.0,1.786829948425293,False,NC State,Florida State,7.0,0.0,1,3,50,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,46.0,54.0,-1.8447349071502686,False,NC State,Florida State,7.0,0.0,1,7,7,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,46.0,54.0,-0.9346251487731934,False,NC State,Florida State,7.0,0.0,1,7,15,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,32.0,68.0,-0.8268582820892334,False,NC State,Florida State,0.0,0.0,1,12,9,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,41.0,59.0,0.8559482097625732,False,NC State,Florida State,0.0,0.0,1,12,30,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Incompletion,,,41.0,59.0,-0.6195945739746094,False,NC State,Florida State,0.0,0.0,1,12,50,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,60.0,40.0,1.977192759513855,False,NC State,Florida State,0.0,0.0,1,13,30,10,Florida State,2018,NC State,Ryan Finley,2019
+401013164.0,Pass Reception,,,66.0,34.0,-0.10707926750183105,False,NC State,Florida State,0.0,0.0,1,14,10,10,Florida State,2018,NC State,Ryan Finley,2019
+401013167.0,Interception Return,,,51.0,49.0,-1.0498301982879639,False,NC State,Wake Forest,23.0,27.0,4,0,0,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,62.0,38.0,-0.20652469992637634,False,NC State,Wake Forest,23.0,27.0,4,0,4,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,83.0,17.0,0.0919845774769783,False,NC State,Wake Forest,23.0,27.0,4,0,9,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,90.0,10.0,0.03112713247537613,False,NC State,Wake Forest,23.0,27.0,4,0,15,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,20.0,80.0,-2.676833391189575,False,NC State,Wake Forest,23.0,20.0,4,1,39,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,31.0,69.0,0.7226535081863403,False,NC State,Wake Forest,23.0,20.0,4,1,43,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,47.0,58.0,1.1086876392364502,False,NC State,Wake Forest,23.0,20.0,4,2,9,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,57.0,43.0,0.7273824214935303,False,NC State,Wake Forest,23.0,20.0,4,3,47,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,70.0,30.0,0.46948957443237305,False,NC State,Wake Forest,23.0,20.0,4,4,0,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,72.0,28.0,1.4162461757659912,False,NC State,Wake Forest,23.0,20.0,4,5,32,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,74.0,26.0,-0.5543114542961121,False,NC State,Wake Forest,23.0,20.0,4,5,50,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,39.0,61.0,-2.726836681365967,False,NC State,Wake Forest,23.0,13.0,4,9,16,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,39.0,61.0,-1.8950207233428955,False,NC State,Wake Forest,23.0,13.0,4,9,22,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,46.0,54.0,-0.5256044864654541,False,NC State,Wake Forest,23.0,13.0,4,10,12,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,68.0,32.0,2.6036159992218018,False,NC State,Wake Forest,23.0,13.0,4,10,45,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Passing Touchdown,,,35.0,65.0,4.009584426879883,True,NC State,Wake Forest,23.0,13.0,4,14,53,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,40.0,60.0,-0.6538822650909424,False,NC State,Wake Forest,16.0,13.0,3,0,25,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,64.0,36.0,1.362781047821045,False,NC State,Wake Forest,16.0,13.0,3,0,55,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,76.0,24.0,1.7987439632415771,False,NC State,Wake Forest,16.0,13.0,3,1,0,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,8.0,92.0,-1.2301967144012451,False,NC State,Wake Forest,13.0,6.0,3,4,10,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,8.0,92.0,-0.9104728698730469,False,NC State,Wake Forest,13.0,6.0,3,4,23,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,11.0,89.0,-0.2509446144104004,False,NC State,Wake Forest,13.0,6.0,3,4,35,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,31.0,69.0,-0.012195825576782227,False,NC State,Wake Forest,13.0,6.0,3,5,30,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,37.0,63.0,1.52189302444458,False,NC State,Wake Forest,13.0,6.0,3,6,40,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,42.0,58.0,-0.3421621322631836,False,NC State,Wake Forest,13.0,6.0,3,7,0,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,47.0,53.0,-0.1378493309020996,False,NC State,Wake Forest,13.0,6.0,3,9,55,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,67.0,33.0,0.9946608543395996,False,NC State,Wake Forest,13.0,6.0,3,11,12,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,75.0,25.0,0.552234411239624,False,NC State,Wake Forest,13.0,6.0,3,11,30,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Sack,,,51.0,49.0,-0.6727585792541504,False,NC State,Wake Forest,13.0,3.0,2,0,55,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,55.0,45.0,-0.2966127395629883,False,NC State,Wake Forest,13.0,3.0,2,1,12,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,61.0,39.0,0.5796039700508118,False,NC State,Wake Forest,13.0,3.0,2,1,25,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,69.0,31.0,-0.18358683586120605,False,NC State,Wake Forest,13.0,3.0,2,1,45,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,73.0,27.0,0.05444991588592529,False,NC State,Wake Forest,13.0,3.0,2,1,55,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,81.0,19.0,0.24207210540771484,False,NC State,Wake Forest,13.0,3.0,2,2,15,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,32.0,68.0,0.8723475933074951,False,NC State,Wake Forest,6.0,3.0,2,5,43,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,44.0,56.0,1.5223562717437744,False,NC State,Wake Forest,6.0,3.0,2,6,5,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,67.0,33.0,1.168229103088379,False,NC State,Wake Forest,6.0,3.0,2,8,31,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,70.0,30.0,-0.44992250204086304,False,NC State,Wake Forest,6.0,3.0,2,9,0,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,56.0,44.0,-0.8937383890151978,False,NC State,Wake Forest,6.0,0.0,2,13,55,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,56.0,44.0,-0.5946751832962036,False,NC State,Wake Forest,6.0,0.0,2,14,0,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,6.0,94.0,-1.3259539604187012,False,NC State,Wake Forest,3.0,0.0,1,0,56,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,13.0,87.0,0.0369415283203125,False,NC State,Wake Forest,3.0,0.0,1,1,30,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,25.0,75.0,1.0845489501953125,False,NC State,Wake Forest,3.0,0.0,1,2,49,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,50.0,50.0,1.4009807109832764,False,NC State,Wake Forest,3.0,0.0,1,3,18,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,68.0,32.0,2.1042299270629883,False,NC State,Wake Forest,3.0,0.0,1,3,52,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,63.0,37.0,-0.8591334819793701,False,NC State,Wake Forest,3.0,0.0,1,8,23,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Reception,,,80.0,20.0,0.8640432357788086,False,NC State,Wake Forest,3.0,0.0,1,9,8,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,12.0,88.0,-1.0753777027130127,False,NC State,Wake Forest,0.0,0.0,1,12,46,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,53.0,47.0,-1.3098350763320923,False,NC State,Wake Forest,0.0,0.0,1,14,15,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013167.0,Pass Incompletion,,,53.0,47.0,-1.0698659420013428,False,NC State,Wake Forest,0.0,0.0,1,14,19,11,Wake Forest,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,72.0,72.0,-0.08204102516174316,False,Louisville,NC State,45.0,10.0,4,10,44,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,63.0,63.0,0.2064497470855713,False,Louisville,NC State,45.0,10.0,4,10,44,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,41.0,41.0,-0.4888601303100586,False,Louisville,NC State,45.0,10.0,4,10,44,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,41.0,41.0,1.3529024124145508,False,Louisville,NC State,45.0,10.0,4,10,44,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,22.0,22.0,-0.6185448169708252,False,Louisville,NC State,45.0,10.0,4,10,44,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,6.0,6.0,0.788487434387207,False,Louisville,NC State,45.0,10.0,4,10,44,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Passing Touchdown,,,3.0,3.0,0.6973028182983398,True,Louisville,NC State,45.0,3.0,4,13,45,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,27.0,27.0,1.9642539024353027,False,Louisville,NC State,38.0,3.0,4,15,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,74.0,74.0,0.35535526275634766,False,Louisville,NC State,38.0,3.0,3,3,55,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,54.0,54.0,1.3343327045440674,False,Louisville,NC State,38.0,3.0,3,3,55,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,42.0,42.0,-0.5423393249511719,False,Louisville,NC State,38.0,3.0,3,3,55,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Passing Touchdown,,,6.0,6.0,0.887052059173584,True,Louisville,NC State,38.0,3.0,3,5,49,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,70.0,70.0,0.583061695098877,False,Louisville,NC State,31.0,3.0,3,7,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,41.0,41.0,1.4260802268981934,False,Louisville,NC State,31.0,3.0,3,7,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Passing Touchdown,,,12.0,12.0,1.2192468643188477,True,Louisville,NC State,31.0,3.0,3,9,10,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,67.0,67.0,0.3917384147644043,False,Louisville,NC State,24.0,3.0,3,12,29,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Sack,,,39.0,39.0,-1.2652709484100342,False,Louisville,NC State,24.0,3.0,3,12,29,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,48.0,48.0,-0.9220516681671143,False,Louisville,NC State,24.0,3.0,3,12,29,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,48.0,48.0,-1.333333969116211,False,Louisville,NC State,24.0,3.0,3,12,29,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,22.0,22.0,-0.552940845489502,False,Louisville,NC State,17.0,3.0,3,14,12,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,80.0,80.0,0.6014564037322998,False,Louisville,NC State,10.0,3.0,2,5,30,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,53.0,53.0,-0.47720909118652344,False,Louisville,NC State,10.0,3.0,2,5,30,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,53.0,53.0,1.4839129447937012,False,Louisville,NC State,10.0,3.0,2,5,30,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,34.0,34.0,-0.6824653148651123,False,Louisville,NC State,10.0,3.0,2,5,30,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,34.0,34.0,1.3608956336975098,False,Louisville,NC State,10.0,3.0,2,5,30,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,23.0,23.0,1.7227792739868164,False,Louisville,NC State,10.0,3.0,2,5,30,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,44.0,44.0,1.210045576095581,False,Louisville,NC State,7.0,3.0,2,12,37,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,33.0,33.0,1.7733399868011475,False,Louisville,NC State,7.0,3.0,2,12,37,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,6.0,6.0,-0.6463470458984375,False,Louisville,NC State,7.0,3.0,2,12,37,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,5.0,5.0,-1.4885609149932861,False,Louisville,NC State,7.0,3.0,2,12,37,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,83.0,83.0,-1.0065250396728516,False,Louisville,NC State,7.0,3.0,2,15,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,86.0,86.0,1.2386746406555176,False,Louisville,NC State,7.0,3.0,1,3,10,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,83.0,83.0,-0.9284456968307495,False,Louisville,NC State,7.0,3.0,1,3,10,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Passing Touchdown,,,25.0,25.0,2.542879581451416,True,Louisville,NC State,7.0,3.0,1,5,50,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,67.0,67.0,0.930389940738678,False,Louisville,NC State,0.0,3.0,1,9,26,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,61.0,61.0,0.21363770961761475,False,Louisville,NC State,0.0,3.0,1,9,26,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,56.0,56.0,0.44735145568847656,False,Louisville,NC State,0.0,3.0,1,9,26,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,50.0,50.0,1.4450502395629883,False,Louisville,NC State,0.0,3.0,1,9,26,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,33.0,33.0,0.4294767379760742,False,Louisville,NC State,0.0,3.0,1,9,26,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Incompletion,,,78.0,78.0,-0.6929668188095093,False,Louisville,NC State,0.0,0.0,1,15,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,78.0,78.0,-1.007158637046814,False,Louisville,NC State,0.0,0.0,1,15,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013178.0,Pass Reception,,,76.0,76.0,-0.8187289237976074,False,Louisville,NC State,0.0,0.0,1,15,0,12,Louisville,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,41.0,41.0,-1.2397786378860474,False,North Carolina,NC State,28.0,28.0,4,0,54,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Sack,,,40.0,40.0,-0.8383889198303223,False,North Carolina,NC State,28.0,28.0,4,3,27,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,74.0,74.0,0.9570602178573608,False,North Carolina,NC State,21.0,28.0,4,7,3,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,48.0,48.0,-0.5065340995788574,False,North Carolina,NC State,21.0,28.0,4,7,3,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,48.0,48.0,2.3801865577697754,False,North Carolina,NC State,21.0,28.0,4,7,3,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,75.0,75.0,-0.5094751715660095,False,North Carolina,NC State,21.0,28.0,4,9,29,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,75.0,75.0,0.09885241836309433,False,North Carolina,NC State,21.0,28.0,4,9,29,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,69.0,69.0,-1.3727717399597168,False,North Carolina,NC State,21.0,28.0,4,9,29,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,75.0,75.0,1.7328059673309326,False,North Carolina,NC State,21.0,21.0,3,1,31,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,73.0,73.0,-0.05622220039367676,False,North Carolina,NC State,14.0,13.0,3,8,3,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,69.0,69.0,1.415015697479248,False,North Carolina,NC State,14.0,13.0,3,8,3,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,49.0,49.0,0.8185515403747559,False,North Carolina,NC State,14.0,13.0,3,8,3,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,69.0,69.0,-0.953799843788147,False,North Carolina,NC State,7.0,6.0,3,15,0,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,69.0,69.0,2.375471591949463,False,North Carolina,NC State,7.0,6.0,3,15,0,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,49.0,49.0,-0.2497248649597168,False,North Carolina,NC State,7.0,6.0,3,15,0,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,44.0,44.0,1.612007975578308,False,North Carolina,NC State,7.0,6.0,3,15,0,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,28.0,28.0,1.6992239952087402,False,North Carolina,NC State,7.0,6.0,3,15,0,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,4.0,4.0,-5.78759765625,False,North Carolina,NC State,7.0,6.0,3,15,0,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Fumble Recovery (Own),,,42.0,42.0,-0.8204401135444641,False,North Carolina,NC State,7.0,6.0,2,0,57,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,63.0,63.0,1.167816400527954,False,North Carolina,NC State,7.0,6.0,2,3,16,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,66.0,66.0,-0.10801815986633301,False,North Carolina,NC State,7.0,3.0,2,9,37,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,59.0,59.0,-1.6837339401245117,False,North Carolina,NC State,7.0,3.0,2,9,37,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,75.0,75.0,-0.6023170948028564,False,North Carolina,NC State,7.0,3.0,2,13,7,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,80.0,80.0,-0.9834812879562378,False,North Carolina,NC State,7.0,3.0,2,13,7,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,80.0,80.0,3.065563917160034,False,North Carolina,NC State,7.0,3.0,2,13,7,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,53.0,53.0,-1.8526785373687744,False,North Carolina,NC State,7.0,3.0,2,13,7,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Interception Return,,,54.0,54.0,-3.724522352218628,False,North Carolina,NC State,7.0,0.0,1,7,35,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,4.0,4.0,0.18140935897827148,False,North Carolina,NC State,0.0,0.0,1,10,47,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Incompletion,,,60.0,60.0,-0.586279034614563,False,North Carolina,NC State,0.0,0.0,1,14,11,13,North Carolina,2018,NC State,Ryan Finley,2019
+401013187.0,Pass Reception,,,59.0,59.0,2.65262770652771,False,North Carolina,NC State,0.0,0.0,1,14,11,13,North Carolina,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,71.0,71.0,-0.7185361385345459,False,Texas A&M,NC State,13.0,42.0,4,13,12,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,71.0,71.0,-0.8332681655883789,False,Texas A&M,NC State,13.0,42.0,4,13,17,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,75.0,75.0,-0.08986771106719971,False,Texas A&M,NC State,13.0,42.0,4,13,48,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Sack,,,32.0,32.0,-1.8089947700500488,False,Texas A&M,NC State,13.0,35.0,4,14,52,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,59.0,59.0,-0.004951000213623047,False,Texas A&M,NC State,13.0,35.0,3,3,7,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,71.0,71.0,-0.1754319667816162,False,Texas A&M,NC State,13.0,28.0,3,8,46,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Fumble Recovery (Own),,,64.0,64.0,-1.9119975566864014,False,Texas A&M,NC State,13.0,28.0,3,9,37,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,72.0,72.0,1.4760979413986206,False,Texas A&M,NC State,13.0,28.0,3,10,27,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Interception Return Touchdown,,,25.0,25.0,-9.88929557800293,True,Texas A&M,NC State,13.0,28.0,3,11,18,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,32.0,32.0,-1.6432569026947021,False,Texas A&M,NC State,13.0,21.0,3,12,46,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,74.0,74.0,1.6663248538970947,False,Texas A&M,NC State,13.0,21.0,3,14,22,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,62.0,62.0,-0.06459344923496246,False,Texas A&M,NC State,13.0,21.0,2,0,16,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,72.0,72.0,0.08964782953262329,False,Texas A&M,NC State,13.0,21.0,2,0,24,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,75.0,75.0,-0.05163496732711792,False,Texas A&M,NC State,13.0,21.0,2,0,30,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,75.0,75.0,-0.01612335443496704,False,Texas A&M,NC State,13.0,14.0,2,6,30,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,74.0,74.0,-1.1144592761993408,False,Texas A&M,NC State,13.0,7.0,2,7,49,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,35.0,35.0,-0.5219669342041016,False,Texas A&M,NC State,10.0,7.0,2,12,8,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,61.0,61.0,0.06302452087402344,False,Texas A&M,NC State,10.0,7.0,2,12,31,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,67.0,46.0,-0.06302452087402344,False,Texas A&M,NC State,10.0,7.0,2,12,54,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Passing Touchdown,,,9.0,9.0,1.5059337615966797,True,Texas A&M,NC State,10.0,7.0,2,14,56,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,27.0,27.0,0.4798886775970459,False,Texas A&M,NC State,3.0,7.0,1,1,15,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,27.0,27.0,-0.5629479885101318,False,Texas A&M,NC State,3.0,7.0,1,1,27,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,38.0,38.0,-0.6898834705352783,False,Texas A&M,NC State,0.0,7.0,1,4,49,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,57.0,57.0,-0.601959228515625,False,Texas A&M,NC State,0.0,7.0,1,6,18,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,69.0,69.0,0.4452623128890991,False,Texas A&M,NC State,0.0,7.0,1,7,18,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,95.0,95.0,2.4899773597717285,False,Texas A&M,NC State,0.0,7.0,1,7,45,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Incompletion,,,70.0,70.0,-1.3999780416488647,False,Texas A&M,NC State,0.0,7.0,1,13,17,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,77.0,77.0,0.35295987129211426,False,Texas A&M,NC State,0.0,7.0,1,13,47,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401032082.0,Pass Reception,,,75.0,75.0,-1.0665618181228638,False,Texas A&M,NC State,0.0,7.0,1,14,21,1,Texas A&M,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,34.0,66.0,1.837548017501831,False,NC State,East Carolina,58.0,0.0,4,6,52,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,13.0,87.0,-0.4818258285522461,False,NC State,East Carolina,41.0,0.0,4,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,11.0,89.0,-1.2638435363769531,False,NC State,East Carolina,41.0,0.0,4,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,65.0,35.0,-0.13630342483520508,False,NC State,East Carolina,41.0,0.0,3,2,23,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,60.0,40.0,1.3894329071044922,False,NC State,East Carolina,41.0,0.0,3,2,23,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,51.0,49.0,0.362201452255249,False,NC State,East Carolina,41.0,0.0,3,2,23,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,40.0,60.0,-0.039581298828125,False,NC State,East Carolina,41.0,0.0,3,2,23,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Passing Touchdown,,,3.0,97.0,3.0464205741882324,True,NC State,East Carolina,34.0,0.0,3,6,49,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,3.0,97.0,-1.8026947975158691,False,NC State,East Carolina,27.0,0.0,3,6,59,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,40.0,60.0,0.2939033508300781,False,NC State,East Carolina,27.0,0.0,3,10,38,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,25.0,75.0,-0.02695608139038086,False,NC State,East Carolina,27.0,0.0,3,10,38,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,20.0,80.0,1.4733095169067383,False,NC State,East Carolina,27.0,0.0,3,10,38,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,67.0,33.0,-0.43352627754211426,False,NC State,East Carolina,27.0,0.0,3,14,4,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,51.0,49.0,-1.4410732984542847,False,NC State,East Carolina,27.0,0.0,3,14,4,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,77.0,23.0,-0.2851928472518921,False,NC State,East Carolina,24.0,0.0,2,0,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,64.0,36.0,0.4105558395385742,False,NC State,East Carolina,24.0,0.0,2,0,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,50.0,50.0,1.8389713764190674,False,NC State,East Carolina,24.0,0.0,2,0,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,26.0,74.0,1.4379241466522217,False,NC State,East Carolina,24.0,0.0,2,0,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,46.0,54.0,-0.13614702224731445,False,NC State,East Carolina,24.0,0.0,2,5,2,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,38.0,62.0,0.6279795169830322,False,NC State,East Carolina,24.0,0.0,2,5,2,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,31.0,69.0,0.3193221092224121,False,NC State,East Carolina,24.0,0.0,2,5,2,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,24.0,76.0,-1.4511221647262573,False,NC State,East Carolina,24.0,0.0,2,5,2,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Sack,,,19.0,81.0,-2.089905023574829,False,NC State,East Carolina,24.0,0.0,2,5,2,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Interception Return,,,32.0,68.0,-3.048955202102661,False,NC State,East Carolina,24.0,0.0,2,5,2,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,78.0,22.0,1.9196252822875977,False,NC State,East Carolina,24.0,0.0,2,9,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,34.0,66.0,-0.9217140674591064,False,NC State,East Carolina,24.0,0.0,2,9,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Sack,,,34.0,66.0,-1.7449288368225098,False,NC State,East Carolina,24.0,0.0,2,9,45,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Passing Touchdown,,,24.0,76.0,3.637830972671509,True,NC State,East Carolina,24.0,0.0,2,11,26,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,57.0,43.0,1.2850313186645508,False,NC State,East Carolina,17.0,0.0,2,13,25,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,69.0,31.0,0.5703582763671875,False,NC State,East Carolina,10.0,0.0,1,3,5,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,61.0,39.0,0.3814377784729004,False,NC State,East Carolina,10.0,0.0,1,3,5,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,54.0,46.0,0.4893214702606201,False,NC State,East Carolina,10.0,0.0,1,3,5,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,44.0,56.0,1.7076935768127441,False,NC State,East Carolina,10.0,0.0,1,3,5,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Passing Touchdown,,,14.0,86.0,3.3910396099090576,True,NC State,East Carolina,10.0,0.0,1,4,5,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,80.0,20.0,0.8198138475418091,False,NC State,East Carolina,3.0,0.0,1,7,27,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,62.0,38.0,-0.21548748016357422,False,NC State,East Carolina,3.0,0.0,1,7,27,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,47.0,53.0,-0.675283670425415,False,NC State,East Carolina,3.0,0.0,1,7,27,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,39.0,61.0,2.0722665786743164,False,NC State,East Carolina,3.0,0.0,1,7,27,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,13.0,87.0,-0.5719437599182129,False,NC State,East Carolina,3.0,0.0,1,7,27,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,75.0,25.0,-0.6441683769226074,False,NC State,East Carolina,0.0,0.0,1,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,75.0,25.0,0.11430764198303223,False,NC State,East Carolina,0.0,0.0,1,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,68.0,32.0,2.9223432540893555,False,NC State,East Carolina,0.0,0.0,1,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Incompletion,,,42.0,58.0,-0.6870887279510498,False,NC State,East Carolina,0.0,0.0,1,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019
+401088766.0,Pass Reception,,,35.0,65.0,1.0756523609161377,False,NC State,East Carolina,0.0,0.0,1,15,0,14,East Carolina,2018,NC State,Ryan Finley,2019

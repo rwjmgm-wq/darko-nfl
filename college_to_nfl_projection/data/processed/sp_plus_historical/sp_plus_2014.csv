@@ -1,0 +1,130 @@
+season,team,conference,overall_rating,offense_rating,defense_rating,special_teams_rating
+2014,Alabama,SEC,34.3,44.5,10.7,0.5
+2014,Florida State,ACC,28.5,45.0,18.9,2.3
+2014,Georgia,SEC,27.6,44.2,16.8,0.1
+2014,Ohio State,Big Ten,25.8,45.6,20.1,0.3
+2014,Oregon,Big Ten,24.7,48.1,23.2,-0.2
+2014,Auburn,SEC,24.2,45.2,22.1,1.1
+2014,Michigan State,Big Ten,24.1,42.5,17.9,-0.4
+2014,Baylor,Big 12,23.9,43.0,19.5,0.4
+2014,TCU,Big 12,23.3,39.3,17.5,1.5
+2014,Mississippi State,SEC,22.2,43.2,20.7,-0.3
+2014,LSU,SEC,21.5,34.2,13.3,0.6
+2014,Stanford,ACC,21.4,33.5,12.0,-0.1
+2014,Wisconsin,Big Ten,20.8,38.7,18.1,0.2
+2014,Ole Miss,SEC,20.7,35.4,14.4,-0.3
+2014,Texas A&M,SEC,20.2,43.6,26.3,2.8
+2014,Missouri,SEC,19.3,33.0,15.2,1.5
+2014,Oklahoma,SEC,19.2,39.9,22.2,1.6
+2014,Clemson,ACC,18.1,29.0,11.6,0.8
+2014,UCLA,Big Ten,17.7,39.9,23.0,0.8
+2014,South Carolina,SEC,17.4,43.6,26.5,0.3
+2014,Florida,SEC,17.3,29.8,14.1,1.6
+2014,USC,Big Ten,17.1,38.8,22.5,0.8
+2014,Louisville,ACC,17.0,34.0,16.7,-0.3
+2014,Marshall,Sun Belt,16.8,38.4,23.1,1.5
+2014,Kansas State,Big 12,16.3,37.7,23.2,1.8
+2014,Pittsburgh,ACC,14.1,37.4,25.3,2.0
+2014,Miami,ACC,13.9,35.0,21.3,0.2
+2014,Arizona State,Big 12,13.5,36.1,23.3,0.7
+2014,Nebraska,Big Ten,13.1,33.8,21.0,0.3
+2014,Arkansas,SEC,12.2,32.4,19.4,-0.8
+2014,Tennessee,SEC,12.2,31.0,19.9,1.1
+2014,Boise State,Mountain West,11.6,36.6,24.7,-0.3
+2014,Georgia Tech,ACC,11.2,44.1,32.0,-0.9
+2014,Notre Dame,FBS Independents,10.8,37.5,26.0,-0.6
+2014,BYU,Big 12,10.2,33.1,24.1,1.2
+2014,Penn State,Big Ten,9.2,20.6,11.0,-0.4
+2014,Texas,SEC,9.0,26.0,17.2,0.3
+2014,Utah,Big 12,8.8,29.1,23.0,2.7
+2014,Oklahoma State,Big 12,8.6,32.0,24.0,0.6
+2014,East Carolina,American Athletic,8.5,34.7,24.6,-1.5
+2014,West Virginia,Big 12,8.4,31.3,24.3,1.5
+2014,Michigan,Big Ten,8.2,27.0,19.0,0.1
+2014,NC State,ACC,8.1,34.1,27.1,1.0
+2014,Virginia Tech,ACC,7.8,25.7,17.2,-0.7
+2014,Washington,Big Ten,7.8,28.5,21.8,1.2
+2014,Arizona,Big 12,7.6,33.4,25.7,-0.1
+2014,Duke,ACC,7.0,29.6,25.1,2.5
+2014,Cincinnati,Big 12,6.9,36.3,29.8,0.4
+2014,Iowa,Big Ten,6.8,32.5,24.2,-1.5
+2014,Minnesota,Big Ten,6.8,29.7,24.3,1.4
+2014,Kentucky,SEC,6.6,29.8,24.8,1.6
+2014,Utah State,Mountain West,6.0,25.2,18.6,-0.5
+2014,Maryland,Big Ten,5.7,30.4,26.1,1.4
+2014,UCF,Big 12,5.7,25.8,19.7,-0.4
+2014,Memphis,American Athletic,5.6,26.5,22.0,1.1
+2014,Houston,Big 12,5.4,30.4,23.6,-1.4
+2014,Texas Tech,Big 12,4.9,39.9,35.3,0.2
+2014,Boston College,ACC,4.9,28.7,23.7,-0.2
+2014,Colorado State,Mountain West,4.5,33.2,29.2,0.6
+2014,Virginia,ACC,4.0,23.5,20.4,0.8
+2014,Navy,American Athletic,3.4,36.5,32.5,-0.6
+2014,Oregon State,Pac-12,3.2,30.3,27.9,0.9
+2014,Toledo,Mid-American,2.3,38.0,35.2,-0.5
+2014,Louisiana,Sun Belt,2.2,30.0,29.3,1.5
+2014,Indiana,Big Ten,1.8,30.1,27.8,-0.5
+2014,Northwestern,Big Ten,1.5,23.7,21.6,-0.7
+2014,San Diego State,Mountain West,1.0,25.1,24.6,0.5
+2014,Illinois,Big Ten,0.4,28.3,27.9,-0.1
+2014,North Carolina,ACC,0.0,35.8,35.1,-0.7
+2014,Arkansas State,Sun Belt,-0.3,31.5,31.6,-0.2
+2014,Northern Illinois,Mid-American,-0.6,29.8,29.6,-0.8
+2014,California,ACC,-0.6,36.6,36.3,-0.8
+2014,Western Michigan,Mid-American,-0.8,30.2,31.8,0.8
+2014,Air Force,Mountain West,-1.4,26.2,29.5,1.9
+2014,Rutgers,Big Ten,-1.5,32.0,33.1,-0.4
+2014,Washington State,Pac-12,-1.7,33.0,32.8,-1.9
+2014,Louisiana Tech,Conference USA,-1.7,27.0,27.5,-1.1
+2014,Syracuse,ACC,-2.1,18.8,20.9,0.0
+2014,Georgia Southern,Sun Belt,-2.4,32.0,33.4,-1.0
+2014,Western Kentucky,Conference USA,-2.6,40.1,41.6,-1.1
+2014,Rice,American Athletic,-3.1,27.9,29.8,-1.2
+2014,UTSA,American Athletic,-3.4,16.6,22.1,2.2
+2014,UAB,American Athletic,-4.2,26.0,32.8,2.5
+2014,Vanderbilt,SEC,-4.3,22.0,25.3,-0.9
+2014,South Alabama,Sun Belt,-4.3,23.4,28.3,0.6
+2014,Temple,American Athletic,-4.7,15.8,18.9,-1.6
+2014,Colorado,Big 12,-5.0,32.5,38.9,1.5
+2014,Central Michigan,Mid-American,-5.2,26.1,30.2,-1.1
+2014,Bowling Green,Mid-American,-5.4,27.7,33.5,0.4
+2014,Purdue,Big Ten,-6.2,22.7,30.2,1.4
+2014,Ball State,Mid-American,-6.6,25.6,33.9,1.7
+2014,Fresno State,Mountain West,-6.9,24.5,31.0,-0.4
+2014,Nevada,Mountain West,-7.3,26.7,33.7,-0.3
+2014,Texas State,Sun Belt,-7.4,27.9,35.3,-0.1
+2014,Buffalo,Mid-American,-7.7,27.1,33.5,-1.2
+2014,Wake Forest,ACC,-7.8,13.1,22.6,1.6
+2014,Iowa State,Big 12,-7.9,21.7,30.2,0.5
+2014,App State,Sun Belt,-8.3,26.2,32.0,-2.5
+2014,Middle Tennessee,Conference USA,-8.7,29.6,36.5,-1.7
+2014,North Texas,American Athletic,-9.4,20.2,31.2,1.7
+2014,Akron,Mid-American,-9.4,18.9,28.1,-0.3
+2014,Kansas,Big 12,-9.8,21.1,29.1,-1.8
+2014,UL Monroe,Sun Belt,-10.0,18.4,28.8,0.4
+2014,Florida Atlantic,American Athletic,-10.4,25.2,34.9,-0.8
+2014,San José State,Mountain West,-11.5,22.1,30.5,-3.1
+2014,Ohio,Mid-American,-11.7,17.8,28.2,-1.2
+2014,South Florida,American Athletic,-11.8,19.0,32.3,1.5
+2014,UTEP,Conference USA,-12.0,23.5,35.4,0.0
+2014,Old Dominion,Sun Belt,-12.7,32.8,43.3,-2.2
+2014,Kent State,Mid-American,-13.7,16.7,29.5,-0.9
+2014,Wyoming,Mountain West,-14.0,20.0,34.1,0.1
+2014,UConn,FBS Independents,-14.1,14.6,27.7,-0.9
+2014,Tulane,American Athletic,-15.0,16.2,28.0,-3.3
+2014,New Mexico,Mountain West,-15.0,28.4,42.4,-1.0
+2014,Hawai'i,Mountain West,-15.0,15.7,30.6,0.0
+2014,Tulsa,American Athletic,-15.8,23.6,37.7,-1.7
+2014,Troy,Sun Belt,-15.9,22.4,37.5,-0.7
+2014,Southern Miss,Sun Belt,-15.9,19.0,34.8,-0.1
+2014,Florida International,Conference USA,-16.2,15.0,30.3,-0.9
+2014,Army,American Athletic,-16.9,25.2,40.9,-1.2
+2014,Idaho,Big Sky,-17.4,24.6,41.4,-0.6
+2014,UNLV,Mountain West,-17.6,22.0,39.1,-0.4
+2014,Miami (OH),Mid-American,-18.7,21.5,37.9,-2.4
+2014,Massachusetts,Mid-American,-20.2,22.6,39.9,-2.9
+2014,SMU,ACC,-21.2,16.6,34.9,-2.9
+2014,Georgia State,Sun Belt,-22.8,22.8,45.9,0.3
+2014,New Mexico State,Conference USA,-23.3,23.0,43.3,-2.9
+2014,Eastern Michigan,Mid-American,-25.9,17.8,42.7,-0.9
+2014,nationalAverages,,2.1671875,29.4984375,27.3234375,0.0

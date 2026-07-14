@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python src/v3_extract_nfl_starts.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

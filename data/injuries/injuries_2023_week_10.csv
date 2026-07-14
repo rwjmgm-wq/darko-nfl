@@ -1,0 +1,5 @@
+player_id,player_name,team,status,injury_type,week,season
+00-0033873,P.Mahomes,KC,Healthy,,10,2023
+00-0036442,J.Allen,BUF,Questionable,Shoulder,10,2023
+00-0033077,J.Hurts,PHI,Doubtful,Ankle,10,2023
+00-0035228,L.Jackson,BAL,Out,Knee,10,2023

@@ -1,0 +1,318 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400869373.0,Passing Touchdown,,,54.0,46.0,6.016216278076172,True,Pittsburgh,Marshall,37.0,27.0,4,1,4,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,69.0,31.0,-0.7795366048812866,False,Pittsburgh,Marshall,30.0,27.0,4,4,1,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,70.0,30.0,1.4429457187652588,False,Pittsburgh,Marshall,30.0,27.0,4,4,1,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,73.0,27.0,-0.11362624168395996,False,Pittsburgh,Marshall,30.0,20.0,4,14,47,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,66.0,34.0,1.22540283203125,False,Pittsburgh,Marshall,30.0,20.0,4,14,47,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,48.0,52.0,2.0154542922973633,False,Pittsburgh,Marshall,30.0,20.0,4,14,47,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,38.0,62.0,-0.5013415813446045,False,Pittsburgh,Marshall,30.0,20.0,4,14,47,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,33.0,67.0,-1.5744585990905762,False,Pittsburgh,Marshall,30.0,20.0,4,14,47,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,33.0,67.0,-2.647860527038574,False,Pittsburgh,Marshall,30.0,20.0,4,14,47,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,75.0,25.0,2.3609514236450195,False,Pittsburgh,Marshall,27.0,14.0,3,5,20,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,12.0,88.0,-0.8295836448669434,False,Pittsburgh,Marshall,27.0,14.0,3,5,20,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Passing Touchdown,,,15.0,85.0,3.609666347503662,True,Pittsburgh,Marshall,27.0,0.0,2,0,53,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,74.0,26.0,0.9512213468551636,False,Pittsburgh,Marshall,20.0,0.0,2,4,23,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,68.0,32.0,0.9725632667541504,False,Pittsburgh,Marshall,20.0,0.0,2,4,23,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,33.0,67.0,1.3044166564941406,False,Pittsburgh,Marshall,20.0,0.0,2,4,23,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,66.0,34.0,-0.8191119432449341,False,Pittsburgh,Marshall,20.0,0.0,2,7,10,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,66.0,34.0,-1.2920762300491333,False,Pittsburgh,Marshall,20.0,0.0,2,7,10,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,34.0,66.0,1.2541413307189941,False,Pittsburgh,Marshall,13.0,0.0,1,1,26,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,55.0,45.0,-0.5306227207183838,False,Pittsburgh,Marshall,13.0,0.0,1,2,44,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,71.0,29.0,1.3191821575164795,False,Pittsburgh,Marshall,6.0,0.0,1,8,25,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,48.0,52.0,0.6569540500640869,False,Pittsburgh,Marshall,6.0,0.0,1,8,25,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Incompletion,,,75.0,25.0,-0.6441683769226074,False,Pittsburgh,Marshall,0.0,0.0,1,15,0,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,69.0,31.0,3.440361976623535,False,Pittsburgh,Marshall,0.0,0.0,1,15,0,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869373.0,Pass Reception,,,22.0,78.0,-4.443443775177002,False,Pittsburgh,Marshall,0.0,0.0,1,15,0,5,Marshall,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Passing Touchdown,,,16.0,84.0,3.011654853820801,True,Pittsburgh,Villanova,28.0,7.0,4,6,0,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,49.0,51.0,-0.9369690418243408,False,Pittsburgh,Villanova,21.0,7.0,4,11,24,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,41.0,59.0,0.7758798599243164,False,Pittsburgh,Villanova,21.0,7.0,4,11,24,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,37.0,63.0,0.5150980949401855,False,Pittsburgh,Villanova,21.0,7.0,4,11,24,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,56.0,44.0,-0.9767727851867676,False,Pittsburgh,Villanova,21.0,7.0,4,14,18,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,56.0,44.0,-1.6742305755615234,False,Pittsburgh,Villanova,21.0,7.0,4,14,18,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,80.0,20.0,-0.957938551902771,False,Pittsburgh,Villanova,21.0,7.0,3,1,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,80.0,20.0,1.74280846118927,False,Pittsburgh,Villanova,21.0,7.0,3,1,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,72.0,28.0,0.48725152015686035,False,Pittsburgh,Villanova,21.0,7.0,3,1,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Fumble Recovery (Opponent),,,81.0,19.0,2.6197991371154785,True,Pittsburgh,Villanova,21.0,7.0,3,10,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,76.0,24.0,-0.5585575103759766,False,Pittsburgh,Villanova,21.0,7.0,3,10,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,76.0,24.0,1.305387258529663,False,Pittsburgh,Villanova,21.0,7.0,3,10,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,57.0,43.0,1.9385573863983154,False,Pittsburgh,Villanova,21.0,7.0,3,10,35,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Passing Touchdown,,,9.0,91.0,2.770400047302246,True,Pittsburgh,Villanova,14.0,0.0,2,0,19,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,28.0,72.0,0.7509853839874268,False,Pittsburgh,Villanova,7.0,0.0,2,1,21,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,20.0,80.0,2.1639626026153564,False,Pittsburgh,Villanova,7.0,0.0,2,1,21,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,9.0,91.0,-0.6610970497131348,False,Pittsburgh,Villanova,7.0,0.0,2,1,21,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,88.0,12.0,-0.6760202646255493,False,Pittsburgh,Villanova,7.0,0.0,2,5,6,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,88.0,12.0,1.8903768062591553,False,Pittsburgh,Villanova,7.0,0.0,2,5,6,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,75.0,25.0,-0.16510552167892456,False,Pittsburgh,Villanova,7.0,0.0,2,5,6,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,19.0,81.0,0.20221471786499023,False,Pittsburgh,Villanova,0.0,0.0,2,10,21,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,48.0,52.0,-0.42611730098724365,False,Pittsburgh,Villanova,0.0,0.0,2,12,42,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,44.0,56.0,-1.968719720840454,False,Pittsburgh,Villanova,0.0,0.0,2,12,42,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,48.0,52.0,-0.6564173698425293,False,Pittsburgh,Villanova,0.0,0.0,2,12,50,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,86.0,14.0,-0.2874023914337158,False,Pittsburgh,Villanova,0.0,0.0,1,2,25,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,43.0,57.0,0.7685565948486328,False,Pittsburgh,Villanova,0.0,0.0,1,2,25,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,24.0,76.0,-0.5763444900512695,False,Pittsburgh,Villanova,0.0,0.0,1,2,25,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,20.0,80.0,-1.3876006603240967,False,Pittsburgh,Villanova,0.0,0.0,1,2,25,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,89.0,11.0,-1.4863839149475098,False,Pittsburgh,Villanova,0.0,0.0,1,4,57,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,79.0,21.0,-1.0479767322540283,False,Pittsburgh,Villanova,0.0,0.0,1,8,38,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Incompletion,,,79.0,21.0,-1.6348419189453125,False,Pittsburgh,Villanova,0.0,0.0,1,8,38,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869426.0,Pass Reception,,,60.0,40.0,0.747928261756897,False,Pittsburgh,Villanova,0.0,0.0,1,13,1,1,Villanova,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,69.0,31.0,-2.7041397094726562,False,Pittsburgh,Penn State,42.0,39.0,4,4,49,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Passing Touchdown,,,12.0,88.0,3.1295340061187744,True,Pittsburgh,Penn State,42.0,31.0,4,10,24,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Incompletion,,,64.0,36.0,-3.5402464866638184,False,Pittsburgh,Penn State,35.0,21.0,3,4,18,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,31.0,69.0,-5.08141565322876,False,Pittsburgh,Penn State,35.0,21.0,3,4,18,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Incompletion,,,75.0,25.0,-2.133335590362549,False,Pittsburgh,Penn State,28.0,21.0,3,11,54,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,75.0,25.0,-0.7988987565040588,False,Pittsburgh,Penn State,28.0,21.0,3,11,54,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,59.0,41.0,-1.9592175483703613,False,Pittsburgh,Penn State,28.0,21.0,3,11,54,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,58.0,42.0,-3.4095497131347656,False,Pittsburgh,Penn State,28.0,7.0,2,6,45,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Incompletion,,,44.0,56.0,-3.910280466079712,False,Pittsburgh,Penn State,28.0,7.0,2,10,20,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Interception Return,,,44.0,56.0,-0.7064118385314941,False,Pittsburgh,Penn State,28.0,7.0,2,10,20,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Passing Touchdown,,,2.0,98.0,1.412745475769043,True,Pittsburgh,Penn State,21.0,7.0,2,13,38,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,74.0,26.0,-1.7520005702972412,False,Pittsburgh,Penn State,14.0,7.0,1,2,42,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,35.0,65.0,-3.0733044147491455,False,Pittsburgh,Penn State,14.0,7.0,1,2,42,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Passing Touchdown,,,7.0,93.0,1.5603046417236328,True,Pittsburgh,Penn State,14.0,0.0,1,7,16,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869436.0,Pass Reception,,,12.0,88.0,-5.0227580070495605,False,Pittsburgh,Penn State,0.0,0.0,1,12,46,2,Penn State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Interception Return,,,45.0,45.0,-0.7440056204795837,False,Oklahoma State,Pittsburgh,38.0,45.0,4,0,15,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,45.0,45.0,-0.1978510618209839,False,Oklahoma State,Pittsburgh,38.0,45.0,4,0,22,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,61.0,61.0,0.3669222593307495,False,Oklahoma State,Pittsburgh,38.0,45.0,4,0,25,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,69.0,69.0,0.18910512328147888,False,Oklahoma State,Pittsburgh,38.0,45.0,4,0,29,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,74.0,74.0,0.5940619707107544,False,Oklahoma State,Pittsburgh,38.0,45.0,4,0,35,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,80.0,80.0,-0.08450895547866821,False,Oklahoma State,Pittsburgh,38.0,45.0,4,0,49,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,89.0,89.0,0.48605602979660034,False,Oklahoma State,Pittsburgh,38.0,45.0,4,1,10,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,93.0,93.0,-0.3666832447052002,False,Oklahoma State,Pittsburgh,38.0,38.0,4,8,15,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,84.0,84.0,-0.7900937795639038,False,Oklahoma State,Pittsburgh,38.0,38.0,4,10,36,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,79.0,79.0,-0.6401878595352173,False,Oklahoma State,Pittsburgh,38.0,38.0,4,10,50,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,61.0,61.0,-1.540514349937439,False,Oklahoma State,Pittsburgh,31.0,38.0,3,8,18,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,47.0,47.0,-1.7559056282043457,False,Oklahoma State,Pittsburgh,24.0,31.0,3,10,38,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,54.0,54.0,1.4617226123809814,False,Oklahoma State,Pittsburgh,24.0,31.0,3,12,35,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,60.0,60.0,-0.34215623140335083,False,Oklahoma State,Pittsburgh,24.0,31.0,2,0,30,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,60.0,60.0,-0.1683945655822754,False,Oklahoma State,Pittsburgh,24.0,31.0,2,0,38,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Passing Touchdown,,,60.0,60.0,5.469418525695801,True,Oklahoma State,Pittsburgh,24.0,31.0,2,1,47,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,54.0,54.0,-1.0713434219360352,False,Oklahoma State,Pittsburgh,17.0,31.0,2,3,27,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,54.0,54.0,-0.5312850475311279,False,Oklahoma State,Pittsburgh,17.0,31.0,2,3,33,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,54.0,54.0,-0.44254159927368164,False,Oklahoma State,Pittsburgh,17.0,31.0,2,3,37,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Incompletion,,,75.0,75.0,-0.45272648334503174,False,Oklahoma State,Pittsburgh,17.0,31.0,2,3,59,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,78.0,78.0,3.7579362392425537,False,Oklahoma State,Pittsburgh,10.0,24.0,2,9,25,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Sack,,,75.0,75.0,0.9704335927963257,False,Oklahoma State,Pittsburgh,10.0,17.0,2,13,5,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Sack,,,40.0,40.0,-2.665039300918579,False,Oklahoma State,Pittsburgh,10.0,10.0,1,1,25,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,70.0,70.0,2.948500394821167,False,Oklahoma State,Pittsburgh,10.0,10.0,1,3,5,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,32.0,32.0,-1.1484121084213257,False,Oklahoma State,Pittsburgh,7.0,7.0,1,6,25,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,65.0,65.0,1.2188159227371216,False,Oklahoma State,Pittsburgh,7.0,7.0,1,10,10,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869442.0,Pass Reception,,,70.0,70.0,1.6750884056091309,False,Oklahoma State,Pittsburgh,0.0,7.0,1,14,40,3,Oklahoma State,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,73.0,73.0,-1.025474190711975,False,North Carolina,Pittsburgh,36.0,30.0,4,3,48,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Incompletion,,,76.0,76.0,-1.4849103689193726,False,North Carolina,Pittsburgh,36.0,23.0,4,7,44,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Incompletion,,,22.0,22.0,-1.1874842643737793,False,North Carolina,Pittsburgh,33.0,23.0,4,11,8,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Incompletion,,,74.0,74.0,-1.7744128704071045,False,North Carolina,Pittsburgh,33.0,23.0,4,14,56,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,80.0,80.0,0.0036160945892333984,False,North Carolina,Pittsburgh,33.0,23.0,3,0,45,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,7.0,7.0,0.41033363342285156,False,North Carolina,Pittsburgh,26.0,23.0,3,3,24,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,82.0,82.0,0.8360974788665771,False,North Carolina,Pittsburgh,26.0,23.0,3,8,17,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,66.0,66.0,2.9442319869995117,False,North Carolina,Pittsburgh,12.0,7.0,2,10,12,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,65.0,65.0,-0.9111776351928711,False,North Carolina,Pittsburgh,12.0,7.0,2,10,30,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,23.0,23.0,2.36562442779541,False,North Carolina,Pittsburgh,5.0,0.0,2,13,14,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,33.0,33.0,0.5907621383666992,False,North Carolina,Pittsburgh,5.0,0.0,1,0,19,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,41.0,41.0,0.4416770935058594,False,North Carolina,Pittsburgh,5.0,0.0,1,1,35,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,22.0,22.0,1.105499267578125,False,North Carolina,Pittsburgh,2.0,0.0,1,4,38,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,36.0,36.0,1.3174545764923096,False,North Carolina,Pittsburgh,2.0,0.0,1,6,40,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,55.0,55.0,2.2700817584991455,False,North Carolina,Pittsburgh,2.0,0.0,1,8,12,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Incompletion,,,46.0,46.0,-1.4437928199768066,False,North Carolina,Pittsburgh,0.0,0.0,1,10,49,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,45.0,45.0,-0.49547910690307617,False,North Carolina,Pittsburgh,0.0,0.0,1,13,38,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869449.0,Pass Reception,,,73.0,73.0,1.1730576753616333,False,North Carolina,Pittsburgh,0.0,0.0,1,14,47,4,North Carolina,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Passing Touchdown,,,74.0,26.0,7.141436576843262,True,Pittsburgh,Georgia Tech,34.0,34.0,4,3,50,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,75.0,25.0,0.07963371276855469,False,Pittsburgh,Georgia Tech,27.0,34.0,4,5,22,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,73.0,27.0,1.6786270141601562,False,Pittsburgh,Georgia Tech,27.0,27.0,4,10,1,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Sack,,,22.0,78.0,-1.0438783168792725,False,Pittsburgh,Georgia Tech,24.0,20.0,4,15,0,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Incompletion,,,23.0,77.0,-0.6446712017059326,False,Pittsburgh,Georgia Tech,24.0,20.0,4,15,0,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Incompletion,,,47.0,53.0,-0.6920685768127441,False,Pittsburgh,Georgia Tech,24.0,20.0,3,0,57,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,44.0,56.0,2.2277679443359375,False,Pittsburgh,Georgia Tech,24.0,20.0,3,0,57,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,45.0,55.0,-0.673276424407959,False,Pittsburgh,Georgia Tech,21.0,20.0,3,8,19,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Incompletion,,,16.0,84.0,-0.65435791015625,False,Pittsburgh,Georgia Tech,21.0,20.0,3,8,19,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Incompletion,,,78.0,22.0,-0.3462972044944763,False,Pittsburgh,Georgia Tech,21.0,17.0,2,1,48,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Incompletion,,,72.0,28.0,-0.977295458316803,False,Pittsburgh,Georgia Tech,21.0,17.0,2,1,48,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,52.0,48.0,0.2476797103881836,False,Pittsburgh,Georgia Tech,14.0,10.0,2,12,4,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,41.0,59.0,2.1965153217315674,False,Pittsburgh,Georgia Tech,14.0,10.0,2,12,4,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,41.0,59.0,0.9900898933410645,False,Pittsburgh,Georgia Tech,7.0,3.0,2,15,0,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,29.0,71.0,1.4298818111419678,False,Pittsburgh,Georgia Tech,7.0,3.0,2,15,0,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Incompletion,,,73.0,27.0,-0.9804280400276184,False,Pittsburgh,Georgia Tech,7.0,3.0,1,3,42,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,73.0,27.0,2.4124276638031006,False,Pittsburgh,Georgia Tech,7.0,3.0,1,3,42,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,56.0,44.0,1.5104480981826782,False,Pittsburgh,Georgia Tech,7.0,3.0,1,3,42,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,49.0,51.0,-0.4113471508026123,False,Pittsburgh,Georgia Tech,7.0,3.0,1,3,42,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,75.0,25.0,0.5941799283027649,False,Pittsburgh,Georgia Tech,0.0,0.0,1,15,0,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869458.0,Pass Reception,,,56.0,44.0,1.5151289701461792,False,Pittsburgh,Georgia Tech,0.0,0.0,1,15,0,6,Georgia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,6.0,6.0,-1.314504861831665,False,Virginia,Pittsburgh,42.0,28.0,4,3,28,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Sack,,,4.0,4.0,-1.3887372016906738,False,Virginia,Pittsburgh,42.0,28.0,4,6,0,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,60.0,60.0,-1.6784064769744873,False,Virginia,Pittsburgh,42.0,28.0,4,8,41,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Passing Touchdown,,,5.0,5.0,2.5419559478759766,True,Virginia,Pittsburgh,42.0,28.0,4,9,47,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,81.0,81.0,0.33562302589416504,False,Virginia,Pittsburgh,35.0,28.0,4,13,42,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,69.0,69.0,-0.061959266662597656,False,Virginia,Pittsburgh,35.0,28.0,3,4,37,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,64.0,64.0,-1.488979458808899,False,Virginia,Pittsburgh,35.0,28.0,3,7,1,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,79.0,79.0,1.3966854810714722,False,Virginia,Pittsburgh,35.0,28.0,3,15,0,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,48.0,48.0,1.1664221286773682,False,Virginia,Pittsburgh,35.0,28.0,3,15,0,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,29.0,29.0,-0.884911298751831,False,Virginia,Pittsburgh,35.0,28.0,3,15,0,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,29.0,29.0,-2.9773592948913574,False,Virginia,Pittsburgh,35.0,28.0,3,15,0,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,24.0,24.0,-0.4962787628173828,False,Virginia,Pittsburgh,21.0,28.0,2,5,16,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,23.0,23.0,0.32533884048461914,False,Virginia,Pittsburgh,21.0,28.0,2,5,16,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,71.0,71.0,2.713198661804199,False,Virginia,Pittsburgh,14.0,21.0,2,14,40,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,21.0,21.0,3.2700388431549072,False,Virginia,Pittsburgh,14.0,21.0,2,14,40,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,83.0,83.0,-0.6658570766448975,False,Virginia,Pittsburgh,14.0,21.0,1,1,48,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,79.0,79.0,-1.3104530572891235,False,Virginia,Pittsburgh,14.0,21.0,1,1,48,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Passing Touchdown,,,38.0,38.0,5.866921424865723,True,Virginia,Pittsburgh,7.0,7.0,1,5,41,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,38.0,38.0,-1.0384279489517212,False,Virginia,Pittsburgh,0.0,7.0,1,7,48,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Reception,,,76.0,76.0,-0.09252220392227173,False,Virginia,Pittsburgh,0.0,7.0,1,10,31,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869465.0,Pass Incompletion,,,72.0,72.0,-1.6566221714019775,False,Virginia,Pittsburgh,0.0,7.0,1,10,31,7,Virginia,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Passing Touchdown,,,7.0,93.0,2.1537070274353027,True,Pittsburgh,Virginia Tech,36.0,39.0,4,2,31,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,7.0,93.0,-0.8277072906494141,False,Pittsburgh,Virginia Tech,29.0,39.0,4,2,36,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,26.0,74.0,1.9889724254608154,False,Pittsburgh,Virginia Tech,29.0,39.0,4,2,58,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,26.0,74.0,-0.3824799060821533,False,Pittsburgh,Virginia Tech,29.0,39.0,4,3,8,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,44.0,56.0,1.4949471950531006,False,Pittsburgh,Virginia Tech,29.0,39.0,4,3,17,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,71.0,29.0,1.9090605974197388,False,Pittsburgh,Virginia Tech,29.0,39.0,4,3,34,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,90.0,10.0,1.1253386735916138,False,Pittsburgh,Virginia Tech,29.0,39.0,4,3,58,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,77.0,23.0,-0.9089652299880981,False,Pittsburgh,Virginia Tech,29.0,39.0,4,5,51,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,86.0,14.0,-0.1948709487915039,False,Pittsburgh,Virginia Tech,29.0,39.0,4,6,29,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,68.0,32.0,-1.5805745124816895,False,Pittsburgh,Virginia Tech,21.0,22.0,3,1,54,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,75.0,25.0,-0.5929850339889526,False,Pittsburgh,Virginia Tech,21.0,22.0,3,2,39,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,56.0,44.0,-1.036787986755371,False,Pittsburgh,Virginia Tech,21.0,19.0,3,5,40,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,75.0,25.0,-0.9435626268386841,False,Pittsburgh,Virginia Tech,14.0,16.0,3,14,52,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,10.0,90.0,-0.5767691135406494,False,Pittsburgh,Virginia Tech,7.0,16.0,2,1,40,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,81.0,19.0,3.9667887687683105,False,Pittsburgh,Virginia Tech,7.0,16.0,2,1,43,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,17.0,83.0,0.9171996116638184,False,Pittsburgh,Virginia Tech,0.0,9.0,2,4,48,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,54.0,46.0,2.270242214202881,False,Pittsburgh,Virginia Tech,0.0,9.0,2,5,1,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,66.0,34.0,1.7245149612426758,False,Pittsburgh,Virginia Tech,0.0,9.0,2,5,38,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,76.0,24.0,0.32272928953170776,False,Pittsburgh,Virginia Tech,0.0,9.0,2,7,31,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,84.0,16.0,0.3055512011051178,False,Pittsburgh,Virginia Tech,0.0,9.0,2,8,5,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Incompletion,,,61.0,39.0,-1.2336783409118652,False,Pittsburgh,Virginia Tech,0.0,9.0,2,10,34,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Interception Return,,,85.0,15.0,-2.9631643295288086,False,Pittsburgh,Virginia Tech,0.0,6.0,1,6,21,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869471.0,Pass Reception,,,91.0,9.0,0.12739241123199463,False,Pittsburgh,Virginia Tech,0.0,6.0,1,6,55,9,Virginia Tech,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,85.0,85.0,-0.22323834896087646,False,Miami,Pittsburgh,28.0,51.0,4,2,12,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,72.0,72.0,-2.1696109771728516,False,Miami,Pittsburgh,28.0,51.0,4,2,12,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,76.0,76.0,-0.4642978310585022,False,Miami,Pittsburgh,28.0,41.0,4,12,7,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,76.0,76.0,-0.89448481798172,False,Miami,Pittsburgh,28.0,41.0,4,12,7,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,76.0,76.0,-0.9752861261367798,False,Miami,Pittsburgh,28.0,41.0,4,12,7,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Passing Touchdown,,,75.0,75.0,6.833051681518555,True,Miami,Pittsburgh,28.0,41.0,4,13,27,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,14.0,14.0,-0.5701127052307129,False,Miami,Pittsburgh,21.0,34.0,3,4,47,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Sack,,,13.0,13.0,-2.55269718170166,False,Miami,Pittsburgh,21.0,34.0,3,4,47,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,62.0,62.0,1.7348791360855103,False,Miami,Pittsburgh,21.0,34.0,3,8,5,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,39.0,39.0,4.207530498504639,False,Miami,Pittsburgh,21.0,34.0,3,8,5,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Interception Return,,,4.0,4.0,-7.032718658447266,False,Miami,Pittsburgh,21.0,34.0,3,8,5,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,82.0,82.0,-0.857646644115448,False,Miami,Pittsburgh,21.0,34.0,3,8,53,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,75.0,75.0,-0.5558397769927979,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,75.0,75.0,1.1759521961212158,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,66.0,66.0,1.058030128479004,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,51.0,51.0,1.1952745914459229,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,40.0,40.0,-0.6381609439849854,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,40.0,40.0,-1.0356640815734863,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,45.0,45.0,-1.2647364139556885,False,Miami,Pittsburgh,21.0,34.0,3,13,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,69.0,69.0,0.043024942278862,False,Miami,Pittsburgh,21.0,27.0,2,0,18,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,75.0,75.0,-0.5438253879547119,False,Miami,Pittsburgh,21.0,27.0,2,6,5,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,36.0,36.0,-0.17490839958190918,False,Miami,Pittsburgh,21.0,27.0,2,6,5,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Passing Touchdown,,,23.0,23.0,2.680384635925293,True,Miami,Pittsburgh,21.0,20.0,2,8,45,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,79.0,79.0,3.6432063579559326,False,Miami,Pittsburgh,14.0,20.0,2,11,18,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,58.0,58.0,0.9018161296844482,False,Miami,Pittsburgh,7.0,17.0,2,15,0,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,47.0,47.0,1.7110817432403564,False,Miami,Pittsburgh,7.0,17.0,2,15,0,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,28.0,28.0,0.9431276321411133,False,Miami,Pittsburgh,7.0,17.0,2,15,0,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,75.0,75.0,0.3806225657463074,False,Miami,Pittsburgh,7.0,17.0,1,2,26,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,65.0,65.0,-0.6134572625160217,False,Miami,Pittsburgh,7.0,17.0,1,2,26,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,75.0,75.0,1.451798439025879,False,Miami,Pittsburgh,7.0,14.0,1,7,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Reception,,,58.0,58.0,0.7534527778625488,False,Miami,Pittsburgh,7.0,14.0,1,7,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,48.0,48.0,-1.0013426542282104,False,Miami,Pittsburgh,7.0,14.0,1,7,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,48.0,48.0,-1.7697668075561523,False,Miami,Pittsburgh,7.0,14.0,1,7,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869481.0,Pass Incompletion,,,48.0,48.0,-2.092456817626953,False,Miami,Pittsburgh,7.0,14.0,1,7,33,10,Miami,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,34.0,34.0,0.08220744132995605,False,Clemson,Pittsburgh,40.0,42.0,4,0,28,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,55.0,55.0,1.1052260398864746,False,Clemson,Pittsburgh,40.0,42.0,4,0,41,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,30.0,30.0,-0.6997215747833252,False,Clemson,Pittsburgh,34.0,42.0,4,5,31,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,85.0,85.0,-1.1761481761932373,False,Clemson,Pittsburgh,34.0,42.0,4,10,44,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,96.0,96.0,-0.7734901905059814,False,Clemson,Pittsburgh,34.0,42.0,4,13,16,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,76.0,76.0,-0.9978270530700684,False,Clemson,Pittsburgh,34.0,42.0,3,0,44,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,75.0,75.0,-1.3969573974609375,False,Clemson,Pittsburgh,34.0,42.0,3,1,6,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,75.0,75.0,-0.5575323104858398,False,Clemson,Pittsburgh,34.0,42.0,3,1,31,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Passing Touchdown,,,7.0,7.0,2.068166732788086,True,Clemson,Pittsburgh,34.0,35.0,3,4,35,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,39.0,39.0,-0.2534456253051758,False,Clemson,Pittsburgh,27.0,35.0,3,6,57,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,44.0,44.0,-0.9170299172401428,False,Clemson,Pittsburgh,27.0,35.0,3,7,27,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,46.0,46.0,-0.5456641912460327,False,Clemson,Pittsburgh,27.0,35.0,3,7,54,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,59.0,59.0,0.9932935237884521,False,Clemson,Pittsburgh,27.0,35.0,3,8,22,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Fumble Recovery (Opponent),,,51.0,51.0,-5.864067077636719,False,Clemson,Pittsburgh,27.0,28.0,3,10,48,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,63.0,63.0,1.796020746231079,False,Clemson,Pittsburgh,27.0,28.0,3,11,17,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,61.0,61.0,-1.281553030014038,False,Clemson,Pittsburgh,27.0,28.0,3,11,53,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,69.0,69.0,0.5409635305404663,False,Clemson,Pittsburgh,27.0,28.0,3,12,44,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,35.0,35.0,-0.45986223220825195,False,Clemson,Pittsburgh,27.0,28.0,2,0,5,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,48.0,48.0,0.9911152124404907,False,Clemson,Pittsburgh,27.0,28.0,2,0,6,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Sack,,,43.0,43.0,-0.6417089700698853,False,Clemson,Pittsburgh,27.0,28.0,2,0,17,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,84.0,84.0,0.7330634593963623,False,Clemson,Pittsburgh,27.0,28.0,2,0,56,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Passing Touchdown,,,1.0,1.0,2.8220248222351074,True,Clemson,Pittsburgh,27.0,21.0,2,2,23,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,55.0,55.0,0.5156161785125732,False,Clemson,Pittsburgh,20.0,21.0,2,6,1,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Passing Touchdown,,,55.0,55.0,3.5477454662323,True,Clemson,Pittsburgh,20.0,21.0,2,9,33,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,65.0,65.0,-0.7824026346206665,False,Clemson,Pittsburgh,14.0,21.0,2,9,51,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,65.0,65.0,-0.5125449895858765,False,Clemson,Pittsburgh,14.0,21.0,2,9,58,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,52.0,52.0,-1.7662930488586426,False,Clemson,Pittsburgh,14.0,14.0,2,13,56,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Passing Touchdown,,,46.0,46.0,4.21143913269043,True,Clemson,Pittsburgh,14.0,7.0,1,5,28,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,44.0,44.0,-1.7496063709259033,False,Clemson,Pittsburgh,7.0,7.0,1,5,53,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,58.0,58.0,0.9546964168548584,False,Clemson,Pittsburgh,7.0,7.0,1,5,57,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,75.0,75.0,1.8415683507919312,False,Clemson,Pittsburgh,7.0,7.0,1,6,34,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,80.0,80.0,-1.03444504737854,False,Clemson,Pittsburgh,7.0,0.0,1,10,18,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Passing Touchdown,,,15.0,15.0,1.7554140090942383,True,Clemson,Pittsburgh,7.0,0.0,1,13,8,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,31.0,31.0,0.5385065078735352,False,Clemson,Pittsburgh,0.0,0.0,1,14,0,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Reception,,,75.0,75.0,3.756891965866089,False,Clemson,Pittsburgh,0.0,0.0,1,14,28,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869485.0,Pass Incompletion,,,75.0,75.0,-0.544692873954773,False,Clemson,Pittsburgh,0.0,0.0,1,14,55,11,Clemson,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Passing Touchdown,,,48.0,52.0,4.298636436462402,True,Pittsburgh,Duke,49.0,14.0,4,9,1,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,62.0,38.0,1.5337941646575928,False,Pittsburgh,Duke,42.0,14.0,4,11,43,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,73.0,27.0,0.09756946563720703,False,Pittsburgh,Duke,42.0,14.0,3,9,2,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,63.0,37.0,0.390399694442749,False,Pittsburgh,Duke,42.0,14.0,3,9,2,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Incompletion,,,34.0,66.0,-1.4687325954437256,False,Pittsburgh,Duke,42.0,14.0,3,9,2,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,40.0,60.0,-2.86879825592041,False,Pittsburgh,Duke,28.0,14.0,3,15,0,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Passing Touchdown,,,56.0,44.0,5.873850345611572,True,Pittsburgh,Duke,28.0,14.0,2,2,17,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Interception Return Touchdown,,,68.0,32.0,-8.929041862487793,True,Pittsburgh,Duke,21.0,14.0,2,5,34,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,73.0,27.0,0.05762869119644165,False,Pittsburgh,Duke,21.0,14.0,2,5,34,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Sack,,,59.0,41.0,-1.0132203102111816,False,Pittsburgh,Duke,21.0,14.0,2,5,34,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Incompletion,,,58.0,42.0,-0.40143442153930664,False,Pittsburgh,Duke,21.0,7.0,2,12,46,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,77.0,23.0,1.6130268573760986,False,Pittsburgh,Duke,14.0,7.0,1,5,13,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Incompletion,,,54.0,46.0,-0.5819196701049805,False,Pittsburgh,Duke,14.0,7.0,1,5,13,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Incompletion,,,54.0,46.0,-1.582086443901062,False,Pittsburgh,Duke,14.0,7.0,1,5,13,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,64.0,36.0,-0.1626570224761963,False,Pittsburgh,Duke,7.0,7.0,1,11,11,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Incompletion,,,30.0,70.0,-0.629936933517456,False,Pittsburgh,Duke,7.0,7.0,1,11,11,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Pass Reception,,,29.0,71.0,0.8779406547546387,False,Pittsburgh,Duke,7.0,7.0,1,11,11,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869492.0,Passing Touchdown,,,16.0,84.0,3.3368449211120605,True,Pittsburgh,Duke,7.0,0.0,1,13,33,12,Duke,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Passing Touchdown,,,6.0,94.0,2.936110496520996,True,Pittsburgh,Syracuse,70.0,48.0,4,5,6,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,6.0,94.0,-0.9566783905029297,False,Pittsburgh,Syracuse,63.0,48.0,4,7,21,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Passing Touchdown,,,79.0,21.0,6.7543792724609375,True,Pittsburgh,Syracuse,63.0,41.0,4,9,33,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,65.0,35.0,-0.4895923137664795,False,Pittsburgh,Syracuse,56.0,34.0,3,1,53,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Reception,,,65.0,35.0,1.0489189624786377,False,Pittsburgh,Syracuse,56.0,34.0,3,1,53,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,88.0,12.0,-1.6817165613174438,False,Pittsburgh,Syracuse,56.0,27.0,3,5,32,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Reception,,,66.0,34.0,0.6227152347564697,False,Pittsburgh,Syracuse,35.0,21.0,3,15,0,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,56.0,44.0,-0.5156998634338379,False,Pittsburgh,Syracuse,35.0,21.0,3,15,0,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,55.0,45.0,-1.5644915103912354,False,Pittsburgh,Syracuse,35.0,21.0,3,15,0,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,13.0,87.0,-0.3677675724029541,False,Pittsburgh,Syracuse,28.0,21.0,2,0,26,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,13.0,87.0,-0.43278050422668457,False,Pittsburgh,Syracuse,28.0,21.0,2,0,26,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Reception,,,65.0,35.0,0.5246769785881042,False,Pittsburgh,Syracuse,28.0,21.0,2,1,36,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Reception,,,53.0,47.0,0.9419318437576294,False,Pittsburgh,Syracuse,28.0,21.0,2,1,36,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Reception,,,50.0,50.0,1.5998680591583252,False,Pittsburgh,Syracuse,14.0,14.0,2,15,0,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,19.0,81.0,-0.5916223526000977,False,Pittsburgh,Syracuse,14.0,14.0,2,15,0,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Passing Touchdown,,,35.0,65.0,3.2072677612304688,True,Pittsburgh,Syracuse,14.0,7.0,1,3,35,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Interception Return,,,68.0,32.0,-3.5359795093536377,False,Pittsburgh,Syracuse,7.0,7.0,1,5,2,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Passing Touchdown,,,59.0,41.0,5.809808254241943,True,Pittsburgh,Syracuse,7.0,7.0,1,6,29,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400869500.0,Pass Incompletion,,,98.0,2.0,-0.7565988898277283,False,Pittsburgh,Syracuse,0.0,0.0,1,11,21,13,Syracuse,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Interception Return,,,63.0,63.0,-0.4335395097732544,False,Northwestern,Pittsburgh,24.0,31.0,4,1,22,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,66.0,66.0,-0.41994619369506836,False,Northwestern,Pittsburgh,24.0,31.0,4,1,55,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Interception Return,,,18.0,18.0,-2.191138744354248,False,Northwestern,Pittsburgh,24.0,31.0,4,2,49,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,18.0,18.0,-1.1643098592758179,False,Northwestern,Pittsburgh,24.0,31.0,4,2,59,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,18.0,18.0,-0.6904840469360352,False,Northwestern,Pittsburgh,24.0,31.0,4,3,6,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,44.0,44.0,-0.7026336193084717,False,Northwestern,Pittsburgh,24.0,31.0,4,4,18,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,68.0,68.0,-0.08060547709465027,False,Northwestern,Pittsburgh,24.0,31.0,4,5,22,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Passing Touchdown,,,6.0,6.0,2.765627384185791,True,Northwestern,Pittsburgh,24.0,21.0,4,13,15,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,18.0,18.0,1.499328374862671,False,Northwestern,Pittsburgh,17.0,21.0,3,0,0,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,31.0,31.0,0.06467187404632568,False,Northwestern,Pittsburgh,17.0,21.0,3,4,21,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Sack,,,13.0,13.0,-2.8692569732666016,False,Northwestern,Pittsburgh,17.0,21.0,3,4,39,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,54.0,54.0,1.9198415279388428,False,Northwestern,Pittsburgh,17.0,21.0,3,7,37,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,41.0,41.0,-0.4228401780128479,False,Northwestern,Pittsburgh,10.0,14.0,2,0,0,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,46.0,46.0,1.1677366495132446,False,Northwestern,Pittsburgh,10.0,14.0,2,0,6,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,46.0,46.0,-0.07438164949417114,False,Northwestern,Pittsburgh,10.0,14.0,2,0,11,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Passing Touchdown,,,69.0,69.0,5.805309772491455,True,Northwestern,Pittsburgh,10.0,14.0,2,2,51,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,77.0,77.0,-1.181971549987793,False,Northwestern,Pittsburgh,3.0,7.0,2,5,59,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,88.0,88.0,0.26458173990249634,False,Northwestern,Pittsburgh,3.0,7.0,2,6,36,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,80.0,80.0,-1.0152997970581055,False,Northwestern,Pittsburgh,3.0,7.0,2,7,34,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Interception Return,,,10.0,10.0,-5.616600513458252,False,Northwestern,Pittsburgh,3.0,7.0,2,12,54,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,66.0,66.0,2.2641091346740723,False,Northwestern,Pittsburgh,3.0,7.0,2,14,30,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,7.0,7.0,-0.6148052215576172,False,Northwestern,Pittsburgh,3.0,0.0,1,5,37,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,42.0,42.0,1.4291038513183594,False,Northwestern,Pittsburgh,3.0,0.0,1,6,42,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,57.0,57.0,2.389914035797119,False,Northwestern,Pittsburgh,3.0,0.0,1,6,58,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,65.0,65.0,-0.0964663028717041,False,Northwestern,Pittsburgh,3.0,0.0,1,7,21,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,73.0,73.0,-0.3563968539237976,False,Northwestern,Pittsburgh,3.0,0.0,1,8,59,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,28.0,28.0,-1.0117062330245972,False,Northwestern,Pittsburgh,0.0,0.0,1,11,59,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Incompletion,,,28.0,28.0,-0.8379437923431396,False,Northwestern,Pittsburgh,0.0,0.0,1,12,13,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017
+400876097.0,Pass Reception,,,58.0,58.0,2.4065117835998535,False,Northwestern,Pittsburgh,0.0,0.0,1,12,52,1,Northwestern,2016,Pittsburgh,Nathan Peterman,2017

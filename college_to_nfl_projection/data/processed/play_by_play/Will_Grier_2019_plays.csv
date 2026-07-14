@@ -1,0 +1,435 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401012257.0,Passing Touchdown,,,10.0,10.0,2.3340020179748535,True,Tennessee,West Virginia,40.0,14.0,4,2,2,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,96.0,96.0,2.258739948272705,False,Tennessee,West Virginia,33.0,14.0,4,6,43,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,58.0,58.0,0.1513354778289795,False,Tennessee,West Virginia,33.0,14.0,4,6,43,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,52.0,52.0,1.8203957080841064,False,Tennessee,West Virginia,33.0,14.0,4,6,43,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Sack,,,90.0,90.0,-1.4500012397766113,False,Tennessee,West Virginia,33.0,14.0,4,14,10,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,91.0,91.0,2.933533191680908,False,Tennessee,West Virginia,33.0,14.0,4,14,10,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,69.0,69.0,0.3198862075805664,False,Tennessee,West Virginia,33.0,14.0,4,14,10,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,46.0,46.0,0.23547577857971191,False,Tennessee,West Virginia,33.0,14.0,4,14,10,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Passing Touchdown,,,14.0,14.0,1.2703204154968262,True,Tennessee,West Virginia,33.0,14.0,3,1,15,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,75.0,75.0,2.075118064880371,False,Tennessee,West Virginia,27.0,14.0,3,6,9,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,45.0,45.0,0.25876712799072266,False,Tennessee,West Virginia,27.0,14.0,3,6,9,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,29.0,29.0,0.6945972442626953,False,Tennessee,West Virginia,27.0,14.0,3,6,9,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Passing Touchdown,,,28.0,28.0,3.081064224243164,True,Tennessee,West Virginia,27.0,7.0,3,8,9,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,40.0,40.0,-0.6121675968170166,False,Tennessee,West Virginia,20.0,7.0,3,10,58,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,40.0,40.0,0.674109697341919,False,Tennessee,West Virginia,20.0,7.0,3,10,58,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,28.0,28.0,-0.567112922668457,False,Tennessee,West Virginia,20.0,7.0,3,10,58,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Passing Touchdown,,,33.0,33.0,2.6661224365234375,True,Tennessee,West Virginia,20.0,7.0,3,12,54,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,68.0,68.0,-1.4924591779708862,False,Tennessee,West Virginia,13.0,7.0,3,15,0,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,65.0,65.0,-0.6346598267555237,False,Tennessee,West Virginia,13.0,7.0,3,15,0,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,75.0,75.0,0.5789251327514648,False,Tennessee,West Virginia,10.0,7.0,2,1,52,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,52.0,52.0,0.05139636993408203,False,Tennessee,West Virginia,10.0,7.0,2,1,52,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,44.0,44.0,0.9443094730377197,False,Tennessee,West Virginia,10.0,7.0,2,1,52,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,30.0,30.0,-0.3365323543548584,False,Tennessee,West Virginia,10.0,7.0,2,1,52,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Sack,,,19.0,19.0,-1.206498622894287,False,Tennessee,West Virginia,10.0,7.0,2,1,52,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,76.0,76.0,-0.8533925414085388,False,Tennessee,West Virginia,10.0,7.0,2,6,13,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,76.0,76.0,-1.1323107481002808,False,Tennessee,West Virginia,10.0,7.0,2,6,13,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,57.0,57.0,-1.5581523180007935,False,Tennessee,West Virginia,10.0,0.0,1,1,14,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Passing Touchdown,,,59.0,59.0,4.123655796051025,True,Tennessee,West Virginia,10.0,0.0,1,3,32,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,81.0,81.0,0.9288070201873779,False,Tennessee,West Virginia,3.0,0.0,1,5,50,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,69.0,69.0,1.162011981010437,False,Tennessee,West Virginia,3.0,0.0,1,5,50,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,48.0,48.0,0.3778364658355713,False,Tennessee,West Virginia,0.0,0.0,1,13,25,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Reception,,,48.0,48.0,1.9982059001922607,False,Tennessee,West Virginia,0.0,0.0,1,13,25,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,9.0,9.0,-0.8446285724639893,False,Tennessee,West Virginia,0.0,0.0,1,13,25,1,Tennessee,2018,West Virginia,Will Grier,2019
+401012257.0,Pass Incompletion,,,9.0,9.0,-1.0209243297576904,False,Tennessee,West Virginia,0.0,0.0,1,13,25,1,Tennessee,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,62.0,38.0,0.051001667976379395,False,West Virginia,Baylor,58.0,14.0,4,5,46,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,67.0,33.0,-0.7724159955978394,False,West Virginia,Baylor,58.0,14.0,4,9,57,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Passing Touchdown,,,36.0,64.0,3.8226535320281982,True,West Virginia,Baylor,58.0,14.0,4,14,53,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,34.0,66.0,-1.255640983581543,False,West Virginia,Baylor,51.0,14.0,3,0,1,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,50.0,50.0,2.31356143951416,False,West Virginia,Baylor,44.0,7.0,3,7,0,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,56.0,44.0,1.0821900367736816,False,West Virginia,Baylor,44.0,7.0,3,8,13,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,27.0,73.0,-1.325336217880249,False,West Virginia,Baylor,41.0,0.0,3,14,25,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,27.0,73.0,-0.7767796516418457,False,West Virginia,Baylor,41.0,0.0,3,14,30,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,33.0,67.0,-0.08487367630004883,False,West Virginia,Baylor,27.0,0.0,2,6,19,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Passing Touchdown,,,65.0,35.0,5.267836570739746,True,West Virginia,Baylor,27.0,0.0,2,6,40,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Passing Touchdown,,,25.0,75.0,2.542689800262451,True,West Virginia,Baylor,20.0,0.0,2,8,23,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,37.0,63.0,-0.8688852787017822,False,West Virginia,Baylor,13.0,0.0,2,9,48,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Sack,,,15.0,85.0,-2.388854503631592,False,West Virginia,Baylor,10.0,0.0,2,13,54,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,15.0,85.0,-0.7715096473693848,False,West Virginia,Baylor,10.0,0.0,2,14,10,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,57.0,43.0,2.1408307552337646,False,West Virginia,Baylor,10.0,0.0,2,14,43,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,62.0,38.0,-0.06908011436462402,False,West Virginia,Baylor,10.0,0.0,1,0,1,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,71.0,29.0,0.6782386302947998,False,West Virginia,Baylor,10.0,0.0,1,0,14,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,8.0,92.0,-1.234262466430664,False,West Virginia,Baylor,7.0,0.0,1,2,57,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,33.0,67.0,0.9808435440063477,False,West Virginia,Baylor,7.0,0.0,1,4,0,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,23.0,77.0,-1.1582601070404053,False,West Virginia,Baylor,7.0,0.0,1,5,57,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,25.0,75.0,-0.5755815505981445,False,West Virginia,Baylor,7.0,0.0,1,6,39,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,38.0,62.0,1.2071330547332764,False,West Virginia,Baylor,7.0,0.0,1,6,43,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,38.0,62.0,-0.626267671585083,False,West Virginia,Baylor,7.0,0.0,1,7,5,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,55.0,45.0,0.8593385219573975,False,West Virginia,Baylor,7.0,0.0,1,7,15,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,34.0,66.0,0.2117912769317627,False,West Virginia,Baylor,7.0,0.0,1,9,22,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,69.0,31.0,2.0069384574890137,False,West Virginia,Baylor,7.0,0.0,1,11,57,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Incompletion,,,69.0,31.0,-0.8769910335540771,False,West Virginia,Baylor,7.0,0.0,1,12,17,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,80.0,20.0,0.2616976499557495,False,West Virginia,Baylor,7.0,0.0,1,12,37,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Passing Touchdown,,,53.0,47.0,3.5914390087127686,True,West Virginia,Baylor,7.0,0.0,1,14,10,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,66.0,34.0,-0.41377687454223633,False,West Virginia,Baylor,0.0,0.0,1,14,37,9,Baylor,2018,West Virginia,Will Grier,2019
+401013033.0,Pass Reception,,,75.0,25.0,1.0681288242340088,False,West Virginia,Baylor,0.0,0.0,1,14,47,9,Baylor,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,83.0,83.0,-1.2413276433944702,False,Iowa State,West Virginia,14.0,28.0,4,6,2,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,81.0,81.0,-1.0322396755218506,False,Iowa State,West Virginia,14.0,28.0,4,6,46,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Interception Return,,,79.0,79.0,-0.9680447578430176,False,Iowa State,West Virginia,14.0,28.0,4,10,54,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,71.0,71.0,-1.8640756607055664,False,Iowa State,West Virginia,14.0,28.0,4,11,35,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,75.0,75.0,-0.10920020937919617,False,Iowa State,West Virginia,14.0,28.0,4,12,0,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,90.0,90.0,1.8264579772949219,False,Iowa State,West Virginia,14.0,20.0,3,1,18,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Incompletion,,,64.0,64.0,-0.39122042059898376,False,Iowa State,West Virginia,14.0,20.0,2,0,35,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,64.0,64.0,-0.4420469403266907,False,Iowa State,West Virginia,14.0,20.0,2,0,58,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,88.0,88.0,0.6000086069107056,False,Iowa State,West Virginia,7.0,20.0,2,7,45,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,97.0,97.0,0.011808037757873535,False,Iowa State,West Virginia,7.0,20.0,2,8,33,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,87.0,87.0,-1.7207618951797485,False,Iowa State,West Virginia,7.0,20.0,2,9,17,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,76.0,76.0,-0.176322340965271,False,Iowa State,West Virginia,7.0,13.0,2,14,8,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Incompletion,,,76.0,76.0,-0.9202425479888916,False,Iowa State,West Virginia,7.0,13.0,2,14,18,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,64.0,64.0,-2.2034201622009277,False,Iowa State,West Virginia,7.0,13.0,2,14,45,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,82.0,82.0,-1.0633307695388794,False,Iowa State,West Virginia,7.0,7.0,1,2,58,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Passing Touchdown,,,18.0,18.0,3.268763780593872,True,Iowa State,West Virginia,7.0,0.0,1,6,47,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,54.0,54.0,-3.2880847454071045,False,Iowa State,West Virginia,0.0,0.0,1,9,0,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,58.0,58.0,-0.21371793746948242,False,Iowa State,West Virginia,0.0,0.0,1,9,49,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Sack,,,44.0,44.0,-2.967681646347046,False,Iowa State,West Virginia,0.0,0.0,1,12,48,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,49.0,49.0,0.059298038482666016,False,Iowa State,West Virginia,0.0,0.0,1,13,28,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013043.0,Pass Reception,,,71.0,71.0,1.7543175220489502,False,Iowa State,West Virginia,0.0,0.0,1,14,24,7,Iowa State,2018,West Virginia,Will Grier,2019
+401013051.0,Passing Touchdown,,,17.0,83.0,2.9881224632263184,True,West Virginia,Kansas,38.0,14.0,4,2,20,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,32.0,68.0,-1.0428948402404785,False,West Virginia,Kansas,28.0,14.0,4,5,10,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Sack,,,26.0,74.0,-1.2625732421875,False,West Virginia,Kansas,28.0,14.0,4,5,50,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,57.0,43.0,2.421743392944336,False,West Virginia,Kansas,28.0,14.0,4,7,32,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,62.0,38.0,-0.2528049945831299,False,West Virginia,Kansas,28.0,14.0,4,8,30,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Sack,,,83.0,17.0,-1.5783966779708862,False,West Virginia,Kansas,28.0,14.0,4,9,25,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Sack,,,76.0,24.0,-1.9825133085250854,False,West Virginia,Kansas,28.0,14.0,4,10,15,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Passing Touchdown,,,12.0,88.0,2.6119742393493652,True,West Virginia,Kansas,28.0,14.0,3,0,0,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,33.0,67.0,-0.22966837882995605,False,West Virginia,Kansas,21.0,14.0,3,2,30,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,77.0,23.0,0.7628774642944336,False,West Virginia,Kansas,21.0,14.0,3,4,10,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Fumble Recovery (Opponent),,,33.0,67.0,-3.8924922943115234,False,West Virginia,Kansas,21.0,14.0,3,6,37,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,23.0,77.0,-0.7480564117431641,False,West Virginia,Kansas,21.0,14.0,3,7,21,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,23.0,77.0,-0.5330772399902344,False,West Virginia,Kansas,21.0,14.0,3,7,27,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,33.0,67.0,0.18956613540649414,False,West Virginia,Kansas,21.0,14.0,3,8,20,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,53.0,47.0,0.3535795211791992,False,West Virginia,Kansas,21.0,14.0,3,9,15,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Interception Return,,,4.0,96.0,-4.862459182739258,False,West Virginia,Kansas,21.0,7.0,2,0,10,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,14.0,86.0,0.0487208366394043,False,West Virginia,Kansas,21.0,7.0,2,0,35,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,26.0,74.0,1.1973750591278076,False,West Virginia,Kansas,21.0,7.0,2,0,59,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,36.0,64.0,0.7146706581115723,False,West Virginia,Kansas,21.0,7.0,2,1,30,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,59.0,41.0,-0.18748867511749268,False,West Virginia,Kansas,21.0,7.0,2,2,12,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Interception Return,,,6.0,94.0,-6.656369686126709,False,West Virginia,Kansas,21.0,7.0,2,3,0,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,21.0,79.0,0.8601255416870117,False,West Virginia,Kansas,21.0,7.0,2,4,40,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,36.0,64.0,1.2785060405731201,False,West Virginia,Kansas,21.0,7.0,2,5,5,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,43.0,57.0,0.3038320541381836,False,West Virginia,Kansas,21.0,7.0,2,5,40,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,43.0,57.0,-0.4863400459289551,False,West Virginia,Kansas,21.0,7.0,2,5,46,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,57.0,43.0,0.4558684825897217,False,West Virginia,Kansas,21.0,7.0,2,6,20,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,65.0,35.0,-0.12885069847106934,False,West Virginia,Kansas,21.0,7.0,2,6,50,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,88.0,12.0,1.755920648574829,False,West Virginia,Kansas,21.0,7.0,2,7,30,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Passing Touchdown,,,14.0,86.0,2.102461814880371,True,West Virginia,Kansas,21.0,7.0,2,11,52,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,24.0,76.0,0.5077733993530273,False,West Virginia,Kansas,14.0,7.0,2,12,56,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,31.0,69.0,0.25948095321655273,False,West Virginia,Kansas,14.0,7.0,2,13,45,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,70.0,30.0,2.2735228538513184,False,West Virginia,Kansas,14.0,7.0,2,14,16,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,78.0,22.0,0.34144651889801025,False,West Virginia,Kansas,14.0,7.0,2,14,50,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,75.0,32.0,-0.32358431816101074,False,West Virginia,Kansas,14.0,7.0,1,0,5,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Interception Return,,,13.0,87.0,-3.9284369945526123,False,West Virginia,Kansas,14.0,0.0,1,2,23,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Sack,,,15.0,85.0,-1.372025966644287,False,West Virginia,Kansas,14.0,0.0,1,3,40,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,28.0,72.0,-0.571040153503418,False,West Virginia,Kansas,14.0,0.0,1,4,28,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,80.0,20.0,2.431145429611206,False,West Virginia,Kansas,7.0,0.0,1,7,12,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,80.0,20.0,-0.9253503084182739,False,West Virginia,Kansas,7.0,0.0,1,7,22,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Incompletion,,,80.0,20.0,-0.5521355867385864,False,West Virginia,Kansas,7.0,0.0,1,7,27,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Passing Touchdown,,,15.0,85.0,3.102078914642334,True,West Virginia,Kansas,7.0,0.0,1,9,28,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,32.0,68.0,2.167257785797119,False,West Virginia,Kansas,0.0,0.0,1,10,56,6,Kansas,2018,West Virginia,Will Grier,2019
+401013051.0,Pass Reception,,,75.0,25.0,0.49672532081604004,False,West Virginia,Kansas,0.0,0.0,1,14,55,6,Kansas,2018,West Virginia,Will Grier,2019
+401013059.0,Interception Return,,,32.0,68.0,-2.7410669326782227,False,West Virginia,Kansas State,35.0,6.0,4,4,15,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,59.0,41.0,1.5998317003250122,False,West Virginia,Kansas State,35.0,6.0,4,6,5,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Interception Return,,,69.0,31.0,-5.604927062988281,False,West Virginia,Kansas State,35.0,3.0,3,1,6,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Passing Touchdown,,,1.0,99.0,0.3487849235534668,True,West Virginia,Kansas State,35.0,3.0,3,7,39,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,10.0,90.0,1.6341204643249512,False,West Virginia,Kansas State,28.0,3.0,3,8,3,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Passing Touchdown,,,62.0,38.0,3.040729522705078,True,West Virginia,Kansas State,28.0,3.0,3,9,1,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,69.0,31.0,0.0905764102935791,False,West Virginia,Kansas State,21.0,3.0,3,9,35,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,70.0,30.0,-0.7844808101654053,False,West Virginia,Kansas State,21.0,3.0,3,10,9,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Passing Touchdown,,,1.0,99.0,1.7385425567626953,True,West Virginia,Kansas State,21.0,0.0,2,0,2,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,25.0,75.0,2.487569808959961,False,West Virginia,Kansas State,14.0,0.0,2,0,15,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,42.0,58.0,1.3118183612823486,False,West Virginia,Kansas State,14.0,0.0,2,0,29,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,53.0,47.0,0.1426243782043457,False,West Virginia,Kansas State,14.0,0.0,2,0,35,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,61.0,39.0,0.2705799341201782,False,West Virginia,Kansas State,14.0,0.0,2,0,40,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,73.0,27.0,0.37833118438720703,False,West Virginia,Kansas State,14.0,0.0,2,0,47,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Passing Touchdown,,,1.0,99.0,1.317032814025879,True,West Virginia,Kansas State,14.0,0.0,2,2,31,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Incompletion,,,1.0,99.0,-0.4196658134460449,False,West Virginia,Kansas State,7.0,0.0,2,2,35,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Sack,,,30.0,70.0,-2.249056339263916,False,West Virginia,Kansas State,7.0,0.0,2,7,4,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,45.0,55.0,0.912848711013794,False,West Virginia,Kansas State,7.0,0.0,2,9,5,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,55.0,45.0,1.2005815505981445,False,West Virginia,Kansas State,7.0,0.0,2,10,11,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,60.0,40.0,-0.21422529220581055,False,West Virginia,Kansas State,7.0,0.0,2,10,48,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,71.0,29.0,1.4284552335739136,False,West Virginia,Kansas State,7.0,0.0,2,11,52,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Incompletion,,,44.0,56.0,-1.9598063230514526,False,West Virginia,Kansas State,7.0,0.0,1,2,18,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Passing Touchdown,,,82.0,18.0,5.093606948852539,True,West Virginia,Kansas State,7.0,0.0,1,4,46,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,96.0,4.0,-0.11220872402191162,False,West Virginia,Kansas State,0.0,0.0,1,5,9,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,35.0,65.0,0.5343794822692871,False,West Virginia,Kansas State,0.0,0.0,1,8,1,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,50.0,50.0,2.2355055809020996,False,West Virginia,Kansas State,0.0,0.0,1,8,31,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,55.0,45.0,-0.3387967348098755,False,West Virginia,Kansas State,0.0,0.0,1,9,9,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Interception Return,,,51.0,49.0,-2.5500590801239014,False,West Virginia,Kansas State,0.0,0.0,1,12,37,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,63.0,37.0,1.3336114883422852,False,West Virginia,Kansas State,0.0,0.0,1,12,54,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,78.0,22.0,2.18942928314209,False,West Virginia,Kansas State,0.0,0.0,1,14,10,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Reception,,,85.0,15.0,-0.08153040707111359,False,West Virginia,Kansas State,0.0,0.0,1,14,25,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013059.0,Pass Incompletion,,,85.0,15.0,-0.9224123358726501,False,West Virginia,Kansas State,0.0,0.0,1,14,47,4,Kansas State,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,45.0,55.0,1.3292546272277832,False,West Virginia,Oklahoma,49.0,59.0,4,5,3,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,54.0,46.0,1.0505833625793457,False,West Virginia,Oklahoma,49.0,59.0,4,5,20,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,63.0,37.0,0.7473670244216919,False,West Virginia,Oklahoma,49.0,59.0,4,5,30,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,81.0,19.0,-0.3333275318145752,False,West Virginia,Oklahoma,49.0,59.0,4,6,30,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,75.0,25.0,-1.095924973487854,False,West Virginia,Oklahoma,49.0,59.0,4,9,13,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,75.0,25.0,-0.8697824478149414,False,West Virginia,Oklahoma,49.0,59.0,4,9,18,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Passing Touchdown,,,75.0,25.0,6.940221309661865,True,West Virginia,Oklahoma,49.0,45.0,3,0,17,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,75.0,25.0,-1.691563606262207,False,West Virginia,Oklahoma,42.0,45.0,3,0,27,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,75.0,25.0,-0.5969645977020264,False,West Virginia,Oklahoma,42.0,45.0,3,0,32,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,54.0,46.0,6.106811046600342,False,West Virginia,Oklahoma,35.0,38.0,3,3,19,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,61.0,39.0,-0.41485923528671265,False,West Virginia,Oklahoma,35.0,38.0,3,3,45,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,59.0,41.0,2.419032096862793,False,West Virginia,Oklahoma,35.0,38.0,3,4,45,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,67.0,33.0,0.4852951765060425,False,West Virginia,Oklahoma,35.0,38.0,3,5,20,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Passing Touchdown,,,57.0,43.0,4.579376220703125,True,West Virginia,Oklahoma,35.0,35.0,3,10,32,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,68.0,32.0,0.5760248303413391,False,West Virginia,Oklahoma,28.0,35.0,3,11,0,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,80.0,20.0,0.8595211505889893,False,West Virginia,Oklahoma,28.0,35.0,3,12,10,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,2.0,98.0,-0.42472219467163086,False,West Virginia,Oklahoma,21.0,35.0,2,0,37,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,32.0,68.0,3.3751392364501953,False,West Virginia,Oklahoma,21.0,35.0,2,0,45,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,32.0,68.0,-0.31620216369628906,False,West Virginia,Oklahoma,21.0,35.0,2,0,52,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,44.0,56.0,2.3530938625335693,False,West Virginia,Oklahoma,21.0,35.0,2,0,58,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,44.0,56.0,-0.838358998298645,False,West Virginia,Oklahoma,21.0,35.0,2,1,6,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,48.0,52.0,-0.044435858726501465,False,West Virginia,Oklahoma,21.0,35.0,2,1,25,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,60.0,40.0,0.055478572845458984,False,West Virginia,Oklahoma,21.0,35.0,2,2,26,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,81.0,19.0,2.2036056518554688,False,West Virginia,Oklahoma,21.0,35.0,2,2,45,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,81.0,19.0,-0.4887617230415344,False,West Virginia,Oklahoma,21.0,35.0,2,2,56,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Sack,,,75.0,25.0,-0.2734230160713196,False,West Virginia,Oklahoma,21.0,28.0,2,3,24,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Passing Touchdown,,,10.0,90.0,1.7349634170532227,True,West Virginia,Oklahoma,21.0,21.0,2,4,14,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,19.0,81.0,0.713864803314209,False,West Virginia,Oklahoma,14.0,21.0,2,4,40,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,46.0,54.0,1.2246572971343994,False,West Virginia,Oklahoma,14.0,21.0,2,5,5,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,75.0,25.0,1.3155823945999146,False,West Virginia,Oklahoma,14.0,21.0,2,7,5,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,73.0,27.0,-1.6760413646697998,False,West Virginia,Oklahoma,14.0,14.0,2,8,2,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,73.0,27.0,-1.031491994857788,False,West Virginia,Oklahoma,14.0,14.0,2,8,8,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,10.0,90.0,-2.9742517471313477,False,West Virginia,Oklahoma,14.0,14.0,2,11,19,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,38.0,62.0,0.49506473541259766,False,West Virginia,Oklahoma,14.0,14.0,2,14,40,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,60.0,40.0,-0.6777291893959045,False,West Virginia,Oklahoma,14.0,14.0,1,0,0,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,53.0,47.0,3.6927132606506348,False,West Virginia,Oklahoma,14.0,14.0,2,15,0,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,61.0,39.0,-1.0061804056167603,False,West Virginia,Oklahoma,14.0,14.0,1,1,0,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,75.0,25.0,0.9992014169692993,False,West Virginia,Oklahoma,14.0,14.0,1,1,24,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,23.0,77.0,0.8529520034790039,False,West Virginia,Oklahoma,7.0,7.0,1,5,0,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,43.0,57.0,1.1800298690795898,False,West Virginia,Oklahoma,7.0,7.0,1,5,30,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,74.0,26.0,2.7795090675354004,False,West Virginia,Oklahoma,7.0,7.0,1,6,45,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Incompletion,,,75.0,25.0,-0.6285264492034912,False,West Virginia,Oklahoma,7.0,7.0,1,7,15,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Passing Touchdown,,,41.0,59.0,4.365463733673096,True,West Virginia,Oklahoma,7.0,0.0,1,10,9,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,57.0,43.0,-0.31424689292907715,False,West Virginia,Oklahoma,0.0,0.0,1,13,10,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013071.0,Pass Reception,,,75.0,25.0,0.5579619407653809,False,West Virginia,Oklahoma,0.0,0.0,1,14,40,13,Oklahoma,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,59.0,41.0,-0.447692334651947,False,West Virginia,TCU,47.0,10.0,4,5,37,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,88.0,12.0,0.5262424349784851,False,West Virginia,TCU,47.0,10.0,4,7,0,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Passing Touchdown,,,4.0,96.0,1.4180612564086914,True,West Virginia,TCU,47.0,10.0,4,10,55,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,4.0,96.0,-0.2562689781188965,False,West Virginia,TCU,40.0,10.0,4,11,0,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,37.0,63.0,1.1944706439971924,False,West Virginia,TCU,40.0,10.0,4,13,30,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,65.0,35.0,0.14805078506469727,False,West Virginia,TCU,40.0,10.0,4,14,55,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Passing Touchdown,,,8.0,92.0,2.5069985389709473,True,West Virginia,TCU,40.0,10.0,3,1,25,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,33.0,67.0,1.6118905544281006,False,West Virginia,TCU,33.0,10.0,3,2,46,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,44.0,56.0,0.3584928512573242,False,West Virginia,TCU,33.0,10.0,3,3,33,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,50.0,50.0,2.441472053527832,False,West Virginia,TCU,33.0,10.0,3,3,54,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,58.0,42.0,-0.31118345260620117,False,West Virginia,TCU,33.0,10.0,3,4,10,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,62.0,38.0,-0.9697713851928711,False,West Virginia,TCU,33.0,10.0,3,7,7,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,62.0,38.0,2.5187811851501465,False,West Virginia,TCU,26.0,3.0,3,13,45,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Passing Touchdown,,,32.0,68.0,3.983259677886963,True,West Virginia,TCU,24.0,3.0,2,1,39,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,32.0,68.0,-0.8797433376312256,False,West Virginia,TCU,17.0,3.0,2,1,47,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,64.0,36.0,0.21380066871643066,False,West Virginia,TCU,17.0,3.0,2,2,7,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,17.0,83.0,0.4924755096435547,False,West Virginia,TCU,10.0,3.0,2,4,44,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,44.0,56.0,0.688983678817749,False,West Virginia,TCU,3.0,3.0,2,5,25,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,61.0,39.0,1.1765551567077637,False,West Virginia,TCU,3.0,3.0,2,5,35,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,70.0,30.0,0.7756099700927734,False,West Virginia,TCU,3.0,3.0,2,6,0,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,76.0,24.0,0.15623509883880615,False,West Virginia,TCU,3.0,3.0,2,6,20,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Interception Return,,,38.0,62.0,-4.492120742797852,False,West Virginia,TCU,3.0,3.0,2,7,35,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,38.0,62.0,-0.5032215118408203,False,West Virginia,TCU,3.0,3.0,2,7,41,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,37.0,63.0,-1.360832691192627,False,West Virginia,TCU,3.0,3.0,2,11,48,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,37.0,63.0,-1.0853426456451416,False,West Virginia,TCU,3.0,3.0,2,11,53,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,48.0,52.0,0.9997949600219727,False,West Virginia,TCU,3.0,3.0,2,12,34,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,60.0,40.0,0.81986403465271,False,West Virginia,TCU,3.0,3.0,2,12,45,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,30.0,70.0,-1.1821974515914917,False,West Virginia,TCU,0.0,3.0,2,14,54,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,34.0,66.0,-0.5607017278671265,False,West Virginia,TCU,0.0,3.0,1,0,0,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,25.0,75.0,-0.5383071899414062,False,West Virginia,TCU,0.0,3.0,1,0,58,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,59.0,41.0,2.374311685562134,False,West Virginia,TCU,0.0,3.0,1,1,32,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,41.0,59.0,-0.9412277936935425,False,West Virginia,TCU,0.0,3.0,1,6,42,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,41.0,59.0,-0.578134298324585,False,West Virginia,TCU,0.0,3.0,1,6,47,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,64.0,36.0,2.7369275093078613,False,West Virginia,TCU,0.0,3.0,1,7,4,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,68.0,32.0,-0.06395828723907471,False,West Virginia,TCU,0.0,3.0,1,7,30,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Reception,,,73.0,27.0,0.16529184579849243,False,West Virginia,TCU,0.0,0.0,1,14,23,11,TCU,2018,West Virginia,Will Grier,2019
+401013077.0,Pass Incompletion,,,73.0,27.0,-1.0477595329284668,False,West Virginia,TCU,0.0,0.0,1,14,45,11,TCU,2018,West Virginia,Will Grier,2019
+401013188.0,Passing Touchdown,,,33.0,33.0,6.060779094696045,True,Texas,West Virginia,42.0,41.0,4,0,16,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,47.0,47.0,0.7787052392959595,False,Texas,West Virginia,34.0,41.0,4,1,0,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,53.0,53.0,0.1293247938156128,False,Texas,West Virginia,34.0,41.0,4,1,16,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,67.0,67.0,0.3134952783584595,False,Texas,West Virginia,34.0,41.0,4,2,3,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,23.0,23.0,0.8067331314086914,False,Texas,West Virginia,27.0,34.0,4,6,15,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,61.0,61.0,1.1611735820770264,False,Texas,West Virginia,27.0,34.0,4,8,16,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,72.0,72.0,1.2611405849456787,False,Texas,West Virginia,27.0,34.0,4,9,0,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,29.0,29.0,0.8155229091644287,False,Texas,West Virginia,27.0,31.0,3,1,30,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,54.0,54.0,2.0746564865112305,False,Texas,West Virginia,27.0,31.0,3,2,0,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,83.0,83.0,1.0565860271453857,False,Texas,West Virginia,27.0,28.0,3,8,52,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,92.0,92.0,1.438342809677124,False,Texas,West Virginia,27.0,28.0,3,9,30,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,27.0,27.0,-0.8395445346832275,False,Texas,West Virginia,24.0,28.0,2,0,14,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,27.0,27.0,-0.4351811408996582,False,Texas,West Virginia,24.0,28.0,2,0,19,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,34.0,34.0,0.7296864986419678,False,Texas,West Virginia,24.0,28.0,2,0,24,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,45.0,45.0,1.3812847137451172,False,Texas,West Virginia,24.0,28.0,2,0,44,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,43.0,43.0,-0.02028036117553711,False,Texas,West Virginia,24.0,28.0,2,1,1,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,65.0,65.0,-0.4408378601074219,False,Texas,West Virginia,24.0,28.0,2,1,59,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,60.0,60.0,-0.6088464260101318,False,Texas,West Virginia,17.0,21.0,2,9,9,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,68.0,68.0,1.460280418395996,False,Texas,West Virginia,17.0,21.0,2,9,41,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,75.0,75.0,0.10314404964447021,False,Texas,West Virginia,17.0,21.0,2,9,53,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,75.0,75.0,-0.5428767204284668,False,Texas,West Virginia,17.0,21.0,2,9,58,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Passing Touchdown,,,18.0,18.0,3.3601205348968506,True,Texas,West Virginia,17.0,14.0,2,14,49,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,32.0,32.0,-0.8858189582824707,False,Texas,West Virginia,10.0,14.0,1,0,21,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,32.0,32.0,-0.5765652656555176,False,Texas,West Virginia,10.0,14.0,1,0,25,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,69.0,69.0,3.5974996089935303,False,Texas,West Virginia,10.0,14.0,1,0,34,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,70.0,70.0,-0.6674226522445679,False,Texas,West Virginia,10.0,14.0,1,0,50,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,79.0,79.0,0.7252495288848877,False,Texas,West Virginia,10.0,14.0,1,1,0,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Passing Touchdown,,,60.0,60.0,4.872500419616699,True,Texas,West Virginia,10.0,7.0,1,3,8,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,55.0,50.0,4.256141185760498,False,Texas,West Virginia,3.0,7.0,1,3,30,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,75.0,75.0,1.5620408058166504,False,Texas,West Virginia,3.0,7.0,1,4,26,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,75.0,75.0,-0.5887552499771118,False,Texas,West Virginia,3.0,7.0,1,4,32,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,86.0,86.0,-1.2609145641326904,False,Texas,West Virginia,3.0,0.0,1,7,31,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,28.0,28.0,-1.4149826765060425,False,Texas,West Virginia,0.0,0.0,1,11,8,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,28.0,28.0,-0.17202115058898926,False,Texas,West Virginia,0.0,0.0,1,11,42,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,28.0,28.0,0.016453266143798828,False,Texas,West Virginia,0.0,0.0,1,12,10,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,41.0,41.0,0.043227195739746094,False,Texas,West Virginia,0.0,0.0,1,13,26,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Incompletion,,,41.0,41.0,-0.6388657093048096,False,Texas,West Virginia,0.0,0.0,1,13,36,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,65.0,65.0,0.5969064235687256,False,Texas,West Virginia,0.0,0.0,1,14,28,10,Texas,2018,West Virginia,Will Grier,2019
+401013188.0,Pass Reception,,,70.0,70.0,0.20299601554870605,False,Texas,West Virginia,0.0,0.0,1,14,55,10,Texas,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,78.0,78.0,0.2629150152206421,False,Texas Tech,West Virginia,35.0,27.0,4,5,4,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Sack,,,62.0,62.0,-1.6763014793395996,False,Texas Tech,West Virginia,35.0,27.0,4,7,0,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,75.0,75.0,0.5489020943641663,False,Texas Tech,West Virginia,35.0,27.0,4,7,34,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,75.0,75.0,-0.5428451895713806,False,Texas Tech,West Virginia,35.0,27.0,4,7,41,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Sack,,,78.0,78.0,-1.4902743101119995,False,Texas Tech,West Virginia,35.0,20.0,4,10,20,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,52.0,52.0,-1.3418525457382202,False,Texas Tech,West Virginia,35.0,17.0,3,0,46,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,75.0,75.0,0.6389143466949463,False,Texas Tech,West Virginia,35.0,17.0,3,2,55,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,36.0,36.0,-0.8739497661590576,False,Texas Tech,West Virginia,35.0,10.0,3,7,6,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,65.0,65.0,0.8381378650665283,False,Texas Tech,West Virginia,35.0,10.0,3,8,3,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,77.0,77.0,0.3038806915283203,False,Texas Tech,West Virginia,35.0,10.0,3,9,0,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,88.0,88.0,0.18518424034118652,False,Texas Tech,West Virginia,35.0,10.0,3,9,20,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,83.0,83.0,-1.4749213457107544,False,Texas Tech,West Virginia,35.0,10.0,3,11,20,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,83.0,83.0,-0.875989556312561,False,Texas Tech,West Virginia,35.0,10.0,3,11,25,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Passing Touchdown,,,14.0,14.0,4.039860725402832,True,Texas Tech,West Virginia,35.0,10.0,2,1,8,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,17.0,17.0,-0.6096010208129883,False,Texas Tech,West Virginia,28.0,10.0,2,1,13,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,17.0,17.0,-0.41660523414611816,False,Texas Tech,West Virginia,28.0,10.0,2,1,19,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,29.0,29.0,1.8986690044403076,False,Texas Tech,West Virginia,28.0,10.0,2,1,43,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,29.0,29.0,-0.5182924270629883,False,Texas Tech,West Virginia,28.0,10.0,2,1,50,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,43.0,43.0,0.6397337913513184,False,Texas Tech,West Virginia,28.0,10.0,2,2,52,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,56.0,56.0,0.015983223915100098,False,Texas Tech,West Virginia,28.0,10.0,2,3,59,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,32.0,32.0,-2.298598527908325,False,Texas Tech,West Virginia,28.0,10.0,2,5,45,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,43.0,43.0,-0.012214899063110352,False,Texas Tech,West Virginia,28.0,10.0,2,6,20,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,43.0,43.0,-0.9172245264053345,False,Texas Tech,West Virginia,28.0,10.0,2,6,31,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,53.0,53.0,0.17667698860168457,False,Texas Tech,West Virginia,28.0,10.0,2,7,41,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,74.0,74.0,1.2700560092926025,False,Texas Tech,West Virginia,28.0,10.0,2,8,56,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,54.0,54.0,0.6760923862457275,False,Texas Tech,West Virginia,21.0,7.0,1,0,19,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,62.0,62.0,0.12381863594055176,False,Texas Tech,West Virginia,21.0,7.0,1,0,52,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Passing Touchdown,,,45.0,45.0,2.3510336875915527,True,Texas Tech,West Virginia,21.0,0.0,1,3,3,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,59.0,59.0,-0.22643470764160156,False,Texas Tech,West Virginia,14.0,0.0,1,3,22,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,41.0,41.0,0.6027340888977051,False,Texas Tech,West Virginia,14.0,0.0,1,6,3,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,41.0,41.0,-0.5614056587219238,False,Texas Tech,West Virginia,14.0,0.0,1,6,22,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,53.0,53.0,0.6377816200256348,False,Texas Tech,West Virginia,14.0,0.0,1,6,55,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,8.0,8.0,1.2304000854492188,False,Texas Tech,West Virginia,7.0,0.0,1,8,11,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,17.0,17.0,0.055475711822509766,False,Texas Tech,West Virginia,7.0,0.0,1,9,4,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,39.0,39.0,0.5218429565429688,False,Texas Tech,West Virginia,7.0,0.0,1,10,0,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Passing Touchdown,,,13.0,13.0,2.223721504211426,True,Texas Tech,West Virginia,7.0,0.0,1,12,21,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,58.0,58.0,3.7662394046783447,False,Texas Tech,West Virginia,0.0,0.0,1,13,40,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,58.0,58.0,-0.9712827205657959,False,Texas Tech,West Virginia,0.0,0.0,1,13,49,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,64.0,64.0,0.2256075143814087,False,Texas Tech,West Virginia,0.0,0.0,1,14,15,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Reception,,,75.0,75.0,1.4555637836456299,False,Texas Tech,West Virginia,0.0,0.0,1,14,47,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013325.0,Pass Incompletion,,,75.0,75.0,-0.43513405323028564,False,Texas Tech,West Virginia,0.0,0.0,1,14,55,5,Texas Tech,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Incompletion,,,43.0,57.0,-0.5197460651397705,False,West Virginia,Youngstown State,49.0,17.0,4,12,3,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,18.0,82.0,-0.06274604797363281,False,West Virginia,Youngstown State,49.0,17.0,4,12,3,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Incompletion,,,14.0,86.0,-1.741462230682373,False,West Virginia,Youngstown State,49.0,17.0,4,12,3,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Passing Touchdown,,,40.0,60.0,2.7076449394226074,True,West Virginia,Youngstown State,49.0,17.0,4,14,37,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,91.0,9.0,-0.1818702220916748,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,85.0,15.0,1.4242206811904907,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,72.0,28.0,-0.15699005126953125,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,70.0,30.0,3.0147695541381836,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Incompletion,,,39.0,61.0,-0.563103437423706,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,44.0,56.0,0.4466102123260498,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,32.0,68.0,3.360595226287842,False,West Virginia,Youngstown State,28.0,14.0,3,9,29,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Passing Touchdown,,,33.0,67.0,2.3671207427978516,True,West Virginia,Youngstown State,28.0,7.0,3,12,19,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Passing Touchdown,,,24.0,76.0,3.4888432025909424,True,West Virginia,Youngstown State,21.0,7.0,2,1,0,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,57.0,43.0,0.41683995723724365,False,West Virginia,Youngstown State,14.0,7.0,2,3,32,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,44.0,56.0,1.6213330030441284,False,West Virginia,Youngstown State,14.0,7.0,2,3,32,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,33.0,67.0,0.8241000175476074,False,West Virginia,Youngstown State,14.0,7.0,2,3,32,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Incompletion,,,56.0,44.0,-0.5082602500915527,False,West Virginia,Youngstown State,14.0,7.0,2,8,54,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Incompletion,,,56.0,44.0,-1.5175833702087402,False,West Virginia,Youngstown State,14.0,7.0,2,8,54,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Passing Touchdown,,,11.0,89.0,2.9396262168884277,True,West Virginia,Youngstown State,14.0,0.0,2,12,52,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,26.0,74.0,1.961629867553711,False,West Virginia,Youngstown State,7.0,0.0,2,15,0,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,68.0,32.0,0.5200135707855225,False,West Virginia,Youngstown State,7.0,0.0,1,2,10,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,57.0,43.0,0.6092362403869629,False,West Virginia,Youngstown State,7.0,0.0,1,2,10,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Fumble Recovery (Own),,,46.0,54.0,1.5287411212921143,False,West Virginia,Youngstown State,7.0,0.0,1,2,10,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,36.0,64.0,1.0908987522125244,False,West Virginia,Youngstown State,0.0,0.0,1,7,41,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,22.0,78.0,0.6643218994140625,False,West Virginia,Youngstown State,0.0,0.0,1,7,41,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Interception Return,,,33.0,67.0,-4.132943630218506,False,West Virginia,Youngstown State,0.0,0.0,1,9,48,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,78.0,22.0,1.3884121179580688,False,West Virginia,Youngstown State,0.0,0.0,1,15,0,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Sack,,,48.0,52.0,-1.8371076583862305,False,West Virginia,Youngstown State,0.0,0.0,1,15,0,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Reception,,,52.0,48.0,3.1612629890441895,False,West Virginia,Youngstown State,0.0,0.0,1,15,0,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013326.0,Pass Incompletion,,,33.0,67.0,-3.7566757202148438,False,West Virginia,Youngstown State,0.0,0.0,1,15,0,2,Youngstown State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,14.0,14.0,-2.748673439025879,False,Oklahoma State,West Virginia,41.0,45.0,4,0,1,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,28.0,28.0,0.7018177509307861,False,Oklahoma State,West Virginia,41.0,45.0,4,0,5,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,28.0,28.0,0.0555952787399292,False,Oklahoma State,West Virginia,41.0,45.0,4,0,7,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,61.0,61.0,1.4227834939956665,False,Oklahoma State,West Virginia,41.0,45.0,4,0,11,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,72.0,72.0,0.08562645316123962,False,Oklahoma State,West Virginia,41.0,45.0,4,0,18,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,77.0,77.0,1.6141154766082764,False,Oklahoma State,West Virginia,41.0,38.0,4,4,5,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,6.0,6.0,-1.3174023628234863,False,Oklahoma State,West Virginia,34.0,31.0,4,7,43,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,33.0,33.0,0.27124452590942383,False,Oklahoma State,West Virginia,34.0,31.0,4,10,5,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,40.0,40.0,0.453153133392334,False,Oklahoma State,West Virginia,34.0,31.0,4,10,14,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,83.0,83.0,2.422642946243286,False,Oklahoma State,West Virginia,34.0,31.0,4,10,40,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,86.0,86.0,-1.254880428314209,False,Oklahoma State,West Virginia,34.0,24.0,4,13,58,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,17.0,17.0,-0.7688314914703369,False,Oklahoma State,West Virginia,31.0,24.0,3,0,38,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,69.0,69.0,-0.821317195892334,False,Oklahoma State,West Virginia,31.0,24.0,3,1,46,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,59.0,59.0,3.466060161590576,False,Oklahoma State,West Virginia,31.0,21.0,3,11,0,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,63.0,63.0,0.5565097332000732,False,Oklahoma State,West Virginia,31.0,21.0,3,11,35,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,63.0,63.0,-0.5604009628295898,False,Oklahoma State,West Virginia,31.0,21.0,3,11,44,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,67.0,67.0,0.15287041664123535,False,Oklahoma State,West Virginia,31.0,21.0,3,11,55,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,49.0,49.0,1.001542329788208,False,Oklahoma State,West Virginia,28.0,14.0,2,0,15,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,54.0,54.0,-0.15431725978851318,False,Oklahoma State,West Virginia,28.0,14.0,2,0,30,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,42.0,42.0,-0.8999244570732117,False,Oklahoma State,West Virginia,21.0,14.0,2,3,10,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,42.0,42.0,-0.7212432622909546,False,Oklahoma State,West Virginia,21.0,14.0,2,3,19,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,42.0,42.0,-0.37512969970703125,False,Oklahoma State,West Virginia,21.0,14.0,2,3,23,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,10.0,10.0,-0.17604374885559082,False,Oklahoma State,West Virginia,21.0,14.0,2,5,35,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Sack,,,24.0,24.0,-1.533902645111084,False,Oklahoma State,West Virginia,21.0,14.0,2,7,50,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,33.0,33.0,0.9003808498382568,False,Oklahoma State,West Virginia,21.0,14.0,2,8,0,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,50.0,50.0,-1.7593584060668945,False,Oklahoma State,West Virginia,21.0,14.0,2,11,20,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,60.0,60.0,0.049015045166015625,False,Oklahoma State,West Virginia,21.0,14.0,2,12,10,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,61.0,61.0,1.576300859451294,False,Oklahoma State,West Virginia,21.0,14.0,2,12,37,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Passing Touchdown,,,22.0,22.0,3.119366407394409,True,Oklahoma State,West Virginia,21.0,7.0,2,14,55,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,33.0,33.0,2.5412380695343018,False,Oklahoma State,West Virginia,14.0,7.0,1,0,55,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Sack,,,40.0,40.0,-0.990692138671875,False,Oklahoma State,West Virginia,14.0,7.0,1,2,0,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Passing Touchdown,,,13.0,13.0,1.631011962890625,True,Oklahoma State,West Virginia,14.0,7.0,1,3,1,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,27.0,27.0,0.35207080841064453,False,Oklahoma State,West Virginia,7.0,7.0,1,3,20,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,61.0,61.0,2.6277825832366943,False,Oklahoma State,West Virginia,7.0,7.0,1,3,45,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,65.0,65.0,-0.24808788299560547,False,Oklahoma State,West Virginia,7.0,7.0,1,4,5,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,92.0,92.0,-0.7003468871116638,False,Oklahoma State,West Virginia,7.0,0.0,1,7,33,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,66.0,66.0,-1.3554974794387817,False,Oklahoma State,West Virginia,7.0,0.0,1,8,52,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,68.0,68.0,-0.7433638572692871,False,Oklahoma State,West Virginia,7.0,0.0,1,9,50,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,5.0,5.0,-0.6913266181945801,False,Oklahoma State,West Virginia,0.0,0.0,1,11,49,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Incompletion,,,18.0,18.0,-0.799659252166748,False,Oklahoma State,West Virginia,0.0,0.0,1,12,21,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,30.0,30.0,1.14241623878479,False,Oklahoma State,West Virginia,0.0,0.0,1,13,24,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401013327.0,Pass Reception,,,75.0,75.0,0.8144936561584473,False,Oklahoma State,West Virginia,0.0,0.0,1,14,50,12,Oklahoma State,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,24.0,24.0,-2.323448657989502,False,Syracuse,West Virginia,18.0,34.0,4,0,50,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,24.0,24.0,-0.492962121963501,False,Syracuse,West Virginia,18.0,34.0,4,1,0,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,24.0,24.0,-0.3090693950653076,False,Syracuse,West Virginia,18.0,34.0,4,1,25,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Sack,,,39.0,39.0,-1.7211904525756836,False,Syracuse,West Virginia,18.0,34.0,4,2,0,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,55.0,55.0,0.7886707782745361,False,Syracuse,West Virginia,18.0,34.0,4,2,30,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,19.0,19.0,1.7232797145843506,False,Syracuse,West Virginia,18.0,34.0,4,7,15,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,23.0,23.0,-0.17159056663513184,False,Syracuse,West Virginia,18.0,34.0,4,7,45,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,56.0,56.0,3.787689447402954,False,Syracuse,West Virginia,18.0,34.0,4,8,35,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,81.0,81.0,2.9191930294036865,False,Syracuse,West Virginia,18.0,34.0,4,9,0,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Sack,,,75.0,75.0,-1.5745978355407715,False,Syracuse,West Virginia,18.0,27.0,4,12,10,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Interception Return,,,75.0,75.0,-5.755518913269043,False,Syracuse,West Virginia,18.0,24.0,4,14,44,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,31.0,31.0,-1.054171085357666,False,Syracuse,West Virginia,15.0,17.0,3,3,30,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,31.0,31.0,-0.98387610912323,False,Syracuse,West Virginia,15.0,17.0,3,3,34,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,33.0,33.0,-0.19481205940246582,False,Syracuse,West Virginia,15.0,17.0,3,4,41,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,82.0,82.0,4.211886405944824,False,Syracuse,West Virginia,15.0,17.0,3,5,15,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,82.0,82.0,-0.9477216005325317,False,Syracuse,West Virginia,15.0,17.0,3,5,45,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,30.0,30.0,-0.4293941259384155,False,Syracuse,West Virginia,12.0,14.0,3,11,0,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,59.0,59.0,3.411771774291992,False,Syracuse,West Virginia,12.0,14.0,3,12,45,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,71.0,71.0,1.0504661798477173,False,Syracuse,West Virginia,12.0,14.0,3,14,25,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,86.0,86.0,-0.34177207946777344,False,Syracuse,West Virginia,12.0,14.0,2,1,8,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Sack,,,80.0,80.0,-0.8457013368606567,False,Syracuse,West Virginia,12.0,14.0,2,1,35,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,51.0,51.0,-0.5925456285476685,False,Syracuse,West Virginia,12.0,14.0,2,4,7,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,87.0,70.0,0.24322867393493652,False,Syracuse,West Virginia,12.0,14.0,2,4,45,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,30.0,30.0,-0.8225891590118408,False,Syracuse,West Virginia,9.0,14.0,2,7,24,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Sack,,,24.0,24.0,-1.4372155666351318,False,Syracuse,West Virginia,9.0,14.0,2,7,40,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,40.0,40.0,-2.888401985168457,False,Syracuse,West Virginia,9.0,7.0,2,10,20,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,38.0,38.0,-2.365114212036133,False,Syracuse,West Virginia,9.0,7.0,2,10,45,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,59.0,59.0,0.6942939758300781,False,Syracuse,West Virginia,9.0,7.0,2,11,40,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,5.0,5.0,-0.513242244720459,False,Syracuse,West Virginia,3.0,7.0,2,14,40,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,46.0,46.0,-2.115452766418457,False,Syracuse,West Virginia,3.0,7.0,1,0,51,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,48.0,48.0,-0.5433945655822754,False,Syracuse,West Virginia,3.0,7.0,1,1,10,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,71.0,71.0,2.2756187915802,False,Syracuse,West Virginia,3.0,7.0,1,2,0,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,27.0,27.0,0.3234677314758301,False,Syracuse,West Virginia,0.0,0.0,1,7,15,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,27.0,27.0,-0.5687878131866455,False,Syracuse,West Virginia,0.0,0.0,1,7,32,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Sack,,,21.0,21.0,-1.245483636856079,False,Syracuse,West Virginia,0.0,0.0,1,8,20,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,50.0,50.0,1.7268054485321045,False,Syracuse,West Virginia,0.0,0.0,1,10,35,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,65.0,65.0,-1.5096461772918701,False,Syracuse,West Virginia,0.0,0.0,1,13,38,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Reception,,,68.0,68.0,-0.5128298997879028,False,Syracuse,West Virginia,0.0,0.0,1,14,0,1,Syracuse,2018,West Virginia,Will Grier,2019
+401032074.0,Pass Incompletion,,,68.0,68.0,-0.822033166885376,False,Syracuse,West Virginia,0.0,0.0,1,14,3,1,Syracuse,2018,West Virginia,Will Grier,2019

@@ -1,0 +1,402 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401012728.0,Pass Incompletion,,,55.0,45.0,-0.5708001852035522,False,Oklahoma,UCLA,49.0,21.0,4,1,33,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,57.0,43.0,-0.3398793935775757,False,Oklahoma,UCLA,49.0,21.0,4,2,22,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,65.0,35.0,0.16492009162902832,False,Oklahoma,UCLA,42.0,14.0,4,10,54,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Passing Touchdown,,,35.0,65.0,2.6177282333374023,True,Oklahoma,UCLA,42.0,7.0,4,13,27,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,45.0,55.0,-1.0284912586212158,False,Oklahoma,UCLA,35.0,7.0,4,14,20,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,45.0,55.0,-0.5331103801727295,False,Oklahoma,UCLA,35.0,7.0,4,14,25,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,53.0,47.0,1.0117435455322266,False,Oklahoma,UCLA,35.0,7.0,4,14,50,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Interception Return,,,64.0,36.0,-2.646054744720459,False,Oklahoma,UCLA,35.0,7.0,3,3,34,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,75.0,25.0,-0.467968225479126,False,Oklahoma,UCLA,35.0,7.0,3,4,40,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Passing Touchdown,,,10.0,90.0,1.7304248809814453,True,Oklahoma,UCLA,35.0,7.0,3,5,19,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,51.0,49.0,2.706066370010376,False,Oklahoma,UCLA,21.0,7.0,3,8,10,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,51.0,49.0,-1.0313007831573486,False,Oklahoma,UCLA,21.0,7.0,3,8,31,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,51.0,49.0,-0.5798311233520508,False,Oklahoma,UCLA,21.0,7.0,3,8,35,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,66.0,34.0,1.0495598316192627,False,Oklahoma,UCLA,21.0,7.0,3,8,55,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,80.0,20.0,0.4243931770324707,False,Oklahoma,UCLA,21.0,7.0,3,9,49,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,56.0,44.0,-0.5951957702636719,False,Oklahoma,UCLA,21.0,7.0,3,14,3,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,36.0,64.0,1.2907028198242188,False,Oklahoma,UCLA,21.0,7.0,2,1,40,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,42.0,58.0,0.3863396644592285,False,Oklahoma,UCLA,21.0,7.0,2,3,29,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,56.0,44.0,0.35621094703674316,False,Oklahoma,UCLA,21.0,7.0,2,4,27,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,63.0,37.0,0.4403548240661621,False,Oklahoma,UCLA,21.0,7.0,2,5,16,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,80.0,20.0,0.2816559076309204,False,Oklahoma,UCLA,21.0,7.0,2,6,4,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,84.0,16.0,-1.9485986232757568,False,Oklahoma,UCLA,21.0,7.0,2,9,37,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,20.0,80.0,-0.5484776496887207,False,Oklahoma,UCLA,14.0,7.0,1,0,23,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,35.0,65.0,0.9259214401245117,False,Oklahoma,UCLA,14.0,7.0,1,0,45,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,85.0,15.0,2.9113574028015137,False,Oklahoma,UCLA,14.0,7.0,1,1,25,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Passing Touchdown,,,58.0,42.0,5.846956253051758,True,Oklahoma,UCLA,14.0,7.0,1,3,17,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,42.0,58.0,-2.0804872512817383,False,Oklahoma,UCLA,0.0,0.0,1,11,29,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,47.0,53.0,-0.07874226570129395,False,Oklahoma,UCLA,0.0,0.0,1,11,55,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,50.0,50.0,1.807926058769226,False,Oklahoma,UCLA,0.0,0.0,1,12,45,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Reception,,,60.0,40.0,0.5699268579483032,False,Oklahoma,UCLA,0.0,0.0,1,13,17,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401012728.0,Pass Incompletion,,,60.0,40.0,-0.7197171449661255,False,Oklahoma,UCLA,0.0,0.0,1,13,25,2,UCLA,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,63.0,37.0,1.860443353652954,False,Oklahoma,Baylor,49.0,26.0,4,9,41,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,69.0,31.0,1.4080904722213745,False,Oklahoma,Baylor,49.0,26.0,4,10,22,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Incompletion,,,69.0,31.0,-0.7921251058578491,False,Oklahoma,Baylor,49.0,26.0,4,11,7,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,75.0,25.0,0.0221097469329834,False,Oklahoma,Baylor,49.0,26.0,4,11,30,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,52.0,99.0,-0.41135358810424805,False,Oklahoma,Baylor,42.0,23.0,3,0,2,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Passing Touchdown,,,50.0,50.0,3.6629726886749268,True,Oklahoma,Baylor,42.0,23.0,3,4,9,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,64.0,36.0,1.0123872756958008,False,Oklahoma,Baylor,35.0,23.0,3,4,56,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Incompletion,,,64.0,36.0,-0.5355701446533203,False,Oklahoma,Baylor,35.0,23.0,3,5,11,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Passing Touchdown,,,86.0,14.0,6.405399322509766,True,Oklahoma,Baylor,35.0,16.0,3,9,37,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Incompletion,,,86.0,14.0,-1.853442907333374,False,Oklahoma,Baylor,28.0,16.0,3,9,51,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Sack,,,80.0,20.0,-0.5491678714752197,False,Oklahoma,Baylor,28.0,6.0,2,2,32,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Passing Touchdown,,,24.0,76.0,2.784597873687744,True,Oklahoma,Baylor,28.0,6.0,2,6,36,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,69.0,31.0,2.0195541381835938,False,Oklahoma,Baylor,21.0,6.0,2,7,26,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,80.0,20.0,2.1683952808380127,False,Oklahoma,Baylor,21.0,6.0,2,7,45,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Incompletion,,,80.0,20.0,-0.9751589894294739,False,Oklahoma,Baylor,21.0,6.0,2,7,52,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Passing Touchdown,,,43.0,57.0,3.0480098724365234,True,Oklahoma,Baylor,21.0,6.0,2,10,51,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Sack,,,55.0,45.0,-1.3664000034332275,False,Oklahoma,Baylor,14.0,6.0,2,11,59,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,66.0,34.0,0.6421170234680176,False,Oklahoma,Baylor,14.0,6.0,2,12,57,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,87.0,13.0,0.24571090936660767,False,Oklahoma,Baylor,14.0,6.0,1,1,52,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Passing Touchdown,,,30.0,70.0,2.323230266571045,True,Oklahoma,Baylor,14.0,0.0,1,8,38,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,45.0,55.0,0.37018418312072754,False,Oklahoma,Baylor,7.0,0.0,1,9,25,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Reception,,,54.0,46.0,0.9127979278564453,False,Oklahoma,Baylor,7.0,0.0,1,9,39,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Passing Touchdown,,,9.0,91.0,2.143476963043213,True,Oklahoma,Baylor,7.0,0.0,1,12,58,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013030.0,Pass Incompletion,,,60.0,40.0,-1.583543062210083,False,Oklahoma,Baylor,0.0,0.0,1,13,56,5,Baylor,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Sack,,,15.0,15.0,-1.8677263259887695,False,Iowa State,Oklahoma,34.0,27.0,4,4,15,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,24.0,24.0,1.3156986236572266,False,Iowa State,Oklahoma,34.0,27.0,4,5,30,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,39.0,39.0,0.7727577686309814,False,Iowa State,Oklahoma,34.0,27.0,4,7,7,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,57.0,57.0,-0.526860237121582,False,Iowa State,Oklahoma,34.0,27.0,4,10,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,66.0,66.0,-0.9124553203582764,False,Iowa State,Oklahoma,34.0,24.0,3,0,51,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,14.0,14.0,-0.7905731201171875,False,Iowa State,Oklahoma,31.0,24.0,3,3,57,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,47.0,47.0,1.612445592880249,False,Iowa State,Oklahoma,31.0,24.0,3,5,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,59.0,59.0,1.788002610206604,False,Iowa State,Oklahoma,31.0,24.0,3,5,30,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,49.0,49.0,0.6700522899627686,False,Iowa State,Oklahoma,24.0,17.0,3,10,30,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,65.0,65.0,-1.1490570306777954,False,Iowa State,Oklahoma,24.0,10.0,3,12,44,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,58.0,58.0,-1.226543664932251,False,Iowa State,Oklahoma,24.0,10.0,3,14,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,66.0,66.0,0.7953925132751465,False,Iowa State,Oklahoma,24.0,10.0,3,14,15,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Passing Touchdown,,,7.0,7.0,2.999140739440918,True,Iowa State,Oklahoma,24.0,10.0,2,0,5,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,7.0,7.0,-0.5548439025878906,False,Iowa State,Oklahoma,17.0,10.0,2,0,10,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,33.0,33.0,2.413400650024414,False,Iowa State,Oklahoma,17.0,10.0,2,0,20,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,63.0,63.0,0.9824886322021484,False,Iowa State,Oklahoma,17.0,10.0,2,2,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,59.0,56.0,0.2914923429489136,False,Iowa State,Oklahoma,17.0,10.0,2,3,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Passing Touchdown,,,5.0,5.0,1.648465633392334,True,Iowa State,Oklahoma,17.0,10.0,2,7,47,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,23.0,23.0,1.187617301940918,False,Iowa State,Oklahoma,10.0,10.0,2,9,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,64.0,64.0,0.9369664192199707,False,Iowa State,Oklahoma,10.0,10.0,2,11,45,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,76.0,76.0,0.948377251625061,False,Iowa State,Oklahoma,10.0,10.0,2,12,44,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Fumble Recovery (Opponent),,,75.0,75.0,-3.1302490234375,False,Iowa State,Oklahoma,10.0,3.0,2,13,25,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Passing Touchdown,,,75.0,75.0,5.050259113311768,True,Iowa State,Oklahoma,10.0,0.0,1,3,43,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,85.0,85.0,1.0305907726287842,False,Iowa State,Oklahoma,3.0,0.0,1,4,30,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,4.0,4.0,-1.6565146446228027,False,Iowa State,Oklahoma,0.0,0.0,1,8,34,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,4.0,4.0,-1.0280094146728516,False,Iowa State,Oklahoma,0.0,0.0,1,8,45,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,57.0,57.0,4.42611026763916,False,Iowa State,Oklahoma,0.0,0.0,1,9,40,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Incompletion,,,57.0,57.0,-0.979670524597168,False,Iowa State,Oklahoma,0.0,0.0,1,9,59,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013039.0,Pass Reception,,,66.0,66.0,1.4613819122314453,False,Iowa State,Oklahoma,0.0,0.0,1,11,0,3,Iowa State,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Passing Touchdown,,,11.0,89.0,3.2819454669952393,True,Oklahoma,Kansas,55.0,32.0,4,5,25,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,19.0,81.0,1.3072466850280762,False,Oklahoma,Kansas,48.0,32.0,4,6,53,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,43.0,57.0,1.1281898021697998,False,Oklahoma,Kansas,48.0,32.0,4,8,5,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Incompletion,,,75.0,25.0,-1.1136802434921265,False,Oklahoma,Kansas,35.0,24.0,4,13,59,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,20.0,80.0,0.0610356330871582,False,Oklahoma,Kansas,28.0,17.0,3,1,23,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Sack,,,17.0,83.0,-1.2976861000061035,False,Oklahoma,Kansas,28.0,17.0,3,2,10,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,26.0,74.0,1.4312529563903809,False,Oklahoma,Kansas,28.0,17.0,3,2,37,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,51.0,49.0,1.0903661251068115,False,Oklahoma,Kansas,28.0,17.0,3,3,52,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Incompletion,,,11.0,89.0,-0.9873218536376953,False,Oklahoma,Kansas,21.0,17.0,3,5,48,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Incompletion,,,30.0,70.0,-0.896881103515625,False,Oklahoma,Kansas,21.0,17.0,3,8,33,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,48.0,52.0,0.6482028961181641,False,Oklahoma,Kansas,21.0,17.0,3,9,26,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,63.0,37.0,0.8626899719238281,False,Oklahoma,Kansas,21.0,17.0,3,9,55,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Interception Return,,,64.0,36.0,-5.139616012573242,False,Oklahoma,Kansas,21.0,10.0,3,14,2,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,22.0,78.0,1.1370503902435303,False,Oklahoma,Kansas,14.0,10.0,2,1,29,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,31.0,69.0,-0.016434907913208008,False,Oklahoma,Kansas,14.0,10.0,2,2,24,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,44.0,56.0,1.0329904556274414,False,Oklahoma,Kansas,14.0,10.0,2,3,13,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Incompletion,,,60.0,40.0,-0.42190980911254883,False,Oklahoma,Kansas,14.0,10.0,2,4,13,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Passing Touchdown,,,20.0,80.0,2.36431884765625,True,Oklahoma,Kansas,14.0,10.0,2,9,3,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,34.0,66.0,1.3613228797912598,False,Oklahoma,Kansas,7.0,10.0,2,9,35,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,41.0,59.0,0.17791461944580078,False,Oklahoma,Kansas,7.0,10.0,2,10,9,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Incompletion,,,41.0,59.0,-0.4757263660430908,False,Oklahoma,Kansas,7.0,10.0,2,10,23,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,55.0,45.0,3.5398669242858887,False,Oklahoma,Kansas,0.0,7.0,1,2,10,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Incompletion,,,19.0,81.0,-0.7283987998962402,False,Oklahoma,Kansas,0.0,0.0,1,6,56,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,36.0,64.0,1.0596427917480469,False,Oklahoma,Kansas,0.0,0.0,1,8,6,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,39.0,61.0,-0.343616247177124,False,Oklahoma,Kansas,0.0,0.0,1,8,24,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,51.0,49.0,1.9358121156692505,False,Oklahoma,Kansas,0.0,0.0,1,9,1,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,49.0,51.0,-1.3849791288375854,False,Oklahoma,Kansas,0.0,0.0,1,9,30,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,61.0,39.0,0.861668586730957,False,Oklahoma,Kansas,0.0,0.0,1,9,57,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013055.0,Pass Reception,,,81.0,19.0,1.5385698080062866,False,Oklahoma,Kansas,0.0,0.0,1,10,23,12,Kansas,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,68.0,32.0,-0.14117801189422607,False,Oklahoma,Kansas State,51.0,14.0,4,3,45,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Incompletion,,,43.0,57.0,-1.04561185836792,False,Oklahoma,Kansas State,51.0,14.0,4,8,5,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,65.0,35.0,0.2815971374511719,False,Oklahoma,Kansas State,51.0,14.0,4,9,18,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,39.0,61.0,0.25150012969970703,False,Oklahoma,Kansas State,48.0,7.0,3,2,0,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Passing Touchdown,,,57.0,43.0,3.3112919330596924,True,Oklahoma,Kansas State,48.0,7.0,3,8,20,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,72.0,28.0,-0.0061109066009521484,False,Oklahoma,Kansas State,41.0,7.0,3,9,54,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Incompletion,,,10.0,90.0,-0.8361082077026367,False,Oklahoma,Kansas State,31.0,7.0,2,0,27,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Incompletion,,,9.0,91.0,-0.5384435653686523,False,Oklahoma,Kansas State,24.0,7.0,2,2,20,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,25.0,75.0,1.5700550079345703,False,Oklahoma,Kansas State,24.0,7.0,2,2,55,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,35.0,65.0,0.38901209831237793,False,Oklahoma,Kansas State,24.0,7.0,2,3,30,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,59.0,41.0,1.6775038242340088,False,Oklahoma,Kansas State,24.0,7.0,2,3,47,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,64.0,36.0,-0.04760622978210449,False,Oklahoma,Kansas State,24.0,7.0,2,4,0,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,67.0,33.0,-0.34129464626312256,False,Oklahoma,Kansas State,24.0,7.0,2,4,44,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,15.0,85.0,0.9635019302368164,False,Oklahoma,Kansas State,17.0,7.0,2,7,45,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,37.0,63.0,1.2413575649261475,False,Oklahoma,Kansas State,17.0,7.0,2,8,30,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,54.0,46.0,0.9501547813415527,False,Oklahoma,Kansas State,17.0,7.0,2,8,36,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,65.0,35.0,0.4376997947692871,False,Oklahoma,Kansas State,17.0,7.0,2,9,7,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,75.0,25.0,-0.10169482231140137,False,Oklahoma,Kansas State,17.0,7.0,2,9,30,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Passing Touchdown,,,82.0,18.0,5.407469749450684,True,Oklahoma,Kansas State,17.0,0.0,1,1,35,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Incompletion,,,15.0,85.0,-1.1371393203735352,False,Oklahoma,Kansas State,7.0,0.0,1,7,35,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,29.0,71.0,0.7212767601013184,False,Oklahoma,Kansas State,7.0,0.0,1,9,29,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,68.0,32.0,1.7160001993179321,False,Oklahoma,Kansas State,7.0,0.0,1,10,27,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Incompletion,,,68.0,32.0,-0.8706575632095337,False,Oklahoma,Kansas State,7.0,0.0,1,10,35,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,74.0,26.0,0.06939888000488281,False,Oklahoma,Kansas State,7.0,0.0,1,11,0,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Passing Touchdown,,,35.0,65.0,2.904078960418701,True,Oklahoma,Kansas State,7.0,0.0,1,12,56,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,38.0,62.0,0.8517560958862305,False,Oklahoma,Kansas State,0.0,0.0,1,13,45,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Reception,,,62.0,38.0,1.5688329935073853,False,Oklahoma,Kansas State,0.0,0.0,1,14,11,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013062.0,Pass Incompletion,,,62.0,38.0,-1.0190891027450562,False,Oklahoma,Kansas State,0.0,0.0,1,14,16,9,Kansas State,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,68.0,32.0,0.2557041645050049,False,Oklahoma,Florida Atlantic,63.0,14.0,4,4,13,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,62.0,38.0,1.6368515491485596,False,Oklahoma,Florida Atlantic,63.0,14.0,4,4,13,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,58.0,42.0,6.600136756896973,False,Oklahoma,Florida Atlantic,56.0,7.0,4,13,52,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Passing Touchdown,,,6.0,94.0,0.9374346733093262,True,Oklahoma,Florida Atlantic,56.0,0.0,3,4,56,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Incompletion,,,55.0,45.0,-0.730828046798706,False,Oklahoma,Florida Atlantic,49.0,0.0,3,9,22,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,55.0,45.0,1.5413331985473633,False,Oklahoma,Florida Atlantic,49.0,0.0,3,9,22,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,28.0,72.0,0.47107410430908203,False,Oklahoma,Florida Atlantic,49.0,0.0,3,9,22,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,16.0,84.0,-0.5233254432678223,False,Oklahoma,Florida Atlantic,49.0,0.0,3,9,22,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,69.0,31.0,0.910860538482666,False,Oklahoma,Florida Atlantic,42.0,0.0,3,15,0,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Sack,,,42.0,58.0,-1.1312694549560547,False,Oklahoma,Florida Atlantic,42.0,0.0,3,15,0,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,47.0,53.0,-0.07596421241760254,False,Oklahoma,Florida Atlantic,42.0,0.0,3,15,0,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,40.0,60.0,1.6336309909820557,False,Oklahoma,Florida Atlantic,42.0,0.0,3,15,0,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Sack,,,79.0,21.0,-0.37464162707328796,False,Oklahoma,Florida Atlantic,42.0,0.0,2,2,48,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Passing Touchdown,,,65.0,35.0,6.318777084350586,True,Oklahoma,Florida Atlantic,42.0,0.0,2,4,17,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,86.0,14.0,0.5996965765953064,False,Oklahoma,Florida Atlantic,35.0,0.0,2,5,49,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Incompletion,,,78.0,22.0,-0.3595471978187561,False,Oklahoma,Florida Atlantic,35.0,0.0,2,5,49,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,68.0,32.0,-0.25100505352020264,False,Oklahoma,Florida Atlantic,35.0,0.0,2,5,49,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Sack,,,76.0,24.0,-1.6747570037841797,False,Oklahoma,Florida Atlantic,35.0,0.0,2,11,20,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,70.0,30.0,1.2687801122665405,False,Oklahoma,Florida Atlantic,35.0,0.0,2,11,20,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Incompletion,,,36.0,64.0,-1.468608021736145,False,Oklahoma,Florida Atlantic,35.0,0.0,2,11,20,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,69.0,31.0,0.05413079261779785,False,Oklahoma,Florida Atlantic,28.0,0.0,2,14,29,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,46.0,54.0,1.7277226448059082,False,Oklahoma,Florida Atlantic,21.0,0.0,1,2,18,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Passing Touchdown,,,65.0,35.0,3.0112342834472656,True,Oklahoma,Florida Atlantic,21.0,0.0,1,4,49,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,72.0,28.0,1.5418791770935059,False,Oklahoma,Florida Atlantic,0.0,0.0,1,10,48,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013065.0,Pass Reception,,,63.0,37.0,2.1534080505371094,False,Oklahoma,Florida Atlantic,0.0,0.0,1,10,48,1,Florida Atlantic,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,30.0,70.0,0.6833059787750244,False,Oklahoma,Army,21.0,21.0,5,0,0,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Passing Touchdown,,,10.0,90.0,4.451889991760254,True,Oklahoma,Army,28.0,21.0,5,0,0,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,55.0,45.0,0.7948532104492188,False,Oklahoma,Army,21.0,21.0,3,0,35,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Interception Return,,,60.0,40.0,-2.6932387351989746,False,Oklahoma,Army,21.0,14.0,3,12,38,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Sack,,,78.0,22.0,-0.7943892478942871,False,Oklahoma,Army,21.0,14.0,2,0,57,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Incompletion,,,78.0,22.0,-0.37317514419555664,False,Oklahoma,Army,21.0,14.0,2,1,8,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Incompletion,,,78.0,22.0,-0.18918752670288086,False,Oklahoma,Army,21.0,14.0,2,1,9,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,96.0,7.0,0.18918752670288086,False,Oklahoma,Army,21.0,14.0,2,1,10,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,47.0,53.0,1.4993207454681396,False,Oklahoma,Army,14.0,14.0,2,4,36,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,66.0,34.0,0.7655364274978638,False,Oklahoma,Army,14.0,14.0,2,5,55,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Passing Touchdown,,,11.0,89.0,2.8489856719970703,True,Oklahoma,Army,14.0,7.0,1,0,13,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Incompletion,,,11.0,89.0,-1.0552031993865967,False,Oklahoma,Army,7.0,7.0,1,0,21,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,27.0,73.0,-1.1955804824829102,False,Oklahoma,Army,7.0,7.0,1,1,54,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,65.0,35.0,2.365718364715576,False,Oklahoma,Army,7.0,7.0,1,2,25,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Passing Touchdown,,,11.0,89.0,1.5712828636169434,True,Oklahoma,Army,7.0,0.0,1,12,20,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013066.0,Pass Reception,,,65.0,35.0,2.6901912689208984,False,Oklahoma,Army,0.0,0.0,1,14,30,4,Army,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Fumble Recovery (Opponent),,,69.0,31.0,-4.293898105621338,False,Oklahoma,Texas,45.0,48.0,4,0,0,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,75.0,25.0,-0.069180428981781,False,Oklahoma,Texas,45.0,48.0,4,0,3,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,57.0,43.0,2.1669092178344727,False,Oklahoma,Texas,38.0,45.0,4,3,34,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Passing Touchdown,,,19.0,81.0,2.813255786895752,True,Oklahoma,Texas,31.0,45.0,4,8,28,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,42.0,58.0,0.7159883975982666,False,Oklahoma,Texas,24.0,45.0,4,9,24,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Incompletion,,,45.0,55.0,-0.736961841583252,False,Oklahoma,Texas,24.0,45.0,4,9,53,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Sack,,,45.0,55.0,-1.5781559944152832,False,Oklahoma,Texas,24.0,45.0,4,14,9,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Incompletion,,,45.0,55.0,-1.0523593425750732,False,Oklahoma,Texas,24.0,45.0,4,14,22,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,60.0,40.0,1.8093953132629395,False,Oklahoma,Texas,24.0,45.0,3,0,30,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,75.0,25.0,1.2116568088531494,False,Oklahoma,Texas,24.0,45.0,3,0,48,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Incompletion,,,68.0,32.0,-1.5432474613189697,False,Oklahoma,Texas,24.0,38.0,3,5,11,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,67.0,33.0,-1.0961116552352905,False,Oklahoma,Texas,24.0,38.0,3,5,47,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Passing Touchdown,,,77.0,23.0,8.14387035369873,True,Oklahoma,Texas,24.0,31.0,3,9,15,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Passing Touchdown,,,5.0,95.0,1.6677021980285645,True,Oklahoma,Texas,17.0,24.0,2,0,28,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,29.0,71.0,2.794341564178467,False,Oklahoma,Texas,10.0,24.0,2,2,55,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Incompletion,,,29.0,71.0,-1.3038140535354614,False,Oklahoma,Texas,10.0,24.0,2,3,3,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Incompletion,,,29.0,71.0,-0.5857012271881104,False,Oklahoma,Texas,10.0,24.0,2,3,5,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,64.0,36.0,0.46372151374816895,False,Oklahoma,Texas,10.0,24.0,2,4,41,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,82.0,18.0,1.24199640750885,False,Oklahoma,Texas,10.0,24.0,2,4,55,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Sack,,,75.0,25.0,-1.5958478450775146,False,Oklahoma,Texas,10.0,17.0,2,10,9,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,49.0,51.0,0.8342554569244385,False,Oklahoma,Texas,7.0,10.0,1,3,20,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,59.0,41.0,1.146973729133606,False,Oklahoma,Texas,7.0,10.0,1,3,53,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Interception Return,,,59.0,44.0,-0.5313248634338379,False,Oklahoma,Texas,7.0,7.0,1,7,57,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,56.0,44.0,-0.9748587012290955,False,Oklahoma,Texas,7.0,7.0,1,8,37,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,72.0,28.0,2.57749342918396,False,Oklahoma,Texas,7.0,7.0,1,9,33,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Passing Touchdown,,,4.0,96.0,0.7783832550048828,True,Oklahoma,Texas,7.0,0.0,1,12,20,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,28.0,72.0,1.9436321258544922,False,Oklahoma,Texas,0.0,0.0,1,12,56,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Incompletion,,,28.0,72.0,-6.032409191131592,False,Oklahoma,Texas,0.0,0.0,1,13,6,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013067.0,Pass Reception,,,56.0,44.0,0.7426490783691406,False,Oklahoma,Texas,0.0,0.0,1,14,16,6,Texas,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Passing Touchdown,,,1.0,1.0,1.1520309448242188,True,TCU,Oklahoma,52.0,27.0,4,4,17,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Incompletion,,,53.0,53.0,-1.699357032775879,False,TCU,Oklahoma,38.0,27.0,3,1,7,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,56.0,56.0,-0.6641032695770264,False,TCU,Oklahoma,38.0,27.0,3,1,37,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Passing Touchdown,,,27.0,27.0,2.2903385162353516,True,TCU,Oklahoma,38.0,27.0,3,4,32,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,71.0,71.0,2.229592800140381,False,TCU,Oklahoma,31.0,27.0,3,5,47,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Incompletion,,,24.0,24.0,-0.826378583908081,False,TCU,Oklahoma,28.0,24.0,3,11,27,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,47.0,47.0,1.4592034816741943,False,TCU,Oklahoma,28.0,24.0,3,12,36,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,51.0,51.0,0.30443882942199707,False,TCU,Oklahoma,28.0,24.0,3,13,4,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,73.0,73.0,0.770872175693512,False,TCU,Oklahoma,28.0,24.0,3,14,20,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Incompletion,,,68.0,68.0,-0.047339413315057755,False,TCU,Oklahoma,28.0,24.0,2,0,0,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,78.0,78.0,-0.7877213954925537,False,TCU,Oklahoma,28.0,21.0,2,4,16,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Incompletion,,,78.0,78.0,-0.7765990495681763,False,TCU,Oklahoma,28.0,21.0,2,4,25,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Sack,,,76.0,76.0,-1.4302157163619995,False,TCU,Oklahoma,28.0,14.0,2,6,46,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Passing Touchdown,,,9.0,9.0,1.8906593322753906,True,TCU,Oklahoma,28.0,7.0,2,8,25,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Incompletion,,,9.0,9.0,-1.0440926551818848,False,TCU,Oklahoma,21.0,7.0,2,8,30,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,28.0,28.0,0.41030001640319824,False,TCU,Oklahoma,14.0,7.0,2,11,23,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,40.0,40.0,0.46428489685058594,False,TCU,Oklahoma,14.0,7.0,2,13,42,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,55.0,55.0,0.8365099430084229,False,TCU,Oklahoma,14.0,7.0,2,14,8,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Incompletion,,,27.0,27.0,-0.5661108493804932,False,TCU,Oklahoma,7.0,7.0,1,4,3,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,34.0,34.0,2.9302961826324463,False,TCU,Oklahoma,7.0,7.0,1,4,41,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,46.0,46.0,0.6634203195571899,False,TCU,Oklahoma,7.0,7.0,1,6,6,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,41.0,41.0,-1.5495163202285767,False,TCU,Oklahoma,7.0,7.0,1,6,51,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,68.0,68.0,1.391314148902893,False,TCU,Oklahoma,7.0,7.0,1,8,22,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Passing Touchdown,,,37.0,37.0,3.711677074432373,True,TCU,Oklahoma,7.0,0.0,1,9,16,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,52.0,52.0,0.792902946472168,False,TCU,Oklahoma,0.0,0.0,1,10,6,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013068.0,Pass Reception,,,82.0,82.0,2.0493385791778564,False,TCU,Oklahoma,0.0,0.0,1,11,1,8,TCU,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,28.0,28.0,0.43323230743408203,False,Texas Tech,Oklahoma,35.0,34.0,4,12,27,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,44.0,44.0,1.5617382526397705,False,Texas Tech,Oklahoma,35.0,34.0,4,13,16,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Sack,,,37.0,37.0,-1.892020344734192,False,Texas Tech,Oklahoma,35.0,31.0,3,6,20,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,37.0,37.0,-0.9666023254394531,False,Texas Tech,Oklahoma,35.0,31.0,3,6,31,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,37.0,37.0,-0.6599969863891602,False,Texas Tech,Oklahoma,35.0,31.0,3,6,55,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,21.0,0.0,-1.7275359630584717,False,Texas Tech,Oklahoma,35.0,31.0,3,7,1,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,21.0,21.0,-0.7499654293060303,False,Texas Tech,Oklahoma,35.0,31.0,3,7,8,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,53.0,53.0,2.074622631072998,False,Texas Tech,Oklahoma,35.0,31.0,3,8,16,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,72.0,72.0,2.0371758937835693,False,Texas Tech,Oklahoma,35.0,31.0,3,9,44,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Passing Touchdown,,,46.0,46.0,3.5834176540374756,True,Texas Tech,Oklahoma,35.0,31.0,3,12,5,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,59.0,59.0,0.32663917541503906,False,Texas Tech,Oklahoma,28.0,31.0,3,12,29,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,69.0,69.0,1.3598527908325195,False,Texas Tech,Oklahoma,28.0,31.0,3,13,7,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,72.0,72.0,-1.478506326675415,False,Texas Tech,Oklahoma,28.0,31.0,3,14,27,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,72.0,72.0,-0.18779659271240234,False,Texas Tech,Oklahoma,28.0,31.0,3,14,36,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,40.0,40.0,-2.8539881706237793,False,Texas Tech,Oklahoma,28.0,31.0,2,0,6,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,40.0,40.0,-0.6445345282554626,False,Texas Tech,Oklahoma,28.0,31.0,2,0,14,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,43.0,43.0,-0.3090939521789551,False,Texas Tech,Oklahoma,28.0,31.0,2,0,27,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,61.0,61.0,0.5760794878005981,False,Texas Tech,Oklahoma,28.0,31.0,2,0,39,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,61.0,61.0,-0.23470818996429443,False,Texas Tech,Oklahoma,28.0,31.0,2,0,44,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Passing Touchdown,,,5.0,5.0,1.6998834609985352,True,Texas Tech,Oklahoma,28.0,24.0,2,4,22,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,80.0,80.0,3.404123306274414,False,Texas Tech,Oklahoma,21.0,24.0,2,6,16,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,49.0,49.0,0.7540037631988525,False,Texas Tech,Oklahoma,14.0,24.0,2,10,12,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,70.0,70.0,1.6190112829208374,False,Texas Tech,Oklahoma,14.0,24.0,2,10,27,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,80.0,80.0,2.3290388584136963,False,Texas Tech,Oklahoma,14.0,24.0,2,10,49,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,14.0,14.0,-0.725883960723877,False,Texas Tech,Oklahoma,7.0,17.0,2,12,58,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,27.0,27.0,0.8572285175323486,False,Texas Tech,Oklahoma,7.0,17.0,2,13,14,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,44.0,44.0,0.9042885303497314,False,Texas Tech,Oklahoma,7.0,17.0,2,13,46,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Passing Touchdown,,,16.0,16.0,2.6377511024475098,True,Texas Tech,Oklahoma,7.0,14.0,1,4,11,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,67.0,67.0,3.7349462509155273,False,Texas Tech,Oklahoma,0.0,14.0,1,5,47,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Interception Return,,,62.0,62.0,-4.551800727844238,False,Texas Tech,Oklahoma,0.0,7.0,1,8,43,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Incompletion,,,62.0,62.0,-1.0604784488677979,False,Texas Tech,Oklahoma,0.0,7.0,1,8,59,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Pass Reception,,,76.0,51.0,0.19896161556243896,False,Texas Tech,Oklahoma,0.0,7.0,1,9,55,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013069.0,Interception Return,,,92.0,92.0,-4.612399578094482,False,Texas Tech,Oklahoma,0.0,0.0,1,11,8,10,Texas Tech,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,64.0,36.0,0.3421449661254883,False,Oklahoma,Oklahoma State,41.0,41.0,4,6,3,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Sack,,,46.0,54.0,-1.8979495763778687,False,Oklahoma,Oklahoma State,41.0,41.0,4,10,5,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,68.0,32.0,0.7666498422622681,False,Oklahoma,Oklahoma State,41.0,41.0,4,12,0,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,48.0,52.0,2.9792778491973877,False,Oklahoma,Oklahoma State,34.0,35.0,3,0,42,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,74.0,26.0,3.7042651176452637,False,Oklahoma,Oklahoma State,34.0,35.0,3,1,30,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Sack,,,69.0,31.0,-1.909106731414795,False,Oklahoma,Oklahoma State,34.0,35.0,3,2,0,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,73.0,27.0,-0.12696194648742676,False,Oklahoma,Oklahoma State,34.0,35.0,3,2,50,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,86.0,14.0,-0.9451478719711304,False,Oklahoma,Oklahoma State,34.0,35.0,3,6,23,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,85.0,15.0,-0.7653573155403137,False,Oklahoma,Oklahoma State,34.0,35.0,3,6,56,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,40.0,60.0,-2.1147546768188477,False,Oklahoma,Oklahoma State,34.0,28.0,3,10,25,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Sack,,,38.0,62.0,-1.920035481452942,False,Oklahoma,Oklahoma State,34.0,28.0,3,11,25,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,38.0,62.0,-0.6854746341705322,False,Oklahoma,Oklahoma State,34.0,28.0,3,11,54,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,68.0,32.0,2.1481690406799316,False,Oklahoma,Oklahoma State,34.0,28.0,3,12,15,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,38.0,62.0,-0.19095474481582642,False,Oklahoma,Oklahoma State,34.0,28.0,2,0,5,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,61.0,39.0,0.6492177248001099,False,Oklahoma,Oklahoma State,34.0,28.0,2,0,10,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,61.0,39.0,-0.12863174080848694,False,Oklahoma,Oklahoma State,34.0,28.0,2,0,15,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Passing Touchdown,,,51.0,49.0,5.5604143142700195,True,Oklahoma,Oklahoma State,34.0,21.0,2,1,25,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,62.0,38.0,0.12464141845703125,False,Oklahoma,Oklahoma State,27.0,21.0,2,1,32,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,69.0,31.0,-1.183411717414856,False,Oklahoma,Oklahoma State,27.0,21.0,2,3,37,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,76.0,24.0,-0.673350989818573,False,Oklahoma,Oklahoma State,27.0,21.0,2,4,30,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,18.0,82.0,-0.7791128158569336,False,Oklahoma,Oklahoma State,24.0,21.0,2,8,5,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Incompletion,,,18.0,82.0,-0.5929603576660156,False,Oklahoma,Oklahoma State,24.0,21.0,2,8,11,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,26.0,74.0,1.6266562938690186,False,Oklahoma,Oklahoma State,24.0,21.0,2,8,36,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,28.0,72.0,-0.7062015533447266,False,Oklahoma,Oklahoma State,24.0,21.0,2,9,35,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,14.0,86.0,-0.34073948860168457,False,Oklahoma,Oklahoma State,14.0,14.0,2,13,40,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,26.0,74.0,0.9879875183105469,False,Oklahoma,Oklahoma State,14.0,14.0,1,1,5,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,33.0,67.0,-0.33509373664855957,False,Oklahoma,Oklahoma State,14.0,14.0,1,2,5,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,37.0,63.0,0.1896498203277588,False,Oklahoma,Oklahoma State,14.0,14.0,1,2,50,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,44.0,56.0,0.49116992950439453,False,Oklahoma,Oklahoma State,14.0,14.0,1,3,45,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,78.0,22.0,2.153181791305542,False,Oklahoma,Oklahoma State,14.0,14.0,1,5,0,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,29.0,71.0,2.1382086277008057,False,Oklahoma,Oklahoma State,7.0,7.0,1,10,14,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,40.0,60.0,0.630328893661499,False,Oklahoma,Oklahoma State,7.0,7.0,1,11,20,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013070.0,Pass Reception,,,71.0,29.0,2.566075563430786,False,Oklahoma,Oklahoma State,7.0,7.0,1,11,39,11,Oklahoma State,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,40.0,40.0,2.374469518661499,False,West Virginia,Oklahoma,59.0,56.0,4,2,10,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Incompletion,,,40.0,40.0,-1.6941906213760376,False,West Virginia,Oklahoma,59.0,49.0,4,7,30,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Passing Touchdown,,,2.0,2.0,3.4563045501708984,True,West Virginia,Oklahoma,52.0,49.0,4,11,19,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,26.0,26.0,2.7369422912597656,False,West Virginia,Oklahoma,45.0,49.0,4,13,30,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,35.0,35.0,0.5759491920471191,False,West Virginia,Oklahoma,45.0,49.0,4,14,35,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,80.0,80.0,1.7456724643707275,False,West Virginia,Oklahoma,45.0,49.0,3,0,0,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Passing Touchdown,,,45.0,45.0,3.6693592071533203,True,West Virginia,Oklahoma,45.0,42.0,3,0,35,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,75.0,75.0,2.9966509342193604,False,West Virginia,Oklahoma,38.0,42.0,3,1,0,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Incompletion,,,75.0,75.0,-0.5289214849472046,False,West Virginia,Oklahoma,38.0,42.0,3,1,43,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,18.0,18.0,-0.1625661849975586,False,West Virginia,Oklahoma,35.0,35.0,3,6,45,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Incompletion,,,18.0,18.0,-0.7695870399475098,False,West Virginia,Oklahoma,35.0,35.0,3,6,55,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,45.0,45.0,0.6419634819030762,False,West Virginia,Oklahoma,35.0,35.0,3,8,45,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,81.0,81.0,2.1242311000823975,False,West Virginia,Oklahoma,35.0,35.0,3,9,50,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Interception Return,,,13.0,13.0,-3.4670140743255615,False,West Virginia,Oklahoma,35.0,28.0,3,12,21,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,47.0,47.0,-3.782087802886963,False,West Virginia,Oklahoma,35.0,28.0,3,14,40,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,66.0,66.0,4.329379081726074,False,West Virginia,Oklahoma,14.0,14.0,2,7,30,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,48.0,48.0,0.5522055625915527,False,West Virginia,Oklahoma,14.0,14.0,2,9,10,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,74.0,74.0,3.050149917602539,False,West Virginia,Oklahoma,14.0,14.0,2,9,40,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,78.0,78.0,0.6430896520614624,False,West Virginia,Oklahoma,14.0,14.0,2,10,10,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,90.0,90.0,0.9341895580291748,False,West Virginia,Oklahoma,14.0,14.0,2,11,10,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Passing Touchdown,,,25.0,25.0,3.9562506675720215,True,West Virginia,Oklahoma,14.0,14.0,1,1,31,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Incompletion,,,52.0,52.0,-0.5765682458877563,False,West Virginia,Oklahoma,7.0,14.0,1,2,56,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,65.0,65.0,0.7809450626373291,False,West Virginia,Oklahoma,7.0,14.0,1,3,15,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,67.0,67.0,2.127593517303467,False,West Virginia,Oklahoma,0.0,7.0,1,8,10,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Reception,,,70.0,70.0,-0.4606661796569824,False,West Virginia,Oklahoma,0.0,7.0,1,8,40,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401013071.0,Pass Incompletion,,,70.0,70.0,-0.881280243396759,False,West Virginia,Oklahoma,0.0,7.0,1,8,51,13,West Virginia,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,23.0,23.0,1.3924543857574463,False,Alabama,Oklahoma,27.0,45.0,4,4,45,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Sack,,,28.0,28.0,-2.170828342437744,False,Alabama,Oklahoma,27.0,45.0,4,5,10,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,28.0,28.0,-0.5310983657836914,False,Alabama,Oklahoma,27.0,45.0,4,5,13,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,74.0,74.0,2.4805564880371094,False,Alabama,Oklahoma,27.0,45.0,4,6,0,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Passing Touchdown,,,10.0,10.0,3.517608404159546,True,Alabama,Oklahoma,27.0,38.0,4,8,31,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,11.0,11.0,-0.9351201057434082,False,Alabama,Oklahoma,20.0,38.0,4,9,15,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,25.0,25.0,2.5726165771484375,False,Alabama,Oklahoma,20.0,38.0,4,10,15,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,25.0,25.0,-0.9241056442260742,False,Alabama,Oklahoma,20.0,38.0,4,10,26,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,25.0,25.0,-0.621375560760498,False,Alabama,Oklahoma,20.0,38.0,4,10,30,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,39.0,39.0,2.494511604309082,False,Alabama,Oklahoma,20.0,38.0,4,10,55,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,42.0,42.0,-0.5785173177719116,False,Alabama,Oklahoma,20.0,38.0,4,11,35,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,75.0,75.0,3.3172073364257812,False,Alabama,Oklahoma,20.0,38.0,4,12,10,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,75.0,75.0,-1.3107657432556152,False,Alabama,Oklahoma,20.0,38.0,4,12,20,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,80.0,80.0,-0.5721133947372437,False,Alabama,Oklahoma,20.0,38.0,4,13,0,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Passing Touchdown,,,49.0,49.0,4.833391189575195,True,Alabama,Oklahoma,20.0,31.0,3,3,3,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,54.0,54.0,1.0435523986816406,False,Alabama,Oklahoma,13.0,31.0,3,3,30,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,61.0,61.0,0.4692166745662689,False,Alabama,Oklahoma,13.0,31.0,3,3,55,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,61.0,61.0,-0.6920672059059143,False,Alabama,Oklahoma,13.0,31.0,3,4,15,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,9.0,9.0,-1.0074527263641357,False,Alabama,Oklahoma,10.0,31.0,3,9,55,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,24.0,24.0,2.7714266777038574,False,Alabama,Oklahoma,10.0,31.0,3,11,15,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,27.0,27.0,-0.7038156986236572,False,Alabama,Oklahoma,10.0,31.0,3,12,0,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,54.0,54.0,1.099233865737915,False,Alabama,Oklahoma,10.0,31.0,3,13,15,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,63.0,63.0,-0.816348671913147,False,Alabama,Oklahoma,10.0,31.0,3,13,49,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,65.0,60.0,-0.34320175647735596,False,Alabama,Oklahoma,10.0,31.0,3,14,45,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,68.0,68.0,0.06222596764564514,False,Alabama,Oklahoma,10.0,31.0,2,0,12,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,75.0,75.0,0.04208166152238846,False,Alabama,Oklahoma,10.0,31.0,2,0,18,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,9.0,9.0,-1.9886242151260376,False,Alabama,Oklahoma,7.0,28.0,2,7,34,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,31.0,31.0,3.814487934112549,False,Alabama,Oklahoma,7.0,28.0,2,8,40,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,31.0,31.0,-1.6995359659194946,False,Alabama,Oklahoma,7.0,28.0,2,8,50,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,34.0,34.0,4.250452995300293,False,Alabama,Oklahoma,0.0,28.0,2,12,5,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,75.0,75.0,3.2436041831970215,False,Alabama,Oklahoma,0.0,28.0,2,12,45,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,52.0,52.0,-2.474815845489502,False,Alabama,Oklahoma,0.0,21.0,1,0,5,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,52.0,52.0,-1.7612305879592896,False,Alabama,Oklahoma,0.0,21.0,1,0,10,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Reception,,,76.0,76.0,1.414336085319519,False,Alabama,Oklahoma,0.0,21.0,1,1,25,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,79.0,79.0,-0.8354027271270752,False,Alabama,Oklahoma,0.0,14.0,1,4,22,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Pass Incompletion,,,74.0,74.0,-0.8485355377197266,False,Alabama,Oklahoma,0.0,14.0,1,4,42,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Sack,,,75.0,75.0,-1.205048680305481,False,Alabama,Oklahoma,0.0,7.0,1,10,40,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401032078.0,Sack,,,71.0,71.0,-1.4576120376586914,False,Alabama,Oklahoma,0.0,7.0,1,11,15,1,Alabama,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Passing Touchdown,,,18.0,82.0,4.165449619293213,True,Oklahoma,Texas,39.0,27.0,4,2,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,31.0,69.0,1.7818760871887207,False,Oklahoma,Texas,32.0,27.0,4,3,30,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,50.0,50.0,2.487149238586426,False,Oklahoma,Texas,32.0,27.0,4,5,46,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Fumble Recovery (Opponent),,,64.0,36.0,-1.325870394706726,False,Oklahoma,Texas,30.0,27.0,4,9,6,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,80.0,20.0,1.3458998203277588,False,Oklahoma,Texas,30.0,27.0,4,10,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,80.0,20.0,-0.549031138420105,False,Oklahoma,Texas,30.0,27.0,4,10,30,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,24.0,76.0,1.4737160205841064,False,Oklahoma,Texas,27.0,27.0,4,13,55,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,29.0,71.0,-0.21885967254638672,False,Oklahoma,Texas,27.0,27.0,4,14,47,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,29.0,71.0,-0.5698654651641846,False,Oklahoma,Texas,27.0,27.0,4,15,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,42.0,58.0,0.7890903949737549,False,Oklahoma,Texas,27.0,27.0,3,0,35,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,52.0,48.0,0.17826247215270996,False,Oklahoma,Texas,27.0,27.0,3,1,23,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,75.0,25.0,-0.6281184554100037,False,Oklahoma,Texas,27.0,27.0,3,2,39,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,78.0,22.0,-1.1395090818405151,False,Oklahoma,Texas,27.0,21.0,3,7,50,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Sack,,,75.0,25.0,-0.9752585887908936,False,Oklahoma,Texas,27.0,21.0,3,8,40,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,55.0,45.0,1.961769461631775,False,Oklahoma,Texas,20.0,14.0,3,13,45,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,58.0,42.0,-0.4566071033477783,False,Oklahoma,Texas,20.0,14.0,3,14,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,75.0,25.0,1.143272876739502,False,Oklahoma,Texas,20.0,14.0,3,14,55,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Passing Touchdown,,,6.0,94.0,2.3849520683288574,True,Oklahoma,Texas,20.0,14.0,2,0,18,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,36.0,64.0,1.0232234001159668,False,Oklahoma,Texas,13.0,14.0,2,0,34,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,56.0,44.0,1.1931127309799194,False,Oklahoma,Texas,13.0,14.0,2,0,44,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,80.0,20.0,0.7580316662788391,False,Oklahoma,Texas,13.0,14.0,2,0,51,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Passing Touchdown,,,28.0,72.0,3.05627703666687,True,Oklahoma,Texas,13.0,14.0,2,5,1,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,39.0,61.0,0.05053853988647461,False,Oklahoma,Texas,6.0,14.0,2,6,15,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Sack,,,36.0,64.0,-1.1196939945220947,False,Oklahoma,Texas,6.0,14.0,2,7,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,87.0,13.0,3.139547109603882,False,Oklahoma,Texas,6.0,14.0,2,7,38,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,74.0,26.0,0.290591299533844,False,Oklahoma,Texas,6.0,14.0,2,10,20,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,10.0,90.0,-1.3389418125152588,False,Oklahoma,Texas,3.0,7.0,2,15,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,22.0,78.0,-0.8195066452026367,False,Oklahoma,Texas,3.0,7.0,1,1,44,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,50.0,50.0,0.6644525527954102,False,Oklahoma,Texas,3.0,7.0,1,4,0,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,59.0,41.0,1.5637152194976807,False,Oklahoma,Texas,3.0,7.0,1,4,30,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,59.0,41.0,-0.8378472924232483,False,Oklahoma,Texas,3.0,7.0,1,4,37,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,65.0,35.0,0.14074647426605225,False,Oklahoma,Texas,3.0,7.0,1,4,55,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Incompletion,,,9.0,91.0,-0.7140078544616699,False,Oklahoma,Texas,0.0,7.0,1,8,43,14,Texas,2018,Oklahoma,Kyler Murray,2019
+401056698.0,Pass Reception,,,61.0,63.0,-0.04956817626953125,False,Oklahoma,Texas,0.0,7.0,1,10,20,14,Texas,2018,Oklahoma,Kyler Murray,2019

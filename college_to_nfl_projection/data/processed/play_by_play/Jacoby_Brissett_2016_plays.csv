@@ -1,0 +1,380 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400756901101868403,Pass Reception,2,8,39,61,0.0764157402421297,False,NC State,Troy,0,0,1,13,15,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901101868401,Pass Reception,1,10,62,38,1.7124840147829712,False,NC State,Troy,0,0,1,13,15,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901101868407,Pass Reception,1,5,24,76,-0.522884878957163,False,NC State,Troy,0,0,1,13,15,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901101934910,Pass Reception,2,4,16,84,1.520236460621321,False,NC State,Troy,7,7,1,6,50,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901101934905,Pass Reception,2,7,72,28,1.4205188929858465,False,NC State,Troy,7,7,1,6,50,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901101984703,Pass Reception,3,4,64,36,2.871678387274857,False,NC State,Troy,14,7,1,1,52,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901101984701,Pass Reception,1,10,70,30,-0.716015480823808,False,NC State,Troy,14,7,1,1,52,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102849908,Pass Reception,3,4,13,87,1.373917869368216,False,NC State,Troy,14,7,2,15,0,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102849904,Pass Reception,4,3,38,62,2.1316637867021644,False,NC State,Troy,14,7,2,15,0,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102906201,Pass Reception,1,10,64,36,-1.041155320344064,False,NC State,Troy,21,7,2,9,37,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102906203,Pass Reception,3,9,63,37,3.0297337288818023,False,NC State,Troy,21,7,2,9,37,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102966506,Pass Reception,2,2,57,43,1.4642474529054468,False,NC State,Troy,21,7,2,3,34,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102966501,Pass Incompletion,1,10,90,10,-0.34929852451643395,False,NC State,Troy,21,7,2,3,34,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102966509,Pass Incompletion,1,10,14,86,-0.3125697195395781,False,NC State,Troy,21,7,2,3,34,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102966504,Pass Reception,2,9,79,21,1.612168682595625,False,NC State,Troy,21,7,2,3,34,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102966507,Pass Reception,1,10,27,73,0.661453117654322,False,NC State,Troy,21,7,2,3,34,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901102997101,Passing Touchdown,2,10,14,86,2.8608528947186596,True,NC State,Troy,28,7,2,0,28,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901103849904,Pass Reception,2,11,62,38,0.0567459280034521,False,NC State,Troy,28,14,3,15,0,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901103897201,Pass Reception,1,10,33,67,-0.1975844330204505,False,NC State,Troy,28,14,3,10,27,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901103908104,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,NC State,Troy,35,21,3,9,18,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901104876301,Passing Touchdown,3,1,1,99,2.45399822917955,True,NC State,Troy,49,21,4,12,36,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901103986601,Pass Reception,1,10,53,47,1.3540185921818217,False,NC State,Troy,42,21,3,1,33,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901104849901,Pass Reception,1,10,11,89,0.30254910822179,False,NC State,Troy,42,21,4,15,0,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901104894407,Pass Incompletion,1,10,40,60,-0.8457687366186873,False,NC State,Troy,49,21,4,10,55,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756901104956503,Pass Reception,3,14,64,36,-0.10195295445571606,False,NC State,Troy,49,21,4,4,34,1,Troy,2015,NC State,Jacoby Brissett,2016
+400756914101867003,Pass Reception,2,28,64,36,0.1740354937744133,False,NC State,Eastern Kentucky,0,0,1,13,29,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914101867005,Pass Reception,1,10,36,64,0.40306460138266,False,NC State,Eastern Kentucky,0,0,1,13,29,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914101867004,Pass Reception,3,20,56,44,3.977811987255431,False,NC State,Eastern Kentucky,0,0,1,13,29,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102849903,Pass Reception,2,7,31,69,0.7191684051155943,False,NC State,Eastern Kentucky,0,0,2,15,0,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102874501,Passing Touchdown,2,5,5,95,2.43857769152992,True,NC State,Eastern Kentucky,7,0,2,12,54,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914101995206,Pass Incompletion,1,10,48,52,-1.0742999147475647,False,NC State,Eastern Kentucky,0,0,1,0,47,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102849901,Pass Reception,3,6,44,56,1.9897774401058452,False,NC State,Eastern Kentucky,0,0,2,15,0,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102905101,Pass Reception,1,10,75,25,1.7075723383420156,False,NC State,Eastern Kentucky,7,0,2,9,48,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102905108,Pass Incompletion,2,9,23,77,-0.5359237345216901,False,NC State,Eastern Kentucky,7,0,2,9,48,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102905109,Pass Reception,3,9,23,77,1.0207190078119162,False,NC State,Eastern Kentucky,7,0,2,9,48,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914102905103,Pass Reception,2,6,52,48,1.0569019586997488,False,NC State,Eastern Kentucky,7,0,2,9,48,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103854503,Pass Reception,1,10,34,66,0.73596654934212,False,NC State,Eastern Kentucky,14,0,3,14,54,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103854502,Pass Reception,2,5,65,35,2.6531415026641145,False,NC State,Eastern Kentucky,14,0,3,14,54,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103879302,Pass Reception,1,10,59,41,-1.8327551994755824,False,NC State,Eastern Kentucky,21,0,3,12,6,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103879304,Pass Reception,3,10,59,41,0.7139031727816123,False,NC State,Eastern Kentucky,21,0,3,12,6,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103908703,Pass Incompletion,3,10,56,44,-0.5203815921674826,False,NC State,Eastern Kentucky,21,0,3,9,12,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103908702,Pass Incompletion,2,10,56,44,-0.8812901257339192,False,NC State,Eastern Kentucky,21,0,3,9,12,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914103926504,Pass Reception,4,4,31,69,2.172665183355994,False,NC State,Eastern Kentucky,21,0,3,7,34,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104849904,Pass Reception,1,10,32,68,0.6747647952617514,False,NC State,Eastern Kentucky,28,0,4,15,0,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104849903,Pass Reception,2,3,36,64,-0.0056546131503604,False,NC State,Eastern Kentucky,28,0,4,15,0,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914706,Pass Reception,1,10,48,52,-0.3648977045566397,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914704,Pass Incompletion,2,9,63,37,-0.7156844087137806,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914716,Pass Incompletion,4,19,31,69,-0.835491636623753,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914710,Pass Incompletion,3,5,28,72,-0.85944428771484,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914713,Pass Reception,2,12,24,76,-0.9715752162010495,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914715,Pass Incompletion,3,19,31,69,-0.9193391800247293,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914705,Pass Reception,3,9,63,37,3.0297337288818023,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756914104914707,Pass Reception,2,7,45,55,1.1480567673346087,False,NC State,Eastern Kentucky,35,0,4,8,52,2,Eastern Kentucky,2015,NC State,Jacoby Brissett,2016
+400756925101866810,Pass Reception,1,10,31,31,0.262043067288534,False,Old Dominion,NC State,0,0,1,13,31,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925101866804,Pass Reception,1,10,60,60,0.1106144250151839,False,Old Dominion,NC State,0,0,1,13,31,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925101866807,Pass Incompletion,1,10,43,43,-0.9391692565688832,False,Old Dominion,NC State,0,0,1,13,31,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925101866809,Pass Reception,3,9,42,42,2.2885866146344256,False,Old Dominion,NC State,0,0,1,13,31,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925101866806,Pass Reception,3,5,55,55,2.4626095545459847,False,Old Dominion,NC State,0,0,1,13,31,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925101866801,Pass Incompletion,1,10,73,73,-0.766047035673644,False,Old Dominion,NC State,0,0,1,13,31,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925101964502,Pass Reception,1,10,60,60,1.7843118203667194,False,Old Dominion,NC State,7,0,1,3,54,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102856502,Pass Reception,1,10,51,51,0.1032144590601496,False,Old Dominion,NC State,7,7,2,14,34,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102856501,Pass Reception,1,10,72,72,1.9322655083731133,False,Old Dominion,NC State,7,7,2,14,34,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102885402,Pass Reception,2,13,68,68,0.03646434905545794,False,Old Dominion,NC State,14,7,2,11,45,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102885403,Pass Incompletion,3,8,63,63,-0.4114761869190806,False,Old Dominion,NC State,14,7,2,11,45,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102908505,Pass Reception,3,9,47,47,-0.3484250530496328,False,Old Dominion,NC State,14,7,2,9,14,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102908503,Pass Reception,1,10,48,48,0.0988833853941654,False,Old Dominion,NC State,14,7,2,9,14,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102959005,Pass Incompletion,2,8,35,35,-0.8845928617448975,False,Old Dominion,NC State,14,7,2,4,9,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102995701,Passing Touchdown,3,2,10,10,2.640402832185558,True,Old Dominion,NC State,21,7,2,0,42,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102988002,Pass Reception,1,10,18,18,-0.27260880361605,False,Old Dominion,NC State,14,7,2,1,19,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102959003,Pass Reception,3,8,49,49,2.615693224752299,False,Old Dominion,NC State,14,7,2,4,9,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925102959006,Pass Reception,3,8,35,35,1.745623396777084,False,Old Dominion,NC State,14,7,2,4,9,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925103854807,Pass Incompletion,2,8,40,40,-1.019175487371296,False,Old Dominion,NC State,21,7,3,14,51,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925103854804,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Old Dominion,NC State,21,7,3,14,51,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925103854808,Pass Incompletion,3,8,40,40,-1.0249441891211273,False,Old Dominion,NC State,21,7,3,14,51,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925104849902,Pass Incompletion,1,10,10,10,-0.2853930592519426,False,Old Dominion,NC State,28,14,4,15,0,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925103975704,Pass Reception,2,7,50,50,-0.6672380123554777,False,Old Dominion,NC State,28,14,3,2,42,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925104849901,Pass Reception,1,10,24,24,0.167611106357533,False,Old Dominion,NC State,28,14,4,15,0,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925104895008,Pass Incompletion,3,5,34,34,-1.0164838033385433,False,Old Dominion,NC State,31,14,4,10,49,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925104895004,Pass Reception,1,10,49,49,1.0659606614607482,False,Old Dominion,NC State,31,14,4,10,49,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756925104895003,Pass Reception,3,6,57,57,2.3318406242485503,False,Old Dominion,NC State,31,14,4,10,49,3,Old Dominion,2015,NC State,Jacoby Brissett,2016
+400756936101869204,Pass Reception,1,10,86,86,-0.5925241364045322,False,South Alabama,NC State,0,7,1,13,7,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936101869205,Pass Reception,2,14,90,90,0.6034402953073448,False,South Alabama,NC State,0,7,1,13,7,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936101904503,Pass Incompletion,1,10,54,54,-1.1590089706435955,False,South Alabama,NC State,7,7,1,9,54,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936101904505,Pass Reception,1,10,40,40,-0.6465447438858387,False,South Alabama,NC State,7,7,1,9,54,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936101939202,Pass Reception,1,10,35,35,1.759353486104858,False,South Alabama,NC State,14,7,1,6,7,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936101939201,Pass Reception,1,10,77,77,3.237768310412441,False,South Alabama,NC State,14,7,1,6,7,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102858104,Pass Reception,2,2,42,42,0.188406149201725,False,South Alabama,NC State,28,10,2,14,18,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102878901,Passing Touchdown,2,13,33,33,3.826412010217677,True,South Alabama,NC State,35,10,2,12,10,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102885202,Pass Reception,1,19,83,83,-0.03491425598835462,False,South Alabama,NC State,35,10,2,11,47,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102885203,Pass Reception,2,15,79,79,0.07529303009302435,False,South Alabama,NC State,35,10,2,11,47,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102885204,Pass Incompletion,3,9,73,73,-0.20098972393095416,False,South Alabama,NC State,35,10,2,11,47,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102909201,Pass Reception,1,10,63,63,1.3755540761931897,False,South Alabama,NC State,35,10,2,9,7,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102945801,Pass Incompletion,1,10,25,25,-0.4522778946200265,False,South Alabama,NC State,35,10,2,5,41,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102957801,Passing Touchdown,1,2,2,2,1.213235297672098,True,South Alabama,NC State,42,10,2,4,21,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102979302,Pass Reception,2,9,79,79,0.3001103835120853,False,South Alabama,NC State,42,10,2,2,6,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102979301,Pass Reception,1,10,80,80,-0.46882789768185695,False,South Alabama,NC State,42,10,2,2,6,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102979303,Pass Incompletion,3,2,72,72,-0.4742502762282106,False,South Alabama,NC State,42,10,2,2,6,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936102998801,Pass Reception,1,10,33,33,0.722464196040438,False,South Alabama,NC State,42,10,2,0,11,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103849914,Pass Incompletion,3,5,51,51,-0.9114899232737539,False,South Alabama,NC State,42,10,3,15,0,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103849911,Pass Reception,3,3,63,63,1.7985958736997798,False,South Alabama,NC State,42,10,3,15,0,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103898106,Pass Reception,2,8,15,15,1.0802514059865005,False,South Alabama,NC State,42,10,3,10,18,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103898102,Pass Reception,1,10,60,60,1.5678514602063345,False,South Alabama,NC State,42,10,3,10,18,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103898103,Pass Reception,1,10,40,40,0.42503466979891,False,South Alabama,NC State,42,10,3,10,18,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103965905,Pass Reception,1,10,57,57,0.9220292893768622,False,South Alabama,NC State,49,13,3,3,40,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936103965908,Pass Reception,1,10,33,33,0.3729802314660625,False,South Alabama,NC State,49,13,3,3,40,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936104885202,Pass Incompletion,2,2,53,53,-1.356977712417006,False,South Alabama,NC State,56,13,4,11,47,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756936104885206,Pass Reception,3,3,42,42,1.2809643887515012,False,South Alabama,NC State,56,13,4,11,47,4,South Alabama,2015,NC State,Jacoby Brissett,2016
+400756943101884803,Pass Reception,3,2,63,37,-0.6018885274311652,False,NC State,Louisville,0,0,1,11,51,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943101884802,Pass Reception,2,8,69,31,0.2676426459915015,False,NC State,Louisville,0,0,1,11,51,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943101917601,Pass Incompletion,1,10,57,43,-1.15714755134967,False,NC State,Louisville,0,0,1,8,23,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943101965101,Pass Reception,1,10,75,25,0.3333748010525683,False,NC State,Louisville,0,7,1,3,48,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943101965104,Pass Reception,1,10,50,50,0.938337158619385,False,NC State,Louisville,0,7,1,3,48,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943101965107,Pass Reception,3,17,40,60,0.4464918931596848,False,NC State,Louisville,0,7,1,3,48,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943101965106,Pass Reception,2,16,39,61,-1.2051534680568263,False,NC State,Louisville,0,7,1,3,48,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943102918201,Pass Incompletion,1,5,5,95,-0.554796850971046,False,NC State,Louisville,0,14,2,8,17,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943102939204,Pass Reception,3,9,40,60,-1.6251681421665438,False,NC State,Louisville,7,14,2,6,7,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943102939201,Pass Reception,1,10,80,20,3.1455381697085834,False,NC State,Louisville,7,14,2,6,7,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943102939202,Pass Incompletion,1,10,41,59,-0.8772679222659558,False,NC State,Louisville,7,14,2,6,7,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943102994401,Pass Incompletion,1,10,81,19,-0.5327945515514214,False,NC State,Louisville,7,17,2,0,55,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103854402,Pass Incompletion,2,8,74,26,-0.45441051725962467,False,NC State,Louisville,7,17,3,14,55,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103877509,Pass Incompletion,2,7,21,79,-0.477546833427642,False,NC State,Louisville,7,17,3,12,24,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103877507,Pass Reception,3,3,34,66,0.9561469686241538,False,NC State,Louisville,7,17,3,12,24,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103924301,Passing Touchdown,3,7,21,79,3.294652597828847,True,NC State,Louisville,13,17,3,7,56,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103877502,Pass Reception,1,10,52,48,-0.1504912861657514,False,NC State,Louisville,7,17,3,12,24,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103877504,Pass Reception,3,5,47,53,1.836501583493007,False,NC State,Louisville,7,17,3,12,24,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103944201,Pass Incompletion,1,10,82,18,-0.5080208698531008,False,NC State,Louisville,13,17,3,5,57,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103964502,Pass Reception,2,3,66,34,0.8335374641360467,False,NC State,Louisville,13,17,3,3,54,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943103999101,Pass Incompletion,1,10,74,26,-0.7342478781140684,False,NC State,Louisville,13,20,3,0,8,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943104849904,Pass Reception,3,16,68,32,3.747275024965374,False,NC State,Louisville,13,20,4,15,0,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943104918003,Pass Incompletion,3,10,48,52,-0.7682826649286678,False,NC State,Louisville,13,20,4,8,19,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943104918002,Pass Incompletion,2,10,48,52,-1.0509966519448302,False,NC State,Louisville,13,20,4,8,19,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943104985401,Pass Incompletion,1,10,95,5,-0.2817215454175761,False,NC State,Louisville,13,20,4,1,45,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943104985403,Pass Incompletion,3,1,86,14,-0.29888430298099067,False,NC State,Louisville,13,20,4,1,45,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756943104985402,Pass Reception,2,10,95,5,0.3092560473455519,False,NC State,Louisville,13,20,4,1,45,5,Louisville,2015,NC State,Jacoby Brissett,2016
+400756946101899901,Pass Incompletion,3,11,16,16,-0.6350354701267447,False,Virginia Tech,NC State,0,0,1,10,0,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101895401,Pass Incompletion,1,10,15,15,-0.320977659489319,False,Virginia Tech,NC State,0,0,1,10,45,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101864802,Pass Reception,1,10,80,80,2.015875014225797,False,Virginia Tech,NC State,0,0,1,13,51,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101876901,Pass Reception,2,13,59,59,2.657929181306156,False,Virginia Tech,NC State,0,0,1,12,30,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101925901,Pass Incompletion,3,5,60,60,-0.6307534784851327,False,Virginia Tech,NC State,3,0,1,7,40,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101915002,Pass Reception,1,10,65,65,0.1088137823196469,False,Virginia Tech,NC State,3,0,1,8,49,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101995901,Pass Reception,3,4,35,35,1.1930141875549887,False,Virginia Tech,NC State,3,0,1,0,40,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101976901,Pass Reception,2,7,72,72,2.096909296348972,False,Virginia Tech,NC State,3,0,1,2,30,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946101995401,Pass Incompletion,2,9,40,40,-1.02281513636375,False,Virginia Tech,NC State,3,0,1,0,45,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946102864301,Passing Touchdown,2,8,8,8,2.676770954733065,True,Virginia Tech,NC State,10,0,2,13,56,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946102896901,Pass Incompletion,3,14,79,79,-0.07856677894290696,False,Virginia Tech,NC State,10,7,2,10,30,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946103884901,Pass Incompletion,3,6,58,58,-0.6401731194806475,False,Virginia Tech,NC State,10,21,3,11,50,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946103849902,Pass Reception,1,10,75,75,-1.0670735924396633,False,Virginia Tech,NC State,10,21,3,15,0,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946103865401,Pass Reception,3,10,75,75,2.1748263782072215,False,Virginia Tech,NC State,10,21,3,13,45,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946103989901,Pass Incompletion,3,2,14,14,-0.458325503740733,False,Virginia Tech,NC State,10,21,3,1,0,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104884401,Pass Incompletion,3,11,47,47,-0.7572422608093561,False,Virginia Tech,NC State,13,21,4,11,55,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104879401,Pass Incompletion,2,11,47,47,-1.0351525342717718,False,Virginia Tech,NC State,13,21,4,12,5,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104906901,Pass Reception,3,5,48,48,-1.1540020005043896,False,Virginia Tech,NC State,13,21,4,9,30,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104955901,Pass Incompletion,3,6,32,32,-0.9817302750780126,False,Virginia Tech,NC State,13,28,4,4,40,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104956601,Pass Incompletion,4,6,32,32,-2.163122756607299,False,Virginia Tech,NC State,13,28,4,4,33,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104948401,Pass Incompletion,1,10,36,36,-0.7215426143188567,False,Virginia Tech,NC State,13,28,4,5,15,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104946901,Pass Reception,1,10,51,51,0.912589108879143,False,Virginia Tech,NC State,13,28,4,5,30,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104954901,Pass Reception,2,10,36,36,-0.1228262589820357,False,Virginia Tech,NC State,13,28,4,4,50,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104987901,Pass Interception Return,3,5,65,65,-0.4954310429270423,False,Virginia Tech,NC State,13,28,4,1,20,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756946104979102,Pass Reception,1,10,70,70,0.3731544450397237,False,Virginia Tech,NC State,13,28,4,2,8,6,Virginia Tech,2015,NC State,Jacoby Brissett,2016
+400756964101849904,Pass Reception,2,1,66,66,0.1664344101342703,False,Wake Forest,NC State,0,0,1,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101859201,Passing Touchdown,1,10,59,59,4.659012349798427,True,Wake Forest,NC State,7,0,1,14,7,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101849903,Pass Reception,1,10,75,75,1.252308359788624,False,Wake Forest,NC State,0,0,1,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101899707,Pass Reception,2,13,63,63,0.2080046604578456,False,Wake Forest,NC State,14,0,1,10,2,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101899702,Pass Reception,2,8,92,92,0.04137979776716083,False,Wake Forest,NC State,14,0,1,10,2,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101899705,Pass Reception,2,2,74,74,0.9787480533919376,False,Wake Forest,NC State,14,0,1,10,2,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101899703,Pass Reception,3,3,87,87,0.5568129975858787,False,Wake Forest,NC State,14,0,1,10,2,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101899708,Pass Incompletion,3,7,57,57,-0.6217208272072918,False,Wake Forest,NC State,14,0,1,10,2,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101899701,Pass Reception,1,10,94,94,-0.18979758386486356,False,Wake Forest,NC State,14,0,1,10,2,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101968201,Passing Touchdown,1,10,58,58,4.5617032120393155,True,Wake Forest,NC State,21,0,1,3,17,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101978601,Pass Incompletion,1,10,67,67,-0.956890163923906,False,Wake Forest,NC State,21,0,1,2,13,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964101978603,Pass Reception,3,8,65,65,2.273622311995701,False,Wake Forest,NC State,21,0,1,2,13,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102897404,Pass Incompletion,2,9,49,49,-1.069860722866995,False,Wake Forest,NC State,28,0,2,10,25,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102897401,Pass Reception,1,10,62,62,0.7103851122578037,False,Wake Forest,NC State,28,0,2,10,25,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102914302,Pass Incompletion,4,4,44,44,-1.2705845494304366,False,Wake Forest,NC State,28,0,2,8,56,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102897405,Pass Reception,3,9,49,49,0.0557421905519196,False,Wake Forest,NC State,28,0,2,10,25,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102929504,Pass Incompletion,2,9,70,70,-0.5068450753670621,False,Wake Forest,NC State,28,0,2,7,4,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102929505,Pass Incompletion,3,9,70,70,-0.24285188526338786,False,Wake Forest,NC State,28,0,2,7,4,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102967512,Pass Incompletion,3,9,22,22,-0.7656443415674944,False,Wake Forest,NC State,28,7,2,3,24,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102967504,Pass Reception,1,10,62,62,0.1104483361431646,False,Wake Forest,NC State,28,7,2,3,24,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102967506,Pass Reception,1,10,50,50,0.590106702773282,False,Wake Forest,NC State,28,7,2,3,24,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102967511,Pass Incompletion,2,9,22,22,-0.5096581187692506,False,Wake Forest,NC State,28,7,2,3,24,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964102967510,Pass Reception,1,10,23,23,-0.3213826573966115,False,Wake Forest,NC State,28,7,2,3,24,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964103886605,Pass Incompletion,2,11,60,60,-0.7068821667387155,False,Wake Forest,NC State,28,7,3,11,33,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964103886602,Pass Reception,2,8,70,70,-0.6350073572660033,False,Wake Forest,NC State,28,7,3,11,33,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964103886603,Pass Reception,3,9,71,71,2.3416995054951055,False,Wake Forest,NC State,28,7,3,11,33,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964103956105,Pass Incompletion,2,15,80,80,-0.14903888205704785,False,Wake Forest,NC State,28,10,3,4,38,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964103956103,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Wake Forest,NC State,28,10,3,4,38,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964104849907,Pass Reception,1,10,14,14,-0.3794054612324495,False,Wake Forest,NC State,28,10,4,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964104849904,Pass Reception,3,4,40,40,1.5783043006670177,False,Wake Forest,NC State,28,10,4,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964104849908,Pass Incompletion,2,11,15,15,-0.369435768312263,False,Wake Forest,NC State,28,10,4,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964104849909,Pass Incompletion,3,11,15,15,-0.6038654373972394,False,Wake Forest,NC State,28,10,4,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964104849902,Pass Incompletion,1,10,46,46,-1.0250974847844603,False,Wake Forest,NC State,28,10,4,15,0,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756964104925702,Pass Reception,2,6,60,60,-0.400254261862992,False,Wake Forest,NC State,28,10,4,7,42,8,Wake Forest,2015,NC State,Jacoby Brissett,2016
+400756969101859901,Pass Incompletion,1,10,21,79,-0.3882383440694163,False,NC State,Clemson,0,0,1,14,0,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101854701,Pass Reception,1,10,75,25,1.124751479041831,False,NC State,Clemson,0,0,1,14,52,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101869301,Pass Reception,3,9,20,80,0.261409393583909,False,NC State,Clemson,0,0,1,13,6,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101898001,Pass Reception,1,10,75,25,0.9305625119459905,False,NC State,Clemson,13,13,1,10,19,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101915901,Pass Reception,1,10,49,51,-0.8564651345494897,False,NC State,Clemson,13,13,1,8,40,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101907601,Pass Reception,2,8,62,38,2.0288617944400755,False,NC State,Clemson,13,13,1,9,23,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101919701,Pass Reception,2,9,48,52,-0.4055789854478587,False,NC State,Clemson,13,13,1,8,2,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969101978501,Pass Incompletion,3,14,87,13,-0.04646015354852207,False,NC State,Clemson,13,16,1,2,14,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102914801,Pass Incompletion,3,15,70,30,-0.13315889525431412,False,NC State,Clemson,13,19,2,8,51,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102895901,Pass Reception,3,5,77,23,1.7178321317003986,False,NC State,Clemson,13,19,2,10,40,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102886001,Pass Incompletion,1,10,82,18,-0.5080208698531008,False,NC State,Clemson,13,19,2,11,39,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102945301,Passing Touchdown,3,1,40,60,3.796691452362614,True,NC State,Clemson,20,19,2,5,46,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102928101,Pass Reception,1,10,65,35,1.4803864590540865,False,NC State,Clemson,13,19,2,7,18,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102985501,Pass Reception,2,2,17,83,-0.6642624996580315,False,NC State,Clemson,20,19,2,1,44,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102979101,Pass Reception,1,10,25,75,0.478161110671337,False,NC State,Clemson,20,19,2,2,8,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969102989901,Pass Reception,3,3,18,82,-2.1794325458178765,False,NC State,Clemson,20,19,2,1,0,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969103867201,Pass Reception,2,7,63,37,-0.6936603672249885,False,NC State,Clemson,20,26,3,13,27,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969103956701,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,NC State,Clemson,27,40,3,4,32,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969103965201,Pass Incompletion,3,9,74,26,-0.18876768235831598,False,NC State,Clemson,27,40,3,3,47,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104864902,Pass Incompletion,2,6,53,47,-1.1418158508365952,False,NC State,Clemson,27,47,4,13,50,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104865502,Pass Incompletion,3,6,53,47,-0.7987440892990438,False,NC State,Clemson,27,47,4,13,44,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969103999801,Pass Reception,2,11,70,30,0.7474738858156682,False,NC State,Clemson,27,47,3,0,1,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104854401,Pass Reception,3,2,61,39,1.4230270481395024,False,NC State,Clemson,27,47,4,14,55,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104877001,Pass Incompletion,2,8,37,63,-0.9430517195492936,False,NC State,Clemson,27,47,4,12,29,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104877401,Pass Incompletion,3,8,37,63,-1.0414424127070223,False,NC State,Clemson,27,47,4,12,25,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104885401,Passing Touchdown,2,7,14,86,2.688280136382311,True,NC State,Clemson,34,47,4,11,45,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104875801,Pass Reception,1,10,39,61,-0.436671624801777,False,NC State,Clemson,27,47,4,12,41,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104877901,Pass Reception,4,8,37,63,2.98170120920523,False,NC State,Clemson,27,47,4,12,20,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104894101,Passing Touchdown,1,10,28,72,2.764014474138431,True,NC State,Clemson,41,53,4,10,58,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104968601,Pass Incompletion,4,9,9,91,-3.598841202466984,False,NC State,Clemson,41,56,4,3,13,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104946001,Pass Incompletion,1,10,62,38,-1.087995077167328,False,NC State,Clemson,41,56,4,5,39,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104948901,Pass Reception,1,10,49,51,0.1003706527461523,False,NC State,Clemson,41,56,4,5,10,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104954401,Pass Incompletion,1,10,30,70,-0.557844891990525,False,NC State,Clemson,41,56,4,4,55,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104967101,Pass Incompletion,2,9,9,91,-0.270076451519454,False,NC State,Clemson,41,56,4,3,28,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104968201,Pass Incompletion,3,9,9,91,-0.39104614280078,False,NC State,Clemson,41,56,4,3,17,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104946901,Pass Reception,2,10,62,38,2.2786681662095702,False,NC State,Clemson,41,56,4,5,30,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104956601,Pass Reception,3,18,38,62,3.2101889343272236,False,NC State,Clemson,41,56,4,4,33,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104957501,Pass Incompletion,1,10,17,83,-0.340019558909725,False,NC State,Clemson,41,56,4,4,24,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104958901,Pass Reception,2,5,12,88,0.8174035919756925,False,NC State,Clemson,41,56,4,4,10,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104988901,Pass Reception,4,16,44,56,-0.2546418978188907,False,NC State,Clemson,41,56,4,1,10,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756969104984601,Pass Incompletion,1,10,38,62,-0.7828922522763084,False,NC State,Clemson,41,56,4,1,53,9,Clemson,2015,NC State,Jacoby Brissett,2016
+400756973101849911,Pass Incompletion,2,6,27,27,-0.6262844301156693,False,Boston College,NC State,0,0,1,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973101849903,Pass Incompletion,1,10,79,79,-0.585616097616759,False,Boston College,NC State,0,0,1,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973101849913,Pass Interception Return,4,2,23,23,-3.3742270278508766,False,Boston College,NC State,0,0,1,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973101849906,Pass Reception,2,10,56,56,1.9881420615107235,False,Boston College,NC State,0,0,1,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973101938202,Pass Reception,2,1,76,76,-0.2760278018172233,False,Boston College,NC State,0,0,1,6,17,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973101938203,Pass Incompletion,1,10,73,73,-0.766047035673644,False,Boston College,NC State,0,0,1,6,17,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973102865301,Passing Touchdown,1,10,83,83,6.535182582551657,True,Boston College,NC State,7,0,2,13,46,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973102878606,Pass Reception,3,8,42,42,2.5771331552430503,False,Boston College,NC State,7,0,2,12,13,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973102937001,Pass Incompletion,1,10,46,46,-1.0250974847844603,False,Boston College,NC State,14,0,2,6,29,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973102966203,Pass Incompletion,3,6,64,64,-0.4679890707422727,False,Boston College,NC State,14,0,2,3,37,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973102966201,Pass Reception,1,10,68,68,1.3745145306761655,False,Boston College,NC State,14,0,2,3,37,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103868902,Pass Incompletion,2,1,35,35,-0.9472719107527577,False,Boston College,NC State,14,0,3,13,10,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103868901,Pass Reception,1,10,44,44,0.9315823230417933,False,Boston College,NC State,14,0,3,13,10,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103894603,Pass Reception,2,20,67,67,0.017107040752731173,False,Boston College,NC State,21,0,3,10,53,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103894601,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Boston College,NC State,21,0,3,10,53,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103929603,Pass Incompletion,3,7,56,56,-0.6528971648971629,False,Boston College,NC State,21,0,3,7,3,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103929602,Pass Reception,2,11,60,60,-0.130286752564067,False,Boston College,NC State,21,0,3,7,3,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103977702,Pass Incompletion,2,12,86,86,-0.1452955721585001,False,Boston College,NC State,21,0,3,2,22,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973103995101,Pass Reception,1,10,78,78,0.0891040604736997,False,Boston College,NC State,21,0,3,0,48,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104849901,Pass Reception,3,1,69,69,1.7229720528647912,False,Boston College,NC State,21,0,4,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104849904,Pass Incompletion,3,9,57,57,-0.532188499156419,False,Boston College,NC State,21,0,4,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104849903,Pass Reception,2,11,59,59,-0.4724362029517062,False,Boston College,NC State,21,0,4,15,0,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104887303,Pass Reception,3,6,71,71,-0.3558844419064231,False,Boston College,NC State,21,0,4,11,26,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104887301,Pass Reception,1,10,75,75,-0.2957674139440157,False,Boston College,NC State,21,0,4,11,26,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104939005,Pass Incompletion,3,16,20,20,-0.904857080082433,False,Boston College,NC State,21,0,4,6,9,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756973104939003,Pass Incompletion,1,19,23,23,-0.503166337284469,False,Boston College,NC State,21,0,4,6,9,10,Boston College,2015,NC State,Jacoby Brissett,2016
+400756982101867101,Pass Incompletion,3,9,9,9,-0.39104614280078,False,Florida State,NC State,0,0,1,13,28,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101975501,Passing Touchdown,3,2,2,2,2.544830284062861,True,Florida State,NC State,10,7,1,2,44,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101919901,Pass Reception,2,1,66,66,0.0685461557890222,False,Florida State,NC State,3,7,1,8,0,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101958501,Pass Reception,3,3,11,11,0.41219384200733,False,Florida State,NC State,3,7,1,4,14,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101965501,Pass Reception,1,8,8,8,-0.118978122830228,False,Florida State,NC State,3,7,1,3,44,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101938701,Pass Incompletion,1,10,34,34,-0.6630222646782312,False,Florida State,NC State,3,7,1,6,12,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101924201,Pass Incompletion,1,10,60,60,-1.1247712359915258,False,Florida State,NC State,3,7,1,7,57,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101939701,Pass Reception,2,10,34,34,1.0079557165213102,False,Florida State,NC State,3,7,1,6,2,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101925201,Pass Reception,2,10,60,60,2.119341288497953,False,Florida State,NC State,3,7,1,7,47,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982101937601,Pass Reception,3,9,48,48,2.760209442636455,False,Florida State,NC State,3,7,1,6,23,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982102918801,Pass Reception,2,14,63,63,0.191800692598747,False,Florida State,NC State,17,7,2,8,11,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982102918802,Pass Incompletion,3,8,57,57,-0.5753756750205063,False,Florida State,NC State,17,7,2,8,11,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982102904201,Pass Incompletion,2,5,69,69,-0.7854388312047123,False,Florida State,NC State,17,7,2,9,57,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982102905401,Pass Reception,3,5,69,69,2.0368766405847554,False,Florida State,NC State,17,7,2,9,45,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982102968901,Pass Incompletion,3,5,54,54,-0.8207107379888506,False,Florida State,NC State,17,14,2,3,10,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982102949701,Pass Reception,1,10,75,75,0.604642460086338,False,Florida State,NC State,17,14,2,5,2,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103858801,Pass Incompletion,2,10,62,62,-0.6938325521359872,False,Florida State,NC State,17,17,3,14,11,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103859301,Pass Incompletion,3,10,62,62,-0.36514774325411636,False,Florida State,NC State,17,17,3,14,6,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103858301,Pass Incompletion,1,10,62,62,-1.087995077167328,False,Florida State,NC State,17,17,3,14,16,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103857901,Pass Reception,3,11,76,76,2.2205153367163186,False,Florida State,NC State,17,17,3,14,20,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103856601,Pass Incompletion,2,11,76,76,-0.29427450685877776,False,Florida State,NC State,17,17,3,14,33,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103915801,Pass Reception,1,10,68,68,-0.3783931239488095,False,Florida State,NC State,17,20,3,8,41,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103907801,Pass Incompletion,1,10,80,80,-0.5586693796725282,False,Florida State,NC State,17,20,3,9,21,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103909501,Pass Reception,2,10,80,80,1.4254164596357715,False,Florida State,NC State,17,20,3,9,4,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103926501,Pass Reception,1,10,60,60,0.1106144250151839,False,Florida State,NC State,17,27,3,7,34,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103936201,Pass Incompletion,2,10,48,48,-1.0509966519448302,False,Florida State,NC State,17,27,3,6,37,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103935701,Pass Incompletion,1,10,48,48,-1.0742999147475647,False,Florida State,NC State,17,27,3,6,42,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103934501,Pass Reception,3,3,53,53,1.664361167211304,False,Florida State,NC State,17,27,3,6,54,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103978101,Pass Incompletion,3,15,75,75,-0.09332795085020965,False,Florida State,NC State,17,27,3,2,18,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103974501,Pass Reception,2,10,70,70,-0.6888487272490229,False,Florida State,NC State,17,27,3,2,54,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982103968801,Pass Incompletion,1,10,70,70,-0.8627910327708888,False,Florida State,NC State,17,27,3,3,11,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104865601,Pass Incompletion,2,10,54,54,-0.9368191801087571,False,Florida State,NC State,17,27,4,13,43,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104866401,Pass Incompletion,3,10,54,54,-0.5798306702788407,False,Florida State,NC State,17,27,4,13,35,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104865201,Pass Incompletion,1,10,54,54,-1.1590089706435955,False,Florida State,NC State,17,27,4,13,47,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104858201,Pass Incompletion,3,6,63,63,-0.49432104068719435,False,Florida State,NC State,17,27,4,14,17,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104849901,Pass Reception,2,9,66,66,0.7412508093650905,False,Florida State,NC State,17,27,4,15,0,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104859001,Pass Reception,4,6,63,63,2.795107186261416,False,Florida State,NC State,17,27,4,14,9,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104906404,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Florida State,NC State,17,34,4,9,35,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104908901,Pass Reception,2,10,75,75,-0.29282347426074384,False,Florida State,NC State,17,34,4,9,10,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104987401,Pass Reception,1,10,75,75,1.252308359788624,False,Florida State,NC State,17,34,4,1,25,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104996501,Pass Incompletion,2,3,8,8,-0.431583653196981,False,Florida State,NC State,17,34,4,0,34,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104985501,Pass Reception,2,5,82,82,0.5450138176441897,False,Florida State,NC State,17,34,4,1,44,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104994002,Pass Reception,1,10,29,29,0.230102095033029,False,Florida State,NC State,17,34,4,0,59,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104984501,Pass Reception,1,10,87,87,0.07402668150212044,False,Florida State,NC State,17,34,4,1,54,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104994001,Pass Reception,1,10,45,45,0.688212900468956,False,Florida State,NC State,17,34,4,0,59,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104989101,Pass Reception,1,10,59,59,1.1824982647313593,False,Florida State,NC State,17,34,4,1,8,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104996001,Pass Reception,1,10,15,15,0.304923286072843,False,Florida State,NC State,17,34,4,0,39,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756982104987402,Pass Reception,2,1,66,66,0.1664344101342703,False,Florida State,NC State,17,34,4,1,25,11,Florida State,2015,NC State,Jacoby Brissett,2016
+400756993101849903,Pass Reception,2,3,68,32,1.007795962123657,False,NC State,Syracuse,0,0,1,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101849909,Pass Reception,2,7,10,90,1.69950879898254,False,NC State,Syracuse,0,0,1,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101909501,Passing Touchdown,3,7,7,93,2.884594628720352,True,NC State,Syracuse,7,0,1,9,4,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101849905,Pass Reception,1,10,38,62,0.3945082863191305,False,NC State,Syracuse,0,0,1,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101849907,Pass Reception,2,4,19,81,-0.034451840519246,False,NC State,Syracuse,0,0,1,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101949905,Pass Incompletion,2,1,1,99,-0.553645991706544,False,NC State,Syracuse,7,3,1,5,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101949901,Pass Reception,1,10,73,27,2.2464815979419797,False,NC State,Syracuse,7,3,1,5,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993101949902,Pass Reception,1,10,48,52,0.559881404072259,False,NC State,Syracuse,7,3,1,5,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102849907,Pass Incompletion,3,15,28,72,-1.0010797388025825,False,NC State,Syracuse,14,3,2,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102849906,Pass Incompletion,2,15,28,72,-0.8311838265151544,False,NC State,Syracuse,14,3,2,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102849901,Pass Incompletion,1,10,36,64,-0.7215426143188567,False,NC State,Syracuse,14,3,2,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102849904,Pass Reception,4,2,28,72,1.3228266512031066,False,NC State,Syracuse,14,3,2,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102849905,Pass Reception,1,10,23,77,-1.0076501283908126,False,NC State,Syracuse,14,3,2,15,0,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102895613,Pass Reception,3,6,14,86,1.296967498973939,False,NC State,Syracuse,14,3,2,10,43,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102895602,Pass Reception,2,12,89,11,-0.05301577559617421,False,NC State,Syracuse,14,3,2,10,43,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102895612,Pass Reception,2,9,17,83,-0.120756505001273,False,NC State,Syracuse,14,3,2,10,43,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102895606,Pass Reception,3,8,72,28,0.21821064964163206,False,NC State,Syracuse,14,3,2,10,43,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102895603,Pass Reception,3,9,86,14,1.2408847751452718,False,NC State,Syracuse,14,3,2,10,43,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102895607,Pass Reception,4,1,65,35,2.669265175213905,False,NC State,Syracuse,14,3,2,10,43,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102994906,Pass Incompletion,1,10,28,72,-0.512081873784803,False,NC State,Syracuse,21,9,2,0,50,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102994907,Pass Incompletion,2,10,28,72,-0.7006450342354943,False,NC State,Syracuse,21,9,2,0,50,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993102994908,Pass Interception Return,3,10,28,72,-3.0232586178412717,False,NC State,Syracuse,21,9,2,0,50,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103855502,Pass Incompletion,2,10,73,27,-0.389084322022601,False,NC State,Syracuse,21,16,3,14,44,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103855506,Pass Incompletion,3,7,36,64,-1.0456665971037056,False,NC State,Syracuse,21,16,3,14,44,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103855508,Pass Reception,1,10,25,75,0.8163035217071835,False,NC State,Syracuse,21,16,3,14,44,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103855505,Pass Incompletion,2,7,36,64,-0.9044624269614464,False,NC State,Syracuse,21,16,3,14,44,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103855507,Pass Reception,4,7,36,64,2.649039555990491,False,NC State,Syracuse,21,16,3,14,44,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103855503,Pass Reception,3,10,73,27,3.9474082369866306,False,NC State,Syracuse,21,16,3,14,44,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103877801,Passing Touchdown,1,5,5,95,1.883780840558874,True,NC State,Syracuse,28,16,3,12,21,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103927402,Pass Incompletion,2,12,53,47,-0.87538968896492,False,NC State,Syracuse,28,16,3,7,25,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103977901,Pass Reception,1,10,82,18,0.2714669258479434,False,NC State,Syracuse,35,16,3,2,20,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993103977902,Pass Incompletion,2,4,76,24,-0.6545626180064668,False,NC State,Syracuse,35,16,3,2,20,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993104854706,Pass Reception,1,10,51,49,1.343464101108525,False,NC State,Syracuse,35,16,4,14,52,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756993104854704,Pass Incompletion,1,10,62,38,-1.087995077167328,False,NC State,Syracuse,35,16,4,14,52,12,Syracuse,2015,NC State,Jacoby Brissett,2016
+400756997101884401,Pass Reception,2,2,67,33,1.404987713023008,False,NC State,North Carolina,0,7,1,11,55,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997101896301,Pass Incompletion,3,5,44,56,-1.0618160775042256,False,NC State,North Carolina,0,7,1,10,36,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997101928101,Pass Reception,2,9,75,25,4.1863596437659485,False,NC State,North Carolina,0,14,1,7,18,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997101955901,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,NC State,North Carolina,7,21,1,4,40,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997101964201,Pass Incompletion,3,4,69,31,-0.43770162015070735,False,NC State,North Carolina,7,21,1,3,57,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997101986701,Pass Interception Return,1,10,71,29,-1.2243831272450354,False,NC State,North Carolina,7,28,1,1,32,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102908601,Pass Incompletion,4,5,11,89,-3.7519953863347713,False,NC State,North Carolina,7,35,2,9,13,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102877601,Pass Reception,1,10,36,64,0.2907759726056155,False,NC State,North Carolina,7,35,2,12,23,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102908101,Pass Incompletion,3,5,11,89,-0.3890809082355382,False,NC State,North Carolina,7,35,2,9,18,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102869901,Pass Incompletion,2,10,46,54,-1.0652839330421227,False,NC State,North Carolina,7,35,2,13,0,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997101999901,Pass Reception,2,9,76,24,1.3193291336768507,False,NC State,North Carolina,7,35,1,0,0,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102859501,Pass Reception,2,5,52,48,-0.1645554002895046,False,NC State,North Carolina,7,35,2,14,4,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102869501,Pass Incompletion,1,10,46,54,-1.0250974847844603,False,NC State,North Carolina,7,35,2,13,4,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102936601,Pass Reception,1,10,79,21,0.8112240741752963,False,NC State,North Carolina,7,35,2,6,33,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102967501,Pass Incompletion,2,3,29,71,-0.7184552981933003,False,NC State,North Carolina,7,35,2,3,24,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102939501,Pass Incompletion,1,10,68,32,-0.9262377870973815,False,NC State,North Carolina,7,35,2,6,4,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102948201,Pass Reception,3,3,61,39,1.6575968499512932,False,NC State,North Carolina,7,35,2,5,17,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102955401,Pass Incompletion,1,10,56,44,-1.1612466882658818,False,NC State,North Carolina,7,35,2,4,45,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102964401,Pass Reception,1,10,36,64,0.40306460138266,False,NC State,North Carolina,7,35,2,3,55,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102979201,Pass Reception,2,2,17,83,-0.4380660090905175,False,NC State,North Carolina,7,35,2,2,7,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997102995001,Passing Touchdown,1,15,16,84,2.845523130651982,True,NC State,North Carolina,14,35,2,0,49,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997103885401,Pass Incompletion,3,7,40,60,-1.046470034780377,False,NC State,North Carolina,14,35,3,11,45,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997103884601,Pass Incompletion,2,7,40,60,-1.0166239242297335,False,NC State,North Carolina,14,35,3,11,53,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997103874001,Pass Reception,3,10,57,43,3.1216219013627704,False,NC State,North Carolina,14,35,3,12,59,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997103899701,Pass Incompletion,3,5,7,93,-0.319532032317183,False,NC State,North Carolina,14,35,3,10,2,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997103934001,Pass Reception,3,3,90,10,0.4648117329239536,False,NC State,North Carolina,17,35,3,6,59,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104857401,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,NC State,North Carolina,23,42,4,14,25,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104959001,Pass Incompletion,1,10,71,29,-0.8305196050291288,False,NC State,North Carolina,26,45,4,4,9,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104954901,Pass Reception,3,12,84,16,-0.01263048567328886,False,NC State,North Carolina,26,45,4,4,50,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104969301,Pass Reception,2,10,45,55,0.07224081060029,False,NC State,North Carolina,26,45,4,3,6,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104954001,Pass Incompletion,2,12,84,16,-0.16317698926983581,False,NC State,North Carolina,26,45,4,4,59,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104979601,Pass Reception,1,19,19,81,-0.0450208436313313,False,NC State,North Carolina,26,45,4,2,3,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104968501,Pass Incompletion,1,10,45,55,-0.997770018980635,False,NC State,North Carolina,26,45,4,3,14,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104975701,Pass Incompletion,3,5,40,60,-1.0838891412979983,False,NC State,North Carolina,26,45,4,2,42,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104966001,Pass Incompletion,1,10,59,41,-1.1387859939569847,False,NC State,North Carolina,26,45,4,3,39,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104966401,Pass Reception,2,10,59,41,1.081901319167045,False,NC State,North Carolina,26,45,4,3,35,13,North Carolina,2015,NC State,Jacoby Brissett,2016
+400756997104984901,Passing Touchdown,3,20,20,80,4.317248561794729,True,NC State,North Carolina,34,45,4,1,50,13,North Carolina,2015,NC State,Jacoby Brissett,2016

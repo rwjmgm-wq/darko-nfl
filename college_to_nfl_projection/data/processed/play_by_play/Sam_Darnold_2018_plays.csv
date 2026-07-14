@@ -1,0 +1,475 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400934511.0,Passing Touchdown,,,25.0,75,4.820380210876465,True,USC,Texas,24.0,17.0,5,0,0,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,31.0,69,0.8056886196136475,False,USC,Texas,14.0,17.0,4,0,8,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,52.0,48,0.945721447467804,False,USC,Texas,14.0,17.0,4,0,22,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Incompletion,,,52.0,48,-0.3344830870628357,False,USC,Texas,14.0,17.0,4,0,30,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,65.0,35,0.4169469475746155,False,USC,Texas,14.0,17.0,4,0,37,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Sack,,,32.0,68,-1.9112194776535034,False,USC,Texas,14.0,10.0,4,5,34,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,44.0,56,2.1993298530578613,False,USC,Texas,14.0,10.0,4,6,38,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,52.0,48,0.6851203441619873,False,USC,Texas,14.0,10.0,4,7,36,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,62.0,38,1.6916661262512207,False,USC,Texas,14.0,10.0,4,8,15,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,80.0,20,0.7022446393966675,False,USC,Texas,14.0,10.0,4,9,0,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Interception Return,,,70.0,30,-4.67243766784668,False,USC,Texas,14.0,10.0,4,10,43,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,54.0,46,-1.734240174293518,False,USC,Texas,14.0,10.0,4,13,14,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,71.0,29,0.6376819610595703,False,USC,Texas,14.0,10.0,3,0,2,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,66.0,34,-0.7275518178939819,False,USC,Texas,14.0,10.0,3,3,15,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Sack,,,59.0,41,-1.7297066450119019,False,USC,Texas,14.0,10.0,3,3,30,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,87.0,13,1.7397668361663818,False,USC,Texas,14.0,10.0,3,4,37,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,36.0,64,-2.8739356994628906,False,USC,Texas,14.0,10.0,3,5,57,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,43.0,57,-0.19364237785339355,False,USC,Texas,14.0,10.0,3,6,35,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,63.0,37,1.905377984046936,False,USC,Texas,14.0,10.0,3,7,28,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,80.0,20,1.5956029891967773,False,USC,Texas,14.0,10.0,3,9,17,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Passing Touchdown,,,56.0,44,6.798459529876709,True,USC,Texas,14.0,7.0,2,0,0,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Interception Return Touchdown,,,77.0,23,-7.310370922088623,True,USC,Texas,7.0,7.0,2,0,19,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Passing Touchdown,,,15.0,85,2.614076614379883,True,USC,Texas,7.0,0.0,2,2,40,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,29.0,71,0.8823485374450684,False,USC,Texas,0.0,0.0,2,3,32,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,77.0,23,2.158221960067749,False,USC,Texas,0.0,0.0,2,8,15,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,80.0,20,-0.7220550179481506,False,USC,Texas,0.0,0.0,2,8,50,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Incompletion,,,80.0,20,-0.6992397308349609,False,USC,Texas,0.0,0.0,2,9,11,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Incompletion,,,28.0,72,-0.8665330410003662,False,USC,Texas,0.0,0.0,2,14,56,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Sack,,,19.0,81,-2.016692876815796,False,USC,Texas,0.0,0.0,1,0,1,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,45.0,55,-1.298747181892395,False,USC,Texas,0.0,0.0,1,3,2,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,30.0,70,0.8586554527282715,False,USC,Texas,0.0,0.0,1,7,56,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,53.0,47,1.1141552925109863,False,USC,Texas,0.0,0.0,1,9,0,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,76.0,24,3.1750924587249756,False,USC,Texas,0.0,0.0,1,9,20,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Incompletion,,,76.0,24,-1.1130950450897217,False,USC,Texas,0.0,0.0,1,9,35,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Incompletion,,,37.0,63,-2.761107921600342,False,USC,Texas,0.0,0.0,1,11,45,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,42.0,58,0.8716163635253906,False,USC,Texas,0.0,0.0,1,12,41,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,64.0,36,0.682007908821106,False,USC,Texas,0.0,0.0,1,14,9,3,Texas,2017,USC,Sam Darnold,2018
+400934511.0,Pass Reception,,,78.0,22,1.7577084302902222,False,USC,Texas,0.0,0.0,1,14,17,3,Texas,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,63.0,63,-0.2286999225616455,False,Notre Dame,USC,14.0,49.0,4,2,9,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,63.0,63,-0.3434477150440216,False,Notre Dame,USC,14.0,49.0,4,2,14,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,46.0,46,-0.445905476808548,False,Notre Dame,USC,14.0,49.0,4,5,46,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Sack,,,48.0,48,-2.3547775745391846,False,Notre Dame,USC,14.0,49.0,4,9,42,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,71.0,71,3.0155723094940186,False,Notre Dame,USC,14.0,49.0,4,11,3,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,63.0,63,-0.9983924627304077,False,Notre Dame,USC,14.0,49.0,4,12,0,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,88.0,88,-0.45707619190216064,False,Notre Dame,USC,14.0,49.0,4,13,5,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,48.0,48,-1.7553412914276123,False,Notre Dame,USC,14.0,42.0,4,14,54,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,53.0,53,-0.645716667175293,False,Notre Dame,USC,14.0,42.0,3,0,20,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Sack,,,49.0,49,-1.9610313177108765,False,Notre Dame,USC,14.0,42.0,3,0,52,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,61.0,61,0.8475089073181152,False,Notre Dame,USC,14.0,42.0,3,1,58,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,75.0,75,0.42819398641586304,False,Notre Dame,USC,14.0,42.0,3,2,56,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Passing Touchdown,,,16.0,16,2.5462536811828613,True,Notre Dame,USC,14.0,35.0,3,3,26,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,29.0,29,-0.694777250289917,False,Notre Dame,USC,7.0,35.0,3,4,27,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,53.0,53,2.304058074951172,False,Notre Dame,USC,7.0,35.0,3,4,44,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,67.0,67,1.2683314085006714,False,Notre Dame,USC,7.0,35.0,3,5,22,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Passing Touchdown,,,5.0,5,3.071237325668335,True,Notre Dame,USC,7.0,28.0,3,10,0,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,5.0,5,-1.2097601890563965,False,Notre Dame,USC,0.0,28.0,3,10,5,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,33.0,33,4.026245594024658,False,Notre Dame,USC,0.0,28.0,3,11,0,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,40.0,40,4.217864990234375,False,Notre Dame,USC,0.0,28.0,3,11,55,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Sack,,,39.0,39,-2.0628750324249268,False,Notre Dame,USC,0.0,28.0,3,12,31,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,56.0,56,1.688694715499878,False,Notre Dame,USC,0.0,28.0,3,14,5,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,70.0,70,-0.4208028316497803,False,Notre Dame,USC,0.0,28.0,2,1,9,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,71.0,71,-0.23613929748535156,False,Notre Dame,USC,0.0,28.0,2,1,46,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Sack,,,62.0,62,-1.3147684335708618,False,Notre Dame,USC,0.0,28.0,2,2,14,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,69.0,69,1.349389672279358,False,Notre Dame,USC,0.0,28.0,2,2,42,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,75.0,75,0.5941524505615234,False,Notre Dame,USC,0.0,28.0,2,3,45,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Interception Return,,,45.0,45,-5.413578033447266,False,Notre Dame,USC,0.0,21.0,2,7,2,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,62.0,62,1.4902960062026978,False,Notre Dame,USC,0.0,21.0,2,7,30,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,46.0,46,3.9263763427734375,False,Notre Dame,USC,0.0,14.0,1,0,24,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,56.0,56,1.1410150527954102,False,Notre Dame,USC,0.0,14.0,1,1,40,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,65.0,65,1.4940518140792847,False,Notre Dame,USC,0.0,14.0,1,2,16,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,72.0,72,0.6754542589187622,False,Notre Dame,USC,0.0,14.0,1,2,54,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,72.0,72,-0.8632766604423523,False,Notre Dame,USC,0.0,14.0,1,3,3,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,86.0,86,-0.7672731876373291,False,Notre Dame,USC,0.0,14.0,1,6,19,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Incompletion,,,54.0,54,-1.722846269607544,False,Notre Dame,USC,0.0,7.0,1,10,30,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,55.0,55,-0.5346392393112183,False,Notre Dame,USC,0.0,7.0,1,11,5,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,63.0,63,0.2945694923400879,False,Notre Dame,USC,0.0,7.0,1,12,6,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Pass Reception,,,71.0,71,0.6856676340103149,False,Notre Dame,USC,0.0,7.0,1,12,28,8,Notre Dame,2017,USC,Sam Darnold,2018
+400934578.0,Fumble Recovery (Opponent),,,43.0,43,-6.098990440368652,False,Notre Dame,USC,0.0,0.0,1,13,49,8,Notre Dame,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,79.0,21,2.5063977241516113,False,USC,Western Michigan,28.0,28.0,4,7,13,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,15.0,85,0.35141849517822266,False,USC,Western Michigan,21.0,21.0,4,9,50,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,27.0,73,1.159276008605957,False,USC,Western Michigan,21.0,21.0,4,10,15,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,37.0,63,1.6405479907989502,False,USC,Western Michigan,21.0,21.0,4,10,55,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,37.0,63,-0.9209849834442139,False,USC,Western Michigan,21.0,21.0,4,11,1,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,50.0,50,0.6722321510314941,False,USC,Western Michigan,21.0,21.0,4,11,42,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,39.0,61,2.88843035697937,False,USC,Western Michigan,14.0,21.0,3,0,46,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,47.0,53,0.1290682554244995,False,USC,Western Michigan,14.0,21.0,3,1,12,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,51.0,49,0.6065384149551392,False,USC,Western Michigan,14.0,21.0,3,2,32,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,78.0,22,3.9193906784057617,False,USC,Western Michigan,14.0,21.0,3,2,53,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,85.0,15,-0.5799801349639893,False,USC,Western Michigan,14.0,21.0,3,3,27,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,83.0,17,0.7909451723098755,False,USC,Western Michigan,14.0,21.0,3,4,32,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Interception Return,,,38.0,62,-3.893723964691162,False,USC,Western Michigan,14.0,21.0,3,7,16,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,48.0,52,0.8064565658569336,False,USC,Western Michigan,14.0,21.0,3,8,10,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Interception Return,,,52.0,48,-1.290581226348877,False,USC,Western Michigan,14.0,14.0,2,0,7,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,52.0,48,-0.42410600185394287,False,USC,Western Michigan,14.0,14.0,2,0,22,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,67.0,33,1.367936134338379,False,USC,Western Michigan,14.0,14.0,2,0,41,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,67.0,33,-0.41843539476394653,False,USC,Western Michigan,14.0,14.0,2,0,48,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,68.0,32,-0.5796847343444824,False,USC,Western Michigan,14.0,14.0,2,1,10,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,79.0,21,0.7504995465278625,False,USC,Western Michigan,14.0,14.0,2,1,30,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,9.0,91,0.9767694473266602,False,USC,Western Michigan,7.0,14.0,2,4,40,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,28.0,72,2.416260004043579,False,USC,Western Michigan,7.0,14.0,2,4,56,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,42.0,58,2.142972946166992,False,USC,Western Michigan,7.0,14.0,2,6,43,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,54.0,46,0.5915749073028564,False,USC,Western Michigan,7.0,14.0,2,7,15,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Sack,,,45.0,55,-1.5132596492767334,False,USC,Western Michigan,7.0,14.0,2,7,48,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,76.0,24,-0.9421288967132568,False,USC,Western Michigan,7.0,14.0,2,9,58,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,77.0,23,-1.6421290636062622,False,USC,Western Michigan,7.0,14.0,2,14,3,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,85.0,15,0.082855224609375,False,USC,Western Michigan,7.0,14.0,2,14,35,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,85.0,15,-0.6794747114181519,False,USC,Western Michigan,7.0,14.0,2,14,47,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,62.0,38,-1.786008596420288,False,USC,Western Michigan,7.0,7.0,1,5,10,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Incompletion,,,62.0,38,-0.898682713508606,False,USC,Western Michigan,7.0,7.0,1,5,18,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Sack,,,81.0,19,-2.1879196166992188,False,USC,Western Michigan,7.0,0.0,1,10,17,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,27.0,73,0.2716989517211914,False,USC,Western Michigan,0.0,0.0,1,13,29,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,31.0,69,0.03690385818481445,False,USC,Western Michigan,0.0,0.0,1,13,49,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935252.0,Pass Reception,,,75.0,25,0.5839148759841919,False,USC,Western Michigan,0.0,0.0,1,14,45,1,Western Michigan,2017,USC,Sam Darnold,2018
+400935260.0,Passing Touchdown,,,11.0,89,2.344498634338379,True,USC,Stanford,35.0,17.0,4,9,42,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,53.0,47,2.98296856880188,False,USC,Stanford,28.0,17.0,4,11,18,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,58.0,42,-0.2533762454986572,False,USC,Stanford,28.0,17.0,4,12,2,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Sack,,,57.0,43,-0.838702917098999,False,USC,Stanford,28.0,17.0,4,12,40,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,87.0,13,1.6801538467407227,False,USC,Stanford,28.0,17.0,3,0,20,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Incompletion,,,66.0,34,-1.7727255821228027,False,USC,Stanford,28.0,17.0,3,5,0,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,73.0,27,0.6369788646697998,False,USC,Stanford,28.0,17.0,3,6,21,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Interception Return,,,32.0,68,-4.605770111083984,False,USC,Stanford,28.0,17.0,3,11,40,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,46.0,54,1.601172685623169,False,USC,Stanford,28.0,17.0,3,12,48,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,48.0,52,-0.5113222599029541,False,USC,Stanford,28.0,17.0,3,13,30,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Passing Touchdown,,,25.0,75,3.687494993209839,True,USC,Stanford,28.0,17.0,2,0,48,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,74.0,26,3.0055336952209473,False,USC,Stanford,21.0,17.0,2,1,6,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Incompletion,,,64.0,36,-0.490814208984375,False,USC,Stanford,21.0,17.0,2,1,41,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,74.0,26,0.5492974519729614,False,USC,Stanford,21.0,17.0,2,2,4,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Interception Return,,,68.0,32,-1.7508991956710815,False,USC,Stanford,21.0,14.0,2,5,54,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Incompletion,,,71.0,29,-0.7145637273788452,False,USC,Stanford,21.0,14.0,2,6,44,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,81.0,19,0.5130168199539185,False,USC,Stanford,21.0,14.0,2,7,11,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Passing Touchdown,,,22.0,78,2.654512882232666,True,USC,Stanford,21.0,14.0,2,11,42,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,34.0,66,2.3332791328430176,False,USC,Stanford,7.0,7.0,1,2,2,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,57.0,43,0.9870884418487549,False,USC,Stanford,7.0,7.0,1,3,38,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,76.0,24,1.784712553024292,False,USC,Stanford,7.0,7.0,1,4,3,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,80.0,20,-0.24062204360961914,False,USC,Stanford,7.0,7.0,1,4,44,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Passing Touchdown,,,4.0,96,1.2210335731506348,True,USC,Stanford,7.0,0.0,1,5,1,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,14.0,86,0.6701617240905762,False,USC,Stanford,0.0,0.0,1,5,38,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,37.0,63,1.063406229019165,False,USC,Stanford,0.0,0.0,1,6,33,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,51.0,49,1.32230544090271,False,USC,Stanford,0.0,0.0,1,6,56,2,Stanford,2017,USC,Sam Darnold,2018
+400935260.0,Pass Reception,,,64.0,36,0.035553932189941406,False,USC,Stanford,0.0,0.0,1,8,21,2,Stanford,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,62.0,62,-1.214876413345337,False,California,USC,30.0,13.0,4,6,40,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Passing Touchdown,,,4.0,4,0.8286843299865723,True,California,USC,30.0,13.0,4,10,56,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,23.0,23,1.7849526405334473,False,California,USC,23.0,13.0,4,11,20,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,32.0,32,-0.8429460525512695,False,California,USC,23.0,13.0,4,12,20,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,33.0,33,-0.5130605697631836,False,California,USC,23.0,13.0,4,12,30,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,45.0,45,0.09108328819274902,False,California,USC,13.0,13.0,3,1,9,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,45.0,45,-0.6571385860443115,False,California,USC,13.0,13.0,3,1,16,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,52.0,52,1.6198731660842896,False,California,USC,13.0,13.0,3,1,49,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,53.0,53,-0.7881287336349487,False,California,USC,13.0,13.0,3,2,13,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,32.0,32,-0.2891256809234619,False,California,USC,13.0,13.0,3,5,53,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,48.0,48,0.6168112754821777,False,California,USC,13.0,13.0,3,7,20,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,62.0,62,0.9516246318817139,False,California,USC,13.0,13.0,3,7,36,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,22.0,22,-0.09126496315002441,False,California,USC,10.0,10.0,2,2,33,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,22.0,22,-0.5130589008331299,False,California,USC,10.0,10.0,2,2,41,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,22.0,22,-0.46248483657836914,False,California,USC,10.0,10.0,2,2,45,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,28.0,28,0.16819047927856445,False,California,USC,10.0,10.0,2,3,1,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,35.0,35,0.4633469581604004,False,California,USC,10.0,10.0,2,3,21,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,49.0,49,1.774881362915039,False,California,USC,10.0,10.0,2,3,40,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Interception Return,,,25.0,25,-4.55738639831543,False,California,USC,10.0,10.0,2,5,41,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,48.0,48,0.7758095264434814,False,California,USC,10.0,10.0,2,6,38,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,59.0,59,1.8324625492095947,False,California,USC,10.0,10.0,2,7,3,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,64.0,64,0.027272939682006836,False,California,USC,10.0,10.0,2,7,59,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,75.0,75,0.41016924381256104,False,California,USC,10.0,10.0,2,8,50,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Passing Touchdown,,,16.0,16,2.2979373931884766,True,California,USC,10.0,10.0,2,12,20,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,32.0,32,1.4419844150543213,False,California,USC,3.0,10.0,2,12,50,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,32.0,32,-0.6543269157409668,False,California,USC,3.0,10.0,2,12,59,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,44.0,44,1.2388029098510742,False,California,USC,3.0,10.0,2,13,20,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,74.0,74,0.7652819156646729,False,California,USC,3.0,10.0,2,14,18,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,19.0,19,-1.2158818244934082,False,California,USC,0.0,3.0,1,4,44,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,19.0,19,-0.03781604766845703,False,California,USC,0.0,3.0,1,6,18,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,34.0,34,-2.6117494106292725,False,California,USC,0.0,3.0,1,7,33,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,34.0,34,-1.7273976802825928,False,California,USC,0.0,3.0,1,7,40,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,52.0,52,-0.2481459379196167,False,California,USC,0.0,3.0,1,8,31,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,48.0,48,0.6436374187469482,False,California,USC,0.0,3.0,1,9,30,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Reception,,,63.0,63,1.7819921970367432,False,California,USC,0.0,3.0,1,9,59,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Sack,,,72.0,72,-1.6623179912567139,False,California,USC,0.0,0.0,1,14,7,4,California,2017,USC,Sam Darnold,2018
+400935279.0,Pass Incompletion,,,72.0,72,-1.0649189949035645,False,California,USC,0.0,0.0,1,14,20,4,California,2017,USC,Sam Darnold,2018
+400935284.0,Fumble Recovery (Opponent),,,75.0,75,-4.283960819244385,False,Washington State,USC,27.0,30.0,4,1,27,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,75.0,75,-0.2640474736690521,False,Washington State,USC,27.0,30.0,4,1,34,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,27.0,27,2.542072057723999,False,Washington State,USC,20.0,27.0,4,5,39,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,42.0,42,4.093570232391357,False,Washington State,USC,20.0,27.0,4,6,5,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,39.0,39,-0.4128682613372803,False,Washington State,USC,20.0,27.0,4,7,28,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,53.0,53,1.469299554824829,False,Washington State,USC,20.0,27.0,4,8,12,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,64.0,64,0.47754454612731934,False,Washington State,USC,20.0,27.0,4,9,18,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,27.0,27,0.7803239822387695,False,Washington State,USC,17.0,20.0,3,2,10,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,50.0,50,-1.8417524099349976,False,Washington State,USC,17.0,20.0,3,3,47,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,50.0,50,-0.8893187046051025,False,Washington State,USC,17.0,20.0,3,3,57,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,72.0,72,-1.6469918489456177,False,Washington State,USC,17.0,20.0,3,6,52,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,77.0,77,-0.6741788983345032,False,Washington State,USC,17.0,20.0,3,7,40,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,90.0,90,0.7267271876335144,False,Washington State,USC,17.0,20.0,3,7,51,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,86.0,86,-0.7739383578300476,False,Washington State,USC,17.0,17.0,3,14,0,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,80.0,80,-0.20080003142356873,False,Washington State,USC,17.0,10.0,2,5,43,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,80.0,80,-0.9854120016098022,False,Washington State,USC,17.0,10.0,2,5,57,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,80.0,80,-0.5315085053443909,False,Washington State,USC,17.0,10.0,2,6,1,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,2.0,2,-0.6077003479003906,False,Washington State,USC,14.0,10.0,2,10,29,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,92.0,92,0.45348411798477173,False,Washington State,USC,7.0,10.0,2,12,47,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Interception Return,,,64.0,64,-4.064926624298096,False,Washington State,USC,7.0,10.0,2,14,1,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Sack,,,41.0,55,1.534907579421997,False,Washington State,USC,7.0,3.0,1,2,3,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,49.0,49,-1.8778578042984009,False,Washington State,USC,7.0,3.0,1,3,58,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,52.0,52,-0.6339247226715088,False,Washington State,USC,7.0,3.0,1,4,31,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,76.0,76,2.234157085418701,False,Washington State,USC,7.0,3.0,1,4,45,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,76.0,76,2.174452304840088,False,Washington State,USC,7.0,3.0,1,4,45,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,38.0,38,0.3613121509552002,False,Washington State,USC,0.0,3.0,1,9,25,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,44.0,44,0.19617319107055664,False,Washington State,USC,0.0,3.0,1,9,54,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,59.0,59,0.2301579713821411,False,Washington State,USC,0.0,3.0,1,10,46,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Incompletion,,,59.0,59,-0.5775507688522339,False,Washington State,USC,0.0,3.0,1,10,58,5,Washington State,2017,USC,Sam Darnold,2018
+400935284.0,Pass Reception,,,75.0,75,1.2079293727874756,False,Washington State,USC,0.0,3.0,1,11,24,5,Washington State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,44.0,56,2.2435312271118164,False,USC,Oregon State,38.0,10.0,4,6,11,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,65.0,35,-0.13806772232055664,False,USC,Oregon State,28.0,10.0,4,14,6,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,50.0,50,-0.802290678024292,False,USC,Oregon State,28.0,10.0,4,14,6,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,50.0,50,2.6950016021728516,False,USC,Oregon State,28.0,10.0,4,14,6,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,13.0,87,-0.565762996673584,False,USC,Oregon State,28.0,10.0,4,14,6,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,94.0,6,-0.8110859394073486,False,USC,Oregon State,28.0,3.0,3,3,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,92.0,8,1.2897109985351562,False,USC,Oregon State,28.0,3.0,3,3,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Fumble Recovery (Own),,,78.0,22,-2.4280593395233154,False,USC,Oregon State,28.0,3.0,3,3,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,99.0,1,-0.0708024799823761,False,USC,Oregon State,28.0,3.0,3,3,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Passing Touchdown,,,30.0,70,1.8647494316101074,True,USC,Oregon State,28.0,3.0,3,8,57,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,68.0,32,-0.6545686721801758,False,USC,Oregon State,21.0,3.0,3,12,44,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,68.0,32,1.650083065032959,False,USC,Oregon State,21.0,3.0,3,12,44,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,46.0,54,-0.29845213890075684,False,USC,Oregon State,21.0,3.0,3,12,44,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,38.0,62,2.6226258277893066,False,USC,Oregon State,21.0,3.0,3,12,44,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,72.0,28,0.1740483045578003,False,USC,Oregon State,21.0,3.0,2,1,2,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,64.0,36,-0.15921032428741455,False,USC,Oregon State,21.0,3.0,2,1,2,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,64.0,36,-0.23437947034835815,False,USC,Oregon State,21.0,3.0,2,1,2,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,84.0,16,1.2311879396438599,False,USC,Oregon State,21.0,3.0,2,3,23,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,65.0,35,0.6061094999313354,False,USC,Oregon State,21.0,3.0,2,3,23,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,47.0,53,-0.4697531461715698,False,USC,Oregon State,21.0,3.0,2,3,23,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Interception Return,,,46.0,54,-3.5122218132019043,False,USC,Oregon State,21.0,3.0,2,3,23,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Passing Touchdown,,,16.0,84,1.7554020881652832,True,USC,Oregon State,21.0,3.0,2,10,1,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,58.0,42,1.7429258823394775,False,USC,Oregon State,14.0,3.0,2,13,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,47.0,53,-0.6033966541290283,False,USC,Oregon State,14.0,3.0,2,13,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,47.0,53,-0.5498812198638916,False,USC,Oregon State,14.0,3.0,2,13,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,43.0,57,-1.8925769329071045,False,USC,Oregon State,14.0,3.0,2,13,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,39.0,61,1.0153710842132568,False,USC,Oregon State,14.0,3.0,2,13,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,77.0,23,-0.32457220554351807,False,USC,Oregon State,14.0,3.0,2,14,12,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,77.0,23,1.3171476125717163,False,USC,Oregon State,14.0,3.0,2,14,12,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,58.0,42,-0.8975756168365479,False,USC,Oregon State,14.0,3.0,2,14,12,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Incompletion,,,79.0,21,-1.3640456199645996,False,USC,Oregon State,14.0,0.0,1,3,49,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,32.0,68,0.930626392364502,False,USC,Oregon State,7.0,0.0,1,10,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,9.0,91,0.1652531623840332,False,USC,Oregon State,7.0,0.0,1,10,7,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Passing Touchdown,,,37.0,63,2.873812675476074,True,USC,Oregon State,7.0,0.0,1,11,29,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,66.0,34,-0.21163725852966309,False,USC,Oregon State,0.0,0.0,1,15,0,6,Oregon State,2017,USC,Sam Darnold,2018
+400935290.0,Pass Reception,,,46.0,54,-2.6492228507995605,False,USC,Oregon State,0.0,0.0,1,15,0,6,Oregon State,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,79.0,21,0.8387384414672852,False,USC,Utah,21.0,21.0,4,7,30,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Passing Touchdown,,,1.0,99,0.7449536323547363,True,USC,Utah,21.0,21.0,4,13,34,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,25.0,75,2.0716421604156494,False,USC,Utah,14.0,21.0,4,14,0,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,41.0,59,2.566521644592285,False,USC,Utah,14.0,21.0,4,14,8,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,41.0,59,-0.6207985877990723,False,USC,Utah,14.0,21.0,4,14,32,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,48.0,52,0.9281655550003052,False,USC,Utah,14.0,21.0,4,14,54,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,52.0,48,0.1527082920074463,False,USC,Utah,14.0,21.0,3,0,0,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Passing Touchdown,,,17.0,83,3.61712384223938,True,USC,Utah,14.0,21.0,3,5,56,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,27.0,73,3.7672886848449707,False,USC,Utah,7.0,21.0,3,6,25,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,28.0,72,-0.8600983619689941,False,USC,Utah,7.0,21.0,3,7,44,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,45.0,55,1.5314295291900635,False,USC,Utah,7.0,21.0,3,8,28,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,68.0,32,3.2332844734191895,False,USC,Utah,7.0,21.0,3,8,48,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,81.0,19,1.9770801067352295,False,USC,Utah,7.0,21.0,3,10,10,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,98.0,2,1.582066535949707,False,USC,Utah,7.0,21.0,3,11,11,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,98.0,2,-0.5730466842651367,False,USC,Utah,7.0,21.0,3,11,25,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,33.0,67,-4.230240821838379,False,USC,Utah,7.0,21.0,2,0,21,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,36.0,64,-0.4653506278991699,False,USC,Utah,7.0,21.0,2,0,27,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,68.0,32,1.6233868598937988,False,USC,Utah,7.0,21.0,2,0,52,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,80.0,20,0.27622121572494507,False,USC,Utah,7.0,21.0,2,1,1,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,53.0,47,-0.6298589110374451,False,USC,Utah,7.0,21.0,2,2,32,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,61.0,39,0.7384613752365112,False,USC,Utah,7.0,21.0,2,3,40,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,75.0,25,0.9387520551681519,False,USC,Utah,7.0,21.0,2,4,44,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,42.0,58,1.4865303039550781,False,USC,Utah,7.0,14.0,2,11,11,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,49.0,51,0.3637901544570923,False,USC,Utah,7.0,14.0,2,11,55,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,75.0,35,0.34063899517059326,False,USC,Utah,7.0,14.0,2,12,47,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,80.0,20,-1.2557907104492188,False,USC,Utah,7.0,7.0,2,14,55,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,80.0,20,-0.9483863711357117,False,USC,Utah,7.0,7.0,1,0,0,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,80.0,20,-0.7028070688247681,False,USC,Utah,7.0,7.0,1,0,6,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Passing Touchdown,,,52.0,48,4.959445953369141,True,USC,Utah,7.0,7.0,1,4,47,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,52.0,48,-1.4955862760543823,False,USC,Utah,0.0,7.0,1,4,56,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,73.0,27,2.2505977153778076,False,USC,Utah,0.0,7.0,1,5,27,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,44.0,56,-2.0733907222747803,False,USC,Utah,0.0,0.0,1,9,29,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,49.0,51,-0.6914358139038086,False,USC,Utah,0.0,0.0,1,10,27,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,59.0,41,0.6535143852233887,False,USC,Utah,0.0,0.0,1,11,29,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,78.0,22,1.393432855606079,False,USC,Utah,0.0,0.0,1,11,40,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Incompletion,,,30.0,70,-0.5850734710693359,False,USC,Utah,0.0,0.0,1,13,9,7,Utah,2017,USC,Sam Darnold,2018
+400935297.0,Pass Reception,,,75.0,25,1.939807415008545,False,USC,Utah,0.0,0.0,1,14,24,7,Utah,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,15.0,15,-1.3115861415863037,False,Arizona State,USC,38.0,17.0,4,10,41,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,20.0,20,-0.18336772918701172,False,Arizona State,USC,38.0,17.0,4,11,20,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,20.0,20,-0.5129179954528809,False,Arizona State,USC,38.0,17.0,4,11,28,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,26.0,26,1.2969622611999512,False,Arizona State,USC,38.0,17.0,4,11,55,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,39.0,39,0.27574849128723145,False,Arizona State,USC,38.0,17.0,4,13,45,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,30.0,30,0.5782947540283203,False,Arizona State,USC,38.0,17.0,3,5,40,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,76.0,76,1.7461979389190674,False,Arizona State,USC,31.0,17.0,3,10,42,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,33.0,33,-0.6402172446250916,False,Arizona State,USC,28.0,3.0,2,0,58,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,33.0,33,-0.3590407371520996,False,Arizona State,USC,28.0,3.0,2,1,3,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,34.0,34,-0.3169203996658325,False,Arizona State,USC,28.0,3.0,2,1,9,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,37.0,37,0.1942148208618164,False,Arizona State,USC,28.0,3.0,2,1,52,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,52.0,52,-0.29865097999572754,False,Arizona State,USC,28.0,3.0,2,2,22,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,60.0,60,-0.10453665256500244,False,Arizona State,USC,28.0,3.0,2,3,15,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Passing Touchdown,,,19.0,19,3.6147654056549072,True,Arizona State,USC,28.0,3.0,2,6,2,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,45.0,45,1.19246506690979,False,Arizona State,USC,21.0,3.0,2,7,41,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,88.0,88,1.726454734802246,False,Arizona State,USC,21.0,3.0,2,8,44,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Sack,,,36.0,36,-2.4274821281433105,False,Arizona State,USC,21.0,3.0,2,10,11,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,36.0,36,-1.4686522483825684,False,Arizona State,USC,21.0,3.0,2,10,19,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,52.0,52,0.3267326354980469,False,Arizona State,USC,21.0,3.0,2,12,25,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Passing Touchdown,,,42.0,42,3.7510008811950684,True,Arizona State,USC,14.0,3.0,1,2,25,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,42.0,42,-0.9548730850219727,False,Arizona State,USC,7.0,3.0,1,2,36,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,72.0,72,-1.0279920101165771,False,Arizona State,USC,7.0,3.0,1,3,3,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Sack,,,69.0,69,-2.466790199279785,False,Arizona State,USC,7.0,3.0,1,6,0,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,75.0,75,0.04629993438720703,False,Arizona State,USC,7.0,3.0,1,6,40,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,75.0,75,-0.6074904203414917,False,Arizona State,USC,7.0,3.0,1,6,46,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,51.0,51,-1.6802767515182495,False,Arizona State,USC,7.0,0.0,1,9,30,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Passing Touchdown,,,32.0,32,2.530813694000244,True,Arizona State,USC,7.0,0.0,1,11,27,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,53.0,53,2.134697198867798,False,Arizona State,USC,0.0,0.0,1,11,47,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Incompletion,,,53.0,53,-0.9872478246688843,False,Arizona State,USC,0.0,0.0,1,11,57,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,59.0,59,0.45233654975891113,False,Arizona State,USC,0.0,0.0,1,12,56,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,77.0,77,3.177999496459961,False,Arizona State,USC,0.0,0.0,1,13,40,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Pass Reception,,,85.0,85,-0.5387241840362549,False,Arizona State,USC,0.0,0.0,1,14,18,9,Arizona State,2017,USC,Sam Darnold,2018
+400935306.0,Sack,,,75.0,75,-1.703329086303711,False,Arizona State,USC,0.0,0.0,1,14,50,9,Arizona State,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,64.0,36,1.3749303817749023,False,USC,Arizona,42.0,35.0,4,5,23,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,72.0,28,0.7836955785751343,False,USC,Arizona,35.0,35.0,4,8,18,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,63.0,37,1.7081879377365112,False,USC,Arizona,35.0,35.0,4,8,18,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,46.0,54,3.064695119857788,False,USC,Arizona,35.0,35.0,4,8,18,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,13.0,87,-0.3098325729370117,False,USC,Arizona,35.0,35.0,4,8,18,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Incompletion,,,67.0,33,-1.7171807289123535,False,USC,Arizona,35.0,27.0,4,12,14,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,49.0,51,1.5360184907913208,False,USC,Arizona,28.0,20.0,4,15,0,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,74.0,26,1.6497652530670166,False,USC,Arizona,28.0,20.0,3,1,17,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Sack,,,77.0,23,-1.565765619277954,False,USC,Arizona,28.0,13.0,3,4,22,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,46.0,54,1.5466103553771973,False,USC,Arizona,21.0,6.0,3,6,25,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,95.0,5,2.3303067684173584,False,USC,Arizona,21.0,6.0,3,11,43,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,79.0,21,-1.6559733152389526,False,USC,Arizona,21.0,6.0,3,11,43,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Incompletion,,,52.0,48,2.83086895942688,False,USC,Arizona,21.0,6.0,2,0,1,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,60.0,40,-0.1972792148590088,False,USC,Arizona,21.0,6.0,2,2,11,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Incompletion,,,47.0,53,-0.36625802516937256,False,USC,Arizona,21.0,6.0,2,2,11,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,47.0,53,-0.05041015148162842,False,USC,Arizona,21.0,6.0,2,2,11,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Incompletion,,,37.0,63,-0.6981030106544495,False,USC,Arizona,21.0,6.0,2,2,11,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Passing Touchdown,,,27.0,73,3.2957139015197754,True,USC,Arizona,21.0,3.0,2,6,4,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,46.0,54,1.4797625541687012,False,USC,Arizona,14.0,3.0,2,7,37,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Passing Touchdown,,,22.0,78,3.525559425354004,True,USC,Arizona,14.0,3.0,2,8,50,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,51.0,49,0.612339973449707,False,USC,Arizona,7.0,3.0,2,12,26,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,44.0,56,2.1471221446990967,False,USC,Arizona,7.0,3.0,2,12,26,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Incompletion,,,27.0,73,-0.6385948657989502,False,USC,Arizona,7.0,3.0,2,12,26,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,27.0,73,0.08119010925292969,False,USC,Arizona,7.0,3.0,2,12,26,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Interception Return,,,1.0,99,-6.306601047515869,False,USC,Arizona,7.0,0.0,1,3,20,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,55.0,45,1.103196620941162,False,USC,Arizona,7.0,0.0,1,7,49,10,Arizona,2017,USC,Sam Darnold,2018
+400935311.0,Pass Reception,,,22.0,78,0.06554746627807617,False,USC,Arizona,0.0,0.0,1,15,0,10,Arizona,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,22.0,22,-2.2452383041381836,False,Colorado,USC,38.0,24.0,4,5,39,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,26.0,26,-0.6090865135192871,False,Colorado,USC,38.0,24.0,4,5,55,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,42.0,42,-1.814319133758545,False,Colorado,USC,38.0,24.0,4,7,34,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Fumble Recovery (Own),,,55.0,55,-1.8159464597702026,False,Colorado,USC,30.0,17.0,4,12,36,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,63.0,63,2.3955163955688477,False,Colorado,USC,30.0,17.0,4,12,36,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,48.0,48,1.4921760559082031,False,Colorado,USC,30.0,17.0,4,12,36,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,22.0,22,-0.5724315643310547,False,Colorado,USC,30.0,17.0,4,12,36,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,8.0,8,-1.253232717514038,False,Colorado,USC,27.0,14.0,3,5,22,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,80.0,80,-1.0682449340820312,False,Colorado,USC,27.0,7.0,3,7,43,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,80.0,80,0.07289010286331177,False,Colorado,USC,27.0,7.0,3,7,43,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,78.0,78,1.1671438217163086,False,Colorado,USC,20.0,0.0,3,11,46,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,66.0,66,2.161747932434082,False,Colorado,USC,20.0,0.0,3,11,46,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,70.0,70,-0.21270644664764404,False,Colorado,USC,14.0,0.0,2,1,40,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,66.0,66,-0.4736819267272949,False,Colorado,USC,14.0,0.0,2,1,40,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,66.0,66,-0.9440194368362427,False,Colorado,USC,14.0,0.0,2,1,40,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Passing Touchdown,,,18.0,18,2.0820508003234863,True,Colorado,USC,14.0,0.0,2,7,51,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,64.0,64,-0.6676745414733887,False,Colorado,USC,7.0,0.0,2,11,8,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,56.0,56,1.4792993068695068,False,Colorado,USC,7.0,0.0,2,11,8,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,27.0,27,1.5907363891601562,False,Colorado,USC,7.0,0.0,2,11,8,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Passing Touchdown,,,10.0,10,2.6582493782043457,True,Colorado,USC,7.0,0.0,2,11,59,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,25.0,25,-0.7816357612609863,False,Colorado,USC,0.0,0.0,2,13,9,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,25.0,25,2.008800983428955,False,Colorado,USC,0.0,0.0,2,13,9,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,10.0,10,-0.8459162712097168,False,Colorado,USC,0.0,0.0,2,13,9,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,60.0,60,-0.0935964584350586,False,Colorado,USC,0.0,0.0,2,14,42,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,56.0,56,2.1687161922454834,False,Colorado,USC,0.0,0.0,2,14,42,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,81.0,81,0.8961309194564819,False,Colorado,USC,0.0,0.0,1,3,56,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,70.0,70,-0.8133118152618408,False,Colorado,USC,0.0,0.0,1,3,56,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,64.0,64,-1.8293601274490356,False,Colorado,USC,0.0,0.0,1,3,56,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,73.0,73,1.9810237884521484,False,Colorado,USC,0.0,0.0,1,9,42,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,68.0,68,0.36947929859161377,False,Colorado,USC,0.0,0.0,1,9,42,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,56.0,56,0.015677571296691895,False,Colorado,USC,0.0,0.0,1,9,42,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,55.0,55,0.772167444229126,False,Colorado,USC,0.0,0.0,1,9,42,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,80.0,80,0.13952727615833282,False,Colorado,USC,0.0,0.0,1,15,0,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Reception,,,75.0,75,3.0162720680236816,False,Colorado,USC,0.0,0.0,1,15,0,11,Colorado,2017,USC,Sam Darnold,2018
+400935319.0,Pass Incompletion,,,22.0,22,-3.6935393810272217,False,Colorado,USC,0.0,0.0,1,15,0,11,Colorado,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,13.0,87,0.9702801704406738,False,USC,UCLA,21.0,17.0,4,5,35,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,29.0,71,0.8323869705200195,False,USC,UCLA,21.0,17.0,4,6,45,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,69.0,31,2.3555798530578613,False,USC,UCLA,21.0,17.0,4,8,6,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Sack,,,39.0,61,-1.8218436241149902,False,USC,UCLA,21.0,14.0,4,13,20,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,29.0,71,-0.5420966148376465,False,USC,UCLA,21.0,14.0,4,14,20,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,51.0,49,1.6932828426361084,False,USC,UCLA,21.0,14.0,4,14,40,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,70.0,30,0.7891697883605957,False,USC,UCLA,21.0,14.0,3,0,35,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,52.0,48,-0.8957347869873047,False,USC,UCLA,21.0,14.0,3,1,42,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,25.0,75,1.8987526893615723,False,USC,UCLA,14.0,7.0,3,6,10,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,44.0,56,0.9443247318267822,False,USC,UCLA,14.0,7.0,3,7,25,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,74.0,26,-1.2340599298477173,False,USC,UCLA,14.0,7.0,3,9,44,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,74.0,26,-1.055175542831421,False,USC,UCLA,14.0,7.0,3,9,50,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,39.0,61,3.6554219722747803,False,USC,UCLA,14.0,7.0,2,0,10,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,45.0,55,0.3663651943206787,False,USC,UCLA,14.0,7.0,2,0,22,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,60.0,40,0.204268217086792,False,USC,UCLA,14.0,7.0,2,0,30,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Interception Return,,,30.0,65,-0.4816319942474365,False,USC,UCLA,14.0,7.0,2,3,49,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,32.0,68,-0.6215224266052246,False,USC,UCLA,14.0,7.0,2,4,47,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,24.0,83,0.44657301902770996,False,USC,UCLA,14.0,7.0,2,5,15,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,37.0,63,-0.8639278411865234,False,USC,UCLA,14.0,7.0,2,7,1,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,54.0,46,1.0093250274658203,False,USC,UCLA,14.0,7.0,2,8,0,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,76.0,24,1.6552387475967407,False,USC,UCLA,14.0,7.0,2,8,30,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Incompletion,,,40.0,60,-1.7613544464111328,False,USC,UCLA,14.0,7.0,2,11,10,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,70.0,30,0.5680112838745117,False,USC,UCLA,14.0,7.0,2,12,50,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,17.0,83,1.0352373123168945,False,USC,UCLA,7.0,7.0,1,4,20,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,56.0,44,-0.1990804672241211,False,USC,UCLA,7.0,7.0,1,6,0,12,UCLA,2017,USC,Sam Darnold,2018
+400935323.0,Pass Reception,,,54.0,46,1.0704820156097412,False,USC,UCLA,0.0,0.0,1,12,30,12,UCLA,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,18.0,18,-1.6249539852142334,False,Ohio State,USC,7.0,24.0,4,0,31,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,18.0,18,-0.5027674436569214,False,Ohio State,USC,7.0,24.0,4,0,37,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Sack,,,11.0,11,-1.3660693168640137,False,Ohio State,USC,7.0,24.0,4,1,1,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,17.0,17,2.8475558757781982,False,Ohio State,USC,7.0,24.0,4,1,37,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Sack,,,19.0,19,-1.6397705078125,False,Ohio State,USC,7.0,24.0,4,2,11,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,44.0,44,2.1029369831085205,False,Ohio State,USC,7.0,24.0,4,2,29,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,47.0,47,-0.37006258964538574,False,Ohio State,USC,7.0,24.0,4,3,0,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,54.0,54,2.366032600402832,False,Ohio State,USC,7.0,24.0,4,3,34,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,65.0,65,-0.0731048732995987,False,Ohio State,USC,7.0,24.0,4,4,5,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Sack,,,60.0,60,-1.3283401727676392,False,Ohio State,USC,7.0,24.0,4,5,27,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,71.0,71,0.28262490034103394,False,Ohio State,USC,7.0,24.0,4,6,31,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Fumble Recovery (Opponent),,,12.0,12,-6.0986151695251465,False,Ohio State,USC,7.0,24.0,4,8,4,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,57.0,57,2.3652830123901367,False,Ohio State,USC,7.0,24.0,4,8,30,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,63.0,63,0.2800939679145813,False,Ohio State,USC,7.0,24.0,4,9,4,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,73.0,73,0.6779024600982666,False,Ohio State,USC,7.0,24.0,4,9,35,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,16.0,16,-1.0361042022705078,False,Ohio State,USC,7.0,24.0,4,13,39,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,53.0,53,4.27961540222168,False,Ohio State,USC,7.0,24.0,4,14,52,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,76.0,76,1.5345637798309326,False,Ohio State,USC,7.0,24.0,3,1,39,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Sack,,,33.0,33,-3.020199775695801,False,Ohio State,USC,7.0,24.0,3,5,3,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,33.0,33,-1.0744553804397583,False,Ohio State,USC,7.0,24.0,3,5,13,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,69.0,69,3.5648255348205566,False,Ohio State,USC,7.0,24.0,3,6,56,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,64.0,64,-0.8241720795631409,False,Ohio State,USC,7.0,24.0,3,7,6,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,58.0,58,-0.6291056871414185,False,Ohio State,USC,7.0,24.0,3,11,51,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,58.0,58,-0.8136953711509705,False,Ohio State,USC,7.0,24.0,3,12,1,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,94.0,94,-0.13732053339481354,False,Ohio State,USC,7.0,24.0,2,0,52,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,15.0,15,1.7310328483581543,False,Ohio State,USC,0.0,24.0,2,2,47,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Sack,,,59.0,59,-1.3086988925933838,False,Ohio State,USC,0.0,24.0,2,3,35,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,58.0,58,-0.6804683208465576,False,Ohio State,USC,0.0,24.0,2,4,8,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,58.0,58,-0.3891145586967468,False,Ohio State,USC,0.0,24.0,2,4,16,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,90.0,90,2.8615493774414062,False,Ohio State,USC,0.0,24.0,2,4,36,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,90.0,90,-0.5689740777015686,False,Ohio State,USC,0.0,24.0,2,4,42,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Fumble Recovery (Opponent),,,23.0,23,-5.557108402252197,False,Ohio State,USC,0.0,17.0,2,6,12,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,28.0,28,-0.06455826759338379,False,Ohio State,USC,0.0,17.0,2,6,58,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,42.0,42,1.0275733470916748,False,Ohio State,USC,0.0,17.0,2,8,1,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,78.0,78,1.4844470024108887,False,Ohio State,USC,0.0,17.0,2,9,36,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,83.0,83,1.2163233757019043,False,Ohio State,USC,0.0,17.0,2,10,10,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,83.0,83,-0.7606178522109985,False,Ohio State,USC,0.0,17.0,2,10,24,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,55.0,55,-1.5084097385406494,False,Ohio State,USC,0.0,17.0,2,12,55,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Interception Return Touchdown,,,82.0,82,-6.283667087554932,True,Ohio State,USC,0.0,17.0,2,14,42,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,43.0,43,-2.02565336227417,False,Ohio State,USC,0.0,7.0,1,5,9,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,48.0,48,-0.30718374252319336,False,Ohio State,USC,0.0,7.0,1,5,48,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,48.0,48,-0.619431734085083,False,Ohio State,USC,0.0,7.0,1,5,58,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,62.0,62,1.0157406330108643,False,Ohio State,USC,0.0,7.0,1,6,23,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,45.0,45,-1.4139772653579712,False,Ohio State,USC,0.0,7.0,1,9,15,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Sack,,,38.0,38,-1.8080472946166992,False,Ohio State,USC,0.0,7.0,1,9,53,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,64.0,64,1.9218039512634277,False,Ohio State,USC,0.0,7.0,1,10,58,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Reception,,,78.0,78,2.4979305267333984,False,Ohio State,USC,0.0,7.0,1,11,27,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Pass Incompletion,,,78.0,78,-1.1899657249450684,False,Ohio State,USC,0.0,7.0,1,11,36,1,Ohio State,2017,USC,Sam Darnold,2018
+400953404.0,Fumble Recovery (Opponent),,,82.0,82,-4.040842533111572,False,Ohio State,USC,0.0,0.0,1,13,37,1,Ohio State,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,32.0,68,0.8845686912536621,False,USC,Stanford,31.0,28.0,4,0,28,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,32.0,68,0.7393817901611328,False,USC,Stanford,24.0,21.0,4,6,10,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,44.0,56,0.5546224117279053,False,USC,Stanford,24.0,21.0,4,6,47,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,98.0,2,3.9895169734954834,False,USC,Stanford,24.0,21.0,4,7,12,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Incompletion,,,97.0,3,-0.9206835031509399,False,USC,Stanford,24.0,21.0,4,14,14,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Sack,,,89.0,11,-1.9177489280700684,False,USC,Stanford,24.0,21.0,4,14,49,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,50.0,50,-4.676422119140625,False,USC,Stanford,17.0,14.0,3,5,0,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,56.0,44,1.5292363166809082,False,USC,Stanford,17.0,14.0,3,6,12,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Incompletion,,,61.0,39,-0.6292681694030762,False,USC,Stanford,17.0,14.0,3,6,59,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,67.0,33,-0.13303512334823608,False,USC,Stanford,17.0,14.0,3,9,52,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Passing Touchdown,,,19.0,81,3.413487434387207,True,USC,Stanford,17.0,7.0,2,3,2,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,53.0,47,-0.13082432746887207,False,USC,Stanford,10.0,7.0,2,4,37,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,93.0,7,3.054424524307251,False,USC,Stanford,10.0,7.0,2,5,2,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Incompletion,,,93.0,7,-0.7246643900871277,False,USC,Stanford,10.0,7.0,2,5,10,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,54.0,46,2.294252872467041,False,USC,Stanford,7.0,7.0,2,12,53,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,65.0,35,-0.5576074123382568,False,USC,Stanford,7.0,7.0,2,14,25,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Incompletion,,,65.0,35,-0.6579936742782593,False,USC,Stanford,7.0,7.0,2,14,35,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Passing Touchdown,,,7.0,93,1.7346816062927246,True,USC,Stanford,7.0,0.0,1,4,38,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,24.0,76,1.228846549987793,False,USC,Stanford,0.0,0.0,1,5,37,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,68.0,80,0.56915283203125,False,USC,Stanford,0.0,0.0,1,8,19,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Incompletion,,,43.0,57,-1.5080281496047974,False,USC,Stanford,0.0,0.0,1,10,50,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Incompletion,,,43.0,57,-0.8860093355178833,False,USC,Stanford,0.0,0.0,1,10,54,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,49.0,51,-0.4882957935333252,False,USC,Stanford,0.0,0.0,1,12,31,14,Stanford,2017,USC,Sam Darnold,2018
+400955149.0,Pass Reception,,,64.0,36,0.8629424571990967,False,USC,Stanford,0.0,0.0,1,14,27,14,Stanford,2017,USC,Sam Darnold,2018

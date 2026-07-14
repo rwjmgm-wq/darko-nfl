@@ -1,0 +1,13 @@
+season,player_name,college,draft_year,down,distance,yards_gained,play_type,epa,scoring,yards_to_goal
+2021,Drake Maye,North Carolina,2024,,,-2,pass,-3.935457468032837,False,1.0
+2021,Drake Maye,North Carolina,2024,,,46,pass,2.872180223464966,False,51.0
+2021,Drake Maye,North Carolina,2024,,,4,pass,0.6392927169799805,True,4.0
+2021,Drake Maye,North Carolina,2024,,,-4,pass,-1.1172373294830322,False,70.0
+2021,Drake Maye,North Carolina,2024,,,9,pass,0.16488146781921387,False,74.0
+2021,Drake Maye,North Carolina,2024,,,6,pass,1.3269646167755127,False,65.0
+2021,Drake Maye,North Carolina,2024,,,0,pass,-0.8457512855529785,False,38.0
+2021,Drake Maye,North Carolina,2024,,,9,pass,1.4144062995910645,False,38.0
+2021,Drake Maye,North Carolina,2024,,,0,pass,-0.5981440544128418,False,29.0
+2021,Drake Maye,North Carolina,2024,,,4,pass,-0.06281661987304688,False,29.0
+2021,Drake Maye,North Carolina,2024,,,11,pass,-4.598979473114014,False,25.0
+2021,Drake Maye,North Carolina,2024,,,0,pass,-0.07991345226764679,False,75.0

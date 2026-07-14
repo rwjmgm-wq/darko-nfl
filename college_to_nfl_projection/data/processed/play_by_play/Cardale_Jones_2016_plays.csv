@@ -1,0 +1,287 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400756905101905501,Passing Touchdown,1,10,24,24,2.681437948606975,True,Virginia Tech,Ohio State,7,0,1,9,44,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101885901,Pass Incompletion,1,10,39,39,-0.814236079442537,False,Virginia Tech,Ohio State,0,0,1,11,40,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101879901,Pass Reception,3,5,59,59,2.987284358873347,False,Virginia Tech,Ohio State,0,0,1,12,0,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101899901,Pass Reception,4,5,34,34,2.2243451480153382,False,Virginia Tech,Ohio State,0,0,1,10,0,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101989401,Pass Incompletion,3,12,26,26,-0.947585559224594,False,Virginia Tech,Ohio State,14,0,1,1,5,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101957701,Pass Incompletion,1,10,67,67,-0.956890163923906,False,Virginia Tech,Ohio State,14,0,1,4,22,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101985401,Pass Reception,2,8,22,22,0.163940668249122,False,Virginia Tech,Ohio State,14,0,1,1,45,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101959901,Pass Reception,3,7,64,64,2.52602097607431,False,Virginia Tech,Ohio State,14,0,1,4,0,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905101976901,Pass Reception,1,5,48,48,0.133465155774225,False,Virginia Tech,Ohio State,14,0,1,2,30,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905102889201,Pass Interception Return,3,4,58,58,-1.0701249239139656,False,Virginia Tech,Ohio State,14,7,2,11,7,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905102954401,Pass Incompletion,3,5,49,49,-0.9656016483551557,False,Virginia Tech,Ohio State,14,10,2,4,55,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905102954101,Pass Incompletion,2,5,49,49,-1.192809583864598,False,Virginia Tech,Ohio State,14,10,2,4,58,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905102937901,Pass Incompletion,2,8,73,73,-0.4788075161366292,False,Virginia Tech,Ohio State,14,10,2,6,20,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905103864601,Passing Touchdown,1,10,54,54,4.184897537685208,True,Virginia Tech,Ohio State,21,17,3,13,53,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905103926901,Pass Reception,1,10,84,84,0.707535595975485,False,Virginia Tech,Ohio State,21,17,3,7,30,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905104876401,Pass Incompletion,2,10,25,25,-0.6084005148647674,False,Virginia Tech,Ohio State,28,17,4,12,35,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905104875901,Pass Incompletion,1,10,25,25,-0.4522778946200265,False,Virginia Tech,Ohio State,28,17,4,12,40,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905104849901,Pass Reception,2,11,76,76,3.2660422292706013,False,Virginia Tech,Ohio State,28,17,4,15,0,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400756905104918501,Passing Touchdown,1,10,26,26,2.7200021224081805,True,Virginia Tech,Ohio State,42,17,4,8,14,1,Virginia Tech,2015,Ohio State,Cardale Jones,2016
+400763505101905801,Pass Incompletion,4,13,29,71,-1.6250269233758772,False,Ohio State,Hawai'i,0,0,1,9,41,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505101889401,Pass Incompletion,1,15,31,69,-0.6388945866430155,False,Ohio State,Hawai'i,0,0,1,11,5,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505101885101,Pass Reception,3,11,45,55,2.9383503167436658,False,Ohio State,Hawai'i,0,0,1,11,48,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505101928101,Pass Reception,1,10,63,37,1.1271435896848112,False,Ohio State,Hawai'i,0,0,1,7,18,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505101949701,Pass Reception,2,10,30,70,0.8419934828773705,False,Ohio State,Hawai'i,0,0,1,5,2,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505101964001,Pass Reception,2,3,5,95,1.289210960172086,False,Ohio State,Hawai'i,0,0,1,3,59,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102866801,Pass Incompletion,2,10,57,43,-0.851527740432628,False,Ohio State,Hawai'i,7,0,2,13,31,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102866501,Pass Incompletion,1,10,57,43,-1.15714755134967,False,Ohio State,Hawai'i,7,0,2,13,34,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505101997201,Pass Reception,1,10,90,10,0.06984181917010533,False,Ohio State,Hawai'i,7,0,1,0,27,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102884301,Pass Reception,1,10,52,48,1.244039814572,False,Ohio State,Hawai'i,7,0,2,11,56,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102928401,Pass Reception,1,10,35,65,-0.0672821190442117,False,Ohio State,Hawai'i,7,0,2,7,15,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102937301,Pass Incompletion,1,10,23,77,-0.4181180581276075,False,Ohio State,Hawai'i,7,0,2,6,26,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102945601,Pass Reception,1,15,17,83,0.23395073064575,False,Ohio State,Hawai'i,7,0,2,5,43,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102987801,Pass Reception,1,10,62,38,1.0296364367865516,False,Ohio State,Hawai'i,14,0,2,1,21,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102988301,Pass Incompletion,1,10,51,49,-1.1301991718133413,False,Ohio State,Hawai'i,14,0,2,1,16,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102988801,Pass Incompletion,2,10,51,49,-1.005741646158441,False,Ohio State,Hawai'i,14,0,2,1,11,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102989401,Pass Incompletion,3,10,51,49,-0.673481036981288,False,Ohio State,Hawai'i,14,0,2,1,5,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102985501,Pass Reception,1,10,72,28,0.9026290715865617,False,Ohio State,Hawai'i,14,0,2,1,44,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102999402,Pass Incompletion,4,2,36,64,-2.297246944315553,False,Ohio State,Hawai'i,14,0,2,0,5,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102999401,Pass Incompletion,3,2,36,64,-1.059090613294249,False,Ohio State,Hawai'i,14,0,2,0,5,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102998901,Pass Incompletion,2,2,36,64,-0.941995347486305,False,Ohio State,Hawai'i,14,0,2,0,10,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505102998401,Pass Reception,1,10,44,56,0.7112152626061283,False,Ohio State,Hawai'i,14,0,2,0,15,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505103857901,Pass Reception,2,10,75,25,-0.34710487712173865,False,Ohio State,Hawai'i,14,0,3,14,20,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505103855001,Pass Reception,1,10,75,25,-0.7029700220436519,False,Ohio State,Hawai'i,14,0,3,14,49,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505103895501,Pass Incompletion,3,6,71,29,-0.3146897268978579,False,Ohio State,Hawai'i,14,0,3,10,44,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505103894701,Pass Incompletion,2,6,71,29,-0.6509048869110972,False,Ohio State,Hawai'i,14,0,3,10,52,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104885401,Pass Reception,2,9,28,72,0.182789697239123,False,Ohio State,Hawai'i,17,0,4,11,45,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104907601,Pass Reception,3,4,5,95,1.769828226991446,False,Ohio State,Hawai'i,17,0,4,9,23,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104888601,Pass Incompletion,3,3,22,78,-0.6477431808999617,False,Ohio State,Hawai'i,17,0,4,11,13,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505103998701,Pass Reception,2,9,75,25,0.5429299417218258,False,Ohio State,Hawai'i,17,0,3,0,12,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104958101,Pass Reception,1,9,9,91,-0.014339867883452,False,Ohio State,Hawai'i,31,0,4,4,18,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104949801,Pass Reception,1,10,34,66,0.28910339426521,False,Ohio State,Hawai'i,31,0,4,5,1,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104946101,Pass Reception,1,10,45,55,0.539787924153398,False,Ohio State,Hawai'i,31,0,4,5,38,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763505104956201,Pass Reception,1,10,22,78,0.223384943001992,False,Ohio State,Hawai'i,31,0,4,4,37,2,Hawai'i,2015,Ohio State,Cardale Jones,2016
+400763514101856301,Pass Incompletion,1,15,70,30,-0.5733347570246048,False,Ohio State,Northern Illinois,0,0,1,14,36,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101865101,Pass Interception Return,3,15,70,30,0.17211552427127863,False,Ohio State,Northern Illinois,0,0,1,13,48,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101896901,Pass Reception,3,3,46,54,-0.6661365039776399,False,Ohio State,Northern Illinois,0,7,1,10,30,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101916302,Pass Incompletion,2,5,43,57,-1.0991546213533567,False,Ohio State,Northern Illinois,0,7,1,8,36,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101937301,Pass Incompletion,3,6,14,86,-0.4632482499979864,False,Ohio State,Northern Illinois,0,7,1,6,26,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101926901,Pass Reception,1,10,18,82,-0.111402529616803,False,Ohio State,Northern Illinois,0,7,1,7,30,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101917201,Pass Reception,3,5,43,57,2.0947123631685574,False,Ohio State,Northern Illinois,0,7,1,8,27,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101909901,Pass Reception,1,10,48,52,0.0988833853941654,False,Ohio State,Northern Illinois,0,7,1,9,0,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514101976901,Pass Reception,3,5,83,17,-0.02666056254849014,False,Ohio State,Northern Illinois,3,7,1,2,30,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102859701,Pass Interception Return,1,10,75,25,-0.9222448802786785,False,Ohio State,Northern Illinois,3,7,2,14,2,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102887901,Pass Incompletion,3,7,62,38,-0.4769471385968531,False,Ohio State,Northern Illinois,3,10,2,11,20,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102879901,Pass Reception,1,10,65,35,-0.8334176637748527,False,Ohio State,Northern Illinois,3,10,2,12,0,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102917801,Passing Touchdown,2,4,23,77,2.5809306544209605,True,Ohio State,Northern Illinois,10,10,2,8,21,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102909901,Pass Reception,1,10,44,56,0.5005481645051048,False,Ohio State,Northern Illinois,3,10,2,9,0,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102959601,Pass Incompletion,3,4,31,69,-0.9341040359929857,False,Ohio State,Northern Illinois,10,10,2,4,3,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514102964001,Pass Incompletion,4,4,31,69,-2.5077352479443142,False,Ohio State,Northern Illinois,10,10,2,3,59,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103909001,Pass Incompletion,2,5,9,91,-0.348137992491187,False,Ohio State,Northern Illinois,10,10,3,9,9,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103884201,Pass Reception,1,10,80,20,1.143340784913768,False,Ohio State,Northern Illinois,10,10,3,11,57,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103896401,Pass Reception,1,10,42,58,0.5749333491639435,False,Ohio State,Northern Illinois,10,10,3,10,35,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103888401,Pass Reception,2,8,63,37,1.5969006067341898,False,Ohio State,Northern Illinois,10,10,3,11,15,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103957301,Pass Incompletion,3,11,49,51,-0.6941570953224199,False,Ohio State,Northern Illinois,13,10,3,4,26,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103939201,Pass Reception,1,10,62,38,0.7103851122578037,False,Ohio State,Northern Illinois,13,10,3,6,7,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103955901,Pass Reception,2,9,47,53,-1.4789855796314688,False,Ohio State,Northern Illinois,13,10,3,4,40,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514103984401,Pass Interception Return,1,10,40,60,-3.810950856062659,False,Ohio State,Northern Illinois,13,10,3,1,55,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514104886601,Pass Incompletion,3,22,89,11,-0.01633018721280346,False,Ohio State,Northern Illinois,20,10,4,11,33,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514104884901,Pass Incompletion,2,22,89,11,-0.0377631305215713,False,Ohio State,Northern Illinois,20,10,4,11,50,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514104936901,Pass Reception,3,3,58,42,-0.5180200230454678,False,Ohio State,Northern Illinois,20,13,4,6,30,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763514104958401,Pass Reception,1,10,45,55,0.57343931156508,False,Ohio State,Northern Illinois,20,13,4,4,15,3,Northern Illinois,2015,Ohio State,Cardale Jones,2016
+400763524101867301,Passing Touchdown,1,10,38,62,3.094592648585188,True,Ohio State,Western Michigan,7,0,1,13,26,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524101859201,Pass Reception,1,10,65,35,-0.8334176637748527,False,Ohio State,Western Michigan,0,0,1,14,7,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524101954401,Pass Incompletion,2,8,66,34,-0.6778990972831398,False,Ohio State,Western Michigan,7,0,1,4,55,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102875901,Pass Reception,2,10,70,30,2.3706800139900244,False,Ohio State,Western Michigan,7,0,2,12,40,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102896401,Passing Touchdown,1,10,37,63,3.0514086314767432,True,Ohio State,Western Michigan,14,0,2,10,35,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102879401,Pass Reception,1,10,54,46,0.1068990350586356,False,Ohio State,Western Michigan,7,0,2,12,5,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102958501,Pass Incompletion,3,13,13,87,-0.6039382602387847,False,Ohio State,Western Michigan,14,6,2,4,14,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102945201,Pass Reception,1,10,60,40,2.1389728751119765,False,Ohio State,Western Michigan,14,6,2,5,47,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102956001,Pass Reception,2,14,24,76,1.060398525960167,False,Ohio State,Western Michigan,14,6,2,4,39,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102957601,Pass Incompletion,1,8,8,92,-0.357171386033373,False,Ohio State,Western Michigan,14,6,2,4,23,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102979201,Pass Reception,1,10,78,22,0.8447170538042306,False,Ohio State,Western Michigan,24,6,2,2,7,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102997001,Pass Incompletion,1,10,28,72,-0.512081873784803,False,Ohio State,Western Michigan,24,6,2,0,29,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102989901,Pass Reception,3,8,54,46,2.7320749907805126,False,Ohio State,Western Michigan,24,6,2,1,0,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102995501,Pass Reception,1,10,43,57,0.5883556137924232,False,Ohio State,Western Michigan,24,6,2,0,44,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102998201,Pass Reception,3,6,24,76,0.7990730182214576,False,Ohio State,Western Michigan,24,6,2,0,17,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102987601,Pass Reception,2,24,70,30,1.0998219144181167,False,Ohio State,Western Michigan,24,6,2,1,23,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524102984701,Pass Reception,2,2,70,30,1.0570849671575857,False,Ohio State,Western Michigan,24,6,2,1,52,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103868701,Pass Incompletion,2,8,45,55,-1.0965479630049713,False,Ohio State,Western Michigan,24,6,3,13,12,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103885901,Pass Reception,2,10,25,75,0.266176505633332,False,Ohio State,Western Michigan,24,6,3,11,40,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103885101,Pass Incompletion,1,10,25,75,-0.4522778946200265,False,Ohio State,Western Michigan,24,6,3,11,48,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103854401,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Ohio State,Western Michigan,24,6,3,14,55,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103869401,Pass Reception,3,8,45,55,2.282554318851119,False,Ohio State,Western Michigan,24,6,3,13,5,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103878001,Pass Reception,2,8,34,66,0.6952615747992219,False,Ohio State,Western Michigan,24,6,3,12,19,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103857101,Pass Reception,3,4,69,31,2.050784191237783,False,Ohio State,Western Michigan,24,6,3,14,28,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103864301,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Ohio State,Western Michigan,24,6,3,13,56,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524103968101,Pass Interception Return,2,3,31,69,-4.329385390294689,False,Ohio State,Western Michigan,31,12,3,3,18,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104865401,Pass Reception,3,3,66,34,2.7436528242236884,False,Ohio State,Western Michigan,31,12,4,13,45,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104855801,Pass Reception,1,10,73,27,0.6338612725745634,False,Ohio State,Western Michigan,31,12,4,14,41,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104869101,Pass Incompletion,2,15,52,48,-0.7789279515357803,False,Ohio State,Western Michigan,31,12,4,13,8,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104868801,Pass Incompletion,1,15,52,48,-1.042246974706444,False,Ohio State,Western Michigan,31,12,4,13,11,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104898801,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Ohio State,Western Michigan,31,12,4,10,11,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104946801,Pass Interception Return,2,5,39,61,-3.6799713931414946,False,Ohio State,Western Michigan,38,12,4,5,31,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104974201,Pass Incompletion,1,10,54,46,-1.1590089706435955,False,Ohio State,Western Michigan,38,12,4,2,57,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763524104978601,Pass Reception,3,8,52,48,-0.731914303208444,False,Ohio State,Western Michigan,38,12,4,2,13,4,Western Michigan,2015,Ohio State,Cardale Jones,2016
+400763529101854401,Pass Reception,1,10,75,75,-1.2013587679710929,False,Indiana,Ohio State,0,0,1,14,55,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529101866701,Pass Reception,3,19,84,84,-0.00651126936635383,False,Indiana,Ohio State,0,0,1,13,32,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529101939401,Pass Reception,3,8,73,73,3.395964073913558,False,Indiana,Ohio State,0,3,1,6,5,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529101949401,Pass Reception,2,15,52,52,1.6623290149221521,False,Indiana,Ohio State,0,3,1,5,5,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102897301,Pass Incompletion,3,3,5,5,-0.312097723604744,False,Indiana,Ohio State,0,10,2,10,26,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102869101,Pass Reception,2,3,68,68,0.6180966231701175,False,Indiana,Ohio State,0,10,2,13,8,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102879001,Pass Reception,2,10,61,61,2.9901949887347965,False,Indiana,Ohio State,0,10,2,12,9,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102887101,Pass Reception,2,8,33,33,0.8108148253935088,False,Indiana,Ohio State,0,10,2,11,28,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102934401,Pass Incompletion,3,5,8,8,-0.3353050045856773,False,Indiana,Ohio State,3,10,2,6,55,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102929801,Pass Incompletion,2,5,8,8,-0.340953639548776,False,Indiana,Ohio State,3,10,2,7,1,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102974701,Pass Reception,1,10,80,80,2.7728555543386726,False,Indiana,Ohio State,6,10,2,2,52,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102979301,Pass Incompletion,1,10,25,25,-0.4522778946200265,False,Indiana,Ohio State,6,10,2,2,6,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102989301,Pass Reception,2,31,34,34,1.4685897521117788,False,Indiana,Ohio State,6,10,2,1,6,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102977001,Pass Reception,1,10,47,47,-1.0507069190375147,False,Indiana,Ohio State,6,10,2,2,29,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102979801,Pass Reception,2,10,25,25,0.613433041840237,False,Indiana,Ohio State,6,10,2,2,1,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529102978301,Pass Reception,2,10,47,47,1.9638247980378871,False,Indiana,Ohio State,6,10,2,2,16,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103877901,Pass Reception,2,7,90,90,-0.15218458672012591,False,Indiana,Ohio State,6,10,3,12,20,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103905601,Pass Incompletion,1,10,63,63,-1.065701080215459,False,Indiana,Ohio State,6,10,3,9,43,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103927201,Pass Incompletion,3,10,42,42,-0.9347686073010077,False,Indiana,Ohio State,13,10,3,7,27,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103926301,Pass Incompletion,1,10,42,42,-0.908489395271188,False,Indiana,Ohio State,13,10,3,7,36,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103926701,Pass Incompletion,2,10,42,42,-1.0526570825811008,False,Indiana,Ohio State,13,10,3,7,32,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103959801,Pass Interception Return,3,12,21,21,-3.328476129321986,False,Indiana,Ohio State,13,10,3,4,1,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529103987101,Pass Reception,3,8,72,72,0.21821064964163206,False,Indiana,Ohio State,13,17,3,1,28,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529104854501,Passing Touchdown,2,3,23,23,2.459653415924164,True,Indiana,Ohio State,27,17,4,14,54,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763529104957401,Pass Reception,3,4,78,78,-0.27376738663221634,False,Indiana,Ohio State,34,27,4,4,25,5,Indiana,2015,Ohio State,Cardale Jones,2016
+400763537101866601,Pass Reception,3,10,80,20,0.1765154413509773,False,Ohio State,Maryland,0,0,1,13,33,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537101855701,Pass Reception,1,10,80,20,-0.0884321258012219,False,Ohio State,Maryland,0,0,1,14,42,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537101904101,Pass Incompletion,1,10,60,40,-1.1247712359915258,False,Ohio State,Maryland,0,7,1,9,58,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537101904701,Pass Reception,2,5,55,45,1.2939160911976373,False,Ohio State,Maryland,0,7,1,9,52,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537101948601,Pass Reception,3,16,25,75,2.457580642236943,False,Ohio State,Maryland,0,7,1,5,13,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537101907501,Pass Reception,1,10,43,57,0.6916479450906062,False,Ohio State,Maryland,0,7,1,9,24,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537101989901,Pass Reception,1,10,40,60,0.650119928891494,False,Ohio State,Maryland,7,7,1,1,0,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102887601,Pass Incompletion,3,9,96,4,-0.0571827609984528,False,Ohio State,Maryland,14,7,2,11,23,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102935801,Passing Touchdown,1,10,19,81,2.604447628637523,True,Ohio State,Maryland,21,7,2,6,41,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102899901,Pass Reception,1,10,80,20,-0.3623882030735057,False,Ohio State,Maryland,14,7,2,10,0,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102926201,Pass Reception,2,5,64,36,1.4076342524731693,False,Ohio State,Maryland,14,7,2,7,37,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102935501,Pass Reception,2,9,52,48,2.4038949204068576,False,Ohio State,Maryland,14,7,2,6,44,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102985001,Pass Reception,3,21,37,63,1.0551987097784767,False,Ohio State,Maryland,21,7,2,1,49,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102979701,Pass Incompletion,2,21,37,63,-0.9592046040564082,False,Ohio State,Maryland,21,7,2,2,2,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102957901,Pass Reception,1,10,76,24,1.3887177392721153,False,Ohio State,Maryland,21,7,2,4,20,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102967201,Pass Reception,2,7,57,43,2.4684293407851197,False,Ohio State,Maryland,21,7,2,3,27,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102998901,Pass Reception,3,1,66,34,1.441776631871842,False,Ohio State,Maryland,21,14,2,0,10,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102998401,Pass Incompletion,2,1,66,34,-1.2753422217375716,False,Ohio State,Maryland,21,14,2,0,15,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102997201,Pass Reception,1,10,75,25,1.252308359788624,False,Ohio State,Maryland,21,14,2,0,27,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102999801,Pass Incompletion,1,10,48,52,-1.0742999147475647,False,Ohio State,Maryland,21,14,2,0,1,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537102999601,Pass Reception,1,10,59,41,0.9727785135184703,False,Ohio State,Maryland,21,14,2,0,3,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537103897901,Pass Reception,1,10,59,41,1.0458101085319973,False,Ohio State,Maryland,21,21,3,10,20,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537103914001,Pass Incompletion,3,7,44,56,-0.994152972638215,False,Ohio State,Maryland,21,21,3,8,59,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537103906601,Pass Reception,2,10,47,53,-0.4001041789749902,False,Ohio State,Maryland,21,21,3,9,33,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537103934101,Passing Touchdown,1,10,48,52,3.686233836279957,True,Ohio State,Maryland,28,21,3,6,58,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537103969901,Pass Reception,1,10,45,55,0.539787924153398,False,Ohio State,Maryland,28,21,3,3,0,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537103965601,Pass Reception,2,10,66,34,1.9530422355177155,False,Ohio State,Maryland,28,21,3,3,43,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537104939901,Pass Reception,1,10,30,70,0.22245042385218,False,Ohio State,Maryland,42,21,4,6,0,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763537104955901,Pass Reception,1,10,47,53,0.3204144720350344,False,Ohio State,Maryland,49,21,4,4,40,6,Maryland,2015,Ohio State,Cardale Jones,2016
+400763545101858901,Pass Incompletion,2,11,79,21,-0.246325283895513,False,Ohio State,Penn State,0,0,1,14,10,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101859401,Pass Incompletion,3,11,79,21,-0.10984453001360352,False,Ohio State,Penn State,0,0,1,14,5,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101896901,Pass Incompletion,1,10,60,40,-1.1247712359915258,False,Ohio State,Penn State,0,3,1,10,30,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101906401,Pass Reception,3,8,58,42,0.0479774442901393,False,Ohio State,Penn State,0,3,1,9,35,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101934401,Pass Incompletion,2,16,41,59,-0.9970657421064484,False,Ohio State,Penn State,0,3,1,6,55,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101926402,Pass Reception,1,10,35,65,-1.8755119497199593,False,Ohio State,Penn State,0,3,1,7,35,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101935401,Pass Reception,3,16,41,59,0.4506601128090768,False,Ohio State,Penn State,0,3,1,6,45,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101986401,Pass Incompletion,2,11,60,40,-0.7068821667387155,False,Ohio State,Penn State,0,3,1,1,35,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101987401,Pass Reception,3,11,60,40,3.3532050069159016,False,Ohio State,Penn State,0,3,1,1,25,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545101976002,Pass Reception,1,10,70,30,1.0337741691059161,False,Ohio State,Penn State,0,3,1,2,39,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545102894401,Pass Reception,2,3,38,62,0.1472839884865705,False,Ohio State,Penn State,7,3,2,10,55,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545102956801,Pass Reception,1,10,48,52,0.844287666207009,False,Ohio State,Penn State,14,3,2,4,31,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545103867801,Pass Reception,2,5,70,30,0.7404929924965024,False,Ohio State,Penn State,21,10,3,13,21,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545103876601,Pass Incompletion,2,6,61,39,-0.9653807782813173,False,Ohio State,Penn State,21,10,3,12,33,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545103876802,Pass Reception,3,6,61,39,3.1271734304268515,False,Ohio State,Penn State,21,10,3,12,31,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545104868201,Pass Reception,3,5,20,80,-0.9486194773428167,False,Ohio State,Penn State,21,10,4,13,17,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545104937401,Passing Touchdown,2,5,5,95,2.43857769152992,True,Ohio State,Penn State,31,10,4,6,25,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545104927601,Pass Reception,1,10,28,72,0.56725984381122,False,Ohio State,Penn State,24,10,4,7,23,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763545104958501,Passing Touchdown,2,6,6,94,2.528666992781938,True,Ohio State,Penn State,38,10,4,4,14,7,Penn State,2015,Ohio State,Cardale Jones,2016
+400763551101959201,Pass Incompletion,1,10,42,42,-0.908489395271188,False,Rutgers,Ohio State,0,0,1,4,7,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551101979401,Pass Reception,2,12,32,32,1.134317968014333,False,Rutgers,Ohio State,0,0,1,2,5,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551101967601,Pass Reception,3,9,41,41,2.218594343171498,False,Rutgers,Ohio State,0,0,1,3,23,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551102878001,Pass Incompletion,3,5,55,55,-0.7890223538576766,False,Rutgers,Ohio State,7,0,2,12,19,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551102935101,Passing Touchdown,1,10,50,50,3.841411932121373,True,Rutgers,Ohio State,14,0,2,6,48,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551102919101,Pass Reception,2,6,76,76,1.1377205316767105,False,Rutgers,Ohio State,7,0,2,8,8,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551102965501,Pass Reception,2,8,63,63,3.2817211349799638,False,Rutgers,Ohio State,14,0,2,3,44,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103868601,Passing Touchdown,1,10,30,30,2.814243132922771,True,Rutgers,Ohio State,28,0,3,13,13,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103899901,Pass Incompletion,1,10,37,37,-0.7519361608312708,False,Rutgers,Ohio State,28,0,3,10,0,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103886402,Pass Reception,2,7,69,69,1.7229406974048853,False,Rutgers,Ohio State,28,0,3,11,35,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103897801,Pass Reception,2,3,50,50,0.7332488745351358,False,Rutgers,Ohio State,28,0,3,10,21,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103907501,Pass Incompletion,3,1,28,28,-0.8246901229167243,False,Rutgers,Ohio State,28,0,3,9,24,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103938401,Pass Reception,2,5,16,16,0.505318411539696,False,Rutgers,Ohio State,35,0,3,6,15,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103956501,Passing Touchdown,1,1,1,1,0.938021275120443,True,Rutgers,Ohio State,42,0,3,4,34,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103936101,Pass Reception,1,10,21,21,0.07448863119052,False,Rutgers,Ohio State,35,0,3,6,38,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103919601,Pass Reception,1,10,44,44,0.5098075840080333,False,Rutgers,Ohio State,35,0,3,8,3,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103955901,Pass Reception,2,11,11,11,0.4024078216458665,False,Rutgers,Ohio State,35,0,3,4,40,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551103945901,Pass Reception,1,6,6,6,-0.8039162797601395,False,Rutgers,Ohio State,35,0,3,5,40,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551104916401,Pass Reception,3,7,36,36,1.5834551987446626,False,Rutgers,Ohio State,49,0,4,8,35,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551104875901,Pass Reception,1,10,60,60,0.994570052506427,False,Rutgers,Ohio State,49,0,4,12,40,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763551104954401,Pass Reception,3,6,10,10,-0.1137144723322922,False,Rutgers,Ohio State,49,0,4,4,55,8,Rutgers,2015,Ohio State,Cardale Jones,2016
+400763562101879001,Pass Incompletion,3,9,61,39,-0.4235741469021441,False,Ohio State,Minnesota,0,0,1,12,9,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562101916001,Pass Incompletion,1,10,45,55,-0.997770018980635,False,Ohio State,Minnesota,0,0,1,8,39,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562101996201,Pass Reception,2,2,52,48,0.5004135263967556,False,Ohio State,Minnesota,0,0,1,0,37,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102854301,Pass Incompletion,2,8,39,61,-0.9957414928914172,False,Ohio State,Minnesota,0,0,2,14,56,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102915501,Pass Reception,2,7,52,48,0.0984666559427118,False,Ohio State,Minnesota,0,0,2,8,44,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102906401,Pass Reception,1,10,67,33,1.1524434318247838,False,Ohio State,Minnesota,0,0,2,9,35,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102929501,Pass Incompletion,2,20,53,47,-0.5498705445332472,False,Ohio State,Minnesota,0,0,2,7,4,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102934601,Pass Reception,3,20,53,47,0.47124096626356765,False,Ohio State,Minnesota,0,0,2,6,53,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102988101,Pass Reception,2,5,61,39,1.043949706530025,False,Ohio State,Minnesota,7,0,2,1,18,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562102989801,Pass Reception,1,15,59,41,2.8531748341983145,False,Ohio State,Minnesota,7,0,2,1,1,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103916201,Pass Reception,2,7,23,77,0.327566782230038,False,Ohio State,Minnesota,14,0,3,8,37,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103935601,Passing Touchdown,3,3,6,94,2.658374212181785,True,Ohio State,Minnesota,21,0,3,6,43,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103976301,Pass Incompletion,1,10,22,78,-0.402662020534962,False,Ohio State,Minnesota,21,0,3,2,36,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103969201,Pass Reception,2,8,37,63,0.929487413084868,False,Ohio State,Minnesota,21,0,3,3,7,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103958501,Pass Reception,2,9,51,49,1.7699836284665746,False,Ohio State,Minnesota,21,0,3,4,14,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103955901,Pass Reception,1,20,62,38,1.3118424897559713,False,Ohio State,Minnesota,21,0,3,4,40,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562104854601,Pass Incompletion,3,4,65,35,-0.5387821653708009,False,Ohio State,Minnesota,21,0,4,14,53,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562103998001,Pass Incompletion,1,10,71,29,-0.8305196050291288,False,Ohio State,Minnesota,21,0,3,0,19,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562104915901,Pass Incompletion,1,10,24,76,-0.4346450377339437,False,Ohio State,Minnesota,21,7,4,8,40,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562104924801,Pass Incompletion,3,4,18,82,-0.5441679919678444,False,Ohio State,Minnesota,21,7,4,7,51,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562104914601,Pass Reception,3,4,69,31,3.9310494546701236,False,Ohio State,Minnesota,21,7,4,8,53,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763562104958001,Pass Incompletion,3,8,60,40,-0.48894328509254864,False,Ohio State,Minnesota,21,7,4,4,19,10,Minnesota,2015,Ohio State,Cardale Jones,2016
+400763564101887601,Pass Reception,2,5,53,53,1.0387813027862371,False,Illinois,Ohio State,0,0,1,11,23,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564101964101,Pass Reception,2,7,46,46,1.4566249898434762,False,Illinois,Ohio State,0,0,1,3,58,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564101965601,Passing Touchdown,1,10,24,24,2.681437948606975,True,Illinois,Ohio State,7,0,1,3,43,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564101997901,Pass Reception,2,1,69,69,-0.4185521700509885,False,Illinois,Ohio State,7,0,1,0,20,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102867401,Pass Reception,3,10,68,68,0.02535552817312059,False,Illinois,Ohio State,7,0,2,13,25,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102906601,Pass Incompletion,2,5,60,60,-1.0644407341429556,False,Illinois,Ohio State,7,3,2,9,33,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102958502,Pass Incompletion,2,3,61,61,-1.1990721797509778,False,Illinois,Ohio State,7,3,2,4,14,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102956101,Pass Reception,1,10,68,68,0.6906032640622382,False,Illinois,Ohio State,7,3,2,4,38,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102987701,Pass Reception,2,10,37,37,-0.1280756940017084,False,Illinois,Ohio State,7,3,2,1,22,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102986101,Pass Reception,1,10,60,60,1.7054919726669322,False,Illinois,Ohio State,7,3,2,1,38,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102987101,Pass Incompletion,1,10,37,37,-0.7519361608312708,False,Illinois,Ohio State,7,3,2,1,28,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102988202,Pass Incompletion,3,6,33,33,-1.0027389238113287,False,Illinois,Ohio State,7,3,2,1,17,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564102989701,Pass Reception,1,10,22,22,0.125883353280535,False,Illinois,Ohio State,7,3,2,1,2,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564103904501,Pass Reception,2,5,45,45,0.5991535028340618,False,Illinois,Ohio State,14,3,3,9,54,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564103898802,Pass Reception,1,10,50,50,0.1018198743557602,False,Illinois,Ohio State,14,3,3,10,11,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564103895701,Pass Reception,1,10,75,75,1.252308359788624,False,Illinois,Ohio State,14,3,3,10,42,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564103994001,Pass Interception Return,2,2,33,33,-4.414234553181615,False,Illinois,Ohio State,21,3,3,0,59,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564103985401,Pass Reception,1,10,41,41,0.6547541790781344,False,Illinois,Ohio State,21,3,3,1,45,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564103967201,Pass Incompletion,1,10,59,59,-1.1387859939569847,False,Illinois,Ohio State,21,3,3,3,27,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564104874301,Pass Reception,2,10,49,49,-1.3928562114441132,False,Illinois,Ohio State,21,3,4,12,56,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564104904801,Pass Incompletion,3,22,45,45,-0.41311953511402866,False,Illinois,Ohio State,21,3,4,9,51,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564104869301,Pass Incompletion,1,10,49,49,-1.0955888671820908,False,Illinois,Ohio State,21,3,4,13,6,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564104878501,Pass Reception,3,12,51,51,3.347700856761464,False,Illinois,Ohio State,21,3,4,12,14,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564104986201,Pass Reception,2,9,39,39,-1.4462238338459503,False,Illinois,Ohio State,28,3,4,1,37,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763564104949601,Pass Reception,1,10,71,71,1.3370266566355031,False,Illinois,Ohio State,28,3,4,5,3,11,Illinois,2015,Ohio State,Cardale Jones,2016
+400763573101917401,Pass Incompletion,2,8,71,29,-0.5308962154816008,False,Ohio State,Michigan State,0,0,1,8,25,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573101918401,Pass Reception,3,8,71,29,2.6778840152192407,False,Ohio State,Michigan State,0,0,1,8,15,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102858401,Pass Reception,1,6,6,94,-0.158934842894816,False,Ohio State,Michigan State,0,0,2,14,15,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102934901,Pass Incompletion,3,17,82,18,-0.0460942134255955,False,Ohio State,Michigan State,7,7,2,6,50,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102956902,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Ohio State,Michigan State,7,7,2,4,30,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102957401,Pass Reception,2,10,75,25,-0.29282347426074384,False,Ohio State,Michigan State,7,7,2,4,25,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102994401,Pass Reception,2,10,65,35,0.0590155037822537,False,Ohio State,Michigan State,7,7,2,0,55,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102996103,Pass Reception,3,5,60,40,-0.1131828115915763,False,Ohio State,Michigan State,7,7,2,0,38,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573102989402,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Ohio State,Michigan State,7,7,2,1,5,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573103897901,Pass Incompletion,3,4,82,18,-0.22520460817073573,False,Ohio State,Michigan State,7,7,3,10,20,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573103966601,Passing Touchdown,1,6,6,94,2.052489771065277,True,Ohio State,Michigan State,14,7,3,3,33,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573104886901,Pass Reception,2,5,70,30,-0.3141325711590933,False,Ohio State,Michigan State,14,14,4,11,30,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573104906901,Pass Reception,3,9,57,43,0.0443104231650047,False,Ohio State,Michigan State,14,14,4,9,30,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573104897901,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Ohio State,Michigan State,14,14,4,10,20,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763573104945002,Pass Incompletion,1,10,93,7,-0.3062456358083505,False,Ohio State,Michigan State,14,14,4,5,49,12,Michigan State,2015,Ohio State,Cardale Jones,2016
+400763578101919701,Pass Incompletion,3,9,56,56,-0.5616972188067564,False,Michigan,Ohio State,0,0,1,8,2,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578101905501,Pass Reception,1,10,69,69,1.1419743076037232,False,Michigan,Ohio State,0,0,1,9,44,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578101965501,Pass Reception,2,10,94,94,-0.1263135268235498,False,Michigan,Ohio State,0,0,1,3,44,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578101978301,Pass Incompletion,1,10,76,76,-0.6723571521309859,False,Michigan,Ohio State,0,0,1,2,16,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578102908401,Pass Reception,1,10,75,75,0.3333748010525683,False,Michigan,Ohio State,7,3,2,9,15,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578102999801,Pass Incompletion,1,10,64,64,-1.041155320344064,False,Michigan,Ohio State,14,10,2,0,1,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103874101,Pass Incompletion,2,1,28,28,-0.7733820229395773,False,Michigan,Ohio State,14,10,3,12,58,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103877801,Passing Touchdown,1,10,25,25,2.7000843622660575,True,Michigan,Ohio State,21,10,3,12,21,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103855901,Pass Reception,1,10,82,82,0.4935789008473366,False,Michigan,Ohio State,14,10,3,14,40,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103915801,Pass Reception,1,10,84,84,0.07867780591471615,False,Michigan,Ohio State,21,10,3,8,41,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103949301,Pass Reception,3,3,49,49,1.9140198901969505,False,Michigan,Ohio State,21,10,3,5,6,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103956601,Pass Incompletion,1,10,37,37,-0.7519361608312708,False,Michigan,Ohio State,21,10,3,4,33,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578103937001,Pass Reception,1,10,56,56,0.960072550113445,False,Michigan,Ohio State,21,10,3,6,29,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578104867201,Pass Reception,1,10,57,57,1.8608690688738034,False,Michigan,Ohio State,28,13,4,13,27,13,Michigan,2015,Ohio State,Cardale Jones,2016
+400763578104958901,Pass Incompletion,1,9,9,9,-0.315798379566314,False,Michigan,Ohio State,42,13,4,4,10,13,Michigan,2015,Ohio State,Cardale Jones,2016

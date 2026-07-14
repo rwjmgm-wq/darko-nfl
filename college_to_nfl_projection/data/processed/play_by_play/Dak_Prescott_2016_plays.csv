@@ -1,0 +1,456 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400603836101897901,Pass Reception,1,10,67,67,-0.600458473868767,False,Southern Miss,Mississippi State,0,0,1,10,20,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836101897902,Pass Reception,2,8,65,65,-0.4561685402495134,False,Southern Miss,Mississippi State,0,0,1,10,20,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836101897903,Pass Reception,3,6,63,63,3.9718568410099873,False,Southern Miss,Mississippi State,0,0,1,10,20,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836101996802,Pass Incompletion,1,10,48,48,-1.0742999147475647,False,Southern Miss,Mississippi State,7,10,1,0,31,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102849901,Pass Incompletion,3,17,55,55,-0.318029490600396,False,Southern Miss,Mississippi State,7,10,2,15,0,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102877401,Pass Incompletion,1,10,21,21,-0.3882383440694163,False,Southern Miss,Mississippi State,7,10,2,12,25,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102894201,Passing Touchdown,2,5,5,5,2.43857769152992,True,Southern Miss,Mississippi State,14,10,2,10,57,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102877403,Pass Reception,3,10,21,21,1.0927160530521898,False,Southern Miss,Mississippi State,7,10,2,12,25,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102917703,Pass Reception,3,6,55,55,-0.1329118674558253,False,Southern Miss,Mississippi State,14,10,2,8,22,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102917701,Pass Reception,1,10,59,59,-0.1673002614345122,False,Southern Miss,Mississippi State,14,10,2,8,22,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102917702,Pass Incompletion,2,6,55,55,-1.1126244541815051,False,Southern Miss,Mississippi State,14,10,2,8,22,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102979803,Pass Incompletion,1,10,89,89,-0.36548578366266504,False,Southern Miss,Mississippi State,14,10,2,2,1,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102979801,Pass Reception,1,10,99,99,0.0599603337019321,False,Southern Miss,Mississippi State,14,10,2,2,1,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836102999701,Pass Incompletion,1,10,48,48,-1.0742999147475647,False,Southern Miss,Mississippi State,14,10,2,0,2,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103849910,Pass Incompletion,2,4,4,4,-0.362082681028621,False,Southern Miss,Mississippi State,14,10,3,15,0,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103878401,Passing Touchdown,3,4,4,4,2.6959729214765815,True,Southern Miss,Mississippi State,21,10,3,12,15,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103849906,Pass Incompletion,1,10,16,16,-0.3301132067544156,False,Southern Miss,Mississippi State,14,10,3,15,0,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103849909,Pass Reception,1,6,6,6,-0.2814004693826835,False,Southern Miss,Mississippi State,14,10,3,15,0,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103849902,Pass Reception,1,10,95,95,0.5030791288117333,False,Southern Miss,Mississippi State,14,10,3,15,0,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103849907,Pass Reception,2,10,16,16,0.286971638435935,False,Southern Miss,Mississippi State,14,10,3,15,0,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103884104,Pass Reception,2,10,27,27,0.169226644113511,False,Southern Miss,Mississippi State,21,10,3,11,58,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103884101,Pass Incompletion,1,10,40,40,-0.8457687366186873,False,Southern Miss,Mississippi State,21,10,3,11,58,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103884103,Pass Incompletion,1,10,27,27,-0.490975886965904,False,Southern Miss,Mississippi State,21,10,3,11,58,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103884105,Pass Incompletion,3,4,21,21,-0.627473486219845,False,Southern Miss,Mississippi State,21,10,3,11,58,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103916211,Pass Reception,3,4,36,36,1.237507450468554,False,Southern Miss,Mississippi State,24,13,3,8,37,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103916214,Pass Incompletion,3,5,19,19,-0.582544025368854,False,Southern Miss,Mississippi State,24,13,3,8,37,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103916206,Pass Incompletion,1,10,58,58,-1.1496266880203319,False,Southern Miss,Mississippi State,24,13,3,8,37,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103916205,Pass Reception,2,10,72,72,2.0921303477775925,False,Southern Miss,Mississippi State,24,13,3,8,37,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836103916208,Pass Reception,3,12,60,60,3.4711760033353976,False,Southern Miss,Mississippi State,24,13,3,8,37,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104869809,Pass Incompletion,3,7,46,46,-0.9511301292415375,False,Southern Miss,Mississippi State,27,16,4,13,1,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104869807,Pass Incompletion,1,10,49,49,-1.0955888671820908,False,Southern Miss,Mississippi State,27,16,4,13,1,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104869805,Pass Reception,2,10,61,61,-0.8317382488496756,False,Southern Miss,Mississippi State,27,16,4,13,1,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104869806,Pass Reception,3,11,62,62,3.0321914697241796,False,Southern Miss,Mississippi State,27,16,4,13,1,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104926404,Pass Incompletion,1,10,49,49,-1.0955888671820908,False,Southern Miss,Mississippi State,27,16,4,7,35,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104926401,Pass Reception,1,10,82,82,1.0529514774102369,False,Southern Miss,Mississippi State,27,16,4,7,35,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104926402,Pass Reception,2,1,73,73,0.0985773821529996,False,Southern Miss,Mississippi State,27,16,4,7,35,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104926405,Pass Reception,2,10,49,49,2.661164788492128,False,Southern Miss,Mississippi State,27,16,4,7,35,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603836104926403,Pass Reception,1,10,66,66,1.574438838092366,False,Southern Miss,Mississippi State,27,16,4,7,35,1,Southern Miss,2015,Mississippi State,Dak Prescott,2016
+400603865101854401,Pass Reception,1,10,75,25,1.252308359788624,False,Mississippi State,LSU,0,0,1,14,55,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865101866401,Pass Incompletion,2,7,62,38,-0.8677535954355031,False,Mississippi State,LSU,0,0,1,13,35,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865101985401,Pass Reception,1,10,77,23,0.5734544152071602,False,Mississippi State,LSU,0,14,1,1,45,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865101988901,Pass Reception,2,3,70,30,1.0751994669429212,False,Mississippi State,LSU,0,14,1,1,10,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102854301,Pass Incompletion,3,6,54,46,-0.767058733604892,False,Mississippi State,LSU,0,14,2,14,56,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102894401,Pass Incompletion,1,10,67,33,-0.956890163923906,False,Mississippi State,LSU,0,14,2,10,55,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102888601,Pass Reception,2,6,77,23,1.0931485395875447,False,Mississippi State,LSU,0,14,2,11,13,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102896301,Pass Incompletion,1,10,45,55,-0.997770018980635,False,Mississippi State,LSU,0,14,2,10,36,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102885901,Pass Reception,1,10,81,19,-0.08358568772589688,False,Mississippi State,LSU,0,14,2,11,40,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102897601,Pass Incompletion,3,10,45,55,-0.8578975699550249,False,Mississippi State,LSU,0,14,2,10,23,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102896901,Pass Incompletion,2,10,45,55,-1.067301371027259,False,Mississippi State,LSU,0,14,2,10,30,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102949901,Pass Reception,3,7,69,31,-0.14037659701716354,False,Mississippi State,LSU,0,14,2,5,0,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102938401,Pass Reception,1,10,72,28,-0.5100717857614772,False,Mississippi State,LSU,0,14,2,6,15,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102994501,Pass Incompletion,2,10,26,74,-0.6385710457423314,False,Mississippi State,LSU,0,14,2,0,54,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102995001,Pass Incompletion,3,10,26,74,-0.906791565871103,False,Mississippi State,LSU,0,14,2,0,49,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102976201,Pass Reception,1,10,63,37,1.1271435896848112,False,Mississippi State,LSU,0,14,2,2,37,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102989801,Pass Incompletion,1,10,26,74,-0.4710467974920665,False,Mississippi State,LSU,0,14,2,1,1,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102977901,Pass Reception,1,10,51,49,-0.1462695033279216,False,Mississippi State,LSU,0,14,2,2,20,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102986401,Pass Reception,1,20,49,51,2.36731210486041,False,Mississippi State,LSU,0,14,2,1,35,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865102979801,Pass Reception,2,6,47,53,0.9291981522893096,False,Mississippi State,LSU,0,14,2,2,1,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103877901,Pass Incompletion,2,8,44,56,-1.0871267868462624,False,Mississippi State,LSU,3,14,3,12,20,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103898701,Pass Incompletion,3,6,6,94,-0.3038593850582816,False,Mississippi State,LSU,3,14,3,10,12,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103878701,Pass Reception,3,8,44,56,2.2598405660810847,False,Mississippi State,LSU,3,14,3,12,12,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103886901,Pass Reception,2,5,29,71,0.431808822213112,False,Mississippi State,LSU,3,14,3,11,30,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103939301,Pass Incompletion,3,5,68,32,-0.4148536881069784,False,Mississippi State,LSU,6,21,3,6,6,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103937401,Pass Reception,2,4,67,33,-1.069901059831749,False,Mississippi State,LSU,6,21,3,6,25,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103936601,Pass Reception,1,10,73,27,0.3503911107524118,False,Mississippi State,LSU,6,21,3,6,33,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103995901,Pass Reception,3,9,49,51,0.7371872814727302,False,Mississippi State,LSU,6,21,3,0,40,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103979901,Pass Reception,1,10,65,35,1.037188716394402,False,Mississippi State,LSU,6,21,3,2,0,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103964402,Pass Incompletion,1,10,87,13,-0.40084650139258127,False,Mississippi State,LSU,6,21,3,3,55,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103994601,Pass Incompletion,2,9,49,51,-1.069860722866995,False,Mississippi State,LSU,6,21,3,0,53,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103966902,Pass Reception,2,10,87,13,0.41413549157600915,False,Mississippi State,LSU,6,21,3,3,30,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104854501,Pass Reception,1,10,11,89,1.583718138247482,False,Mississippi State,LSU,6,21,4,14,54,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103999902,Pass Reception,1,10,29,71,0.266561771230187,False,Mississippi State,LSU,6,21,3,0,0,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865103976901,Pass Reception,2,6,73,27,1.071361513993315,False,Mississippi State,LSU,6,21,3,2,30,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104879901,Pass Reception,2,7,46,54,1.1272848434366554,False,Mississippi State,LSU,13,21,4,12,0,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104887101,Pass Reception,2,10,36,64,-0.1228262589820357,False,Mississippi State,LSU,13,21,4,11,28,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104886101,Pass Incompletion,1,10,36,64,-0.7215426143188567,False,Mississippi State,LSU,13,21,4,11,38,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104955201,Pass Reception,1,10,24,76,0.1331547734278935,False,Mississippi State,LSU,13,21,4,4,47,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104947401,Pass Reception,1,10,82,18,2.7259676976556024,False,Mississippi State,LSU,13,21,4,5,25,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104949901,Pass Reception,1,10,39,61,0.459000606324576,False,Mississippi State,LSU,13,21,4,5,0,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104957401,Pass Reception,1,10,14,86,0.6137678348706395,False,Mississippi State,LSU,13,21,4,4,25,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104948401,Pass Reception,1,10,49,51,0.6218919967056973,False,Mississippi State,LSU,13,21,4,5,15,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104959901,Passing Touchdown,2,1,5,95,1.934515340308442,True,Mississippi State,LSU,19,21,4,4,0,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104995301,Pass Reception,2,10,56,44,0.3119242061344334,False,Mississippi State,LSU,19,21,4,0,46,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104998901,Pass Incompletion,2,10,29,71,-0.732204526648056,False,Mississippi State,LSU,19,21,4,0,10,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104989101,Pass Reception,1,10,67,33,1.0588738877618429,False,Mississippi State,LSU,19,21,4,1,8,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104998001,Pass Incompletion,1,10,29,71,-0.534372502378378,False,Mississippi State,LSU,19,21,4,0,19,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104997301,Pass Incompletion,1,10,39,61,-0.814236079442537,False,Mississippi State,LSU,19,21,4,0,26,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104994501,Pass Incompletion,1,10,56,44,-1.1612466882658818,False,Mississippi State,LSU,19,21,4,0,54,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104997101,Pass Reception,3,4,50,50,2.0790667085792034,False,Mississippi State,LSU,19,21,4,0,28,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104997901,Pass Reception,2,10,39,61,1.166373449775976,False,Mississippi State,LSU,19,21,4,0,20,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104987801,Pass Reception,1,5,84,16,0.3765410705232242,False,Mississippi State,LSU,19,21,4,1,21,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603865104999604,Pass Incompletion,3,15,34,66,-0.9570044822417643,False,Mississippi State,LSU,19,21,4,0,3,2,LSU,2015,Mississippi State,Dak Prescott,2016
+400603855101849904,Pass Reception,2,3,55,45,-1.03938276222282,False,Mississippi State,Northwestern State,0,0,1,15,0,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855101867801,Passing Touchdown,1,10,49,51,3.7623305516372483,True,Mississippi State,Northwestern State,6,0,1,13,21,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855101955004,Pass Reception,1,10,36,64,0.430874992229382,False,Mississippi State,Northwestern State,6,0,1,4,49,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855101955003,Pass Reception,1,10,57,43,1.4545386024975304,False,Mississippi State,Northwestern State,6,0,1,4,49,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855101989004,Pass Reception,2,7,18,82,1.816399753253071,False,Mississippi State,Northwestern State,13,0,1,1,9,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855101989001,Pass Reception,1,10,33,67,0.270777959706495,False,Mississippi State,Northwestern State,13,0,1,1,9,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855102867401,Pass Reception,1,10,71,29,3.111639194683736,False,Mississippi State,Northwestern State,20,0,2,13,25,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855102899006,Pass Reception,2,8,51,49,2.708128084216481,False,Mississippi State,Northwestern State,20,3,2,10,9,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855102978101,Pass Incompletion,1,10,60,40,-1.1247712359915258,False,Mississippi State,Northwestern State,27,6,2,2,18,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855102978102,Pass Reception,2,10,60,40,1.0675921260782175,False,Mississippi State,Northwestern State,27,6,2,2,18,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855102994301,Passing Touchdown,2,6,6,94,2.528666992781938,True,Mississippi State,Northwestern State,34,6,2,0,56,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855103934504,Pass Reception,2,8,40,60,1.2289488183732415,False,Mississippi State,Northwestern State,34,13,3,6,54,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855103997301,Passing Touchdown,1,10,37,63,3.0514086314767432,True,Mississippi State,Northwestern State,48,13,3,0,26,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855103987902,Pass Reception,1,10,55,45,1.2252046058396218,False,Mississippi State,Northwestern State,41,13,3,1,20,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855104878701,Passing Touchdown,2,7,49,51,4.412161223318343,True,Mississippi State,Northwestern State,55,13,4,12,12,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855104864201,Pass Reception,1,10,63,37,0.7113806413121412,False,Mississippi State,Northwestern State,48,13,4,13,57,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855104896503,Pass Incompletion,3,3,61,39,-0.7168858256336534,False,Mississippi State,Northwestern State,55,13,4,10,34,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603855104945104,Pass Reception,1,10,25,75,0.6477408231634345,False,Mississippi State,Northwestern State,55,13,4,5,48,3,Northwestern State,2015,Mississippi State,Dak Prescott,2016
+400603843101919301,Pass Reception,1,10,67,67,-1.2322629476057028,False,Auburn,Mississippi State,0,0,1,8,6,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101925401,Pass Reception,1,10,56,56,0.960072550113445,False,Auburn,Mississippi State,0,0,1,7,45,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101925901,Pass Reception,1,10,39,39,0.258293699621337,False,Auburn,Mississippi State,0,0,1,7,40,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101925501,Pass Reception,2,2,48,48,0.26967167633431,False,Auburn,Mississippi State,0,0,1,7,44,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101917901,Pass Reception,1,10,79,79,0.901478120676007,False,Auburn,Mississippi State,0,0,1,8,20,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101948101,Passing Touchdown,2,14,32,32,3.850920001133396,True,Auburn,Mississippi State,7,0,1,5,18,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101926401,Pass Reception,2,4,33,33,0.118130381171783,False,Auburn,Mississippi State,0,0,1,7,35,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101989901,Pass Reception,3,8,50,50,0.0594991337398607,False,Auburn,Mississippi State,7,0,1,1,0,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101974402,Pass Reception,1,10,63,63,0.1100844824489312,False,Auburn,Mississippi State,7,0,1,2,55,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843101984002,Pass Incompletion,1,10,52,52,-1.1430602484821704,False,Auburn,Mississippi State,7,0,1,1,59,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102898101,Pass Reception,2,10,69,69,0.05257289820124104,False,Auburn,Mississippi State,7,0,2,10,18,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102896601,Pass Incompletion,1,10,69,69,-0.8947814664467213,False,Auburn,Mississippi State,7,0,2,10,33,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102887701,Pass Reception,1,10,79,79,0.2977036772411737,False,Auburn,Mississippi State,7,0,2,11,22,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102908901,Pass Reception,1,10,55,55,1.2252046058396218,False,Auburn,Mississippi State,7,0,2,9,10,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102915301,Pass Incompletion,1,10,16,16,-0.3301132067544156,False,Auburn,Mississippi State,7,0,2,8,46,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102889301,Pass Incompletion,2,4,73,73,-0.7415975879341534,False,Auburn,Mississippi State,7,0,2,11,6,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102914201,Pass Reception,1,10,37,37,0.4826859101843688,False,Auburn,Mississippi State,7,0,2,8,57,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102895201,Pass Reception,3,4,73,73,1.1671376953950858,False,Auburn,Mississippi State,7,0,2,10,47,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102906001,Pass Reception,3,15,74,74,2.955446170115774,False,Auburn,Mississippi State,7,0,2,9,39,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843102919701,Passing Touchdown,3,11,17,17,3.384362265440865,True,Auburn,Mississippi State,14,0,2,8,2,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103856801,Pass Incompletion,2,9,64,64,-0.6839286311037895,False,Auburn,Mississippi State,14,0,3,14,31,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103866201,Pass Incompletion,2,12,49,49,-0.9737560955659114,False,Auburn,Mississippi State,14,0,3,13,37,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103868401,Pass Reception,3,12,49,49,0.8725967707458677,False,Auburn,Mississippi State,14,0,3,13,15,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103858001,Pass Reception,3,9,64,64,3.146861064303547,False,Auburn,Mississippi State,14,0,3,14,19,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103916301,Pass Incompletion,3,7,72,72,-0.26587881160037785,False,Auburn,Mississippi State,14,3,3,8,36,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103914201,Pass Reception,2,7,72,72,-0.5594317282120231,False,Auburn,Mississippi State,14,3,3,8,57,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103976901,Pass Reception,1,10,57,57,0.9220292893768622,False,Auburn,Mississippi State,14,6,3,2,30,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103985301,Pass Incompletion,1,10,35,35,-0.6918622905019662,False,Auburn,Mississippi State,14,6,3,1,46,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103988401,Pass Incompletion,3,2,27,27,-0.7940409276055822,False,Auburn,Mississippi State,14,6,3,1,15,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103974401,Pass Reception,1,10,75,75,1.612438422209995,False,Auburn,Mississippi State,14,6,3,2,55,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103977201,Pass Reception,1,10,46,46,-0.5661525320140282,False,Auburn,Mississippi State,14,6,3,2,27,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843103979901,Pass Reception,2,8,44,44,1.1368511563715364,False,Auburn,Mississippi State,14,6,3,2,0,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104894901,Pass Reception,3,7,49,49,0.0661484015636535,False,Auburn,Mississippi State,17,6,4,10,50,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104886201,Pass Incompletion,1,10,52,52,-1.1430602484821704,False,Auburn,Mississippi State,17,6,4,11,37,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104874901,Pass Reception,2,3,77,77,0.3408025692944072,False,Auburn,Mississippi State,17,6,4,12,50,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104868301,Pass Reception,1,10,84,84,0.4629498851543028,False,Auburn,Mississippi State,17,6,4,13,16,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104915101,Pass Incompletion,3,6,70,70,-0.3332750244288043,False,Auburn,Mississippi State,17,6,4,8,48,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104906501,Pass Incompletion,1,10,74,74,-0.7342478781140684,False,Auburn,Mississippi State,17,6,4,9,34,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104956901,Pass Reception,1,10,45,45,0.0943461181043617,False,Auburn,Mississippi State,17,6,4,4,30,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603843104944001,Pass Reception,1,10,56,56,0.1087719603915716,False,Auburn,Mississippi State,17,6,4,5,59,4,Auburn,2015,Mississippi State,Dak Prescott,2016
+400603885101935901,Pass Incompletion,1,10,27,27,-0.490975886965904,False,Texas A&M,Mississippi State,0,7,1,6,40,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101918901,Pass Reception,1,10,51,51,0.734318059955598,False,Texas A&M,Mississippi State,0,7,1,8,10,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101904901,Pass Reception,1,10,83,83,0.2630652541633021,False,Texas A&M,Mississippi State,0,7,1,9,50,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101986501,Pass Incompletion,1,10,42,42,-0.908489395271188,False,Texas A&M,Mississippi State,3,14,1,1,34,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101979901,Pass Reception,3,7,51,51,2.427729036425758,False,Texas A&M,Mississippi State,3,14,1,2,0,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101968401,Pass Reception,1,10,75,75,0.8350381090299867,False,Texas A&M,Mississippi State,3,14,1,3,15,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101979101,Pass Incompletion,2,7,51,51,-1.1193582859534654,False,Texas A&M,Mississippi State,3,14,1,2,8,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885101997201,Pass Incompletion,4,3,35,35,-2.257755593240871,False,Texas A&M,Mississippi State,3,14,1,0,27,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885102875901,Pass Reception,2,10,75,75,-0.06222348980634162,False,Texas A&M,Mississippi State,3,17,2,12,40,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885102879601,Pass Reception,3,6,71,71,2.834894342860884,False,Texas A&M,Mississippi State,3,17,2,12,3,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885102948901,Pass Incompletion,2,15,85,85,-0.10782395428385258,False,Texas A&M,Mississippi State,10,17,2,5,10,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885102986601,Pass Incompletion,2,11,70,70,-0.41873362771750955,False,Texas A&M,Mississippi State,10,17,2,1,33,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885102987501,Pass Reception,3,11,70,70,-0.13198148673129406,False,Texas A&M,Mississippi State,10,17,2,1,24,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103854901,Pass Reception,1,10,95,95,0.29740049815959413,False,Texas A&M,Mississippi State,10,24,3,14,50,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103898401,Pass Reception,1,10,75,75,0.3333748010525683,False,Texas A&M,Mississippi State,10,27,3,10,15,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103926401,Pass Reception,3,10,52,52,3.294231991760409,False,Texas A&M,Mississippi State,10,27,3,7,35,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103909901,Pass Reception,1,10,52,52,0.6193952681357987,False,Texas A&M,Mississippi State,10,27,3,9,0,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103916901,Pass Reception,2,3,45,45,-3.4133395438314977,False,Texas A&M,Mississippi State,10,27,3,8,30,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103965701,Pass Incompletion,3,8,97,97,-0.0642815290457017,False,Texas A&M,Mississippi State,10,27,3,3,42,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103964901,Pass Incompletion,2,8,97,97,-0.1522222570033103,False,Texas A&M,Mississippi State,10,27,3,3,50,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103985801,Pass Incompletion,1,10,68,68,-0.9262377870973815,False,Texas A&M,Mississippi State,10,27,3,1,41,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103994301,Pass Incompletion,3,10,68,68,-0.24944723578013583,False,Texas A&M,Mississippi State,10,27,3,0,56,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104867301,Pass Incompletion,1,10,29,29,-0.534372502378378,False,Texas A&M,Mississippi State,10,27,4,13,26,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104856501,Pass Incompletion,1,10,58,58,-1.1496266880203319,False,Texas A&M,Mississippi State,10,27,4,14,34,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885103999901,Pass Reception,1,20,78,78,0.2947590864247678,False,Texas A&M,Mississippi State,10,27,3,0,0,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104869401,Pass Reception,1,10,13,13,-0.098600859057136,False,Texas A&M,Mississippi State,10,27,4,13,5,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104854401,Pass Reception,2,12,70,70,2.1461565271984107,False,Texas A&M,Mississippi State,10,27,4,14,55,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104858401,Pass Reception,2,10,58,58,2.4163944284875236,False,Texas A&M,Mississippi State,10,27,4,14,15,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104868401,Pass Reception,2,10,29,29,0.783744471930643,False,Texas A&M,Mississippi State,10,27,4,13,15,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104904401,Pass Reception,3,10,80,80,-0.02061551162905318,False,Texas A&M,Mississippi State,17,27,4,9,55,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104896201,Pass Incompletion,1,10,80,80,-0.5586693796725282,False,Texas A&M,Mississippi State,17,27,4,10,37,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104949901,Pass Reception,1,10,80,80,0.5253025865520424,False,Texas A&M,Mississippi State,17,30,4,5,0,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603885104969401,Pass Incompletion,4,7,77,77,0.2568522046716675,False,Texas A&M,Mississippi State,17,30,4,3,5,5,Texas A&M,2015,Mississippi State,Dak Prescott,2016
+400603900101857501,Passing Touchdown,2,4,59,41,4.8443705262865,True,Mississippi State,Troy,7,0,1,14,24,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900101849902,Pass Reception,1,10,65,35,0.3983464844048346,False,Mississippi State,Troy,0,0,1,15,0,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900101895305,Pass Incompletion,3,6,56,44,-0.7032169794909455,False,Mississippi State,Troy,14,0,1,10,46,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900101895301,Pass Reception,1,10,72,28,1.3191287933513696,False,Mississippi State,Troy,14,0,1,10,46,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900101947003,Pass Incompletion,3,7,77,23,-0.19834493688263335,False,Mississippi State,Troy,14,0,1,5,29,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900101947001,Pass Incompletion,1,10,80,20,-0.5586693796725282,False,Mississippi State,Troy,14,0,1,5,29,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900102849902,Pass Incompletion,2,9,54,46,-0.9830592290155735,False,Mississippi State,Troy,21,0,2,15,0,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900102849904,Pass Reception,1,10,42,58,0.0899665338824123,False,Mississippi State,Troy,21,0,2,15,0,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900101986201,Pass Reception,1,10,74,26,0.3420124320108239,False,Mississippi State,Troy,21,0,1,1,37,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900102915601,Passing Touchdown,1,10,28,72,2.764014474138431,True,Mississippi State,Troy,31,0,2,8,43,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900102984901,Pass Reception,1,10,55,45,0.1079044232439195,False,Mississippi State,Troy,31,0,2,1,50,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900102984902,Pass Reception,2,5,50,50,2.9554735164003474,False,Mississippi State,Troy,31,0,2,1,50,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900104888801,Passing Touchdown,1,10,49,51,3.7623305516372483,True,Mississippi State,Troy,45,14,4,11,11,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900104918203,Pass Reception,1,10,69,31,-1.3298786742391595,False,Mississippi State,Troy,45,14,4,8,17,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603900104918205,Pass Incompletion,3,14,73,27,-0.11901113976250156,False,Mississippi State,Troy,45,14,4,8,17,6,Troy,2015,Mississippi State,Dak Prescott,2016
+400603895101849906,Pass Reception,2,10,58,42,-0.3421250182909796,False,Mississippi State,Louisiana Tech,0,0,1,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101849905,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Mississippi State,Louisiana Tech,0,0,1,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101849907,Pass Incompletion,3,7,55,45,-0.6844956495921046,False,Mississippi State,Louisiana Tech,0,0,1,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101849904,Pass Reception,3,10,75,25,2.5661268068473966,False,Mississippi State,Louisiana Tech,0,0,1,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101849902,Pass Reception,1,10,75,25,0.604642460086338,False,Mississippi State,Louisiana Tech,0,0,1,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101897201,Pass Reception,1,10,75,25,1.0272443261435713,False,Mississippi State,Louisiana Tech,0,7,1,10,27,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101897204,Pass Reception,3,7,60,40,-0.10016666923345598,False,Mississippi State,Louisiana Tech,0,7,1,10,27,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101958003,Pass Reception,1,10,70,30,1.7694193150114044,False,Mississippi State,Louisiana Tech,0,14,1,4,19,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101958005,Pass Reception,2,6,47,53,1.4517089781891617,False,Mississippi State,Louisiana Tech,0,14,1,4,19,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101958006,Pass Reception,1,10,20,80,1.404692431359601,False,Mississippi State,Louisiana Tech,0,14,1,4,19,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101958001,Pass Reception,1,10,82,18,0.2714669258479434,False,Mississippi State,Louisiana Tech,0,14,1,4,19,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849901,Pass Incompletion,2,2,53,47,-1.356977712417006,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849908,Pass Incompletion,1,10,24,76,-0.4346450377339437,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895101997501,Pass Reception,1,10,73,27,1.0776993977570706,False,Mississippi State,Louisiana Tech,7,14,1,0,24,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849904,Pass Reception,1,10,35,65,0.081604517220205,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849903,Pass Reception,1,10,50,50,0.868823148344417,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849911,Pass Reception,2,13,15,85,0.160977238985959,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849912,Pass Incompletion,3,6,8,92,-0.3369979053197873,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849906,Pass Incompletion,3,5,30,70,-0.9182089837970366,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102849905,Pass Incompletion,2,5,30,70,-0.7138311402228904,False,Mississippi State,Louisiana Tech,7,14,2,15,0,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102928106,Pass Reception,1,10,49,51,-0.8564651345494897,False,Mississippi State,Louisiana Tech,10,17,2,7,18,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102928109,Pass Incompletion,1,10,21,79,-0.3882383440694163,False,Mississippi State,Louisiana Tech,10,17,2,7,18,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102928103,Pass Reception,2,1,64,36,-0.0251755053120383,False,Mississippi State,Louisiana Tech,10,17,2,7,18,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102928111,Pass Reception,3,13,24,76,2.079462156061057,False,Mississippi State,Louisiana Tech,10,17,2,7,18,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102974601,Passing Touchdown,1,5,5,95,1.883780840558874,True,Mississippi State,Louisiana Tech,17,17,2,2,53,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102928102,Pass Reception,1,10,73,27,1.2988785897355477,False,Mississippi State,Louisiana Tech,10,17,2,7,18,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895102928101,Pass Reception,1,10,85,15,0.6882461156532731,False,Mississippi State,Louisiana Tech,10,17,2,7,18,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103877303,Pass Reception,2,7,84,16,-0.04453502744576187,False,Mississippi State,Louisiana Tech,24,17,3,12,26,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103877305,Pass Reception,1,10,67,33,0.3906282102434897,False,Mississippi State,Louisiana Tech,24,17,3,12,26,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103899303,Pass Incompletion,1,8,8,92,-0.357171386033373,False,Mississippi State,Louisiana Tech,24,17,3,10,6,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103877304,Pass Reception,3,3,80,20,1.4807398512316245,False,Mississippi State,Louisiana Tech,24,17,3,12,26,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103877301,Pass Reception,1,10,98,2,0.27838668203309513,False,Mississippi State,Louisiana Tech,24,17,3,12,26,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103877306,Pass Incompletion,2,4,61,39,-1.1145948165659805,False,Mississippi State,Louisiana Tech,24,17,3,12,26,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103914401,Passing Touchdown,3,20,20,80,4.317248561794729,True,Mississippi State,Louisiana Tech,31,17,3,8,55,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103899302,Pass Reception,1,10,53,47,1.7756998648736158,False,Mississippi State,Louisiana Tech,24,17,3,10,6,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103955505,Pass Incompletion,3,15,80,20,-0.06579665004736057,False,Mississippi State,Louisiana Tech,31,20,3,4,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103955512,Pass Incompletion,1,10,12,88,-0.2977696357406735,False,Mississippi State,Louisiana Tech,31,20,3,4,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103986901,Passing Touchdown,2,10,12,88,2.827864177776599,True,Mississippi State,Louisiana Tech,38,20,3,1,30,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103955511,Pass Reception,1,10,29,71,0.2582066425621865,False,Mississippi State,Louisiana Tech,31,20,3,4,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895103955510,Pass Reception,1,10,40,60,0.400747959339229,False,Mississippi State,Louisiana Tech,31,20,3,4,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895104865505,Pass Incompletion,3,5,62,38,-0.5709613673025657,False,Mississippi State,Louisiana Tech,38,20,4,13,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895104865504,Pass Reception,2,5,62,38,-1.007989314168027,False,Mississippi State,Louisiana Tech,38,20,4,13,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603895104865503,Pass Reception,1,10,67,33,0.1068735075937823,False,Mississippi State,Louisiana Tech,38,20,4,13,44,7,Louisiana Tech,2015,Mississippi State,Dak Prescott,2016
+400603889101884401,Pass Incompletion,1,10,89,11,-0.36548578366266504,False,Mississippi State,Kentucky,0,0,1,11,55,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101885201,Pass Incompletion,2,10,89,11,-0.16041602870877192,False,Mississippi State,Kentucky,0,0,1,11,47,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101886401,Pass Reception,3,10,89,11,0.11576595630695774,False,Mississippi State,Kentucky,0,0,1,11,35,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101926301,Pass Reception,2,6,77,23,0.08062168378060088,False,Mississippi State,Kentucky,0,7,1,7,36,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101956101,Pass Reception,4,2,30,70,1.5198193289684103,False,Mississippi State,Kentucky,0,7,1,4,38,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101938001,Pass Reception,1,10,52,48,0.913461640125243,False,Mississippi State,Kentucky,0,7,1,6,19,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101935401,Pass Reception,2,7,64,36,1.8094895018971207,False,Mississippi State,Kentucky,0,7,1,6,45,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889101959101,Pass Reception,1,10,21,79,0.187709370950086,False,Mississippi State,Kentucky,0,7,1,4,8,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102858401,Pass Reception,1,10,26,74,0.1810729073623335,False,Mississippi State,Kentucky,7,10,2,14,15,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102866101,Passing Touchdown,2,10,13,87,2.8437765145447305,True,Mississippi State,Kentucky,14,10,2,13,38,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102855401,Pass Reception,2,8,61,39,2.6547669221671324,False,Mississippi State,Kentucky,7,10,2,14,45,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102856901,Pass Reception,1,10,37,63,0.3314065090685627,False,Mississippi State,Kentucky,7,10,2,14,30,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102894901,Pass Incompletion,1,10,28,72,-0.512081873784803,False,Mississippi State,Kentucky,14,10,2,10,50,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102888801,Pass Reception,1,10,42,58,0.530920997433693,False,Mississippi State,Kentucky,14,10,2,11,11,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102944501,Pass Interception Return,1,10,86,14,-0.3399331836711008,False,Mississippi State,Kentucky,14,10,2,5,54,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102974601,Pass Reception,1,10,69,31,1.1419743076037232,False,Mississippi State,Kentucky,14,10,2,2,53,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102985801,Pass Reception,1,10,26,74,0.4004025537084885,False,Mississippi State,Kentucky,14,10,2,1,41,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102977401,Pass Reception,1,10,57,43,1.0524343400013052,False,Mississippi State,Kentucky,14,10,2,2,25,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102986501,Passing Touchdown,1,8,8,92,2.319599568699692,True,Mississippi State,Kentucky,21,10,2,1,34,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889102995001,Pass Reception,1,10,80,20,3.8061546928206886,False,Mississippi State,Kentucky,21,10,2,0,49,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103876801,Pass Incompletion,3,7,44,56,-0.994152972638215,False,Mississippi State,Kentucky,28,13,3,12,31,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103856701,Pass Reception,2,4,69,31,0.9874797145250778,False,Mississippi State,Kentucky,28,13,3,14,32,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103869101,Pass Incompletion,1,10,47,53,-1.0507069190375147,False,Mississippi State,Kentucky,28,13,3,13,8,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103864901,Pass Reception,1,10,60,40,1.339431621541097,False,Mississippi State,Kentucky,28,13,3,13,50,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103905401,Pass Reception,1,10,44,56,0.8990555152605793,False,Mississippi State,Kentucky,28,13,3,9,45,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103909401,Pass Reception,2,7,7,93,-0.338937716173518,False,Mississippi State,Kentucky,28,13,3,9,5,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103916701,Pass Incompletion,3,8,8,92,-0.354205173792517,False,Mississippi State,Kentucky,28,13,3,8,32,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103978202,Pass Incompletion,2,8,73,27,-0.4788075161366292,False,Mississippi State,Kentucky,28,16,3,2,17,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103994001,Passing Touchdown,1,10,13,87,2.538929215045847,True,Mississippi State,Kentucky,35,16,3,0,59,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103987401,Pass Incompletion,1,10,33,67,-0.6351269961541294,False,Mississippi State,Kentucky,28,16,3,1,25,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103984601,Pass Reception,3,8,73,27,3.395964073913558,False,Mississippi State,Kentucky,28,16,3,1,53,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889103985301,Pass Reception,1,10,47,53,0.710127467764442,False,Mississippi State,Kentucky,28,16,3,1,46,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889104866201,Pass Reception,1,10,80,20,1.1127415828278746,False,Mississippi State,Kentucky,35,16,4,13,37,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889104867001,Pass Incompletion,2,1,71,29,-1.1188507753418548,False,Mississippi State,Kentucky,35,16,4,13,29,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889104889601,Pass Reception,2,9,38,62,1.0206638978270277,False,Mississippi State,Kentucky,35,16,4,11,3,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603889104885701,Pass Reception,1,10,54,46,1.044458982753657,False,Mississippi State,Kentucky,35,16,4,11,42,8,Kentucky,2015,Mississippi State,Dak Prescott,2016
+400603911101868901,Pass Incompletion,1,10,36,36,-0.7215426143188567,False,Missouri,Mississippi State,0,0,1,13,10,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101867901,Pass Reception,1,10,62,62,1.0296364367865516,False,Missouri,Mississippi State,0,0,1,13,20,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101868401,Pass Reception,1,10,51,51,0.912589108879143,False,Missouri,Mississippi State,0,0,1,13,15,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101869601,Passing Touchdown,2,10,36,36,3.7323207093326527,True,Missouri,Mississippi State,7,0,1,13,3,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101889501,Pass Reception,2,1,55,55,-0.0759032142812296,False,Missouri,Mississippi State,7,0,1,11,4,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101896601,Pass Incompletion,2,8,48,48,-1.1044105135531035,False,Missouri,Mississippi State,7,0,1,10,33,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101897501,Pass Incompletion,3,8,48,48,-0.8552184337457032,False,Missouri,Mississippi State,7,0,1,10,24,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101925201,Pass Reception,2,11,46,46,-1.0445121505311779,False,Missouri,Mississippi State,7,0,1,7,47,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101949201,Pass Incompletion,2,9,63,63,-0.7156844087137806,False,Missouri,Mississippi State,7,0,1,5,7,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101947201,Pass Reception,1,10,64,64,-0.8530905486726476,False,Missouri,Mississippi State,7,0,1,5,27,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102857701,Pass Reception,1,10,37,37,-0.2366089144620603,False,Missouri,Mississippi State,7,3,2,14,22,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102869401,Pass Reception,3,5,32,32,-0.5361706062732223,False,Missouri,Mississippi State,7,3,2,13,5,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101997401,Pass Reception,3,5,54,54,2.11655110224444,False,Missouri,Mississippi State,7,3,1,0,25,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911101986901,Pass Reception,1,10,83,83,1.8761702327532301,False,Missouri,Mississippi State,7,3,1,1,30,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102909601,Pass Incompletion,3,12,67,67,-0.21933845556457765,False,Missouri,Mississippi State,7,3,2,9,3,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102938901,Pass Incompletion,2,9,28,28,-0.6814576725824767,False,Missouri,Mississippi State,7,6,2,6,10,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102939601,Passing Touchdown,3,9,28,28,3.876835870616821,True,Missouri,Mississippi State,14,6,2,6,3,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102985601,Pass Reception,1,10,75,75,-0.2957674139440157,False,Missouri,Mississippi State,14,13,2,1,43,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102986701,Pass Incompletion,3,4,69,69,-0.43770162015070735,False,Missouri,Mississippi State,14,13,2,1,32,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102986201,Pass Reception,2,7,72,72,-0.2389648696117614,False,Missouri,Mississippi State,14,13,2,1,37,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102998801,Pass Reception,1,10,63,63,1.698140705646896,False,Missouri,Mississippi State,14,13,2,0,11,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911102999901,Pass Incompletion,2,10,43,43,-1.060943078602227,False,Missouri,Mississippi State,14,13,2,0,0,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103854801,Pass Reception,1,10,77,77,-0.2714196551267518,False,Missouri,Mississippi State,14,13,3,14,51,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103866201,Pass Reception,3,11,78,78,4.644674485478389,False,Missouri,Mississippi State,14,13,3,13,37,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103877901,Passing Touchdown,3,5,5,5,2.76159962916859,True,Missouri,Mississippi State,21,13,3,12,20,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103895001,Pass Incompletion,2,10,25,25,-0.6084005148647674,False,Missouri,Mississippi State,21,13,3,10,49,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103889901,Pass Incompletion,1,10,25,25,-0.4522778946200265,False,Missouri,Mississippi State,21,13,3,11,0,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103898901,Pass Reception,3,10,25,25,0.1946101078463531,False,Missouri,Mississippi State,21,13,3,10,10,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103967301,Passing Touchdown,2,6,8,8,2.5465314678352335,True,Missouri,Mississippi State,31,13,3,3,26,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103948401,Pass Reception,2,3,60,60,1.7584253064611046,False,Missouri,Mississippi State,24,13,3,5,15,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103945901,Pass Reception,1,10,67,67,0.6980425789030882,False,Missouri,Mississippi State,24,13,3,5,40,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103965401,Pass Reception,1,10,12,12,-0.016436925799308,False,Missouri,Mississippi State,24,13,3,3,45,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103954901,Pass Reception,2,10,35,35,0.2286781856928092,False,Missouri,Mississippi State,24,13,3,4,50,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103948701,Pass Incompletion,1,10,35,35,-0.6918622905019662,False,Missouri,Mississippi State,24,13,3,5,12,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911104866601,Pass Incompletion,3,17,32,32,-0.9475183087964245,False,Missouri,Mississippi State,31,13,4,13,33,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911104864901,Pass Reception,3,20,35,35,-0.3288417619311881,False,Missouri,Mississippi State,31,13,4,13,50,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911104856401,Pass Reception,1,10,25,25,-0.4522778946200265,False,Missouri,Mississippi State,31,13,4,14,35,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911103989102,Pass Incompletion,1,10,51,51,-1.1301991718133413,False,Missouri,Mississippi State,31,13,3,1,8,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911104929901,Pass Incompletion,2,13,44,44,-1.0208411518803295,False,Missouri,Mississippi State,31,13,4,7,0,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911104918901,Pass Reception,3,7,61,61,2.364582923597215,False,Missouri,Mississippi State,31,13,4,8,10,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603911104919901,Pass Reception,1,10,41,41,-1.5294975530927566,False,Missouri,Mississippi State,31,13,4,8,0,10,Missouri,2015,Mississippi State,Dak Prescott,2016
+400603933101858401,Pass Reception,3,1,66,34,1.1477853409907786,False,Mississippi State,Alabama,0,0,1,14,15,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101918901,Pass Incompletion,1,3,3,97,-0.746972881228756,False,Mississippi State,Alabama,0,0,1,8,10,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101894001,Pass Incompletion,1,10,53,47,-1.1527089917962545,False,Mississippi State,Alabama,0,0,1,10,59,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101919401,Pass Incompletion,2,3,3,97,-0.413137785818898,False,Mississippi State,Alabama,0,0,1,8,5,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101908401,Pass Reception,3,20,48,52,2.2955021007276137,False,Mississippi State,Alabama,0,0,1,9,15,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101956701,Pass Reception,2,10,45,55,-0.3941950747095556,False,Mississippi State,Alabama,0,0,1,4,32,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101954801,Pass Incompletion,1,10,45,55,-0.997770018980635,False,Mississippi State,Alabama,0,0,1,4,51,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101948701,Pass Reception,2,6,68,32,2.50913310032103,False,Mississippi State,Alabama,0,0,1,5,12,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101985301,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Mississippi State,Alabama,0,0,1,1,46,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102858801,Pass Incompletion,3,9,32,68,-1.0081489976866838,False,Mississippi State,Alabama,0,0,2,14,11,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102849901,Pass Incompletion,1,10,33,67,-0.6351269961541294,False,Mississippi State,Alabama,0,0,2,15,0,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102855401,Pass Reception,2,10,33,67,-0.6549828083569338,False,Mississippi State,Alabama,0,0,2,14,45,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933101999901,Pass Reception,1,10,87,13,3.7937208453656437,False,Mississippi State,Alabama,0,0,1,0,0,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102889701,Pass Incompletion,3,7,65,35,-0.4020165304219372,False,Mississippi State,Alabama,0,0,2,11,2,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102878401,Pass Reception,2,6,76,24,0.9551792057644652,False,Mississippi State,Alabama,0,0,2,12,15,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102896601,Pass Incompletion,1,10,83,17,-0.48436415563340685,False,Mississippi State,Alabama,0,7,2,10,33,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102918401,Pass Reception,1,10,85,15,0.6856189176956029,False,Mississippi State,Alabama,0,14,2,8,15,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102927401,Pass Reception,1,10,71,29,1.310300175243638,False,Mississippi State,Alabama,0,14,2,7,25,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102938401,Pass Incompletion,3,10,14,86,-0.545139739806249,False,Mississippi State,Alabama,0,14,2,6,15,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102937901,Pass Incompletion,2,10,14,86,-0.3426834405597514,False,Mississippi State,Alabama,0,14,2,6,20,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102927501,Pass Incompletion,1,10,57,43,-1.15714755134967,False,Mississippi State,Alabama,0,14,2,7,24,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102937401,Pass Incompletion,1,10,14,86,-0.3125697195395781,False,Mississippi State,Alabama,0,14,2,6,25,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102935401,Pass Reception,3,8,55,45,3.6111033100817043,False,Mississippi State,Alabama,0,14,2,6,45,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102977401,Pass Incompletion,2,10,52,48,-0.9850636246407553,False,Mississippi State,Alabama,3,21,2,2,25,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102969901,Pass Reception,3,4,63,37,2.2782146117036426,False,Mississippi State,Alabama,3,21,2,3,0,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102957401,Pass Reception,2,10,80,20,0.1358314118995505,False,Mississippi State,Alabama,3,21,2,4,25,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102976701,Pass Incompletion,1,10,52,48,-1.1430602484821704,False,Mississippi State,Alabama,3,21,2,2,32,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102968901,Pass Reception,2,9,68,32,0.0622613241028525,False,Mississippi State,Alabama,3,21,2,3,10,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933102988901,Pass Reception,2,14,39,61,-0.8085106817307786,False,Mississippi State,Alabama,3,21,2,1,10,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103896901,Pass Incompletion,2,10,82,18,-0.23306550564546488,False,Mississippi State,Alabama,3,24,3,10,30,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103909901,Pass Reception,1,10,40,60,-0.090113775884788,False,Mississippi State,Alabama,3,24,3,9,0,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103895901,Pass Incompletion,1,10,82,18,-0.5080208698531008,False,Mississippi State,Alabama,3,24,3,10,40,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103907901,Pass Reception,2,9,59,41,2.4792729884765397,False,Mississippi State,Alabama,3,24,3,9,20,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103897901,Pass Reception,3,10,82,18,2.472484020647741,False,Mississippi State,Alabama,3,24,3,10,20,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103949901,Pass Reception,1,10,75,25,1.252308359788624,False,Mississippi State,Alabama,3,24,3,5,0,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103965901,Pass Reception,1,10,31,69,0.0783240996557135,False,Mississippi State,Alabama,3,24,3,3,40,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103959901,Pass Reception,2,2,49,51,0.6467039133173919,False,Mississippi State,Alabama,3,24,3,4,0,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103967901,Pass Reception,2,5,26,74,0.5668674400900235,False,Mississippi State,Alabama,3,24,3,3,20,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933103987001,Pass Incompletion,3,21,21,79,-0.9919294691246545,False,Mississippi State,Alabama,3,24,3,1,29,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933104909501,Pass Incompletion,3,3,73,27,-0.39977677046584065,False,Mississippi State,Alabama,6,24,4,9,4,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933104909001,Pass Incompletion,2,3,73,27,-0.8317821150672237,False,Mississippi State,Alabama,6,24,4,9,9,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933104928801,Pass Interception Return,2,2,67,33,-1.8326817353397438,False,Mississippi State,Alabama,6,31,4,7,11,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933104926901,Pass Reception,1,10,75,25,0.9104368550610653,False,Mississippi State,Alabama,6,31,4,7,30,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933104986401,Pass Reception,3,10,60,40,-0.0819259475912304,False,Mississippi State,Alabama,6,31,4,1,35,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603933104989501,Pass Incompletion,4,6,56,44,-0.27874226202875185,False,Mississippi State,Alabama,6,31,4,1,4,11,Alabama,2015,Mississippi State,Dak Prescott,2016
+400603922101898305,Pass Reception,1,10,65,65,0.3983464844048346,False,Arkansas,Mississippi State,0,7,1,10,16,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922101898309,Pass Reception,1,10,44,44,-0.3178831342797892,False,Arkansas,Mississippi State,0,7,1,10,16,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922101926801,Passing Touchdown,3,4,38,38,4.084152257227798,True,Arkansas,Mississippi State,7,7,1,7,31,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922101898308,Pass Reception,2,10,55,55,2.025600081101585,False,Arkansas,Mississippi State,0,7,1,10,16,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922101937405,Pass Reception,1,10,10,10,-0.22620936096334,False,Arkansas,Mississippi State,7,7,1,6,25,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922101937402,Pass Reception,2,9,64,64,3.4582069454344886,False,Arkansas,Mississippi State,7,7,1,6,25,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102858606,Pass Reception,1,10,50,50,-0.141734208558013,False,Arkansas,Mississippi State,14,14,2,14,13,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102858605,Pass Reception,1,10,63,63,1.2090988614563771,False,Arkansas,Mississippi State,14,14,2,14,13,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102858604,Pass Reception,1,10,75,75,1.0272443261435713,False,Arkansas,Mississippi State,14,14,2,14,13,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102868803,Pass Reception,1,10,10,10,0.302402228289349,False,Arkansas,Mississippi State,14,14,2,13,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102884302,Pass Incompletion,3,3,3,3,-0.291784144723391,False,Arkansas,Mississippi State,14,14,2,11,56,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102868802,Pass Reception,3,5,45,45,2.3674817668703354,False,Arkansas,Mississippi State,14,14,2,13,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102858607,Pass Reception,2,6,46,46,-0.8981624684403915,False,Arkansas,Mississippi State,14,14,2,14,13,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102897808,Pass Reception,1,10,14,14,0.1809070651975925,False,Arkansas,Mississippi State,17,14,2,10,21,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102897806,Pass Incompletion,1,10,25,25,-0.4522778946200265,False,Arkansas,Mississippi State,17,14,2,10,21,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102897802,Pass Incompletion,2,5,73,73,-0.662658653674808,False,Arkansas,Mississippi State,17,14,2,10,21,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102897803,Pass Reception,3,5,73,73,1.9905233590773646,False,Arkansas,Mississippi State,17,14,2,10,21,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102897807,Pass Reception,2,10,25,25,0.6040790817070025,False,Arkansas,Mississippi State,17,14,2,10,21,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102897805,Pass Reception,1,10,49,49,1.0622461893711908,False,Arkansas,Mississippi State,17,14,2,10,21,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102926401,Passing Touchdown,2,4,8,8,2.367376109981489,True,Arkansas,Mississippi State,24,14,2,7,35,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102938803,Pass Reception,1,10,60,60,0.1106144250151839,False,Arkansas,Mississippi State,24,14,2,6,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102955501,Passing Touchdown,2,5,55,55,4.6462861791284915,True,Arkansas,Mississippi State,31,14,2,4,44,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102938802,Pass Reception,2,5,69,69,1.153549555034795,False,Arkansas,Mississippi State,24,14,2,6,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102997202,Pass Incompletion,2,13,56,56,-0.7399589969529244,False,Arkansas,Mississippi State,31,21,2,0,27,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102994704,Pass Incompletion,1,10,65,65,-1.0146424556055624,False,Arkansas,Mississippi State,31,21,2,0,52,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102999602,Pass Incompletion,4,6,49,49,-0.6716682725510577,False,Arkansas,Mississippi State,31,21,2,0,3,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922102994705,Pass Reception,2,10,65,65,2.1620600327235895,False,Arkansas,Mississippi State,31,21,2,0,52,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922103879904,Pass Interception Return,1,10,69,69,-1.3927089948849503,False,Arkansas,Mississippi State,31,28,3,12,0,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922103886006,Pass Reception,1,10,65,65,1.037188716394402,False,Arkansas,Mississippi State,31,35,3,11,39,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922103934306,Pass Reception,3,10,71,71,0.18237640970621083,False,Arkansas,Mississippi State,31,42,3,6,56,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922103934305,Pass Incompletion,2,10,71,71,-0.43555458427823446,False,Arkansas,Mississippi State,31,42,3,6,56,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922103988403,Pass Incompletion,1,10,62,62,-1.087995077167328,False,Arkansas,Mississippi State,31,42,3,1,15,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104849901,Pass Reception,2,7,32,32,0.5708862168461905,False,Arkansas,Mississippi State,31,42,4,15,0,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104849902,Pass Incompletion,1,10,20,20,-0.374805786232315,False,Arkansas,Mississippi State,31,42,4,15,0,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922103988404,Pass Reception,2,10,62,62,3.0684099340698623,False,Arkansas,Mississippi State,31,42,3,1,15,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888808,Pass Reception,1,10,21,21,0.315409613643856,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888810,Pass Incompletion,3,1,12,12,-0.442784355709062,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888812,Pass Incompletion,1,10,10,10,-0.2853930592519426,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888803,Pass Reception,1,10,53,53,0.6333251560123241,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888802,Pass Reception,2,1,59,59,0.0494967513923863,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888805,Pass Incompletion,1,10,38,38,-0.7828922522763084,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888806,Pass Reception,2,10,38,38,0.7890902331108051,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104934101,Passing Touchdown,2,10,10,10,2.7992199015013846,True,Arkansas,Mississippi State,44,42,4,6,58,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888801,Pass Reception,1,10,68,68,1.3745145306761655,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888804,Pass Reception,2,3,46,46,0.3673816289757956,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104888807,Pass Reception,3,1,29,29,0.4560978539551983,False,Arkansas,Mississippi State,38,42,4,11,11,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104946604,Pass Reception,1,10,82,82,0.2714669258479434,False,Arkansas,Mississippi State,44,50,4,5,33,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104946606,Pass Reception,1,10,64,64,2.542744979137808,False,Arkansas,Mississippi State,44,50,4,5,33,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104946608,Pass Reception,2,10,19,19,0.041692539492061,False,Arkansas,Mississippi State,44,50,4,5,33,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104969401,Passing Touchdown,3,5,14,14,2.925076385702974,True,Arkansas,Mississippi State,51,50,4,3,5,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603922104946605,Pass Reception,2,4,76,76,1.0696387156695764,False,Arkansas,Mississippi State,44,50,4,5,33,12,Arkansas,2015,Mississippi State,Dak Prescott,2016
+400603918101854401,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Mississippi State,Ole Miss,0,0,1,14,55,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101867801,Pass Incompletion,2,5,55,45,-1.1686934633483474,False,Mississippi State,Ole Miss,0,0,1,13,21,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101867901,Pass Reception,3,5,55,45,2.0526490908395907,False,Mississippi State,Ole Miss,0,0,1,13,20,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101855901,Pass Reception,2,10,75,25,0.6799361600947043,False,Mississippi State,Ole Miss,0,0,1,14,40,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101896401,Pass Reception,2,16,81,19,0.01404385747281366,False,Mississippi State,Ole Miss,0,7,1,10,35,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101949401,Pass Reception,1,10,75,25,-0.7029700220436519,False,Mississippi State,Ole Miss,0,14,1,5,5,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101959001,Pass Reception,3,8,73,27,2.252265711036313,False,Mississippi State,Ole Miss,0,14,1,4,9,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101964401,Pass Reception,1,10,60,40,0.1106144250151839,False,Mississippi State,Ole Miss,0,14,1,3,55,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101999801,Pass Reception,2,11,11,89,0.160433129348835,False,Mississippi State,Ole Miss,0,21,1,0,1,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101977901,Pass Reception,2,5,58,42,-0.434960061782377,False,Mississippi State,Ole Miss,0,21,1,2,20,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918101987401,Pass Reception,1,10,51,49,0.6049387793407243,False,Mississippi State,Ole Miss,0,21,1,1,25,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102906901,Pass Reception,2,17,86,14,-0.1120756729278094,False,Mississippi State,Ole Miss,3,28,2,9,30,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102965201,Pass Reception,3,3,51,49,1.747184617131179,False,Mississippi State,Ole Miss,3,28,2,3,47,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102974901,Pass Incompletion,2,6,40,60,-1.0164008224593708,False,Mississippi State,Ole Miss,3,28,2,2,50,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102966401,Pass Reception,1,10,44,56,-0.1108700500197327,False,Mississippi State,Ole Miss,3,28,2,3,35,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102975901,Pass Reception,3,6,40,60,0.0726723531190227,False,Mississippi State,Ole Miss,3,28,2,2,40,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102958901,Pass Reception,2,13,61,39,1.118153091713756,False,Mississippi State,Ole Miss,3,28,2,4,10,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102997501,Pass Reception,2,13,57,43,-0.5890165154089644,False,Mississippi State,Ole Miss,3,28,2,0,24,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918102996401,Pass Reception,1,20,64,36,0.3823821653726372,False,Mississippi State,Ole Miss,3,28,2,0,35,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103868101,Pass Reception,2,4,40,60,0.2944991757404446,False,Mississippi State,Ole Miss,3,28,3,13,18,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103875401,Pass Reception,1,5,29,71,0.280813460544955,False,Mississippi State,Ole Miss,3,28,3,12,45,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103945301,Pass Incompletion,3,10,10,90,-0.435155339591331,False,Mississippi State,Ole Miss,10,28,3,5,46,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103935901,Pass Reception,1,10,28,72,-0.2736731894519623,False,Mississippi State,Ole Miss,10,28,3,6,40,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103919901,Pass Reception,1,10,80,20,2.015875014225797,False,Mississippi State,Ole Miss,10,28,3,8,0,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103944101,Pass Incompletion,1,10,10,90,-0.2853930592519426,False,Mississippi State,Ole Miss,10,28,3,5,58,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103925401,Pass Reception,1,10,56,44,1.275590132794118,False,Mississippi State,Ole Miss,10,28,3,7,45,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103929701,Pass Incompletion,2,4,32,68,-0.781180687607332,False,Mississippi State,Ole Miss,10,28,3,7,2,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103944501,Pass Incompletion,2,10,10,90,-0.2792458253567104,False,Mississippi State,Ole Miss,10,28,3,5,54,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918103934301,Pass Incompletion,3,4,32,68,-0.9617891472502117,False,Mississippi State,Ole Miss,10,28,3,6,56,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104896901,Pass Reception,1,10,30,70,-0.049162128193405,False,Mississippi State,Ole Miss,13,38,4,10,30,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104869901,Pass Reception,1,10,75,25,0.9104368550610653,False,Mississippi State,Ole Miss,13,38,4,13,0,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104878401,Pass Reception,1,10,58,42,-0.1665264279012551,False,Mississippi State,Ole Miss,13,38,4,12,15,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104876401,Pass Reception,2,2,67,33,0.6056150526209407,False,Mississippi State,Ole Miss,13,38,4,12,35,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104906101,Passing Touchdown,1,10,13,87,2.538929215045847,True,Mississippi State,Ole Miss,20,38,4,9,38,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104886901,Pass Reception,1,10,46,54,0.3120620714803497,False,Mississippi State,Ole Miss,13,38,4,11,30,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104984301,Pass Incompletion,2,10,15,85,-0.361206789772767,False,Mississippi State,Ole Miss,20,38,4,1,56,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104988201,Passing Touchdown,4,2,7,93,2.952848456900776,True,Mississippi State,Ole Miss,27,38,4,1,17,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104966401,Pass Reception,3,3,57,43,1.9473872224243785,False,Mississippi State,Ole Miss,20,38,4,3,35,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104985901,Pass Reception,3,10,15,85,0.287535081926393,False,Mississippi State,Ole Miss,20,38,4,1,40,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104978401,Pass Reception,3,4,43,57,1.98050726147583,False,Mississippi State,Ole Miss,20,38,4,2,15,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016
+400603918104979801,Pass Incompletion,1,10,15,85,-0.320977659489319,False,Mississippi State,Ole Miss,20,38,4,2,1,13,Ole Miss,2015,Mississippi State,Dak Prescott,2016

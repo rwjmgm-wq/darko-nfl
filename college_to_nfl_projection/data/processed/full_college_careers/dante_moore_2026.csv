@@ -1,0 +1,8 @@
+season,week,offense,defense,down,distance,yards_to_goal,play_type,epa,yards_gained,play_text,success,touchdown
+2024,3,Oregon,Oregon State,2,5,49,pass,0.7830630310544484,7,Dante Moore pass complete to Traeshon Holden for 7 yds to the ORST 42 for a 1ST down,True,False
+2024,3,Oregon,Oregon State,1,10,29,pass,-0.285086032247587,2,Dante Moore pass complete to Jay Harris for 2 yds to the ORST 27,False,False
+2024,3,Oregon,Oregon State,3,8,27,pass,0.2068094057144822,6,Dante Moore pass complete to Jayden Limar for 6 yds to the ORST 21,True,False
+2024,6,Oregon,Michigan State,2,25,90,pass,0.02293079902516127,7,Dante Moore pass complete to Jurrion Dickey for 7 yds to the ORE 17,True,False
+2024,14,Oregon,Washington,1,10,74,pass,0.8595837046856349,10,Dante Moore pass complete to Tez Johnson for 10 yds to the ORE 36 for a 1ST down,True,False
+2024,14,Oregon,Washington,2,5,59,pass,0.9423556762091785,6,Dante Moore pass complete to Jeremiah McClellan for 6 yds to the ORE 47 for a 1ST down,True,False
+2024,14,Oregon,Washington,1,10,53,pass,0.8003639620011836,11,Dante Moore pass complete to Kenyon Sadiq for 11 yds to the WASH 42 for a 1ST down,True,False

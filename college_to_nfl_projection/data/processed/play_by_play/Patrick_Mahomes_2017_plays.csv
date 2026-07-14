@@ -1,0 +1,639 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400868885.0,Pass Reception,,,67.0,33.0,-0.5436871647834778,False,Texas Tech,Baylor,54.0,35.0,4,4,23,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,80.0,20.0,0.2281433343887329,False,Texas Tech,Baylor,54.0,35.0,4,6,24,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Sack,,,3.0,97.0,-1.6720218658447266,False,Texas Tech,Baylor,51.0,35.0,4,12,18,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,32.0,68.0,1.60614013671875,False,Texas Tech,Baylor,51.0,35.0,4,13,24,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,50.0,50.0,0.7513408660888672,False,Texas Tech,Baylor,51.0,35.0,4,14,16,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,84.0,16.0,-0.872550368309021,False,Texas Tech,Baylor,51.0,28.0,3,1,40,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,84.0,16.0,-0.5324697494506836,False,Texas Tech,Baylor,51.0,28.0,3,1,48,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,13.0,87.0,-1.5162353515625,False,Texas Tech,Baylor,48.0,28.0,3,5,57,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,13.0,87.0,-0.8391361236572266,False,Texas Tech,Baylor,48.0,28.0,3,6,3,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,35.0,65.0,0.4213252067565918,False,Texas Tech,Baylor,48.0,28.0,3,6,38,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,35.0,65.0,-0.568073034286499,False,Texas Tech,Baylor,48.0,28.0,3,6,58,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,57.0,43.0,2.6352810859680176,False,Texas Tech,Baylor,48.0,28.0,3,7,30,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,85.0,15.0,1.8103888034820557,False,Texas Tech,Baylor,48.0,28.0,3,8,51,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Passing Touchdown,,,6.0,94.0,2.1470065116882324,True,Texas Tech,Baylor,48.0,21.0,3,10,26,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,13.0,87.0,-0.23769140243530273,False,Texas Tech,Baylor,41.0,21.0,3,12,0,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,13.0,87.0,-0.7683777809143066,False,Texas Tech,Baylor,41.0,21.0,3,12,20,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,28.0,72.0,-0.07707023620605469,False,Texas Tech,Baylor,41.0,21.0,3,13,20,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,53.0,47.0,1.0197927951812744,False,Texas Tech,Baylor,41.0,21.0,3,14,10,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,71.0,29.0,1.6432842016220093,False,Texas Tech,Baylor,41.0,21.0,3,14,40,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,71.0,29.0,-0.8540674448013306,False,Texas Tech,Baylor,41.0,21.0,3,14,45,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,75.0,25.0,-2.7385873794555664,False,Texas Tech,Baylor,41.0,21.0,3,14,50,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,76.0,24.0,-0.10464900732040405,False,Texas Tech,Baylor,41.0,21.0,2,0,30,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Sack,,,74.0,26.0,-0.031329214572906494,False,Texas Tech,Baylor,41.0,14.0,2,1,30,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,81.0,19.0,-0.12351089715957642,False,Texas Tech,Baylor,41.0,14.0,2,1,39,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,57.0,43.0,-0.8551409840583801,False,Texas Tech,Baylor,41.0,14.0,2,3,14,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,57.0,43.0,-0.47281867265701294,False,Texas Tech,Baylor,41.0,14.0,2,3,19,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,57.0,43.0,-0.33033204078674316,False,Texas Tech,Baylor,41.0,14.0,2,3,25,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Passing Touchdown,,,62.0,38.0,6.167628288269043,True,Texas Tech,Baylor,41.0,14.0,2,4,50,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,61.0,39.0,-0.4681112766265869,False,Texas Tech,Baylor,34.0,14.0,2,5,26,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,75.0,25.0,0.4129282236099243,False,Texas Tech,Baylor,34.0,14.0,2,6,15,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Passing Touchdown,,,80.0,20.0,5.200395584106445,True,Texas Tech,Baylor,34.0,7.0,2,7,19,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Passing Touchdown,,,81.0,19.0,4.979948043823242,True,Texas Tech,Baylor,27.0,7.0,2,9,32,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,83.0,17.0,-1.3133878707885742,False,Texas Tech,Baylor,20.0,7.0,1,0,0,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,85.0,15.0,-0.8248748779296875,False,Texas Tech,Baylor,20.0,7.0,1,0,44,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,86.0,14.0,-0.5031054019927979,False,Texas Tech,Baylor,20.0,7.0,1,1,0,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,28.0,72.0,1.4885778427124023,False,Texas Tech,Baylor,13.0,7.0,1,3,35,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,53.0,47.0,1.712822675704956,False,Texas Tech,Baylor,13.0,7.0,1,3,50,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Passing Touchdown,,,40.0,60.0,2.3006157875061035,True,Texas Tech,Baylor,13.0,7.0,1,6,9,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Passing Touchdown,,,35.0,65.0,4.297636032104492,True,Texas Tech,Baylor,7.0,7.0,1,8,5,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,40.0,60.0,-0.30054306983947754,False,Texas Tech,Baylor,0.0,7.0,1,9,21,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,49.0,51.0,1.2340022325515747,False,Texas Tech,Baylor,0.0,7.0,1,9,46,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,61.0,39.0,1.5044424533843994,False,Texas Tech,Baylor,0.0,7.0,1,11,3,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Incompletion,,,61.0,39.0,-0.6186060905456543,False,Texas Tech,Baylor,0.0,7.0,1,11,8,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400868885.0,Pass Reception,,,71.0,29.0,1.867461919784546,False,Texas Tech,Baylor,0.0,7.0,1,11,35,13,Baylor,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,75.0,75.0,-1.7470271587371826,False,Arizona State,Texas Tech,55.0,68.0,4,3,4,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Interception Return,,,75.0,75.0,-0.29105231165885925,False,Arizona State,Texas Tech,55.0,68.0,4,3,4,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Passing Touchdown,,,66.0,66.0,7.631272315979004,True,Arizona State,Texas Tech,55.0,65.0,4,8,16,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-1.1928470134735107,False,Arizona State,Texas Tech,48.0,65.0,4,9,11,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,67.0,67.0,-2.5881004333496094,False,Arizona State,Texas Tech,48.0,65.0,4,9,11,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-2.102933883666992,False,Arizona State,Texas Tech,41.0,58.0,4,10,57,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,64.0,64.0,-2.421639919281006,False,Arizona State,Texas Tech,41.0,58.0,4,10,57,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,53.0,53.0,-3.0279011726379395,False,Arizona State,Texas Tech,41.0,58.0,4,10,57,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,44.0,44.0,-4.304210186004639,False,Arizona State,Texas Tech,41.0,58.0,4,10,57,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Sack,,,92.0,92.0,-1.585139513015747,False,Arizona State,Texas Tech,41.0,51.0,4,12,22,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Interception Return,,,95.0,95.0,1.8456089496612549,False,Arizona State,Texas Tech,41.0,51.0,4,12,22,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,72.0,72.0,-2.188950538635254,False,Arizona State,Texas Tech,41.0,51.0,4,15,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-2.3182272911071777,False,Arizona State,Texas Tech,41.0,51.0,3,0,43,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,92.0,92.0,-1.2469366788864136,False,Arizona State,Texas Tech,41.0,44.0,3,8,32,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,92.0,92.0,-0.9446645975112915,False,Arizona State,Texas Tech,41.0,44.0,3,8,32,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,87.0,87.0,-1.7750530242919922,False,Arizona State,Texas Tech,41.0,44.0,3,8,32,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,69.0,69.0,-2.4217333793640137,False,Arizona State,Texas Tech,41.0,44.0,3,8,32,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,51.0,51.0,-4.4819560050964355,False,Arizona State,Texas Tech,41.0,44.0,3,8,32,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,51.0,51.0,-4.3674845695495605,False,Arizona State,Texas Tech,41.0,44.0,3,8,32,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-1.7286993265151978,False,Arizona State,Texas Tech,34.0,37.0,3,15,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,63.0,63.0,-2.7633628845214844,False,Arizona State,Texas Tech,34.0,37.0,3,15,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,19.0,19.0,-6.149476528167725,False,Arizona State,Texas Tech,34.0,37.0,3,15,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,15.0,15.0,-6.460297107696533,False,Arizona State,Texas Tech,34.0,37.0,3,15,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,12.0,12.0,-3.944247245788574,False,Arizona State,Texas Tech,34.0,37.0,3,15,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Passing Touchdown,,,13.0,13.0,2.5782456398010254,True,Arizona State,Texas Tech,34.0,37.0,2,0,53,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-1.0732016563415527,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,68.0,68.0,-1.795270323753357,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,68.0,68.0,-0.5586620569229126,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,63.0,63.0,-1.551053762435913,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,47.0,47.0,-2.236931800842285,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,41.0,41.0,-2.20863676071167,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,29.0,29.0,-3.5933620929718018,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,29.0,29.0,-2.8189191818237305,False,Arizona State,Texas Tech,27.0,37.0,2,2,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Passing Touchdown,,,11.0,11.0,2.368690252304077,True,Arizona State,Texas Tech,27.0,30.0,2,5,21,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-1.4227674007415771,False,Arizona State,Texas Tech,21.0,30.0,2,8,30,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,63.0,63.0,-2.351576089859009,False,Arizona State,Texas Tech,21.0,30.0,2,8,30,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,45.0,45.0,-4.382061004638672,False,Arizona State,Texas Tech,21.0,30.0,2,8,30,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,45.0,45.0,-2.120803117752075,False,Arizona State,Texas Tech,21.0,30.0,2,8,30,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,18.0,18.0,-5.653800964355469,False,Arizona State,Texas Tech,21.0,30.0,2,8,30,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,12.0,12.0,-5.884029388427734,False,Arizona State,Texas Tech,21.0,30.0,2,8,30,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,78.0,78.0,-1.9755535125732422,False,Arizona State,Texas Tech,21.0,23.0,2,10,36,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,73.0,73.0,-2.7533841133117676,False,Arizona State,Texas Tech,21.0,23.0,2,11,18,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Passing Touchdown,,,75.0,75.0,6.255375385284424,True,Arizona State,Texas Tech,21.0,16.0,2,12,55,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Incompletion,,,75.0,75.0,-2.3113443851470947,False,Arizona State,Texas Tech,14.0,16.0,2,13,17,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Passing Touchdown,,,59.0,59.0,4.39920711517334,True,Arizona State,Texas Tech,14.0,9.0,1,1,14,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,98.0,98.0,-0.37076640129089355,False,Arizona State,Texas Tech,7.0,9.0,1,3,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,93.0,93.0,-0.29113179445266724,False,Arizona State,Texas Tech,7.0,9.0,1,3,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,75.0,75.0,-1.3176841735839844,False,Arizona State,Texas Tech,7.0,9.0,1,3,0,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,47.0,47.0,-5.067941188812256,False,Arizona State,Texas Tech,0.0,7.0,1,10,12,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,42.0,42.0,-5.311469078063965,False,Arizona State,Texas Tech,0.0,7.0,1,10,12,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,45.0,45.0,-2.2238988876342773,False,Arizona State,Texas Tech,0.0,7.0,1,10,12,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,96.0,96.0,0.002345263957977295,False,Arizona State,Texas Tech,0.0,0.0,1,13,55,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Sack,,,90.0,90.0,-2.904294490814209,False,Arizona State,Texas Tech,0.0,0.0,1,13,55,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869100.0,Pass Reception,,,96.0,96.0,-0.742293119430542,False,Arizona State,Texas Tech,0.0,0.0,1,13,55,2,Arizona State,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,55.0,45.0,2.6028096675872803,False,Texas Tech,Louisiana Tech,52.0,38.0,4,6,22,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,19.0,81.0,0.4375920295715332,False,Texas Tech,Louisiana Tech,52.0,38.0,4,6,22,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,41.0,59.0,1.0377001762390137,False,Texas Tech,Louisiana Tech,49.0,31.0,4,9,58,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,6.0,94.0,-1.3706669807434082,False,Texas Tech,Louisiana Tech,49.0,31.0,4,9,58,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,77.0,23.0,1.8405190706253052,False,Texas Tech,Louisiana Tech,42.0,31.0,3,4,40,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,50.0,50.0,2.731217622756958,False,Texas Tech,Louisiana Tech,42.0,31.0,3,4,40,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,19.0,81.0,-0.8155131340026855,False,Texas Tech,Louisiana Tech,42.0,31.0,3,4,40,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Passing Touchdown,,,4.0,96.0,1.2402043342590332,True,Texas Tech,Louisiana Tech,42.0,24.0,3,6,17,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,67.0,33.0,0.5474891662597656,False,Texas Tech,Louisiana Tech,35.0,24.0,3,10,24,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,55.0,45.0,-0.9255070686340332,False,Texas Tech,Louisiana Tech,35.0,24.0,3,10,24,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,55.0,45.0,2.215198278427124,False,Texas Tech,Louisiana Tech,35.0,24.0,3,10,24,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,22.0,78.0,-0.22363150119781494,False,Texas Tech,Louisiana Tech,35.0,10.0,2,0,29,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,39.0,61.0,-0.4638853073120117,False,Texas Tech,Louisiana Tech,35.0,10.0,2,7,5,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,49.0,51.0,-0.05596113204956055,False,Texas Tech,Louisiana Tech,35.0,10.0,2,7,5,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,40.0,60.0,2.671505928039551,False,Texas Tech,Louisiana Tech,35.0,10.0,2,7,5,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,23.0,77.0,1.6644043922424316,False,Texas Tech,Louisiana Tech,35.0,10.0,2,7,5,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Fumble Recovery (Own),,,2.0,98.0,-2.239528179168701,False,Texas Tech,Louisiana Tech,35.0,10.0,2,7,5,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Sack,,,17.0,83.0,-1.2839539051055908,False,Texas Tech,Louisiana Tech,35.0,10.0,2,7,5,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Passing Touchdown,,,42.0,58.0,3.273953437805176,True,Texas Tech,Louisiana Tech,35.0,10.0,2,9,1,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,64.0,36.0,-0.8619098663330078,False,Texas Tech,Louisiana Tech,28.0,10.0,2,10,59,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,54.0,46.0,0.5271296501159668,False,Texas Tech,Louisiana Tech,28.0,10.0,2,10,59,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,41.0,59.0,1.3385844230651855,False,Texas Tech,Louisiana Tech,21.0,10.0,2,11,3,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Passing Touchdown,,,9.0,91.0,1.3941330909729004,True,Texas Tech,Louisiana Tech,28.0,10.0,2,12,4,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,56.0,44.0,-0.8721621036529541,False,Texas Tech,Louisiana Tech,21.0,10.0,2,14,45,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,50.0,50.0,0.6708583831787109,False,Texas Tech,Louisiana Tech,21.0,10.0,2,14,45,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Passing Touchdown,,,36.0,64.0,2.603878974914551,True,Texas Tech,Louisiana Tech,21.0,3.0,1,2,7,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,63.0,37.0,-0.9960613250732422,False,Texas Tech,Louisiana Tech,14.0,3.0,1,2,44,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,63.0,37.0,1.935819387435913,False,Texas Tech,Louisiana Tech,14.0,3.0,1,2,44,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Passing Touchdown,,,64.0,36.0,4.183941841125488,True,Texas Tech,Louisiana Tech,14.0,3.0,1,3,41,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,75.0,25.0,0.8108296394348145,False,Texas Tech,Louisiana Tech,7.0,3.0,1,4,6,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Incompletion,,,80.0,20.0,-0.7023277878761292,False,Texas Tech,Louisiana Tech,0.0,0.0,1,15,0,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,80.0,20.0,2.8370025157928467,False,Texas Tech,Louisiana Tech,0.0,0.0,1,15,0,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,55.0,45.0,2.3029837608337402,False,Texas Tech,Louisiana Tech,0.0,0.0,1,15,0,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,46.0,54.0,0.6633133888244629,False,Texas Tech,Louisiana Tech,0.0,0.0,1,15,0,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,32.0,68.0,-0.0675344467163086,False,Texas Tech,Louisiana Tech,0.0,0.0,1,15,0,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869359.0,Pass Reception,,,28.0,72.0,1.6503403186798096,False,Texas Tech,Louisiana Tech,0.0,0.0,1,15,0,3,Louisiana Tech,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,71.0,71.0,0.831951379776001,False,Iowa State,Texas Tech,10.0,59.0,4,14,19,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Interception Return,,,64.0,64.0,-2.9253673553466797,False,Iowa State,Texas Tech,10.0,59.0,4,14,19,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,75.0,75.0,1.0013842582702637,False,Iowa State,Texas Tech,10.0,52.0,3,4,13,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,61.0,61.0,-0.485819935798645,False,Iowa State,Texas Tech,10.0,52.0,3,4,13,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,56.0,56.0,-1.5532474517822266,False,Iowa State,Texas Tech,10.0,52.0,3,4,13,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Passing Touchdown,,,11.0,11.0,3.064512014389038,True,Iowa State,Texas Tech,10.0,45.0,3,7,17,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,74.0,74.0,1.7180604934692383,False,Iowa State,Texas Tech,3.0,45.0,3,10,2,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,54.0,54.0,2.5772886276245117,False,Iowa State,Texas Tech,3.0,45.0,3,10,2,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,29.0,29.0,-1.4562556743621826,False,Iowa State,Texas Tech,3.0,45.0,3,10,2,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,30.0,30.0,3.2395260334014893,False,Iowa State,Texas Tech,3.0,45.0,3,10,2,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,68.0,68.0,-0.6737412214279175,False,Iowa State,Texas Tech,3.0,45.0,3,12,32,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,64.0,64.0,-1.1580958366394043,False,Iowa State,Texas Tech,3.0,45.0,3,12,32,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,18.0,18.0,-0.648029088973999,False,Iowa State,Texas Tech,3.0,42.0,2,6,25,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,10.0,10.0,-3.3268520832061768,False,Iowa State,Texas Tech,3.0,42.0,2,6,25,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,29.0,29.0,0.00823211669921875,False,Iowa State,Texas Tech,3.0,42.0,2,6,25,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,80.0,80.0,0.8510580062866211,False,Iowa State,Texas Tech,3.0,42.0,2,6,45,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,59.0,59.0,1.9025990962982178,False,Iowa State,Texas Tech,3.0,42.0,2,6,45,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Interception Return Touchdown,,,65.0,65.0,-6.300163745880127,True,Iowa State,Texas Tech,3.0,42.0,2,6,50,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,64.0,64.0,-0.5869382619857788,False,Iowa State,Texas Tech,3.0,35.0,2,7,39,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,70.0,70.0,-0.1449238657951355,False,Iowa State,Texas Tech,3.0,28.0,2,12,23,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,70.0,70.0,1.5851272344589233,False,Iowa State,Texas Tech,3.0,28.0,2,12,23,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,48.0,48.0,-0.6783230900764465,False,Iowa State,Texas Tech,3.0,28.0,2,12,23,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,48.0,48.0,-0.9527425765991211,False,Iowa State,Texas Tech,3.0,28.0,2,12,23,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,48.0,48.0,-1.1769639253616333,False,Iowa State,Texas Tech,3.0,28.0,2,12,23,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,44.0,44.0,-2.1203184127807617,False,Iowa State,Texas Tech,3.0,28.0,2,12,23,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,78.0,78.0,0.37337297201156616,False,Iowa State,Texas Tech,3.0,21.0,2,14,47,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Sack,,,71.0,71.0,-2.1777429580688477,False,Iowa State,Texas Tech,3.0,14.0,1,1,36,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,71.0,71.0,-0.92683345079422,False,Iowa State,Texas Tech,3.0,14.0,1,2,21,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,84.0,84.0,-0.8514480590820312,False,Iowa State,Texas Tech,3.0,7.0,1,4,18,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,81.0,81.0,-1.3122769594192505,False,Iowa State,Texas Tech,3.0,7.0,1,4,18,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,84.0,84.0,-0.7047879695892334,False,Iowa State,Texas Tech,3.0,7.0,1,4,25,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,75.0,75.0,1.0523866415023804,False,Iowa State,Texas Tech,0.0,7.0,1,11,17,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,64.0,64.0,1.0074883699417114,False,Iowa State,Texas Tech,0.0,7.0,1,11,17,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Sack,,,53.0,53.0,-1.8121845722198486,False,Iowa State,Texas Tech,0.0,7.0,1,11,17,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Reception,,,62.0,62.0,4.785996437072754,False,Iowa State,Texas Tech,0.0,7.0,1,11,17,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,8.0,8.0,-0.5598464012145996,False,Iowa State,Texas Tech,0.0,7.0,1,11,17,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,72.0,72.0,-1.1051315069198608,False,Iowa State,Texas Tech,0.0,0.0,1,15,0,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869595.0,Pass Incompletion,,,72.0,72.0,-1.5092270374298096,False,Iowa State,Texas Tech,0.0,0.0,1,15,0,12,Iowa State,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,26.0,74.0,-1.0857372283935547,False,Texas Tech,Kansas,55.0,19.0,4,3,5,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,30.0,70.0,-0.4816550612449646,False,Texas Tech,Kansas,55.0,19.0,4,3,5,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,30.0,70.0,-0.894951581954956,False,Texas Tech,Kansas,55.0,19.0,4,3,5,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,59.0,41.0,6.070606231689453,True,Texas Tech,Kansas,55.0,19.0,4,4,54,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,84.0,16.0,0.6245965361595154,False,Texas Tech,Kansas,48.0,19.0,4,6,34,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,71.0,29.0,1.0519508123397827,False,Texas Tech,Kansas,48.0,19.0,4,6,34,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,59.0,41.0,-0.45667052268981934,False,Texas Tech,Kansas,48.0,19.0,4,6,34,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,31.0,69.0,2.705946445465088,True,Texas Tech,Kansas,48.0,19.0,4,8,41,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,73.0,27.0,1.7175300121307373,False,Texas Tech,Kansas,41.0,19.0,4,10,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,69.0,31.0,-0.8684225082397461,False,Texas Tech,Kansas,41.0,19.0,4,13,26,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,69.0,31.0,-0.29511380195617676,False,Texas Tech,Kansas,41.0,19.0,4,13,26,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,37.0,63.0,4.022359371185303,True,Texas Tech,Kansas,41.0,19.0,3,0,0,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,69.0,31.0,-1.0301746129989624,False,Texas Tech,Kansas,34.0,19.0,3,3,3,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,54.0,46.0,1.5861191749572754,False,Texas Tech,Kansas,34.0,19.0,3,3,3,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,31.0,69.0,1.0045886039733887,False,Texas Tech,Kansas,34.0,19.0,3,3,3,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,32.0,68.0,-0.7827606201171875,False,Texas Tech,Kansas,34.0,19.0,3,3,3,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,4.0,96.0,-0.21338224411010742,True,Texas Tech,Kansas,34.0,19.0,3,4,56,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,75.0,25.0,-0.08557915687561035,False,Texas Tech,Kansas,28.0,19.0,3,7,22,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,39.0,61.0,-0.6394197940826416,False,Texas Tech,Kansas,28.0,19.0,3,7,22,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,39.0,61.0,1.4125797748565674,False,Texas Tech,Kansas,28.0,19.0,3,7,22,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,24.0,76.0,0.7351665496826172,False,Texas Tech,Kansas,28.0,19.0,3,7,22,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,16.0,84.0,0.8722562789916992,False,Texas Tech,Kansas,28.0,19.0,3,7,22,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,75.0,25.0,-0.4514888525009155,False,Texas Tech,Kansas,28.0,16.0,3,12,18,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,73.0,27.0,-1.034908652305603,False,Texas Tech,Kansas,28.0,16.0,3,12,18,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Sack,,,74.0,26.0,-2.421243190765381,False,Texas Tech,Kansas,28.0,16.0,3,12,18,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,6.0,94.0,2.120084762573242,True,Texas Tech,Kansas,28.0,9.0,2,0,48,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,75.0,25.0,0.6638423204421997,False,Texas Tech,Kansas,21.0,9.0,2,5,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,71.0,29.0,0.92401123046875,False,Texas Tech,Kansas,21.0,9.0,2,5,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,53.0,47.0,0.44370579719543457,False,Texas Tech,Kansas,21.0,9.0,2,5,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,45.0,55.0,1.1142003536224365,False,Texas Tech,Kansas,21.0,9.0,2,5,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,17.0,83.0,-0.5370869636535645,False,Texas Tech,Kansas,21.0,9.0,2,5,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,17.0,83.0,1.439307689666748,False,Texas Tech,Kansas,21.0,9.0,2,5,12,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,17.0,83.0,2.7230453491210938,True,Texas Tech,Kansas,21.0,2.0,2,7,35,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,61.0,39.0,-1.1226719617843628,False,Texas Tech,Kansas,14.0,2.0,2,10,1,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,43.0,57.0,-0.5343852043151855,False,Texas Tech,Kansas,14.0,2.0,2,10,1,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,40.0,60.0,1.891613245010376,False,Texas Tech,Kansas,14.0,2.0,2,10,1,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,31.0,69.0,0.815943717956543,False,Texas Tech,Kansas,14.0,2.0,2,10,1,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,65.0,35.0,1.5846912860870361,False,Texas Tech,Kansas,14.0,2.0,2,13,35,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,36.0,64.0,-0.8436415195465088,False,Texas Tech,Kansas,14.0,2.0,2,13,35,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,37.0,63.0,-1.042910099029541,False,Texas Tech,Kansas,14.0,2.0,2,13,35,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,52.0,48.0,-1.320254921913147,False,Texas Tech,Kansas,14.0,2.0,2,13,35,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,79.0,21.0,0.012320280075073242,False,Texas Tech,Kansas,14.0,0.0,1,1,45,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,76.0,24.0,-1.6365851163864136,False,Texas Tech,Kansas,14.0,0.0,1,1,45,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Sack,,,88.0,12.0,-1.6041284799575806,False,Texas Tech,Kansas,14.0,0.0,1,1,45,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Interception Return,,,79.0,21.0,-2.694298028945923,False,Texas Tech,Kansas,14.0,0.0,1,2,49,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,65.0,35.0,0.8715424537658691,False,Texas Tech,Kansas,14.0,0.0,1,6,52,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,46.0,54.0,-0.5973334312438965,False,Texas Tech,Kansas,14.0,0.0,1,6,52,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Sack,,,45.0,55.0,-2.3379766941070557,False,Texas Tech,Kansas,14.0,0.0,1,6,52,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,18.0,82.0,2.378232479095459,True,Texas Tech,Kansas,14.0,0.0,1,9,55,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Incompletion,,,72.0,28.0,-1.0257023572921753,False,Texas Tech,Kansas,7.0,0.0,1,12,25,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,72.0,28.0,2.3134074211120605,False,Texas Tech,Kansas,7.0,0.0,1,12,25,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,61.0,39.0,0.15910553932189941,False,Texas Tech,Kansas,7.0,0.0,1,12,25,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,55.0,45.0,0.3751654624938965,False,Texas Tech,Kansas,7.0,0.0,1,12,25,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Passing Touchdown,,,14.0,86.0,2.6126866340637207,True,Texas Tech,Kansas,7.0,0.0,1,13,18,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,75.0,25.0,1.835453748703003,False,Texas Tech,Kansas,0.0,0.0,1,15,0,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,50.0,50.0,0.8192856311798096,False,Texas Tech,Kansas,0.0,0.0,1,15,0,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,39.0,61.0,1.2056291103363037,False,Texas Tech,Kansas,0.0,0.0,1,15,0,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869598.0,Pass Reception,,,18.0,82.0,-4.065369129180908,False,Texas Tech,Kansas,0.0,0.0,1,15,0,5,Kansas,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,49.0,49.0,-1.0517594814300537,False,Kansas State,Texas Tech,38.0,44.0,4,0,4,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Passing Touchdown,,,15.0,15.0,4.290338516235352,True,Kansas State,Texas Tech,38.0,44.0,4,0,5,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,75.0,75.0,-0.07209527492523193,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,70.0,70.0,0.5444365739822388,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,50.0,50.0,-0.37841200828552246,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,50.0,50.0,-0.4717308282852173,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Sack,,,50.0,50.0,-1.2232316732406616,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,41.0,41.0,1.0819299221038818,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,33.0,33.0,2.0869033336639404,False,Kansas State,Texas Tech,31.0,44.0,4,1,56,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,79.0,79.0,-2.6516568660736084,False,Kansas State,Texas Tech,31.0,41.0,4,5,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,78.0,78.0,0.26779067516326904,False,Kansas State,Texas Tech,31.0,41.0,4,5,57,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,41.0,41.0,-2.005986213684082,False,Kansas State,Texas Tech,31.0,31.0,3,2,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Sack,,,41.0,41.0,-3.1097779273986816,False,Kansas State,Texas Tech,31.0,31.0,3,2,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,50.0,50.0,1.7011903524398804,False,Kansas State,Texas Tech,31.0,31.0,3,3,37,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,61.0,61.0,1.187178134918213,False,Kansas State,Texas Tech,28.0,31.0,3,7,35,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,41.0,41.0,0.8927903175354004,False,Kansas State,Texas Tech,28.0,31.0,3,7,35,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,25.0,25.0,0.3582339286804199,False,Kansas State,Texas Tech,28.0,31.0,3,7,35,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,19.0,19.0,-0.18538379669189453,False,Kansas State,Texas Tech,28.0,31.0,3,7,35,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,21.0,21.0,0.5215458869934082,False,Kansas State,Texas Tech,28.0,31.0,3,9,44,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,3.0,3.0,-3.2181053161621094,False,Kansas State,Texas Tech,28.0,31.0,3,9,44,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,80.0,80.0,-0.4637492895126343,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,80.0,80.0,-0.9754248261451721,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,80.0,80.0,2.6220507621765137,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,64.0,64.0,0.7587000131607056,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,56.0,56.0,0.9666965007781982,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,45.0,45.0,1.3096659183502197,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,23.0,23.0,-0.19618558883666992,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,20.0,20.0,-0.8144330978393555,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,20.0,20.0,1.6615872383117676,False,Kansas State,Texas Tech,28.0,31.0,3,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,77.0,77.0,0.5563517808914185,False,Kansas State,Texas Tech,28.0,31.0,2,1,27,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,56.0,56.0,-0.289699912071228,False,Kansas State,Texas Tech,28.0,31.0,2,1,27,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Sack,,,52.0,52.0,-1.540561556816101,False,Kansas State,Texas Tech,28.0,31.0,2,1,27,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,83.0,83.0,3.157181978225708,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,44.0,44.0,0.10075545310974121,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,40.0,40.0,0.6360306739807129,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,33.0,33.0,0.37822675704956055,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,27.0,27.0,0.4069535732269287,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,21.0,21.0,0.07566595077514648,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,17.0,17.0,-0.7250144481658936,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,17.0,17.0,1.5177924633026123,False,Kansas State,Texas Tech,21.0,24.0,2,5,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,68.0,68.0,0.06298208236694336,False,Kansas State,Texas Tech,14.0,17.0,2,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,54.0,54.0,0.9764032363891602,False,Kansas State,Texas Tech,14.0,17.0,2,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,46.0,46.0,1.5471444129943848,False,Kansas State,Texas Tech,14.0,17.0,2,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,21.0,21.0,-0.5440175533294678,False,Kansas State,Texas Tech,14.0,17.0,2,14,1,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Passing Touchdown,,,61.0,61.0,6.2183966636657715,True,Kansas State,Texas Tech,14.0,14.0,1,2,38,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Interception Return Touchdown,,,64.0,64.0,-7.772717475891113,True,Kansas State,Texas Tech,7.0,14.0,1,4,19,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,75.0,75.0,1.0272537469863892,False,Kansas State,Texas Tech,7.0,14.0,1,4,19,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,63.0,63.0,-0.49872100353240967,False,Kansas State,Texas Tech,7.0,14.0,1,4,19,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,69.0,69.0,0.5330395698547363,False,Kansas State,Texas Tech,7.0,7.0,1,6,28,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,75.0,75.0,0.3600054979324341,False,Kansas State,Texas Tech,7.0,7.0,1,6,28,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,59.0,59.0,-0.9847451448440552,False,Kansas State,Texas Tech,7.0,7.0,1,6,28,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,59.0,59.0,1.6888583898544312,False,Kansas State,Texas Tech,7.0,7.0,1,6,28,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,51.0,51.0,-1.2188611030578613,False,Kansas State,Texas Tech,7.0,7.0,1,6,28,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,85.0,85.0,0.3495138883590698,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,78.0,78.0,0.4316156506538391,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,74.0,74.0,0.9852681159973145,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,63.0,63.0,-0.36720430850982666,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,60.0,60.0,-0.9911949634552002,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,60.0,60.0,2.593146800994873,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,46.0,46.0,-0.20042777061462402,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,57.0,57.0,-0.2830698490142822,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Reception,,,47.0,47.0,4.694848537445068,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869607.0,Pass Incompletion,,,2.0,2.0,-0.7383666038513184,False,Kansas State,Texas Tech,0.0,0.0,1,15,0,6,Kansas State,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Passing Touchdown,,,3.0,97.0,2.5013580322265625,True,Texas Tech,Oklahoma,59.0,66.0,4,1,38,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,13.0,87.0,1.1059224605560303,False,Texas Tech,Oklahoma,52.0,66.0,4,2,20,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,20.0,80.0,0.43678736686706543,False,Texas Tech,Oklahoma,52.0,66.0,4,2,40,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,33.0,67.0,0.7336444854736328,False,Texas Tech,Oklahoma,52.0,66.0,4,3,1,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,45.0,55.0,0.8334155082702637,False,Texas Tech,Oklahoma,52.0,66.0,4,3,17,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,49.0,51.0,0.7544916868209839,False,Texas Tech,Oklahoma,52.0,66.0,4,3,30,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,74.0,26.0,0.9899992346763611,False,Texas Tech,Oklahoma,52.0,66.0,4,4,22,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,92.0,8.0,1.2107956409454346,False,Texas Tech,Oklahoma,52.0,66.0,4,4,47,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Passing Touchdown,,,56.0,44.0,5.542844295501709,True,Texas Tech,Oklahoma,52.0,59.0,4,7,56,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,77.0,23.0,0.34907761216163635,False,Texas Tech,Oklahoma,45.0,59.0,4,8,43,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,22.0,78.0,-1.0205841064453125,False,Texas Tech,Oklahoma,38.0,51.0,4,13,5,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,24.0,76.0,-0.2303330898284912,False,Texas Tech,Oklahoma,38.0,51.0,4,13,32,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,35.0,65.0,0.8296160697937012,False,Texas Tech,Oklahoma,38.0,51.0,4,13,54,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,48.0,52.0,-0.8132408857345581,False,Texas Tech,Oklahoma,38.0,51.0,4,14,55,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,48.0,52.0,-0.5588067770004272,False,Texas Tech,Oklahoma,38.0,51.0,3,0,0,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,55.0,45.0,0.6812371015548706,False,Texas Tech,Oklahoma,38.0,51.0,3,0,20,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,61.0,39.0,0.35812807083129883,False,Texas Tech,Oklahoma,38.0,51.0,3,0,37,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,72.0,28.0,2.501084327697754,False,Texas Tech,Oklahoma,38.0,51.0,3,1,4,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,75.0,25.0,-0.40694817900657654,False,Texas Tech,Oklahoma,38.0,51.0,3,1,32,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Passing Touchdown,,,41.0,59.0,5.994650840759277,True,Texas Tech,Oklahoma,38.0,44.0,3,4,10,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,45.0,55.0,-0.40112268924713135,False,Texas Tech,Oklahoma,31.0,44.0,3,6,33,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,64.0,36.0,1.3295007944107056,False,Texas Tech,Oklahoma,31.0,44.0,3,7,10,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,72.0,28.0,2.4930996894836426,False,Texas Tech,Oklahoma,31.0,44.0,3,7,27,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Passing Touchdown,,,32.0,68.0,4.457397937774658,True,Texas Tech,Oklahoma,31.0,37.0,3,9,33,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,33.0,67.0,2.3702809810638428,False,Texas Tech,Oklahoma,24.0,37.0,3,10,33,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,33.0,67.0,-0.938420295715332,False,Texas Tech,Oklahoma,24.0,37.0,3,10,43,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,38.0,62.0,0.4132375717163086,False,Texas Tech,Oklahoma,24.0,37.0,3,10,56,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,59.0,41.0,3.698212146759033,False,Texas Tech,Oklahoma,24.0,37.0,3,11,18,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,75.0,25.0,1.8111735582351685,False,Texas Tech,Oklahoma,24.0,37.0,3,11,41,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,69.0,31.0,-1.7708548307418823,False,Texas Tech,Oklahoma,24.0,30.0,3,14,14,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,75.0,25.0,-0.0075168972834944725,False,Texas Tech,Oklahoma,24.0,30.0,3,14,35,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Passing Touchdown,,,23.0,77.0,3.6974220275878906,True,Texas Tech,Oklahoma,24.0,23.0,2,0,37,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,45.0,55.0,2.3906848430633545,False,Texas Tech,Oklahoma,17.0,23.0,2,0,43,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,45.0,55.0,-0.35244977474212646,False,Texas Tech,Oklahoma,17.0,23.0,2,0,50,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,52.0,48.0,0.32224559783935547,False,Texas Tech,Oklahoma,17.0,23.0,2,0,55,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,80.0,20.0,-0.012312352657318115,False,Texas Tech,Oklahoma,17.0,23.0,2,1,48,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Interception Return,,,20.0,80.0,-3.969607353210449,False,Texas Tech,Oklahoma,17.0,23.0,2,4,56,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,46.0,54.0,2.1311981678009033,False,Texas Tech,Oklahoma,17.0,23.0,2,5,9,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,46.0,54.0,-0.6203677654266357,False,Texas Tech,Oklahoma,17.0,23.0,2,5,19,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,85.0,15.0,3.221165180206299,False,Texas Tech,Oklahoma,17.0,23.0,2,5,45,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,24.0,76.0,0.7042341232299805,False,Texas Tech,Oklahoma,10.0,20.0,2,9,56,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,25.0,75.0,-0.5127692222595215,False,Texas Tech,Oklahoma,10.0,20.0,2,10,47,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,45.0,55.0,3.0822594165802,False,Texas Tech,Oklahoma,10.0,20.0,2,10,56,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Sack,,,43.0,57.0,-1.4593675136566162,False,Texas Tech,Oklahoma,10.0,20.0,2,11,22,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,43.0,57.0,-0.45906662940979004,False,Texas Tech,Oklahoma,10.0,20.0,2,11,46,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,63.0,37.0,2.0495917797088623,False,Texas Tech,Oklahoma,10.0,20.0,2,12,11,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,63.0,37.0,-0.6277757287025452,False,Texas Tech,Oklahoma,10.0,20.0,2,12,17,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,77.0,23.0,3.007873773574829,False,Texas Tech,Oklahoma,10.0,20.0,2,12,24,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,90.0,10.0,-0.1499781608581543,False,Texas Tech,Oklahoma,10.0,20.0,2,12,56,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,87.0,13.0,-1.0723516941070557,False,Texas Tech,Oklahoma,10.0,13.0,2,14,20,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,87.0,13.0,-0.9030702710151672,False,Texas Tech,Oklahoma,10.0,13.0,2,14,30,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,20.0,80.0,-1.1780469417572021,False,Texas Tech,Oklahoma,7.0,13.0,1,1,11,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,20.0,80.0,-0.7432918548583984,False,Texas Tech,Oklahoma,7.0,13.0,1,1,16,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,26.0,74.0,0.3078165054321289,False,Texas Tech,Oklahoma,7.0,13.0,1,1,28,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,52.0,48.0,3.627686023712158,False,Texas Tech,Oklahoma,7.0,13.0,1,2,14,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,52.0,48.0,-0.8695441484451294,False,Texas Tech,Oklahoma,7.0,13.0,1,2,22,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,52.0,48.0,-0.610654354095459,False,Texas Tech,Oklahoma,7.0,13.0,1,2,30,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,68.0,32.0,0.9795322418212891,False,Texas Tech,Oklahoma,7.0,13.0,1,2,37,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,85.0,15.0,1.7594542503356934,False,Texas Tech,Oklahoma,7.0,13.0,1,2,57,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,85.0,15.0,-0.7343490123748779,False,Texas Tech,Oklahoma,7.0,13.0,1,3,3,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,12.0,88.0,1.0571084022521973,False,Texas Tech,Oklahoma,0.0,13.0,1,8,26,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,16.0,84.0,0.5726108551025391,False,Texas Tech,Oklahoma,0.0,13.0,1,8,48,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,24.0,76.0,0.96942138671875,False,Texas Tech,Oklahoma,0.0,13.0,1,9,15,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,33.0,67.0,0.5055294036865234,False,Texas Tech,Oklahoma,0.0,13.0,1,9,28,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,39.0,61.0,0.4211924076080322,False,Texas Tech,Oklahoma,0.0,13.0,1,9,49,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,58.0,42.0,2.1386446952819824,False,Texas Tech,Oklahoma,0.0,13.0,1,10,28,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,84.0,16.0,3.725193977355957,False,Texas Tech,Oklahoma,0.0,13.0,1,11,2,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,84.0,16.0,-0.8025029897689819,False,Texas Tech,Oklahoma,0.0,13.0,1,11,9,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Incompletion,,,84.0,16.0,-0.6449541449546814,False,Texas Tech,Oklahoma,0.0,13.0,1,11,14,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Fumble Recovery (Opponent),,,51.0,49.0,-4.884188175201416,False,Texas Tech,Oklahoma,0.0,6.0,1,12,12,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,65.0,35.0,0.6881238222122192,False,Texas Tech,Oklahoma,0.0,6.0,1,12,45,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869616.0,Pass Reception,,,73.0,27.0,0.6986421346664429,False,Texas Tech,Oklahoma,0.0,6.0,1,13,0,8,Oklahoma,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,88.0,88.0,-0.24575084447860718,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,88.0,88.0,1.1704100370407104,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,77.0,77.0,-0.1288941204547882,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,73.0,73.0,1.0382647514343262,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Sack,,,67.0,67.0,-1.6375293731689453,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,76.0,76.0,3.502406597137451,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,53.0,53.0,2.0884549617767334,False,Oklahoma State,Texas Tech,38.0,45.0,4,6,38,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,84.0,84.0,0.9354609251022339,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,70.0,70.0,0.9106860160827637,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,57.0,57.0,-0.48003721237182617,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,61.0,61.0,2.1709415912628174,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,46.0,46.0,-0.8786078691482544,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,39.0,39.0,2.988391876220703,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,35.0,35.0,-0.6028573513031006,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,9.0,9.0,-0.6616511344909668,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,9.0,9.0,-0.9299743175506592,False,Oklahoma State,Texas Tech,35.0,45.0,4,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,80.0,80.0,0.01612141728401184,False,Oklahoma State,Texas Tech,28.0,38.0,3,2,4,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,75.0,75.0,0.9559091925621033,False,Oklahoma State,Texas Tech,28.0,38.0,3,2,4,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,54.0,54.0,1.776249885559082,False,Oklahoma State,Texas Tech,28.0,38.0,3,2,4,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,30.0,30.0,2.3754360675811768,False,Oklahoma State,Texas Tech,28.0,38.0,3,2,4,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,74.0,74.0,-0.9473700523376465,False,Oklahoma State,Texas Tech,28.0,35.0,3,7,25,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,74.0,74.0,-1.2221288681030273,False,Oklahoma State,Texas Tech,28.0,35.0,3,7,25,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,86.0,86.0,0.007600545883178711,False,Oklahoma State,Texas Tech,28.0,28.0,3,13,8,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,78.0,78.0,-1.822174310684204,False,Oklahoma State,Texas Tech,28.0,28.0,3,13,8,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,78.0,78.0,3.836911201477051,False,Oklahoma State,Texas Tech,28.0,28.0,3,13,8,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,60.0,60.0,1.4332435131072998,False,Oklahoma State,Texas Tech,28.0,28.0,3,13,8,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,48.0,48.0,0.09565353393554688,False,Oklahoma State,Texas Tech,28.0,28.0,3,13,8,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,46.0,46.0,-1.8845000267028809,False,Oklahoma State,Texas Tech,28.0,28.0,3,13,8,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Passing Touchdown,,,5.0,5.0,2.9785385131835938,True,Oklahoma State,Texas Tech,28.0,28.0,2,0,27,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,45.0,45.0,-1.7839078903198242,False,Oklahoma State,Texas Tech,21.0,28.0,2,2,1,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Passing Touchdown,,,3.0,3.0,1.4142146110534668,True,Oklahoma State,Texas Tech,21.0,28.0,2,3,44,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,75.0,75.0,0.9285846948623657,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,60.0,60.0,-0.7943172454833984,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,60.0,60.0,1.8058429956436157,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,51.0,51.0,-0.6313607692718506,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,51.0,51.0,0.8802664279937744,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,21.0,21.0,1.295299768447876,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,15.0,15.0,-0.5907511711120605,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,15.0,15.0,0.9780106544494629,False,Oklahoma State,Texas Tech,14.0,28.0,2,8,55,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Passing Touchdown,,,4.0,4.0,1.765688419342041,True,Oklahoma State,Texas Tech,14.0,21.0,2,11,23,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,65.0,65.0,1.899084448814392,False,Oklahoma State,Texas Tech,7.0,21.0,2,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,41.0,41.0,0.30930137634277344,False,Oklahoma State,Texas Tech,7.0,21.0,2,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,19.0,19.0,0.8793668746948242,False,Oklahoma State,Texas Tech,7.0,21.0,2,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,53.0,53.0,1.2878212928771973,False,Oklahoma State,Texas Tech,0.0,14.0,1,4,40,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,14.0,14.0,-0.30463600158691406,False,Oklahoma State,Texas Tech,0.0,14.0,1,4,40,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,11.0,11.0,1.466855525970459,False,Oklahoma State,Texas Tech,0.0,14.0,1,4,40,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Reception,,,82.0,82.0,1.9325146675109863,False,Oklahoma State,Texas Tech,0.0,14.0,1,6,20,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,75.0,75.0,-0.9302965998649597,False,Oklahoma State,Texas Tech,0.0,7.0,1,12,14,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Sack,,,75.0,75.0,-1.5739850997924805,False,Oklahoma State,Texas Tech,0.0,7.0,1,12,14,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869622.0,Pass Incompletion,,,68.0,68.0,-1.849137306213379,False,Oklahoma State,Texas Tech,0.0,0.0,1,15,0,11,Oklahoma State,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Passing Touchdown,,,9.0,91.0,3.1433746814727783,True,Texas Tech,Stephen F Austin,62.0,17.0,4,3,25,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,14.0,86.0,0.24275732040405273,False,Texas Tech,Stephen F Austin,55.0,17.0,4,3,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,70.0,30.0,-0.06413602828979492,False,Texas Tech,Stephen F Austin,55.0,17.0,4,6,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,65.0,35.0,0.46046555042266846,False,Texas Tech,Stephen F Austin,55.0,17.0,4,6,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,58.0,42.0,-0.19000935554504395,False,Texas Tech,Stephen F Austin,55.0,17.0,4,6,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,45.0,55.0,1.0005773305892944,False,Texas Tech,Stephen F Austin,55.0,17.0,4,6,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,36.0,64.0,-0.4369232654571533,False,Texas Tech,Stephen F Austin,55.0,17.0,4,6,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,25.0,75.0,0.02018260955810547,False,Texas Tech,Stephen F Austin,55.0,17.0,4,6,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,80.0,20.0,-0.7949932217597961,False,Texas Tech,Stephen F Austin,55.0,17.0,4,9,20,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,78.0,22.0,-0.3695104420185089,False,Texas Tech,Stephen F Austin,55.0,17.0,4,9,20,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,71.0,29.0,-2.8687469959259033,False,Texas Tech,Stephen F Austin,55.0,17.0,4,9,20,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,75.0,25.0,0.0018837451934814453,False,Texas Tech,Stephen F Austin,55.0,17.0,4,12,11,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,69.0,31.0,0.655540943145752,False,Texas Tech,Stephen F Austin,55.0,17.0,4,12,11,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,59.0,41.0,0.6424193382263184,False,Texas Tech,Stephen F Austin,55.0,17.0,4,12,11,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,43.0,57.0,-0.17533230781555176,False,Texas Tech,Stephen F Austin,55.0,17.0,4,12,11,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,39.0,61.0,-0.831707239151001,False,Texas Tech,Stephen F Austin,55.0,17.0,4,12,11,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Sack,,,39.0,61.0,-1.8608362674713135,False,Texas Tech,Stephen F Austin,55.0,17.0,4,12,11,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Sack,,,32.0,68.0,-1.4460322856903076,False,Texas Tech,Stephen F Austin,55.0,10.0,4,15,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,80.0,20.0,-0.22954964637756348,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,76.0,24.0,0.8450655937194824,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,61.0,39.0,0.8375344276428223,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,39.0,61.0,0.3290266990661621,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,32.0,68.0,0.5762796401977539,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,20.0,80.0,-0.551511287689209,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,20.0,80.0,-0.7631304264068604,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,25.0,75.0,-0.8895599842071533,False,Texas Tech,Stephen F Austin,52.0,10.0,3,2,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Interception Return,,,30.0,70.0,-3.347339153289795,False,Texas Tech,Stephen F Austin,52.0,3.0,3,5,41,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,79.0,21.0,-0.27825379371643066,False,Texas Tech,Stephen F Austin,52.0,3.0,3,6,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,76.0,24.0,-0.9170587062835693,False,Texas Tech,Stephen F Austin,52.0,3.0,3,6,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,76.0,24.0,-1.1719353199005127,False,Texas Tech,Stephen F Austin,52.0,3.0,3,6,42,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Passing Touchdown,,,14.0,86.0,1.3618216514587402,True,Texas Tech,Stephen F Austin,52.0,3.0,3,7,50,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,80.0,20.0,-0.2148582935333252,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,73.0,27.0,0.16706609725952148,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,66.0,34.0,1.260427474975586,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,56.0,44.0,0.8889708518981934,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,29.0,71.0,-0.5099983215332031,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,29.0,71.0,-0.4620695114135742,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,25.0,75.0,1.4960761070251465,False,Texas Tech,Stephen F Austin,45.0,3.0,3,10,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,18.0,82.0,0.13548922538757324,False,Texas Tech,Stephen F Austin,42.0,3.0,2,1,6,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Passing Touchdown,,,8.0,92.0,2.328935146331787,True,Texas Tech,Stephen F Austin,42.0,3.0,2,4,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,87.0,13.0,0.21225541830062866,False,Texas Tech,Stephen F Austin,42.0,3.0,2,4,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,76.0,24.0,0.09119141101837158,False,Texas Tech,Stephen F Austin,42.0,3.0,2,4,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,74.0,26.0,3.3170125484466553,False,Texas Tech,Stephen F Austin,42.0,3.0,2,4,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,18.0,82.0,-0.6056201457977295,False,Texas Tech,Stephen F Austin,42.0,3.0,2,4,33,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,95.0,5.0,1.6491930484771729,False,Texas Tech,Stephen F Austin,35.0,3.0,2,5,53,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,62.0,38.0,3.3965678215026855,False,Texas Tech,Stephen F Austin,35.0,3.0,2,5,53,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,75.0,25.0,0.10183119773864746,False,Texas Tech,Stephen F Austin,35.0,3.0,2,9,24,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,65.0,35.0,-1.290675401687622,False,Texas Tech,Stephen F Austin,35.0,3.0,2,9,24,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Passing Touchdown,,,22.0,78.0,1.9782748222351074,True,Texas Tech,Stephen F Austin,35.0,0.0,2,12,15,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,78.0,22.0,2.1214983463287354,False,Texas Tech,Stephen F Austin,21.0,0.0,2,14,52,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,25.0,75.0,1.130507469177246,False,Texas Tech,Stephen F Austin,21.0,0.0,2,14,52,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,7.0,93.0,-0.8658013343811035,False,Texas Tech,Stephen F Austin,21.0,0.0,2,14,52,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,69.0,31.0,0.6455018520355225,False,Texas Tech,Stephen F Austin,14.0,0.0,1,3,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,34.0,66.0,-0.4246349334716797,False,Texas Tech,Stephen F Austin,14.0,0.0,1,3,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,32.0,68.0,-0.8508031368255615,False,Texas Tech,Stephen F Austin,14.0,0.0,1,3,56,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,45.0,55.0,-0.8015639781951904,False,Texas Tech,Stephen F Austin,7.0,0.0,1,7,15,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,45.0,55.0,1.3050613403320312,False,Texas Tech,Stephen F Austin,7.0,0.0,1,7,15,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,31.0,69.0,0.9226207733154297,False,Texas Tech,Stephen F Austin,7.0,0.0,1,7,15,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,50.0,50.0,0.9970769882202148,False,Texas Tech,Stephen F Austin,7.0,0.0,1,10,16,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,30.0,70.0,-0.5535569190979004,False,Texas Tech,Stephen F Austin,7.0,0.0,1,10,16,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,36.0,64.0,-1.2073755264282227,False,Texas Tech,Stephen F Austin,7.0,0.0,1,10,16,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Passing Touchdown,,,13.0,87.0,1.6679749488830566,True,Texas Tech,Stephen F Austin,7.0,0.0,1,12,22,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,31.0,69.0,3.1498234272003174,False,Texas Tech,Stephen F Austin,0.0,0.0,1,13,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,75.0,25.0,0.5941799283027649,False,Texas Tech,Stephen F Austin,0.0,0.0,1,15,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,60.0,40.0,0.13799667358398438,False,Texas Tech,Stephen F Austin,0.0,0.0,1,15,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,48.0,52.0,1.2051424980163574,False,Texas Tech,Stephen F Austin,0.0,0.0,1,15,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Reception,,,25.0,75.0,-1.5376694202423096,False,Texas Tech,Stephen F Austin,0.0,0.0,1,15,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869625.0,Pass Incompletion,,,31.0,69.0,-2.575185537338257,False,Texas Tech,Stephen F Austin,0.0,0.0,1,15,0,1,Stephen F Austin,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Passing Touchdown,,,16.0,84.0,2.911957263946533,True,Texas Tech,West Virginia,17.0,41.0,4,8,13,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,48.0,52.0,-0.5957486629486084,False,Texas Tech,West Virginia,10.0,41.0,4,10,24,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,48.0,52.0,-0.8670943975448608,False,Texas Tech,West Virginia,10.0,41.0,4,10,24,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,48.0,52.0,0.7239929437637329,False,Texas Tech,West Virginia,10.0,41.0,4,10,24,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,32.0,68.0,-1.3379008769989014,False,Texas Tech,West Virginia,10.0,41.0,4,10,24,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,28.0,72.0,1.516923427581787,False,Texas Tech,West Virginia,10.0,41.0,4,10,24,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,66.0,34.0,0.9889981150627136,False,Texas Tech,West Virginia,10.0,34.0,4,14,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,51.0,49.0,-0.2604403495788574,False,Texas Tech,West Virginia,10.0,34.0,4,14,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,48.0,52.0,0.7200411558151245,False,Texas Tech,West Virginia,10.0,34.0,4,14,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,39.0,61.0,-0.7016843557357788,False,Texas Tech,West Virginia,10.0,34.0,4,14,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,39.0,61.0,-1.8182926177978516,False,Texas Tech,West Virginia,10.0,34.0,4,14,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Fumble Recovery (Own),,,40.0,60.0,-2.318106174468994,False,Texas Tech,West Virginia,10.0,34.0,4,14,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,75.0,25.0,1.3049278259277344,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,64.0,36.0,-0.6790169477462769,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,64.0,36.0,3.1135783195495605,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,34.0,66.0,-0.03307342529296875,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Sack,,,38.0,62.0,-2.1094021797180176,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,47.0,53.0,-0.9297860860824585,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,44.0,56.0,-1.4230234622955322,False,Texas Tech,West Virginia,10.0,27.0,3,6,4,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,67.0,33.0,3.6779308319091797,False,Texas Tech,West Virginia,7.0,24.0,3,13,44,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,33.0,67.0,-0.6432600021362305,False,Texas Tech,West Virginia,7.0,24.0,3,13,44,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,32.0,68.0,-0.9589743614196777,False,Texas Tech,West Virginia,7.0,24.0,3,13,44,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,32.0,68.0,2.239122152328491,False,Texas Tech,West Virginia,7.0,24.0,3,13,44,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Sack,,,18.0,82.0,-2.6900506019592285,False,Texas Tech,West Virginia,7.0,24.0,3,13,44,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,29.0,71.0,0.30681049823760986,False,Texas Tech,West Virginia,7.0,24.0,3,13,44,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,75.0,25.0,-0.590609610080719,False,Texas Tech,West Virginia,7.0,24.0,3,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,87.0,13.0,2.3451104164123535,False,Texas Tech,West Virginia,7.0,24.0,3,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,29.0,71.0,-2.641341209411621,False,Texas Tech,West Virginia,7.0,24.0,2,2,5,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,71.0,29.0,-0.642136812210083,False,Texas Tech,West Virginia,7.0,24.0,2,4,22,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,71.0,29.0,2.3886501789093018,False,Texas Tech,West Virginia,7.0,24.0,2,4,22,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,45.0,55.0,1.1376261711120605,False,Texas Tech,West Virginia,7.0,24.0,2,4,22,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,75.0,25.0,2.1374287605285645,False,Texas Tech,West Virginia,7.0,17.0,2,7,3,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,47.0,53.0,-0.492706298828125,False,Texas Tech,West Virginia,7.0,17.0,2,7,3,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,47.0,53.0,-0.8246264457702637,False,Texas Tech,West Virginia,7.0,17.0,2,7,3,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,47.0,53.0,-1.5632439851760864,False,Texas Tech,West Virginia,7.0,17.0,2,7,3,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,63.0,37.0,1.7462389469146729,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,47.0,53.0,1.2276885509490967,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,27.0,73.0,-0.35207080841064453,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,24.0,76.0,-0.8518197536468506,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,14.0,86.0,-0.543701171875,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,13.0,87.0,-0.5702133178710938,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Interception Return,,,13.0,87.0,-4.250884056091309,False,Texas Tech,West Virginia,7.0,10.0,2,15,0,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,65.0,35.0,-0.5960860252380371,False,Texas Tech,West Virginia,7.0,10.0,1,0,17,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Passing Touchdown,,,44.0,56.0,6.224776268005371,True,Texas Tech,West Virginia,7.0,7.0,1,1,51,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,29.0,71.0,-0.9564003944396973,False,Texas Tech,West Virginia,0.0,7.0,1,3,19,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,36.0,64.0,0.09737014770507812,False,Texas Tech,West Virginia,0.0,7.0,1,4,27,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,32.0,68.0,-0.4572412967681885,False,Texas Tech,West Virginia,0.0,7.0,1,4,27,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,73.0,27.0,4.4386372566223145,False,Texas Tech,West Virginia,0.0,7.0,1,6,26,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,75.0,25.0,-1.0166702270507812,False,Texas Tech,West Virginia,0.0,7.0,1,9,30,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Sack,,,77.0,23.0,-1.2258468866348267,False,Texas Tech,West Virginia,0.0,7.0,1,9,30,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,82.0,18.0,-0.9062204360961914,False,Texas Tech,West Virginia,0.0,7.0,1,9,30,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,68.0,32.0,-0.8114665746688843,False,Texas Tech,West Virginia,0.0,0.0,1,13,20,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Reception,,,68.0,32.0,-0.4926454722881317,False,Texas Tech,West Virginia,0.0,0.0,1,13,20,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869627.0,Pass Incompletion,,,65.0,35.0,-1.4961878061294556,False,Texas Tech,West Virginia,0.0,0.0,1,13,20,7,West Virginia,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,25.0,25.0,0.412097692489624,False,TCU,Texas Tech,17.0,17.0,5,0,0,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,15.0,15.0,0.09265565872192383,False,TCU,Texas Tech,17.0,17.0,5,0,0,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Passing Touchdown,,,8.0,8.0,2.631615161895752,True,TCU,Texas Tech,17.0,17.0,4,1,28,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,20.0,20.0,0.522212028503418,False,TCU,Texas Tech,10.0,17.0,4,3,18,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,80.0,80.0,0.6647090315818787,False,TCU,Texas Tech,10.0,17.0,4,8,0,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Sack,,,63.0,63.0,-2.4062259197235107,False,TCU,Texas Tech,10.0,17.0,4,12,22,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,79.0,79.0,-0.9374749660491943,False,TCU,Texas Tech,10.0,10.0,3,1,20,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,79.0,79.0,-1.0063949823379517,False,TCU,Texas Tech,10.0,10.0,3,1,27,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Sack,,,31.0,31.0,-3.2698733806610107,False,TCU,Texas Tech,10.0,10.0,3,5,41,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,63.0,63.0,0.9026727676391602,False,TCU,Texas Tech,10.0,10.0,3,8,59,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,68.0,68.0,-1.1142911911010742,False,TCU,Texas Tech,10.0,10.0,3,9,47,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,96.0,96.0,2.921842575073242,False,TCU,Texas Tech,10.0,10.0,3,10,24,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,45.0,45.0,-0.7966436743736267,False,TCU,Texas Tech,10.0,10.0,2,0,0,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,45.0,45.0,0.9424288868904114,False,TCU,Texas Tech,10.0,10.0,2,0,1,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,51.0,51.0,0.08550810813903809,False,TCU,Texas Tech,10.0,10.0,2,0,3,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,76.0,76.0,-0.46495285630226135,False,TCU,Texas Tech,10.0,10.0,2,1,32,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,78.0,78.0,-0.6595579385757446,False,TCU,Texas Tech,10.0,10.0,2,1,50,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,80.0,80.0,-1.5350085496902466,False,TCU,Texas Tech,10.0,10.0,2,2,59,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,82.0,82.0,-0.40298593044281006,False,TCU,Texas Tech,10.0,10.0,2,3,25,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,24.0,24.0,-1.2476948499679565,False,TCU,Texas Tech,7.0,10.0,2,6,54,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,24.0,24.0,-0.5078296661376953,False,TCU,Texas Tech,7.0,10.0,2,7,9,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,40.0,40.0,0.7806284427642822,False,TCU,Texas Tech,7.0,10.0,2,7,18,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,52.0,52.0,2.063079357147217,False,TCU,Texas Tech,7.0,10.0,2,7,51,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,57.0,57.0,-0.6802892088890076,False,TCU,Texas Tech,7.0,10.0,2,8,25,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,57.0,57.0,-0.6615259647369385,False,TCU,Texas Tech,7.0,10.0,2,8,29,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,65.0,65.0,0.8787239789962769,False,TCU,Texas Tech,7.0,10.0,2,8,55,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Passing Touchdown,,,33.0,33.0,3.9589970111846924,True,TCU,Texas Tech,7.0,7.0,2,13,23,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,35.0,35.0,-0.996086597442627,False,TCU,Texas Tech,0.0,7.0,2,13,35,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,57.0,57.0,0.47789621353149414,False,TCU,Texas Tech,0.0,7.0,1,1,25,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,72.0,72.0,1.9288182258605957,False,TCU,Texas Tech,0.0,7.0,1,2,12,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,80.0,80.0,0.5860151052474976,False,TCU,Texas Tech,0.0,7.0,1,3,0,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Fumble Recovery (Opponent),,,74.0,74.0,-3.4515533447265625,False,TCU,Texas Tech,0.0,7.0,1,3,56,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,74.0,74.0,-0.9339816570281982,False,TCU,Texas Tech,0.0,7.0,1,4,8,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Interception Return,,,36.0,36.0,-2.1575450897216797,False,TCU,Texas Tech,0.0,0.0,1,11,29,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Sack,,,35.0,35.0,-1.060333251953125,False,TCU,Texas Tech,0.0,0.0,1,11,47,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,42.0,42.0,0.8448469638824463,False,TCU,Texas Tech,0.0,0.0,1,12,28,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,46.0,46.0,-0.2272355556488037,False,TCU,Texas Tech,0.0,0.0,1,12,55,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,63.0,63.0,0.9455296993255615,False,TCU,Texas Tech,0.0,0.0,1,13,50,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,73.0,73.0,2.5923032760620117,False,TCU,Texas Tech,0.0,0.0,1,14,23,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Reception,,,75.0,75.0,-0.956406831741333,False,TCU,Texas Tech,0.0,0.0,1,14,40,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869629.0,Pass Incompletion,,,75.0,75.0,-0.5407806634902954,False,TCU,Texas Tech,0.0,0.0,1,14,54,9,TCU,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,74.0,26.0,-1.0324783325195312,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,68.0,32.0,0.41269898414611816,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,64.0,36.0,0.7793445587158203,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,35.0,65.0,2.852426052093506,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,20.0,80.0,-0.40859436988830566,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,20.0,80.0,-0.6285548210144043,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Interception Return,,,20.0,80.0,-3.829432964324951,False,Texas Tech,Texas,37.0,45.0,4,2,11,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,90.0,10.0,-0.0005207955837249756,False,Texas Tech,Texas,37.0,45.0,4,7,4,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,85.0,15.0,-0.6327944993972778,False,Texas Tech,Texas,37.0,45.0,4,7,4,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,85.0,15.0,0.3385572135448456,False,Texas Tech,Texas,37.0,45.0,4,7,4,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,76.0,24.0,-0.8438346982002258,False,Texas Tech,Texas,37.0,45.0,4,8,26,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Sack,,,76.0,24.0,-1.1405633687973022,False,Texas Tech,Texas,37.0,45.0,4,8,26,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,37.0,63.0,4.469865322113037,False,Texas Tech,Texas,30.0,45.0,4,11,39,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,13.0,87.0,-0.07012081146240234,False,Texas Tech,Texas,30.0,45.0,4,11,39,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,88.0,12.0,0.6914741396903992,False,Texas Tech,Texas,30.0,45.0,4,14,49,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,54.0,46.0,-0.6086522340774536,False,Texas Tech,Texas,30.0,45.0,4,14,49,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,53.0,47.0,2.6962013244628906,False,Texas Tech,Texas,30.0,45.0,4,14,49,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,29.0,71.0,-0.6989023685455322,False,Texas Tech,Texas,30.0,45.0,4,14,49,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,29.0,71.0,-1.6723239421844482,False,Texas Tech,Texas,30.0,45.0,4,14,49,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Sack,,,29.0,71.0,-3.8041374683380127,False,Texas Tech,Texas,30.0,45.0,4,14,49,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,88.0,12.0,2.4158151149749756,False,Texas Tech,Texas,30.0,38.0,3,2,56,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,63.0,37.0,0.012690424919128418,False,Texas Tech,Texas,30.0,38.0,3,2,56,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,50.0,50.0,-0.5670665502548218,False,Texas Tech,Texas,30.0,38.0,3,2,56,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,50.0,50.0,-0.9306594729423523,False,Texas Tech,Texas,30.0,38.0,3,2,56,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Fumble Recovery (Opponent),,,50.0,50.0,-1.879359483718872,False,Texas Tech,Texas,30.0,38.0,3,2,56,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,73.0,27.0,-0.9853155612945557,False,Texas Tech,Texas,30.0,38.0,3,6,15,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,73.0,27.0,2.340557098388672,False,Texas Tech,Texas,30.0,38.0,3,6,15,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,66.0,34.0,-0.6127220392227173,False,Texas Tech,Texas,30.0,38.0,3,6,15,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,66.0,34.0,-0.02557849884033203,False,Texas Tech,Texas,30.0,38.0,3,6,15,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Sack,,,60.0,40.0,-2.1747312545776367,False,Texas Tech,Texas,30.0,38.0,3,6,15,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Passing Touchdown,,,7.0,93.0,3.033046007156372,True,Texas Tech,Texas,30.0,31.0,3,7,33,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,7.0,93.0,-0.9375114440917969,False,Texas Tech,Texas,23.0,31.0,3,7,45,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,73.0,27.0,-1.017188549041748,False,Texas Tech,Texas,23.0,31.0,3,11,57,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,48.0,52.0,-0.6121703386306763,False,Texas Tech,Texas,23.0,31.0,3,11,57,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,48.0,52.0,-0.8533578515052795,False,Texas Tech,Texas,23.0,31.0,3,11,57,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,45.0,55.0,3.68947434425354,False,Texas Tech,Texas,23.0,31.0,3,11,57,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,71.0,29.0,-0.564240038394928,False,Texas Tech,Texas,23.0,21.0,2,3,1,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,67.0,33.0,-0.8853937387466431,False,Texas Tech,Texas,23.0,14.0,2,6,31,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,72.0,28.0,-0.9241738319396973,False,Texas Tech,Texas,23.0,14.0,2,6,31,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,59.0,41.0,-0.23606234788894653,False,Texas Tech,Texas,16.0,14.0,2,14,40,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,60.0,40.0,-1.118919014930725,False,Texas Tech,Texas,16.0,14.0,2,14,40,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,65.0,35.0,0.7159246206283569,False,Texas Tech,Texas,16.0,14.0,2,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,70.0,30.0,-0.7349592447280884,False,Texas Tech,Texas,16.0,14.0,1,0,24,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Passing Touchdown,,,6.0,94.0,1.8721117973327637,True,Texas Tech,Texas,16.0,14.0,1,1,23,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,87.0,13.0,0.12978705763816833,False,Texas Tech,Texas,10.0,14.0,1,4,30,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,81.0,19.0,1.187883973121643,False,Texas Tech,Texas,10.0,14.0,1,4,30,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,69.0,31.0,1.9663310050964355,False,Texas Tech,Texas,10.0,14.0,1,4,30,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,39.0,61.0,0.7495913505554199,False,Texas Tech,Texas,10.0,14.0,1,4,30,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,22.0,78.0,0.9267148971557617,False,Texas Tech,Texas,10.0,14.0,1,4,30,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,75.0,25.0,0.3742198944091797,False,Texas Tech,Texas,7.0,7.0,1,10,43,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,53.0,47.0,2.6623940467834473,False,Texas Tech,Texas,7.0,7.0,1,10,43,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,35.0,65.0,-1.093636393547058,False,Texas Tech,Texas,7.0,7.0,1,10,43,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,35.0,65.0,1.5394550561904907,False,Texas Tech,Texas,7.0,7.0,1,10,43,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Passing Touchdown,,,3.0,97.0,0.8000588417053223,True,Texas Tech,Texas,7.0,0.0,1,11,37,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,72.0,28.0,1.9937140941619873,False,Texas Tech,Texas,0.0,0.0,1,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,55.0,45.0,1.119098424911499,False,Texas Tech,Texas,0.0,0.0,1,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,40.0,60.0,0.4414031505584717,False,Texas Tech,Texas,0.0,0.0,1,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Incompletion,,,29.0,71.0,-0.6279942989349365,False,Texas Tech,Texas,0.0,0.0,1,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,29.0,71.0,1.4018878936767578,False,Texas Tech,Texas,0.0,0.0,1,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017
+400869630.0,Pass Reception,,,12.0,88.0,0.04120063781738281,False,Texas Tech,Texas,0.0,0.0,1,15,0,10,Texas,2016,Texas Tech,Patrick Mahomes,2017

@@ -1,0 +1,46 @@
+season,week,offense,defense,down,distance,yards_to_goal,play_type,epa,yards_gained,play_text,success,touchdown
+2023,1,Alabama,Middle Tennessee,1,6,6,pass,0.152137533592271,5,Ty Simpson pass complete to Jalen Hale for 5 yds to the MTSU 1,True,False
+2023,3,Alabama,South Florida,1,8,8,pass,-0.357171386033373,0,Ty Simpson pass incomplete,False,False
+2023,3,Alabama,South Florida,2,1,66,pass,-1.2753422217375716,0,Ty Simpson pass incomplete to Malik Benson,False,False
+2023,3,Alabama,South Florida,1,10,65,pass,-1.0146424556055624,0,Ty Simpson pass incomplete,False,False
+2023,3,Alabama,South Florida,1,10,84,pass,-0.46182849902011913,0,Ty Simpson pass incomplete to CJ Dippre,False,False
+2023,3,Alabama,South Florida,2,10,84,pass,3.9007592712922428,45,Ty Simpson pass complete to CJ Dippre for 45 yds to the USF 39 for a 1ST down,True,False
+2023,3,Alabama,South Florida,1,6,6,pass,0.152137533592271,5,Ty Simpson pass complete to Robbie Ouzts for 5 yds to the USF 1,True,False
+2023,3,Alabama,South Florida,2,16,74,pass,-0.1341247690094205,2,Ty Simpson pass complete to Roydell Williams for 2 yds to the ALA 28,False,False
+2023,3,Alabama,South Florida,2,11,79,pass,1.7269437076136596,14,Ty Simpson pass complete to Isaiah Bond for 14 yds to the ALA 35 for a 1ST down,True,False
+2023,3,Alabama,South Florida,3,11,66,pass,0.2159259734854437,7,Ty Simpson pass complete to Jermaine Burton for 7 yds to the ALA 41,True,False
+2023,5,Alabama,Mississippi State,3,11,35,pass,-1.0136512136509044,0,Ty Simpson pass incomplete to Jalen Hale,False,False
+2023,11,Alabama,Kentucky,2,12,68,pass,-0.42876247270161194,0,Ty Simpson pass incomplete,False,False
+2023,11,Alabama,Kentucky,3,12,68,pass,4.460804092056059,51,Ty Simpson pass complete to Jalen Hale for 51 yds to the UK 17 for a 1ST down,True,False
+2023,11,Alabama,Kentucky,2,8,15,pass,-0.3598473822443165,0,Ty Simpson pass incomplete,False,False
+2023,12,Alabama,Chattanooga,1,10,55,pass,0.1079044232439195,5,Ty Simpson pass complete to Amari Niblack for 5 yds to the 50 yard line,True,False
+2023,12,Alabama,Chattanooga,2,5,50,pass,0.9796596701351045,10,Ty Simpson pass complete to Isaiah Bond for 10 yds to the UTC 40 for a 1ST down,True,False
+2023,12,Alabama,Chattanooga,1,15,32,pass,-0.669967186431986,0,Ty Simpson pass incomplete to Amari Niblack,False,False
+2023,12,Alabama,Chattanooga,2,15,32,pass,3.008419264645594,31,Ty Simpson pass complete to for 31 yds for a 1ST down,True,False
+2023,12,Alabama,Chattanooga,2,4,74,pass,-0.711661989572181,0,Ty Simpson pass incomplete to Jalen Hale,False,False
+2023,12,Alabama,Chattanooga,3,5,69,pass,-0.06867561840403003,4,Ty Simpson pass complete to Cole Adams for 4 yds to the ALA 35,False,False
+2024,1,Alabama,Western Kentucky,1,10,53,pass,1.1922246600713198,20,Ty Simpson pass complete to Kobe Prentice for 20 yds to the WKU 33 for a 1ST down,True,False
+2024,1,Alabama,Western Kentucky,2,10,33,pass,0.9337541410185944,14,Ty Simpson pass complete to Kobe Prentice for 14 yds to the WKU 19 for a 1ST down,True,False
+2024,1,Alabama,Western Kentucky,1,10,75,pass,-0.7029700220436519,0,Ty Simpson pass incomplete to Richard Young,False,False
+2024,1,Alabama,Western Kentucky,3,9,74,pass,-0.18876768235831598,0,Ty Simpson pass incomplete to Caleb Odom,False,False
+2024,1,Alabama,Western Kentucky,1,10,79,pass,-0.585616097616759,0,Ty Simpson pass incomplete to Rico Scott,False,False
+2024,1,Alabama,Western Kentucky,1,10,68,pass,1.0205002560261356,8,Ty Simpson pass complete to Caleb Odom for 8 yds to the ALA 40,True,False
+2024,1,Alabama,Western Kentucky,2,8,54,pass,1.9137763677884188,15,Ty Simpson pass complete to Caleb Odom for 15 yds to the WKU 39 for a 1ST down,True,False
+2024,1,Alabama,Western Kentucky,1,10,24,pass,0.641938297485138,9,Ty Simpson pass complete to Kobe Prentice for 9 yds to the WKU 15,True,False
+2024,1,Alabama,Western Kentucky,2,1,15,pass,-0.600022366765905,0,Ty Simpson pass incomplete to Kobe Prentice,False,False
+2024,3,Alabama,Wisconsin,2,5,83,pass,0.6519046427932897,9,Ty Simpson pass complete to Caleb Odom for 9 yds to the ALA 26 for a 1ST down,True,False
+2024,3,Alabama,Wisconsin,2,11,75,pass,0.27940155560608293,7,Ty Simpson pass complete to Caleb Odom for 7 yds to the ALA 32,True,False
+2024,3,Alabama,Wisconsin,3,4,68,pass,1.7104255607727044,7,Ty Simpson pass complete to Rico Scott for 7 yds to the ALA 39 for a 1ST down,True,False
+2024,3,Alabama,Wisconsin,1,10,61,pass,0.7076562230979297,7,Ty Simpson pass complete to Rico Scott for 7 yds to the ALA 46,True,False
+2024,3,Alabama,Wisconsin,1,10,50,pass,-1.1143038065675126,0,Ty Simpson pass incomplete,False,False
+2024,12,Alabama,Mercer,2,13,87,pass,1.3412255991363686,15,Ty Simpson pass complete to Caleb Odom for 15 yds to the ALA 28 for a 1ST down,True,False
+2024,12,Alabama,Mercer,1,10,72,pass,0.0997589035143243,5,Ty Simpson pass complete to Caleb Odom for 5 yds to the ALA 33,True,False
+2024,12,Alabama,Mercer,2,6,56,pass,0.1102953281694745,5,Ty Simpson pass complete to Kobe Prentice for 5 yds to the ALA 49,True,False
+2024,12,Alabama,Mercer,1,10,49,pass,-1.0955888671820908,0,Ty Simpson pass incomplete,False,False
+2024,12,Alabama,Mercer,2,10,49,pass,-1.038925163719686,0,Ty Simpson pass incomplete,False,False
+2024,12,Alabama,Mercer,3,10,49,pass,-0.736912945019438,0,Ty Simpson pass incomplete,False,False
+2024,12,Alabama,Mercer,2,1,53,pass,-0.2547811524801774,3,Ty Simpson pass complete to Kobe Prentice for 3 yds to the 50 yard line for a 1ST down,False,False
+2024,12,Alabama,Mercer,3,15,44,pass,5.058879505272067,43,Ty Simpson pass complete to Josh Cuevas for 43 yds to the MER 1 for a 1ST down,True,False
+2024,12,Alabama,Mercer,2,15,44,pass,-0.977939430182662,0,Ty Simpson pass incomplete,False,False
+2024,12,Alabama,Mercer,1,15,44,pass,-1.0035713165408549,0,Ty Simpson pass incomplete,False,False
+2024,13,Alabama,Oklahoma,1,20,79,pass,-0.2106891455395612,0,Ty Simpson pass incomplete to Richard Young,False,False

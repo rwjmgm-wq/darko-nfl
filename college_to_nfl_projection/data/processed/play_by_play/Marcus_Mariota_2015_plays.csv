@@ -1,0 +1,399 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400548257101855901,Pass Reception,1,10,74,26,-1.1194793475551865,False,Oregon,South Dakota,0,0,1,14,40,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101867301,Passing Touchdown,2,11,62,38,6.150917103889251,True,Oregon,South Dakota,8,0,1,13,26,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101858201,Pass Reception,2,15,79,21,2.2712396235512866,False,Oregon,South Dakota,0,0,1,14,17,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101924101,Passing Touchdown,1,10,41,59,3.2405196258965194,True,Oregon,South Dakota,14,3,1,7,58,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101968101,Pass Reception,1,10,35,65,2.034567508656513,False,Oregon,South Dakota,14,3,1,3,18,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101959401,Pass Reception,1,10,67,33,1.6667261175039005,False,Oregon,South Dakota,14,3,1,4,5,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101964801,Pass Reception,1,10,49,51,0.1003706527461523,False,Oregon,South Dakota,14,3,1,3,51,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257101954201,Pass Incompletion,1,10,82,18,-0.5080208698531008,False,Oregon,South Dakota,14,3,1,4,57,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102867201,Pass Incompletion,3,11,72,28,-0.17342070072335858,False,Oregon,South Dakota,21,3,2,13,27,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102866601,Pass Incompletion,2,11,72,28,-0.3728000259818014,False,Oregon,South Dakota,21,3,2,13,33,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102915201,Pass Reception,2,4,52,48,0.8136125787743558,False,Oregon,South Dakota,21,6,2,8,47,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102949001,Pass Incompletion,1,10,40,60,-0.8457687366186873,False,Oregon,South Dakota,28,6,2,5,9,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102964201,Passing Touchdown,1,10,11,89,2.521739413367925,True,Oregon,South Dakota,35,6,2,3,57,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102959101,Pass Reception,1,10,28,72,0.242275060770506,False,Oregon,South Dakota,28,6,2,4,8,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102997801,Pass Reception,1,10,26,74,1.7819808472877374,False,Oregon,South Dakota,35,13,2,0,21,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102987701,Pass Reception,1,10,76,24,0.9029013327244559,False,Oregon,South Dakota,35,13,2,1,22,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102994001,Pass Incompletion,1,10,49,51,-1.0955888671820908,False,Oregon,South Dakota,35,13,2,0,59,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102995601,Pass Reception,3,6,45,55,1.9297820230494087,False,Oregon,South Dakota,35,13,2,0,43,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102989701,Pass Reception,2,8,63,37,2.1111832924133065,False,Oregon,South Dakota,35,13,2,1,2,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257102996401,Pass Incompletion,1,10,38,62,-0.7828922522763084,False,Oregon,South Dakota,35,13,2,0,35,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257103894001,Pass Reception,3,9,53,47,0.2431375100842281,False,Oregon,South Dakota,41,13,3,10,59,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257103875801,Pass Reception,2,9,69,31,0.6761468436377563,False,Oregon,South Dakota,41,13,3,12,41,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257103989101,Pass Reception,1,20,58,42,-0.6044461223155474,False,Oregon,South Dakota,48,13,3,1,8,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257104856101,Pass Incompletion,1,4,4,96,-0.6456997217339855,False,Oregon,South Dakota,48,13,4,14,38,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257103969701,Pass Reception,2,13,74,26,1.1084270481391858,False,Oregon,South Dakota,48,13,3,3,2,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257104854701,Pass Reception,3,8,13,87,1.3787822404530723,False,Oregon,South Dakota,48,13,4,14,52,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257103999401,Pass Reception,2,8,13,87,0.052834609361236,False,Oregon,South Dakota,48,13,3,0,5,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257103995301,Pass Reception,2,19,57,43,3.7246614581570063,False,Oregon,South Dakota,48,13,3,0,46,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257104856801,Passing Touchdown,2,4,4,96,2.3338902404479605,True,Oregon,South Dakota,55,13,4,14,31,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257104906401,Pass Reception,1,10,14,86,0.0745432474784075,False,Oregon,South Dakota,55,13,4,9,35,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257104886301,Pass Reception,2,6,62,38,1.5698387470836488,False,Oregon,South Dakota,55,13,4,11,36,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400548257104888001,Pass Reception,1,10,51,49,1.182086362501453,False,Oregon,South Dakota,55,13,4,11,19,1,South Dakota,2014,Oregon,Marcus Mariota,2015
+400547953101865601,Pass Incompletion,3,10,53,47,-0.6105978704287018,False,Oregon,Michigan State,0,0,1,13,43,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101864601,Pass Incompletion,2,10,53,47,-0.9619971707978011,False,Oregon,Michigan State,0,0,1,13,53,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101859802,Pass Incompletion,1,10,53,47,-1.1527089917962545,False,Oregon,Michigan State,0,0,1,14,1,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101909801,Pass Reception,3,11,67,33,0.023103336573873534,False,Oregon,Michigan State,0,0,1,9,1,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101894002,Pass Reception,1,10,80,20,0.7987441096809142,False,Oregon,Michigan State,0,0,1,10,59,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101897901,Pass Reception,3,5,75,25,1.5701574482320977,False,Oregon,Michigan State,0,0,1,10,20,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101964901,Pass Incompletion,3,1,1,99,-0.331755745676551,False,Oregon,Michigan State,0,0,1,3,50,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953101945802,Pass Reception,1,10,39,61,0.560535452147137,False,Oregon,Michigan State,0,0,1,5,41,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102849901,Pass Reception,2,5,82,18,4.030976228294921,False,Oregon,Michigan State,8,0,2,15,0,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102864901,Pass Incompletion,3,2,10,90,-0.392567127013068,False,Oregon,Michigan State,8,0,2,13,50,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102854902,Pass Reception,1,10,18,82,0.1838527971014785,False,Oregon,Michigan State,8,0,2,14,50,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102859801,Pass Reception,2,4,12,88,-0.2324629202164455,False,Oregon,Michigan State,8,0,2,14,1,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102898701,Passing Touchdown,2,5,70,30,5.983210003187837,True,Oregon,Michigan State,18,7,2,10,12,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102935903,Pass Reception,1,10,79,21,-0.09341756947157,False,Oregon,Michigan State,18,10,2,6,40,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102984402,Pass Reception,3,6,71,29,-0.3146897268978579,False,Oregon,Michigan State,18,17,2,1,55,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953102977304,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Oregon,Michigan State,18,17,2,2,26,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103857401,Pass Reception,3,8,76,24,0.17944853402819572,False,Oregon,Michigan State,18,24,3,14,25,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103855301,Pass Incompletion,1,10,78,22,-0.6135902757979226,False,Oregon,Michigan State,18,24,3,14,46,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103898901,Pass Incompletion,3,8,62,38,-0.4362142328462131,False,Oregon,Michigan State,18,27,3,10,10,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103897901,Pass Incompletion,2,8,62,38,-0.8054878366661029,False,Oregon,Michigan State,18,27,3,10,20,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103945901,Pass Incompletion,1,10,42,58,-0.908489395271188,False,Oregon,Michigan State,18,27,3,5,40,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103956601,Passing Touchdown,2,9,24,76,3.0464552794566853,True,Oregon,Michigan State,25,27,3,4,33,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103947901,Pass Reception,3,5,37,63,1.4341106097784717,False,Oregon,Michigan State,18,27,3,5,20,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103939801,Pass Reception,3,10,59,41,3.2923057070221455,False,Oregon,Michigan State,18,27,3,6,1,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103969801,Pass Incompletion,2,9,58,42,-0.873448258672486,False,Oregon,Michigan State,25,27,3,3,1,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953103986501,Passing Touchdown,1,10,37,63,3.0514086314767432,True,Oregon,Michigan State,32,27,3,1,34,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953104855002,Pass Reception,1,10,54,46,1.09030488910002,False,Oregon,Michigan State,32,27,4,14,49,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400547953104934201,Pass Reception,3,5,91,9,1.0373755062955992,False,Oregon,Michigan State,39,27,4,6,57,2,Michigan State,2014,Oregon,Marcus Mariota,2015
+400548193101906401,Pass Reception,1,10,80,20,-0.2366097161141063,False,Oregon,Wyoming,0,0,1,9,35,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101908001,Pass Incompletion,2,7,77,23,-0.43583975606982506,False,Oregon,Wyoming,0,0,1,9,19,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101919301,Pass Incompletion,1,10,28,72,-0.512081873784803,False,Oregon,Wyoming,0,0,1,8,6,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101908801,Pass Reception,3,7,77,23,2.007996474211284,False,Oregon,Wyoming,0,0,1,9,11,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101918601,Pass Reception,1,10,48,52,0.922219362141526,False,Oregon,Wyoming,0,0,1,8,13,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101924601,Pass Reception,2,10,28,72,0.1757400617114476,False,Oregon,Wyoming,0,0,1,7,53,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101997801,Pass Reception,1,10,20,80,0.07438453789675,False,Oregon,Wyoming,0,7,1,0,21,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193101996401,Pass Reception,1,10,38,62,0.476664919553489,False,Oregon,Wyoming,0,7,1,0,35,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102887401,Pass Reception,2,4,64,36,1.6333982375846627,False,Oregon,Wyoming,7,7,2,11,25,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102876902,Pass Incompletion,2,7,83,17,-0.3236427660430987,False,Oregon,Wyoming,7,7,2,12,30,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102875401,Pass Reception,1,10,86,14,-0.17692987996152973,False,Oregon,Wyoming,7,7,2,12,45,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102877601,Pass Reception,3,7,83,17,1.4678529434291843,False,Oregon,Wyoming,7,7,2,12,23,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102924601,Pass Incompletion,1,10,14,86,-0.3125697195395781,False,Oregon,Wyoming,13,7,2,7,53,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102975401,Pass Reception,2,4,79,21,1.3234915877621685,False,Oregon,Wyoming,20,7,2,2,45,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102977401,Pass Reception,2,6,59,41,1.1196362213214004,False,Oregon,Wyoming,20,7,2,2,25,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102978401,Pass Reception,1,10,53,47,0.9062502896359667,False,Oregon,Wyoming,20,7,2,2,15,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193102986501,Passing Touchdown,1,10,16,84,2.5687227212923744,True,Oregon,Wyoming,27,7,2,1,34,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103866401,Pass Reception,1,10,30,70,0.2841485908868455,False,Oregon,Wyoming,27,7,3,13,35,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103864401,Pass Reception,1,10,49,51,0.9480874187144773,False,Oregon,Wyoming,27,7,3,13,55,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103856001,Pass Reception,1,10,72,28,1.0987321081223769,False,Oregon,Wyoming,27,7,3,14,39,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103904004,Passing Touchdown,1,5,5,95,1.883780840558874,True,Oregon,Wyoming,41,7,3,9,59,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103886601,Pass Reception,1,10,29,71,0.2073705301771515,False,Oregon,Wyoming,34,7,3,11,33,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103896402,Pass Reception,1,15,23,77,0.695645204586079,False,Oregon,Wyoming,34,7,3,10,35,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103945301,Pass Incompletion,3,2,74,26,-0.4311845610562042,False,Oregon,Wyoming,41,7,3,5,46,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103944101,Pass Reception,2,8,80,20,0.1798000512357225,False,Oregon,Wyoming,41,7,3,5,58,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193103928401,Pass Reception,2,8,93,7,0.20945464407858427,False,Oregon,Wyoming,41,7,3,7,15,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193104885402,Pass Reception,1,10,38,62,0.800789073122285,False,Oregon,Wyoming,41,14,4,11,45,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193104898501,Pass Incompletion,1,10,14,86,-0.3125697195395781,False,Oregon,Wyoming,41,14,4,10,14,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193104874501,Pass Reception,3,10,79,21,2.0450201794069045,False,Oregon,Wyoming,41,14,4,12,54,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193104905301,Pass Reception,3,8,12,88,1.351120450293918,False,Oregon,Wyoming,41,14,4,9,46,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548193104879301,Pass Reception,2,11,65,35,3.261442029653857,False,Oregon,Wyoming,41,14,4,12,6,3,Wyoming,2014,Oregon,Marcus Mariota,2015
+400548267101878301,Pass Reception,2,2,61,61,0.320405551926365,False,Washington State,Oregon,0,0,1,12,16,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267101887101,Pass Incompletion,2,16,61,61,-0.46432969585073725,False,Washington State,Oregon,0,0,1,11,28,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267101918101,Pass Reception,1,10,64,64,-0.4136553890915255,False,Washington State,Oregon,0,7,1,8,18,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267101966101,Passing Touchdown,1,10,80,80,6.386057795605103,True,Washington State,Oregon,7,7,1,3,38,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267101996901,Pass Reception,1,10,86,86,0.07552653853059345,False,Washington State,Oregon,7,14,1,0,30,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267102868101,Pass Reception,1,10,58,58,-0.9258054961347764,False,Washington State,Oregon,7,14,2,13,18,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267102874201,Passing Touchdown,2,9,57,57,5.487508708174092,True,Washington State,Oregon,14,14,2,12,57,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267102918901,Pass Incompletion,1,10,13,13,-0.3048472994988835,False,Washington State,Oregon,14,14,2,8,10,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267102919401,Passing Touchdown,2,10,13,13,2.8437765145447305,True,Washington State,Oregon,21,14,2,8,5,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267102994001,Pass Incompletion,3,29,94,94,-0.00540158159313986,False,Washington State,Oregon,21,21,2,0,59,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103886401,Pass Reception,1,10,12,12,-0.0966670992271315,False,Washington State,Oregon,21,21,3,11,35,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103866701,Pass Reception,1,10,57,57,0.391648506498802,False,Washington State,Oregon,21,21,3,13,32,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103877601,Pass Reception,2,4,39,39,-0.9980153624383518,False,Washington State,Oregon,21,21,3,12,23,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103865401,Pass Reception,3,6,71,71,2.3776319340599885,False,Washington State,Oregon,21,21,3,13,45,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103875001,Pass Reception,1,10,45,45,0.3037840163725374,False,Washington State,Oregon,21,21,3,12,49,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103879901,Pass Reception,3,4,39,39,1.6406508890969569,False,Washington State,Oregon,21,21,3,12,0,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103954001,Pass Incompletion,3,10,36,36,-1.0207912800570647,False,Washington State,Oregon,21,21,3,4,59,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103938401,Pass Reception,1,10,65,65,2.2319389156775387,False,Washington State,Oregon,21,21,3,6,15,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267103956701,Passing Touchdown,1,8,8,8,2.319599568699692,True,Washington State,Oregon,28,21,3,4,32,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267104877901,Pass Reception,1,10,23,23,0.0748292871583285,False,Washington State,Oregon,28,24,4,12,20,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267104946601,Passing Touchdown,2,6,6,6,2.528666992781938,True,Washington State,Oregon,38,31,4,5,33,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267104936201,Pass Reception,2,3,24,24,-0.8897633865245923,False,Washington State,Oregon,31,31,4,6,37,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267104938201,Pass Reception,3,5,26,26,0.9462160796044153,False,Washington State,Oregon,31,31,4,6,17,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267104927001,Pass Reception,2,16,36,36,2.9155873039726434,False,Washington State,Oregon,31,31,4,7,29,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548267104984201,Pass Reception,3,1,47,47,1.80582304913716,False,Washington State,Oregon,38,31,4,1,57,4,Washington State,2014,Oregon,Marcus Mariota,2015
+400548274101856501,Pass Reception,2,2,67,33,1.4810844283802993,False,Oregon,Arizona,0,0,1,14,34,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101874101,Pass Reception,4,4,42,58,2.4540321376907186,False,Oregon,Arizona,0,0,1,12,58,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101886701,Pass Incompletion,4,3,31,69,-2.633648091066183,False,Oregon,Arizona,0,0,1,11,32,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101876301,Pass Incompletion,1,10,38,62,-0.7828922522763084,False,Oregon,Arizona,0,0,1,12,36,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101924701,Pass Incompletion,2,8,68,32,-0.6166151306782144,False,Oregon,Arizona,0,3,1,7,52,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101925401,Pass Incompletion,3,8,68,32,-0.3045902576432189,False,Oregon,Arizona,0,3,1,7,45,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101945803,Pass Incompletion,2,8,67,33,-0.6469157130199852,False,Oregon,Arizona,0,3,1,5,41,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101946501,Pass Reception,3,8,67,33,2.81223136426604,False,Oregon,Arizona,0,3,1,5,34,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101948301,Pass Reception,1,10,52,48,-0.1504912861657514,False,Oregon,Arizona,0,3,1,5,16,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274102856201,Passing Touchdown,1,10,26,74,2.7200021224081805,True,Oregon,Arizona,7,3,2,14,37,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101997501,Pass Reception,3,2,51,49,1.3073123974280954,False,Oregon,Arizona,0,3,1,0,24,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101999801,Pass Reception,1,10,48,52,0.675455741266161,False,Oregon,Arizona,0,3,1,0,1,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274101985101,Pass Reception,2,9,74,26,2.0062223130245798,False,Oregon,Arizona,0,3,1,1,48,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274102897901,Pass Incompletion,3,4,77,23,-0.28798753920273157,False,Oregon,Arizona,7,3,2,10,20,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274102934701,Pass Reception,1,10,55,45,0.8637308798063437,False,Oregon,Arizona,7,3,2,6,52,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274102927401,Pass Reception,3,4,74,26,2.5322825260617154,False,Oregon,Arizona,7,3,2,7,25,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274102946901,Pass Incompletion,2,8,42,58,-1.058802879769507,False,Oregon,Arizona,7,3,2,5,30,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274103894701,Pass Incompletion,1,10,28,72,-0.512081873784803,False,Oregon,Arizona,7,10,3,10,52,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274103904101,Passing Touchdown,2,4,6,94,2.349887522944282,True,Oregon,Arizona,14,10,3,9,58,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274103888501,Pass Reception,3,4,51,49,2.5511159549515714,False,Oregon,Arizona,7,10,3,11,14,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274103897401,Pass Incompletion,3,5,23,77,0.69586878998504,False,Oregon,Arizona,7,10,3,10,25,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274103988101,Pass Reception,1,10,76,24,1.3887177392721153,False,Oregon,Arizona,14,24,3,1,18,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274103996901,Pass Reception,2,8,36,64,2.3001628740207702,False,Oregon,Arizona,14,24,3,0,30,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104917201,Pass Incompletion,1,9,9,91,-0.315798379566314,False,Oregon,Arizona,17,24,4,8,27,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104899501,Pass Reception,1,10,36,64,-0.3845678420514834,False,Oregon,Arizona,17,24,4,10,4,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104916001,Pass Reception,4,11,37,63,3.4639034516922766,False,Oregon,Arizona,17,24,4,8,39,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104895001,Pass Reception,1,10,66,34,1.4953574576082411,False,Oregon,Arizona,17,24,4,10,49,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104897701,Pass Reception,2,10,50,50,1.9449376436750896,False,Oregon,Arizona,17,24,4,10,22,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104917801,Passing Touchdown,2,9,9,91,2.740036203212782,True,Oregon,Arizona,24,24,4,8,21,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104897001,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Oregon,Arizona,17,24,4,10,29,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104977601,Pass Reception,1,10,77,23,0.9676400834980621,False,Oregon,Arizona,24,31,4,2,23,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104975701,Pass Incompletion,1,10,91,9,-0.334056406101074,False,Oregon,Arizona,24,31,4,2,42,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548274104976601,Pass Reception,2,10,91,9,0.9458852679365553,False,Oregon,Arizona,24,31,4,2,33,6,Arizona,2014,Oregon,Marcus Mariota,2015
+400548282101878801,Pass Incompletion,3,21,42,42,-0.5298826896653281,False,UCLA,Oregon,0,0,1,12,11,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101864401,Pass Incompletion,2,1,62,62,-1.3737127893864507,False,UCLA,Oregon,0,0,1,13,55,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101869101,Pass Reception,1,10,31,31,-0.7303141396785955,False,UCLA,Oregon,0,0,1,13,8,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101866601,Pass Reception,1,10,42,42,0.452989301499176,False,UCLA,Oregon,0,0,1,13,33,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101875201,Pass Reception,2,11,32,32,0.0516308367734162,False,UCLA,Oregon,0,0,1,12,47,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101926901,Pass Incompletion,2,11,57,57,-0.8019431292409882,False,UCLA,Oregon,0,0,1,7,30,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101927701,Pass Reception,3,11,57,57,-0.382304347056138,False,UCLA,Oregon,0,0,1,7,22,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101917901,Pass Incompletion,1,10,68,68,-0.9262377870973815,False,UCLA,Oregon,0,0,1,8,20,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282101918601,Pass Reception,2,10,68,68,2.075365721359935,False,UCLA,Oregon,0,0,1,8,13,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282102906801,Pass Incompletion,2,10,21,21,-0.4964187188337484,False,UCLA,Oregon,8,3,2,9,31,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282102906301,Pass Incompletion,1,10,21,21,-0.3882383440694163,False,UCLA,Oregon,8,3,2,9,36,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282102907501,Passing Touchdown,3,10,21,21,3.5169538766986577,True,UCLA,Oregon,15,3,2,9,24,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282102956701,Pass Reception,3,3,45,45,1.3343548242857892,False,UCLA,Oregon,15,3,2,4,32,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282102969801,Passing Touchdown,1,10,31,31,2.841946170072948,True,UCLA,Oregon,21,3,2,3,1,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282102947301,Pass Reception,1,10,52,52,0.1045373160815773,False,UCLA,Oregon,15,3,2,5,26,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103886201,Pass Reception,1,10,80,80,1.1127415828278746,False,UCLA,Oregon,21,10,3,11,37,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103908601,Pass Incompletion,1,10,23,23,-0.4181180581276075,False,UCLA,Oregon,21,10,3,9,13,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103897101,Pass Reception,1,10,47,47,1.010286769016353,False,UCLA,Oregon,21,10,3,10,28,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103906601,Pass Reception,2,4,30,30,0.1072827554417245,False,UCLA,Oregon,21,10,3,9,33,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103904601,Pass Reception,1,10,36,36,0.239517661500843,False,UCLA,Oregon,21,10,3,9,53,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103966901,Pass Incompletion,1,7,7,7,-0.410393837690526,False,UCLA,Oregon,35,10,3,3,30,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103967501,Pass Incompletion,2,7,7,7,-0.277446160702615,False,UCLA,Oregon,35,10,3,3,24,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103956301,Pass Reception,1,10,64,64,1.3848620561380827,False,UCLA,Oregon,35,10,3,4,36,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103958101,Pass Reception,1,10,49,49,1.1578829229997254,False,UCLA,Oregon,35,10,3,4,18,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282104854801,Pass Reception,2,8,38,38,1.4472240836452548,False,UCLA,Oregon,35,10,4,14,51,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548282103995701,Pass Reception,1,10,69,69,2.418241861177709,False,UCLA,Oregon,35,10,3,0,42,7,UCLA,2014,Oregon,Marcus Mariota,2015
+400548288101857201,Pass Incompletion,2,9,84,16,-0.23701839420468573,False,Oregon,Washington,0,0,1,14,27,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101916401,Pass Incompletion,2,8,37,63,-0.9430517195492936,False,Oregon,Washington,0,3,1,8,35,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101905001,Pass Incompletion,1,10,53,47,-1.1527089917962545,False,Oregon,Washington,0,3,1,9,49,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101908101,Pass Reception,3,5,48,52,2.0338911720130017,False,Oregon,Washington,0,3,1,9,18,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101899401,Pass Reception,1,10,81,19,2.343320087429489,False,Oregon,Washington,0,3,1,10,5,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101955801,Pass Reception,2,7,60,40,0.3643782988809061,False,Oregon,Washington,7,6,1,4,41,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101948301,Pass Reception,3,1,72,28,1.3910727313703424,False,Oregon,Washington,7,6,1,5,16,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101965001,Pass Reception,1,10,53,47,0.8003639620011836,False,Oregon,Washington,7,6,1,3,49,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101978301,Pass Reception,2,21,39,61,1.594805608004961,False,Oregon,Washington,7,6,1,2,16,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101959101,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Oregon,Washington,7,6,1,4,8,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288101979601,Pass Reception,3,8,26,74,1.3258366802797443,False,Oregon,Washington,7,6,1,2,3,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102899602,Pass Reception,1,10,11,89,-0.230342397894136,False,Oregon,Washington,14,6,2,10,3,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102909702,Pass Reception,3,11,12,88,0.384458848429187,False,Oregon,Washington,14,6,2,9,2,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102897401,Pass Incompletion,1,10,26,74,-0.4710467974920665,False,Oregon,Washington,14,6,2,10,25,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102896801,Pass Reception,1,10,77,23,3.688617680821472,False,Oregon,Washington,14,6,2,10,31,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102937101,Pass Reception,1,10,66,34,-0.6162239991596916,False,Oregon,Washington,21,6,2,6,28,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102965501,Pass Incompletion,2,3,3,97,-0.413137785818898,False,Oregon,Washington,21,6,2,3,44,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102957301,Pass Reception,1,10,25,75,1.4868490645939596,False,Oregon,Washington,21,6,2,4,26,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102944001,Pass Reception,2,8,64,36,0.5656180594048034,False,Oregon,Washington,21,6,2,5,59,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102954801,Pass Reception,2,8,53,47,1.9049899441462905,False,Oregon,Washington,21,6,2,4,51,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102967301,Pass Reception,3,13,13,87,-1.141038122489439,False,Oregon,Washington,21,6,2,3,26,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102985701,Pass Incompletion,1,10,23,77,-0.4181180581276075,False,Oregon,Washington,21,6,2,1,42,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288102986701,Passing Touchdown,2,10,23,77,3.082095736198836,True,Oregon,Washington,28,6,2,1,32,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288103897601,Passing Touchdown,2,6,16,84,2.643966818958475,True,Oregon,Washington,35,6,3,10,23,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288103889701,Pass Incompletion,2,4,32,68,-0.781180687607332,False,Oregon,Washington,28,6,3,11,2,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288103895001,Pass Reception,3,4,32,68,1.006143520382121,False,Oregon,Washington,28,6,3,10,49,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288103967801,Pass Reception,1,10,38,62,0.3945082863191305,False,Oregon,Washington,35,13,3,3,21,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288103979101,Pass Reception,3,20,35,65,1.677769949323043,False,Oregon,Washington,35,13,3,2,8,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288103959601,Pass Reception,2,6,65,35,1.190108467476902,False,Oregon,Washington,35,13,3,4,3,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288104864901,Pass Reception,1,10,47,53,0.097373878655615,False,Oregon,Washington,35,13,4,13,50,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288104877601,Pass Incompletion,2,10,36,64,-0.9411560090170408,False,Oregon,Washington,35,13,4,12,23,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288104878701,Pass Reception,3,10,36,64,2.1517373049817685,False,Oregon,Washington,35,13,4,12,12,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548288104874101,Pass Reception,3,5,42,58,1.5795431932953594,False,Oregon,Washington,35,13,4,12,58,8,Washington,2014,Oregon,Marcus Mariota,2015
+400548289101897801,Pass Reception,2,1,58,58,1.144916987057119,False,California,Oregon,0,7,1,10,21,9,California,2014,Oregon,Marcus Mariota,2015
+400548289101915001,Passing Touchdown,1,10,22,22,2.64762276664846,True,California,Oregon,7,7,1,8,49,9,California,2014,Oregon,Marcus Mariota,2015
+400548289101895101,Pass Reception,1,10,67,67,1.381064908582042,False,California,Oregon,0,7,1,10,48,9,California,2014,Oregon,Marcus Mariota,2015
+400548289101934201,Pass Reception,1,10,46,46,0.6402126346324764,False,California,Oregon,7,14,1,6,57,9,California,2014,Oregon,Marcus Mariota,2015
+400548289101948301,Pass Reception,3,7,30,30,1.2876269751435796,False,California,Oregon,7,14,1,5,16,9,California,2014,Oregon,Marcus Mariota,2015
+400548289101984901,Pass Incompletion,2,3,77,77,-0.7123638939407835,False,California,Oregon,14,14,1,1,50,9,California,2014,Oregon,Marcus Mariota,2015
+400548289101976701,Pass Reception,1,10,97,97,0.3781492345362265,False,California,Oregon,14,14,1,2,32,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102854701,Pass Reception,2,6,21,21,0.196824219741146,False,California,Oregon,14,14,2,14,52,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102866401,Pass Incompletion,3,3,6,6,-0.323486478111342,False,California,Oregon,14,14,2,13,35,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102889301,Pass Incompletion,1,8,8,8,-0.357171386033373,False,California,Oregon,17,14,2,11,6,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102897601,Passing Touchdown,3,9,9,9,3.010112654732236,True,California,Oregon,24,14,2,10,23,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102949002,Pass Incompletion,1,10,67,67,-0.956890163923906,False,California,Oregon,31,21,2,5,9,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102978601,Pass Incompletion,2,6,30,30,-0.711882124036327,False,California,Oregon,31,28,2,2,13,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102969501,Pass Incompletion,2,7,56,56,-1.0372452328048558,False,California,Oregon,31,28,2,3,4,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102984301,Pass Interception Return,1,10,12,12,-4.4699054579640745,False,California,Oregon,31,28,2,1,56,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102974701,Pass Reception,3,7,56,56,3.192253519758437,False,California,Oregon,31,28,2,2,52,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102989701,Pass Reception,1,10,60,60,1.8538258306416875,False,California,Oregon,31,28,2,1,2,9,California,2014,Oregon,Marcus Mariota,2015
+400548289102995801,Passing Touchdown,2,1,24,24,2.18061057746155,True,California,Oregon,38,28,2,0,41,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103854701,Pass Reception,1,10,75,75,2.7253850317904673,False,California,Oregon,38,28,3,14,52,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103856301,Pass Reception,1,10,43,43,-1.3862523018398782,False,California,Oregon,38,28,3,14,36,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103867401,Passing Touchdown,3,21,54,54,6.962641393009958,True,California,Oregon,45,28,3,13,25,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103918401,Pass Incompletion,2,1,9,9,-0.56838331633014,False,California,Oregon,45,28,3,8,15,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103917901,Pass Reception,1,10,18,18,0.619457208414883,False,California,Oregon,45,28,3,8,20,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103906701,Pass Incompletion,1,10,55,55,-1.1618692012952412,False,California,Oregon,45,28,3,9,32,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103969501,Pass Incompletion,1,10,47,47,-1.0507069190375147,False,California,Oregon,52,35,3,3,4,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103976401,Pass Reception,3,6,43,43,0.0741331524720596,False,California,Oregon,52,35,3,2,35,9,California,2014,Oregon,Marcus Mariota,2015
+400548289104854401,Pass Incompletion,3,4,74,74,-0.3362980935228226,False,California,Oregon,52,35,4,14,55,9,California,2014,Oregon,Marcus Mariota,2015
+400548289103998701,Pass Reception,2,21,91,91,0.5365796849352167,False,California,Oregon,52,35,3,0,12,9,California,2014,Oregon,Marcus Mariota,2015
+400548289104897501,Pass Incompletion,1,10,60,60,-1.1247712359915258,False,California,Oregon,52,35,4,10,24,9,California,2014,Oregon,Marcus Mariota,2015
+400548289104914101,Passing Touchdown,1,10,21,21,2.632296813795493,True,California,Oregon,59,35,4,8,58,9,California,2014,Oregon,Marcus Mariota,2015
+400548299101869101,Pass Incompletion,2,8,43,57,-1.0744871250513215,False,Oregon,Stanford,0,0,1,13,8,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101894701,Passing Touchdown,2,6,6,94,2.528666992781938,True,Oregon,Stanford,7,0,1,10,52,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101884501,Pass Incompletion,2,6,15,85,-0.38344567147044,False,Oregon,Stanford,0,0,1,11,54,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101865301,Pass Reception,3,2,53,47,1.7105112465862433,False,Oregon,Stanford,0,0,1,13,46,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101854501,Pass Reception,1,10,75,25,1.252308359788624,False,Oregon,Stanford,0,0,1,14,54,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101936901,Pass Reception,3,7,44,56,2.416390572630475,False,Oregon,Stanford,7,3,1,6,30,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101918401,Pass Reception,1,10,75,25,0.3333748010525683,False,Oregon,Stanford,7,3,1,8,15,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101926101,Pass Reception,1,10,61,39,1.241813795198436,False,Oregon,Stanford,7,3,1,7,38,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102884301,Pass Incompletion,2,1,1,99,-0.553645991706544,False,Oregon,Stanford,14,6,2,11,56,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102856201,Pass Incompletion,2,5,48,52,-1.1848014830685507,False,Oregon,Stanford,14,6,2,14,37,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299101998601,Pass Incompletion,2,7,72,28,-0.5594317282120231,False,Oregon,Stanford,14,6,1,0,13,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102866701,Pass Reception,1,10,29,71,-0.046112472291792,False,Oregon,Stanford,14,6,2,13,32,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102864801,Pass Reception,2,6,36,64,0.490861735224017,False,Oregon,Stanford,14,6,2,13,51,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102935001,Pass Incompletion,2,8,8,92,-0.26931522945819,False,Oregon,Stanford,21,6,2,6,49,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102934401,Pass Incompletion,1,8,8,92,-0.357171386033373,False,Oregon,Stanford,21,6,2,6,55,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102926701,Pass Reception,2,7,49,51,1.8077135946808196,False,Oregon,Stanford,21,6,2,7,32,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102936201,Pass Incompletion,3,23,23,77,-0.972200914753733,False,Oregon,Stanford,21,6,2,6,37,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102929801,Pass Reception,2,3,12,88,-0.025970302876891,False,Oregon,Stanford,21,6,2,7,1,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102997001,Pass Incompletion,3,13,64,36,-0.24458611024503174,False,Oregon,Stanford,24,13,2,0,29,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299102995101,Pass Reception,1,10,83,17,1.6801665460867914,False,Oregon,Stanford,24,13,2,0,48,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103917901,Pass Interception Return,3,7,67,33,-0.2430651561521442,False,Oregon,Stanford,24,13,3,8,20,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103916702,Pass Incompletion,2,7,67,33,-0.7077961708131388,False,Oregon,Stanford,24,13,3,8,32,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103908101,Pass Reception,2,6,77,23,0.8294186898243501,False,Oregon,Stanford,24,13,3,9,18,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103898801,Pass Reception,1,10,99,1,-0.026373985240724984,False,Oregon,Stanford,24,13,3,10,11,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103989401,Pass Reception,1,15,62,38,2.815614229508956,False,Oregon,Stanford,24,16,3,1,5,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103996801,Pass Reception,2,11,33,67,1.0019919927283394,False,Oregon,Stanford,24,16,3,0,31,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299103985401,Pass Reception,3,7,72,28,2.4676375643660338,False,Oregon,Stanford,24,16,3,1,45,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299104868601,Pass Reception,1,10,30,70,0.2659599577436895,False,Oregon,Stanford,31,16,4,13,13,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299104907901,Passing Touchdown,1,10,25,75,2.7000843622660575,True,Oregon,Stanford,45,16,4,9,20,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299104895401,Pass Reception,1,20,46,54,2.172962122427642,False,Oregon,Stanford,38,16,4,10,45,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548299104935901,Pass Incompletion,2,14,70,30,-0.3161998066950096,False,Oregon,Stanford,45,16,4,6,40,10,Stanford,2014,Oregon,Marcus Mariota,2015
+400548304101904401,Pass Reception,1,25,29,29,0.1774915876374142,False,Utah,Oregon,0,7,1,9,55,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304101966901,Pass Reception,3,9,35,35,-0.378463019337193,False,Utah,Oregon,0,7,1,3,30,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304101954301,Pass Incompletion,2,8,46,46,-1.102618608038954,False,Utah,Oregon,0,7,1,4,56,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304101986401,Pass Reception,3,15,30,30,-0.7979941721340591,False,Utah,Oregon,0,7,1,1,35,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102879601,Pass Incompletion,1,10,30,30,-0.557844891990525,False,Utah,Oregon,7,7,2,12,3,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102904501,Passing Touchdown,4,3,3,3,2.916346544502382,True,Utah,Oregon,14,7,2,9,54,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102899701,Pass Incompletion,3,3,3,3,-0.291784144723391,False,Utah,Oregon,7,7,2,10,2,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102887001,Pass Reception,3,6,26,26,1.266390851398013,False,Utah,Oregon,7,7,2,11,29,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102954801,Passing Touchdown,1,6,6,6,2.052489771065277,True,Utah,Oregon,21,7,2,4,51,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102944901,Pass Reception,1,10,69,69,2.8432765309766186,False,Utah,Oregon,14,7,2,5,50,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102948901,Pass Reception,1,10,17,17,0.527413331719137,False,Utah,Oregon,14,7,2,5,10,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102946001,Pass Incompletion,1,10,28,28,-0.512081873784803,False,Utah,Oregon,14,7,2,5,39,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102946601,Pass Reception,2,10,28,28,0.69619324513882,False,Utah,Oregon,14,7,2,5,33,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304102974701,Pass Incompletion,2,5,17,17,-0.4333283497169247,False,Utah,Oregon,21,7,2,2,52,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103909001,Pass Incompletion,2,8,16,16,-0.376706650922749,False,Utah,Oregon,24,13,3,9,9,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103944201,Pass Incompletion,4,14,31,31,-1.3267770233334453,False,Utah,Oregon,27,13,3,5,57,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103939701,Pass Incompletion,3,14,31,31,-1.003179797281458,False,Utah,Oregon,27,13,3,6,2,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103939101,Pass Incompletion,2,14,31,31,-0.8889403000453804,False,Utah,Oregon,27,13,3,6,8,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103936401,Pass Reception,1,20,37,37,0.2088147335781781,False,Utah,Oregon,27,13,3,6,35,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103974401,Pass Reception,2,7,78,78,1.1449641294516706,False,Utah,Oregon,27,20,3,2,55,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103994701,Pass Incompletion,1,10,43,43,-0.9391692565688832,False,Utah,Oregon,27,20,3,0,52,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304103997201,Pass Incompletion,1,10,31,31,-0.5824837756999947,False,Utah,Oregon,27,20,3,0,27,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304104897001,Passing Touchdown,2,25,34,34,5.210159112472359,True,Utah,Oregon,37,27,4,10,29,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304104896201,Pass Incompletion,1,25,34,34,-0.9722134516859526,False,Utah,Oregon,30,27,4,10,37,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304104929401,Pass,1,10,14,14,-0.2453531896168325,False,Utah,Oregon,37,27,4,7,5,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304104939401,Pass Reception,3,7,11,11,1.751755536811737,False,Utah,Oregon,37,27,4,6,5,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304104927701,Pass Reception,2,10,33,33,0.9899185944770359,False,Utah,Oregon,37,27,4,7,22,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548304104924901,Pass Reception,2,5,64,64,2.599858912544489,False,Utah,Oregon,37,27,4,7,50,11,Utah,2014,Oregon,Marcus Mariota,2015
+400548313101889901,Pass Incompletion,2,9,35,65,-0.898580349128384,False,Oregon,Colorado,0,0,1,11,0,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313101895102,Pass Reception,4,1,27,73,1.173779205657725,False,Oregon,Colorado,0,0,1,10,48,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313101895103,Pass Incompletion,1,10,20,80,-0.374805786232315,False,Oregon,Colorado,0,0,1,10,48,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313101956101,Pass Reception,2,10,71,29,0.1991203006172757,False,Oregon,Colorado,6,0,1,4,38,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313101958401,Pass Reception,3,4,65,35,2.3989618884563866,False,Oregon,Colorado,6,0,1,4,15,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102887401,Pass Reception,3,1,67,33,1.603465903372732,False,Oregon,Colorado,13,0,2,11,25,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102877702,Pass Reception,2,9,75,25,0.5429299417218258,False,Oregon,Colorado,13,0,2,12,22,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102889502,Pass Reception,2,10,42,58,1.681685453475387,False,Oregon,Colorado,13,0,2,11,4,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102896901,Pass Reception,2,2,19,81,0.054617645072304,False,Oregon,Colorado,13,0,2,10,30,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102889501,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Oregon,Colorado,13,0,2,11,4,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102948301,Pass Reception,3,3,49,51,2.123482351600746,False,Oregon,Colorado,20,3,2,5,16,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102945801,Pass Reception,2,6,52,48,-0.4320124779068771,False,Oregon,Colorado,20,3,2,5,41,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102949301,Passing Touchdown,1,10,31,69,2.841946170072948,True,Oregon,Colorado,27,3,2,5,6,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102968905,Pass Reception,3,2,52,48,1.6778827140017025,False,Oregon,Colorado,27,3,2,3,10,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102968902,Pass Reception,1,10,71,29,1.0187162686112892,False,Oregon,Colorado,27,3,2,3,10,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102986004,Pass Incompletion,1,10,10,90,-0.2853930592519426,False,Oregon,Colorado,27,3,2,1,39,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102986001,Pass Incompletion,1,10,44,56,-0.9690270974076257,False,Oregon,Colorado,27,3,2,1,39,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102995102,Pass Incompletion,3,8,8,92,-0.354205173792517,False,Oregon,Colorado,27,3,2,0,48,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102986003,Pass Reception,3,5,39,61,1.796726573997242,False,Oregon,Colorado,27,3,2,1,39,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313102968903,Pass Reception,1,10,60,40,0.1106144250151839,False,Oregon,Colorado,27,3,2,3,10,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103899901,Pass Incompletion,2,1,25,75,-0.717158665150077,False,Oregon,Colorado,30,3,3,10,0,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103899902,Pass Reception,3,1,25,75,1.704682979049529,False,Oregon,Colorado,30,3,3,10,0,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103896303,Pass Reception,1,10,34,66,0.73596654934212,False,Oregon,Colorado,30,3,3,10,36,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103927701,Pass Incompletion,4,4,4,96,-4.017218287321738,False,Oregon,Colorado,30,3,3,7,22,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103964601,Passing Touchdown,1,10,15,85,2.558199089565083,True,Oregon,Colorado,37,3,3,3,53,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103944907,Pass Reception,2,6,32,68,0.5240686445484637,False,Oregon,Colorado,30,3,3,5,50,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103944901,Pass Reception,1,10,60,40,1.2136131960092111,False,Oregon,Colorado,30,3,3,5,50,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103944904,Pass Reception,1,10,46,54,0.529748291879379,False,Oregon,Colorado,30,3,3,5,50,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103944903,Pass Reception,2,3,39,61,0.0027610212412893,False,Oregon,Colorado,30,3,3,5,50,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103944906,Pass Reception,1,20,46,54,1.698407881945231,False,Oregon,Colorado,30,3,3,5,50,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103984506,Pass Reception,2,13,57,43,3.258486198350223,False,Oregon,Colorado,37,10,3,1,54,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313103998401,Passing Touchdown,1,10,14,86,2.5482831751790815,True,Oregon,Colorado,44,10,3,0,15,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313104885401,Pass Incompletion,1,10,68,32,-0.9262377870973815,False,Oregon,Colorado,44,10,4,11,45,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313104885402,Pass Incompletion,2,10,68,32,-0.5135431143257803,False,Oregon,Colorado,44,10,4,11,45,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313104868402,Pass Reception,2,9,94,6,0.5756763765406241,False,Oregon,Colorado,44,10,4,13,15,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548313104926901,Pass Reception,3,8,63,37,-0.46656371187873,False,Oregon,Colorado,44,10,4,7,30,13,Colorado,2014,Oregon,Marcus Mariota,2015
+400548320101866901,Pass Reception,2,7,51,51,1.2509361341135623,False,Oregon State,Oregon,0,0,1,13,30,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101859502,Pass Reception,1,10,54,54,-0.4184086843592085,False,Oregon State,Oregon,0,0,1,14,4,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101854801,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,Oregon State,Oregon,0,0,1,14,51,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101867801,Pass Incompletion,1,10,43,43,-0.9391692565688832,False,Oregon State,Oregon,0,0,1,13,21,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101877201,Passing Touchdown,1,10,29,29,2.788301184598112,True,Oregon State,Oregon,6,0,1,12,27,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101909701,Pass Reception,1,10,51,51,1.020292430390951,False,Oregon State,Oregon,6,0,1,9,2,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101916401,Pass Reception,1,10,33,33,0.3343520522096136,False,Oregon State,Oregon,6,0,1,8,35,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101929201,Pass Incompletion,3,7,13,13,-0.4528101008787997,False,Oregon State,Oregon,6,0,1,7,7,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101994101,Pass Reception,1,10,35,35,0.56437706709579,False,Oregon State,Oregon,9,0,1,0,58,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102856701,Passing Touchdown,2,7,12,12,2.661252322764772,True,Oregon State,Oregon,16,0,2,14,32,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101969501,Pass Reception,1,15,75,75,2.2605358628441365,False,Oregon State,Oregon,9,0,1,3,4,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320101986301,Pass Reception,1,10,47,47,0.5447460725225992,False,Oregon State,Oregon,9,0,1,1,36,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102876401,Pass Incompletion,2,7,77,77,-0.43583975606982506,False,Oregon State,Oregon,16,0,2,12,35,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102877701,Passing Touchdown,3,7,77,77,7.058507267789034,True,Oregon State,Oregon,23,0,2,12,22,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102897901,Pass Reception,1,10,34,34,0.2727484828424415,False,Oregon State,Oregon,23,0,2,10,20,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102895901,Pass Reception,3,10,67,67,3.990833231221261,False,Oregon State,Oregon,23,0,2,10,40,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102894501,Pass Reception,2,17,74,74,0.1548759144116687,False,Oregon State,Oregon,23,0,2,10,54,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320102939401,Pass Incompletion,1,10,40,40,-0.8457687366186873,False,Oregon State,Oregon,30,0,2,6,5,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320103899201,Pass Incompletion,3,5,5,5,-0.290992528642002,False,Oregon State,Oregon,30,3,3,10,7,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320103896901,Pass Reception,1,10,10,10,-0.093321625768295,False,Oregon State,Oregon,30,3,3,10,30,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320103954801,Pass Reception,2,1,63,63,0.2598906815983177,False,Oregon State,Oregon,33,10,3,4,51,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320103964801,Pass Reception,1,20,65,65,4.228687134510383,False,Oregon State,Oregon,33,10,3,3,51,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320104865101,Pass Reception,1,10,70,70,2.2162724338372755,False,Oregon State,Oregon,40,17,4,13,48,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320104904901,Pass Reception,2,8,57,57,-0.5957696914202871,False,Oregon State,Oregon,40,17,4,9,50,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400548320104935401,Passing Touchdown,2,4,27,27,2.679291933382228,True,Oregon State,Oregon,47,17,4,6,45,14,Oregon State,2014,Oregon,Marcus Mariota,2015
+400609076101874501,Pass Reception,2,6,44,56,1.1858744296590413,False,Oregon,Arizona,0,0,1,12,54,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101868901,Pass Reception,1,10,48,52,-0.1319374071745773,False,Oregon,Arizona,0,0,1,13,10,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101879401,Pass Incompletion,2,8,19,81,-0.4339765661211427,False,Oregon,Arizona,0,0,1,12,5,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101854901,Pass Reception,1,10,80,20,1.0492884058754886,False,Oregon,Arizona,0,0,1,14,50,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101915601,Pass Incompletion,2,10,10,90,-0.2792458253567104,False,Oregon,Arizona,3,0,1,8,43,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101899901,Pass Reception,1,10,23,77,0.6367847307431815,False,Oregon,Arizona,3,0,1,10,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101905201,Pass Incompletion,2,1,14,86,-0.5931402802291035,False,Oregon,Arizona,3,0,1,9,47,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101889301,Pass Incompletion,1,20,47,53,-0.9938804880943852,False,Oregon,Arizona,3,0,1,11,6,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101897401,Pass Reception,3,14,41,59,2.966771085436056,False,Oregon,Arizona,3,0,1,10,25,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101965301,Pass Incompletion,1,10,32,68,-0.6082596672078662,False,Oregon,Arizona,6,0,1,3,46,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101976601,Pass Incompletion,4,3,25,75,-3.1308822585392893,False,Oregon,Arizona,6,0,1,2,33,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101955901,Pass Reception,3,2,72,28,1.3120582990835397,False,Oregon,Arizona,6,0,1,4,40,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102849901,Pass Incompletion,3,15,61,39,-0.25083565029580424,False,Oregon,Arizona,6,0,2,15,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076101999901,Pass Reception,2,14,60,40,-0.6510722060546925,False,Oregon,Arizona,6,0,1,0,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102879901,Pass Reception,2,8,20,80,-0.2395016487457846,False,Oregon,Arizona,6,0,2,12,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102877901,Pass Reception,1,10,22,78,-0.218895918192836,False,Oregon,Arizona,6,0,2,12,20,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102886901,Pass Reception,3,6,18,82,0.7864207648873885,False,Oregon,Arizona,6,0,2,11,30,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102919401,Pass Reception,2,1,30,70,-0.3116636597391,False,Oregon,Arizona,6,0,2,8,5,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102926101,Pass Incompletion,2,10,21,79,-0.4964187188337484,False,Oregon,Arizona,6,0,2,7,38,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102919901,Pass Incompletion,1,10,21,79,-0.3882383440694163,False,Oregon,Arizona,6,0,2,8,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102944001,Pass Incompletion,2,12,63,37,-0.5664612521767705,False,Oregon,Arizona,13,0,2,5,59,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102965801,Pass Incompletion,1,10,79,21,-0.585616097616759,False,Oregon,Arizona,13,0,2,3,41,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102969401,Pass Reception,2,20,89,11,0.00547581570577905,False,Oregon,Arizona,13,0,2,3,5,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102975401,Pass Reception,3,15,84,16,4.800006627005165,False,Oregon,Arizona,13,0,2,2,45,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102989901,Pass Incompletion,1,10,77,23,-0.6425305871127751,False,Oregon,Arizona,20,0,2,1,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102998201,Pass Reception,1,10,42,58,0.553654630180638,False,Oregon,Arizona,20,0,2,0,17,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076102998601,Pass Incompletion,1,10,27,73,-0.490975886965904,False,Oregon,Arizona,20,0,2,0,13,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103896201,Passing Touchdown,2,4,4,96,2.3338902404479605,True,Oregon,Arizona,30,0,3,10,37,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103888901,Pass Reception,2,4,19,81,-0.009349467722841,False,Oregon,Arizona,23,0,3,11,10,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103879901,Pass Reception,2,4,41,59,0.5927034069653381,False,Oregon,Arizona,23,0,3,12,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103924001,Passing Touchdown,1,10,11,89,2.521739413367925,True,Oregon,Arizona,37,7,3,7,59,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103918901,Pass Reception,1,10,57,43,1.9435772841434016,False,Oregon,Arizona,30,7,3,8,10,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103945401,Pass Reception,2,6,19,81,0.811601632850664,False,Oregon,Arizona,37,7,3,5,45,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103976901,Pass Reception,2,12,52,48,-0.3675903564250494,False,Oregon,Arizona,44,7,3,2,30,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103958301,Pass Reception,1,10,80,20,1.2388651878297718,False,Oregon,Arizona,44,7,3,4,16,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103969401,Pass Reception,1,10,50,50,-1.5761553525750607,False,Oregon,Arizona,44,7,3,3,5,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076103965401,Pass Reception,1,10,64,36,-0.1622709044233037,False,Oregon,Arizona,44,7,3,3,45,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076104865401,Pass Reception,3,4,80,20,-0.16173239267946027,False,Oregon,Arizona,44,7,4,13,45,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076104919901,Pass Reception,1,10,49,51,-0.375732386813203,False,Oregon,Arizona,44,7,4,8,0,15,Arizona,2014,Oregon,Marcus Mariota,2015
+400609076104909901,Pass Reception,3,5,59,41,2.3653923621676496,False,Oregon,Arizona,44,7,4,9,0,15,Arizona,2014,Oregon,Marcus Mariota,2015

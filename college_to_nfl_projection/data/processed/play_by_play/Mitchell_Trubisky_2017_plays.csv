@@ -1,0 +1,454 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400868972.0,Pass Incompletion,,,29.0,71.0,-2.4669833183288574,False,North Carolina,Georgia,24.0,33.0,4,1,2,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,34.0,66.0,-0.4141542911529541,False,North Carolina,Georgia,24.0,33.0,4,1,22,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,44.0,56.0,1.1094616651535034,False,North Carolina,Georgia,24.0,33.0,4,1,37,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,54.0,46.0,0.3773956298828125,False,North Carolina,Georgia,24.0,33.0,4,1,45,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,55.0,45.0,0.37540900707244873,False,North Carolina,Georgia,24.0,33.0,4,2,8,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,57.0,43.0,-0.00672757625579834,False,North Carolina,Georgia,24.0,33.0,4,2,17,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,66.0,34.0,0.45197808742523193,False,North Carolina,Georgia,24.0,33.0,4,2,33,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,72.0,28.0,1.1704132556915283,False,North Carolina,Georgia,24.0,33.0,4,2,48,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,72.0,28.0,-0.6218104362487793,False,North Carolina,Georgia,24.0,33.0,4,2,55,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,78.0,22.0,0.21483689546585083,False,North Carolina,Georgia,24.0,33.0,4,3,22,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,92.0,8.0,-0.7654779553413391,False,North Carolina,Georgia,24.0,26.0,4,3,58,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,92.0,8.0,0.6659160256385803,False,North Carolina,Georgia,24.0,26.0,4,4,40,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,54.0,46.0,-1.6726953983306885,False,North Carolina,Georgia,24.0,23.0,4,11,38,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,54.0,46.0,-0.9877424240112305,False,North Carolina,Georgia,24.0,23.0,4,11,58,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,63.0,37.0,0.9273471832275391,False,North Carolina,Georgia,24.0,23.0,4,12,55,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,44.0,56.0,1.0770742893218994,False,North Carolina,Georgia,17.0,14.0,3,6,48,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,5.0,95.0,-1.337266206741333,False,North Carolina,Georgia,7.0,14.0,2,0,15,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,5.0,95.0,-0.9580097198486328,False,North Carolina,Georgia,7.0,14.0,2,0,19,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,5.0,95.0,-0.5727028846740723,False,North Carolina,Georgia,7.0,14.0,2,0,26,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,22.0,78.0,1.9791789054870605,False,North Carolina,Georgia,7.0,14.0,2,0,30,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,40.0,60.0,1.8799524307250977,False,North Carolina,Georgia,7.0,14.0,2,0,48,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,42.0,58.0,-0.23136556148529053,False,North Carolina,Georgia,7.0,14.0,2,1,16,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,42.0,58.0,-0.17794454097747803,False,North Carolina,Georgia,7.0,14.0,2,1,28,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,54.0,46.0,1.0370283126831055,False,North Carolina,Georgia,7.0,14.0,2,1,35,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,57.0,43.0,-0.5763057470321655,False,North Carolina,Georgia,7.0,14.0,2,2,9,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,57.0,43.0,-0.4149967432022095,False,North Carolina,Georgia,7.0,14.0,2,2,30,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,51.0,49.0,-1.1515147686004639,False,North Carolina,Georgia,7.0,14.0,2,4,56,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Sack,,,83.0,17.0,-1.500137209892273,False,North Carolina,Georgia,7.0,7.0,2,9,22,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,88.0,12.0,-0.7245875597000122,False,North Carolina,Georgia,7.0,7.0,2,10,14,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,52.0,48.0,-0.5696598291397095,False,North Carolina,Georgia,0.0,7.0,2,14,30,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,58.0,42.0,-1.4660438299179077,False,North Carolina,Georgia,0.0,7.0,1,1,44,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Incompletion,,,55.0,45.0,-0.5674245357513428,False,North Carolina,Georgia,0.0,7.0,1,2,45,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,70.0,30.0,1.7511779069900513,False,North Carolina,Georgia,0.0,7.0,1,3,20,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,76.0,24.0,-0.7837843298912048,False,North Carolina,Georgia,0.0,7.0,1,3,57,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,77.0,23.0,-0.5708974003791809,False,North Carolina,Georgia,0.0,7.0,1,4,23,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,67.0,33.0,-0.489943265914917,False,North Carolina,Georgia,0.0,0.0,1,10,40,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400868972.0,Pass Reception,,,69.0,31.0,-0.5104439854621887,False,North Carolina,Georgia,0.0,0.0,1,11,32,1,Georgia,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,70.0,70.0,-1.7266247272491455,False,Illinois,North Carolina,38.0,23.0,4,7,29,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,36.0,36.0,-4.352884292602539,False,Illinois,North Carolina,31.0,23.0,4,14,55,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,30.0,30.0,-1.6941083669662476,False,Illinois,North Carolina,31.0,23.0,4,14,55,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Sack,,,85.0,85.0,-3.0131783485412598,False,Illinois,North Carolina,31.0,16.0,3,4,58,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Passing Touchdown,,,20.0,20.0,2.1161208152770996,True,Illinois,North Carolina,31.0,16.0,3,8,25,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,57.0,57.0,-3.437584400177002,False,Illinois,North Carolina,24.0,16.0,3,9,34,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,40.0,40.0,-3.382801055908203,False,Illinois,North Carolina,24.0,16.0,3,9,34,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,74.0,74.0,-0.0069449543952941895,False,Illinois,North Carolina,24.0,16.0,3,15,0,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,50.0,50.0,-2.6523609161376953,False,Illinois,North Carolina,24.0,16.0,3,15,0,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Incompletion,,,25.0,25.0,-3.515498399734497,False,Illinois,North Carolina,24.0,16.0,3,15,0,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Incompletion,,,2.0,2.0,-3.8271782398223877,False,Illinois,North Carolina,24.0,16.0,2,0,2,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,31.0,31.0,-1.5530732870101929,False,Illinois,North Carolina,24.0,16.0,2,0,23,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Incompletion,,,11.0,11.0,-4.110180854797363,False,Illinois,North Carolina,24.0,16.0,2,0,23,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,11.0,11.0,-3.647636890411377,False,Illinois,North Carolina,24.0,16.0,2,0,23,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Incompletion,,,43.0,43.0,-1.5915241241455078,False,Illinois,North Carolina,24.0,16.0,2,0,52,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,43.0,43.0,-1.317655324935913,False,Illinois,North Carolina,24.0,16.0,2,0,52,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,27.0,27.0,-3.0092613697052,False,Illinois,North Carolina,24.0,16.0,2,0,52,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,57.0,57.0,-2.755309820175171,False,Illinois,North Carolina,24.0,16.0,2,4,27,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Passing Touchdown,,,24.0,24.0,4.385002136230469,True,Illinois,North Carolina,24.0,14.0,2,9,10,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,74.0,74.0,-0.9253408908843994,False,Illinois,North Carolina,17.0,14.0,2,13,33,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,41.0,41.0,-3.635084390640259,False,Illinois,North Carolina,17.0,14.0,2,13,33,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,26.0,26.0,-5.08209228515625,False,Illinois,North Carolina,17.0,14.0,2,13,33,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Incompletion,,,32.0,32.0,-4.928171157836914,False,Illinois,North Carolina,7.0,14.0,1,2,55,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,68.0,68.0,-3.642441749572754,False,Illinois,North Carolina,0.0,7.0,1,11,24,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Reception,,,67.0,67.0,-0.7088319659233093,False,Illinois,North Carolina,0.0,7.0,1,11,24,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Sack,,,75.0,75.0,-2.9483537673950195,False,Illinois,North Carolina,0.0,7.0,1,13,35,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869434.0,Pass Incompletion,,,76.0,76.0,-2.224889039993286,False,Illinois,North Carolina,0.0,7.0,1,13,35,2,Illinois,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Fumble Recovery (Opponent),,,64.0,36.0,-3.8976030349731445,False,North Carolina,James Madison,56.0,28.0,4,2,51,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Incompletion,,,81.0,19.0,-1.1042729616165161,False,North Carolina,James Madison,56.0,28.0,4,10,2,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,81.0,19.0,-0.21241843700408936,False,North Carolina,James Madison,56.0,28.0,4,10,2,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,75.0,25.0,1.7144646644592285,False,North Carolina,James Madison,56.0,28.0,4,10,2,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,55.0,45.0,-1.1908115148544312,False,North Carolina,James Madison,56.0,28.0,4,10,2,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,56.0,44.0,-1.187609076499939,False,North Carolina,James Madison,56.0,28.0,4,10,2,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,43.0,57.0,1.4030308723449707,False,North Carolina,James Madison,49.0,28.0,4,15,0,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,19.0,81.0,0.9367756843566895,False,North Carolina,James Madison,49.0,28.0,4,15,0,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,6.0,94.0,-0.7272930145263672,False,North Carolina,James Madison,49.0,28.0,4,15,0,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,69.0,31.0,0.41474151611328125,False,North Carolina,James Madison,49.0,28.0,3,0,42,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,72.0,28.0,-1.0576283931732178,False,North Carolina,James Madison,42.0,28.0,3,5,48,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,66.0,34.0,1.2121872901916504,False,North Carolina,James Madison,42.0,28.0,3,5,48,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,60.0,40.0,0.6067354679107666,False,North Carolina,James Madison,42.0,28.0,3,5,48,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,46.0,54.0,1.891749382019043,False,North Carolina,James Madison,42.0,28.0,3,5,48,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,48.0,52.0,1.0976645946502686,False,North Carolina,James Madison,35.0,21.0,3,14,52,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,15.0,85.0,-0.5219326019287109,False,North Carolina,James Madison,35.0,21.0,3,14,52,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Passing Touchdown,,,12.0,88.0,2.620551109313965,True,North Carolina,James Madison,35.0,21.0,2,1,20,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,43.0,57.0,2.3534440994262695,False,North Carolina,James Madison,28.0,21.0,2,2,18,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,22.0,78.0,0.09851408004760742,False,North Carolina,James Madison,28.0,21.0,2,2,18,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,76.0,24.0,1.3302345275878906,False,North Carolina,James Madison,28.0,21.0,2,5,52,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,64.0,36.0,0.8946390151977539,False,North Carolina,James Madison,28.0,21.0,2,5,52,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,34.0,66.0,-0.3670346736907959,False,North Carolina,James Madison,28.0,21.0,2,5,52,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Passing Touchdown,,,71.0,29.0,4.617653846740723,True,North Carolina,James Madison,28.0,21.0,2,10,52,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,82.0,18.0,0.6095575094223022,False,North Carolina,James Madison,21.0,21.0,2,12,35,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Incompletion,,,3.0,97.0,-1.1721515655517578,False,North Carolina,James Madison,14.0,21.0,2,15,0,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,82.0,18.0,0.8816453218460083,False,North Carolina,James Madison,14.0,21.0,1,1,57,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,65.0,35.0,0.82290118932724,False,North Carolina,James Madison,14.0,21.0,1,1,57,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,54.0,46.0,3.584689140319824,False,North Carolina,James Madison,14.0,21.0,1,1,57,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Passing Touchdown,,,75.0,25.0,7.056632041931152,True,North Carolina,James Madison,14.0,14.0,1,3,33,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Incompletion,,,75.0,25.0,-0.5616827607154846,False,North Carolina,James Madison,0.0,7.0,1,11,12,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,68.0,32.0,2.4091761112213135,False,North Carolina,James Madison,0.0,7.0,1,11,12,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Reception,,,49.0,51.0,-0.2073155641555786,False,North Carolina,James Madison,0.0,7.0,1,11,12,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869441.0,Pass Incompletion,,,20.0,80.0,-0.7343709468841553,False,North Carolina,James Madison,0.0,7.0,1,11,12,3,James Madison,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Passing Touchdown,,,2.0,98.0,3.068437337875366,True,North Carolina,Pittsburgh,37.0,36.0,4,0,2,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,17.0,83.0,1.9169306755065918,False,North Carolina,Pittsburgh,30.0,36.0,4,0,31,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,17.0,83.0,-0.46758317947387695,False,North Carolina,Pittsburgh,30.0,36.0,4,0,38,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,26.0,74.0,2.324350357055664,False,North Carolina,Pittsburgh,30.0,36.0,4,0,51,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,33.0,67.0,0.37542760372161865,False,North Carolina,Pittsburgh,30.0,36.0,4,1,2,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,38.0,62.0,0.022878050804138184,False,North Carolina,Pittsburgh,30.0,36.0,4,1,32,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Sack,,,27.0,73.0,-1.833579659461975,False,North Carolina,Pittsburgh,30.0,36.0,4,1,50,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,40.0,60.0,2.5021586418151855,False,North Carolina,Pittsburgh,30.0,36.0,4,1,56,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,40.0,60.0,-1.0106992721557617,False,North Carolina,Pittsburgh,30.0,36.0,4,2,2,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,44.0,56.0,0.05327010154724121,False,North Carolina,Pittsburgh,30.0,36.0,4,2,16,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,59.0,41.0,2.539149761199951,False,North Carolina,Pittsburgh,30.0,36.0,4,2,40,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,69.0,31.0,-0.10982426255941391,False,North Carolina,Pittsburgh,30.0,36.0,4,2,50,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,58.0,42.0,-0.6077656745910645,False,North Carolina,Pittsburgh,30.0,36.0,4,3,16,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,63.0,37.0,0.03283500671386719,False,North Carolina,Pittsburgh,30.0,36.0,4,3,18,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Passing Touchdown,,,2.0,98.0,1.2223339080810547,True,North Carolina,Pittsburgh,30.0,36.0,4,5,24,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,23.0,77.0,1.7562813758850098,False,North Carolina,Pittsburgh,23.0,36.0,4,5,50,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,26.0,74.0,2.312342882156372,False,North Carolina,Pittsburgh,23.0,36.0,4,6,10,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,38.0,62.0,0.6770796775817871,False,North Carolina,Pittsburgh,23.0,36.0,4,6,42,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,33.0,67.0,-0.7719781398773193,False,North Carolina,Pittsburgh,23.0,36.0,4,7,1,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,33.0,67.0,-0.533909797668457,False,North Carolina,Pittsburgh,23.0,36.0,4,7,7,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,45.0,55.0,0.8061783313751221,False,North Carolina,Pittsburgh,23.0,36.0,4,7,22,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,86.0,14.0,-0.03979206085205078,False,North Carolina,Pittsburgh,23.0,36.0,4,9,30,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Sack,,,81.0,19.0,-1.1648454666137695,False,North Carolina,Pittsburgh,23.0,36.0,4,10,2,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,79.0,21.0,-1.0547685623168945,False,North Carolina,Pittsburgh,23.0,36.0,4,10,34,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,70.0,30.0,-1.6295678615570068,False,North Carolina,Pittsburgh,23.0,33.0,4,13,52,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,79.0,21.0,0.6486562490463257,False,North Carolina,Pittsburgh,23.0,33.0,4,14,5,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,18.0,82.0,-1.0980758666992188,False,North Carolina,Pittsburgh,23.0,33.0,3,1,10,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,18.0,82.0,-0.8063201904296875,False,North Carolina,Pittsburgh,23.0,33.0,3,1,13,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,62.0,38.0,3.0750765800476074,False,North Carolina,Pittsburgh,23.0,33.0,3,1,42,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,75.0,25.0,1.199689269065857,False,North Carolina,Pittsburgh,23.0,33.0,3,2,9,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Passing Touchdown,,,1.0,99.0,0.5481476783752441,True,North Carolina,Pittsburgh,23.0,26.0,3,8,32,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,25.0,75.0,1.2215547561645508,False,North Carolina,Pittsburgh,16.0,26.0,3,9,8,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,74.0,26.0,4.1773247718811035,False,North Carolina,Pittsburgh,16.0,26.0,3,10,11,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Sack,,,75.0,25.0,-1.744606375694275,False,North Carolina,Pittsburgh,16.0,19.0,3,13,40,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Incompletion,,,32.0,68.0,-0.3270261287689209,False,North Carolina,Pittsburgh,13.0,19.0,2,0,12,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,59.0,41.0,1.5826470851898193,False,North Carolina,Pittsburgh,13.0,19.0,2,0,20,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Sack,,,51.0,49.0,-0.7498577833175659,False,North Carolina,Pittsburgh,13.0,19.0,2,0,34,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Passing Touchdown,,,19.0,81.0,2.1739156246185303,True,North Carolina,Pittsburgh,13.0,19.0,2,3,12,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,31.0,69.0,0.9771409034729004,False,North Carolina,Pittsburgh,7.0,19.0,2,3,47,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,34.0,66.0,-0.1448805332183838,False,North Carolina,Pittsburgh,7.0,19.0,2,4,5,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,44.0,56.0,1.6461983919143677,False,North Carolina,Pittsburgh,7.0,19.0,2,4,30,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,45.0,55.0,-0.6849328279495239,False,North Carolina,Pittsburgh,7.0,19.0,2,5,0,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,74.0,26.0,0.6956514716148376,False,North Carolina,Pittsburgh,7.0,19.0,2,6,8,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Passing Touchdown,,,39.0,61.0,4.597024917602539,True,North Carolina,Pittsburgh,7.0,12.0,2,11,40,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,48.0,52.0,-0.6756128072738647,False,North Carolina,Pittsburgh,0.0,12.0,2,12,0,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,91.0,9.0,4.2834320068359375,False,North Carolina,Pittsburgh,0.0,12.0,2,12,33,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869449.0,Pass Reception,,,75.0,25.0,0.7510857582092285,False,North Carolina,Pittsburgh,0.0,5.0,1,2,0,4,Pittsburgh,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,52.0,52.0,-0.15046149492263794,False,Florida State,North Carolina,34.0,35.0,4,0,9,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,75.0,75.0,0.5065371990203857,False,Florida State,North Carolina,34.0,35.0,4,0,17,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Passing Touchdown,,,34.0,34.0,4.17607307434082,True,Florida State,North Carolina,34.0,28.0,4,2,31,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,46.0,46.0,2.292109489440918,False,Florida State,North Carolina,28.0,28.0,4,2,45,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,58.0,58.0,1.7055732011795044,False,Florida State,North Carolina,28.0,28.0,4,3,19,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,68.0,68.0,0.6985568404197693,False,Florida State,North Carolina,28.0,28.0,4,3,57,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,75.0,75.0,1.0189613103866577,False,Florida State,North Carolina,28.0,28.0,4,4,50,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,74.0,74.0,-1.4376575946807861,False,Florida State,North Carolina,28.0,21.0,4,12,13,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,79.0,79.0,-0.35600560903549194,False,Florida State,North Carolina,28.0,21.0,4,12,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Sack,,,75.0,75.0,-1.0547493696212769,False,Florida State,North Carolina,28.0,21.0,4,13,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Passing Touchdown,,,15.0,15.0,3.0354039669036865,True,Florida State,North Carolina,28.0,14.0,3,7,18,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,15.0,15.0,-0.7837660312652588,False,Florida State,North Carolina,21.0,14.0,3,7,24,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,27.0,27.0,1.9544124603271484,False,Florida State,North Carolina,21.0,14.0,3,8,9,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,27.0,27.0,-0.836188793182373,False,Florida State,North Carolina,21.0,14.0,3,8,14,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,72.0,72.0,4.030275344848633,False,Florida State,North Carolina,21.0,14.0,3,8,50,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,75.0,75.0,-0.9950710535049438,False,Florida State,North Carolina,21.0,14.0,3,9,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,75.0,75.0,-0.4842895269393921,False,Florida State,North Carolina,21.0,14.0,3,9,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Sack,,,33.0,33.0,-1.8443121910095215,False,Florida State,North Carolina,21.0,7.0,3,12,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,43.0,43.0,0.17180514335632324,False,Florida State,North Carolina,21.0,7.0,3,12,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Fumble Recovery (Own),,,36.0,36.0,-1.3289670944213867,False,Florida State,North Carolina,21.0,7.0,3,13,20,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,60.0,60.0,1.3289670944213867,False,Florida State,North Carolina,21.0,7.0,3,13,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,61.0,61.0,-0.4984915256500244,False,Florida State,North Carolina,21.0,7.0,3,14,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,69.0,69.0,0.5433173179626465,False,Florida State,North Carolina,21.0,7.0,3,14,36,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,75.0,75.0,-2.5666611194610596,False,Florida State,North Carolina,21.0,7.0,3,14,50,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,2.0,2.0,-0.5746951103210449,False,Florida State,North Carolina,21.0,7.0,2,1,15,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,39.0,39.0,2.9169223308563232,False,Florida State,North Carolina,21.0,7.0,2,1,51,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,47.0,47.0,0.5547220706939697,False,Florida State,North Carolina,21.0,7.0,2,2,14,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,58.0,58.0,0.9570982456207275,False,Florida State,North Carolina,21.0,7.0,2,3,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,63.0,63.0,-0.4321165084838867,False,Florida State,North Carolina,21.0,7.0,2,4,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,4.0,4.0,-1.2105026245117188,False,Florida State,North Carolina,14.0,0.0,2,7,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,40.0,40.0,1.7369213104248047,False,Florida State,North Carolina,14.0,0.0,2,8,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,71.0,71.0,2.6634278297424316,False,Florida State,North Carolina,14.0,0.0,2,8,50,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,79.0,79.0,-0.18562769889831543,False,Florida State,North Carolina,14.0,0.0,2,9,40,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,33.0,33.0,0.9763860702514648,False,Florida State,North Carolina,7.0,0.0,2,14,15,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,40.0,40.0,0.16167140007019043,False,Florida State,North Carolina,7.0,0.0,2,14,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Incompletion,,,40.0,40.0,-0.5910460948944092,False,Florida State,North Carolina,7.0,0.0,2,14,53,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,51.0,51.0,0.33660054206848145,False,Florida State,North Carolina,7.0,0.0,1,5,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Passing Touchdown,,,22.0,22.0,2.387073516845703,True,Florida State,North Carolina,7.0,0.0,1,7,57,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,26.0,26.0,0.9170198440551758,False,Florida State,North Carolina,0.0,0.0,1,8,30,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,37.0,37.0,0.8562769889831543,False,Florida State,North Carolina,0.0,0.0,1,9,0,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869455.0,Pass Reception,,,56.0,56.0,-0.5754034519195557,False,Florida State,North Carolina,0.0,0.0,1,10,15,5,Florida State,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,73.0,27.0,-0.709040641784668,False,North Carolina,Virginia Tech,3.0,34.0,4,4,54,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,72.0,28.0,-0.43249833583831787,False,North Carolina,Virginia Tech,3.0,34.0,4,5,34,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Interception Return,,,80.0,20.0,-3.980778217315674,False,North Carolina,Virginia Tech,3.0,27.0,4,8,14,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,20.0,80.0,-3.570237636566162,False,North Carolina,Virginia Tech,3.0,27.0,3,0,45,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,20.0,80.0,-1.0498616695404053,False,North Carolina,Virginia Tech,3.0,27.0,3,0,52,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,20.0,80.0,-0.9830499887466431,False,North Carolina,Virginia Tech,3.0,27.0,3,0,58,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,61.0,39.0,0.46180057525634766,False,North Carolina,Virginia Tech,3.0,27.0,3,2,44,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,40.0,60.0,-2.4003753662109375,False,North Carolina,Virginia Tech,3.0,27.0,3,4,47,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,91.0,9.0,-0.8251974582672119,False,North Carolina,Virginia Tech,3.0,27.0,3,9,48,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,91.0,9.0,-0.6546547412872314,False,North Carolina,Virginia Tech,3.0,27.0,3,9,55,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,91.0,9.0,-0.49590134620666504,False,North Carolina,Virginia Tech,3.0,27.0,3,10,2,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,73.0,27.0,-0.9085737466812134,False,North Carolina,Virginia Tech,3.0,20.0,3,12,12,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,76.0,24.0,0.9740827679634094,False,North Carolina,Virginia Tech,3.0,13.0,3,13,15,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,67.0,33.0,1.1115448474884033,False,North Carolina,Virginia Tech,3.0,13.0,3,14,18,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,67.0,33.0,-0.8440291881561279,False,North Carolina,Virginia Tech,3.0,13.0,3,14,24,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,59.0,41.0,-0.6375550031661987,False,North Carolina,Virginia Tech,3.0,13.0,2,0,48,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,64.0,36.0,0.022224366664886475,False,North Carolina,Virginia Tech,3.0,13.0,2,1,3,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,64.0,36.0,-0.4077637791633606,False,North Carolina,Virginia Tech,3.0,13.0,2,1,12,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,67.0,33.0,0.19764304161071777,False,North Carolina,Virginia Tech,3.0,13.0,2,1,26,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Sack,,,93.0,7.0,-1.3243464231491089,False,North Carolina,Virginia Tech,3.0,6.0,2,4,38,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Sack,,,87.0,13.0,-1.3836660385131836,False,North Carolina,Virginia Tech,3.0,6.0,2,5,10,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,11.0,89.0,-1.153123140335083,False,North Carolina,Virginia Tech,0.0,6.0,2,11,4,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,11.0,89.0,-0.7960770130157471,False,North Carolina,Virginia Tech,0.0,6.0,2,11,8,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,18.0,82.0,1.2073700428009033,False,North Carolina,Virginia Tech,0.0,6.0,2,11,50,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,24.0,76.0,0.188523530960083,False,North Carolina,Virginia Tech,0.0,6.0,2,12,10,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,35.0,65.0,0.6627562046051025,False,North Carolina,Virginia Tech,0.0,6.0,2,12,48,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,52.0,48.0,-1.635920763015747,False,North Carolina,Virginia Tech,0.0,6.0,1,0,0,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,58.0,42.0,-0.5877861976623535,False,North Carolina,Virginia Tech,0.0,6.0,1,1,1,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,81.0,19.0,-0.6824650764465332,False,North Carolina,Virginia Tech,0.0,6.0,1,4,5,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Interception Return,,,93.0,7.0,-2.573413133621216,False,North Carolina,Virginia Tech,0.0,0.0,1,10,22,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,93.0,7.0,-0.8881628513336182,False,North Carolina,Virginia Tech,0.0,0.0,1,10,30,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Incompletion,,,88.0,12.0,-0.7830179929733276,False,North Carolina,Virginia Tech,0.0,0.0,1,10,34,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869459.0,Pass Reception,,,33.0,67.0,-0.978553056716919,False,North Carolina,Virginia Tech,0.0,0.0,1,12,50,6,Virginia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Incompletion,,,95.0,95.0,-0.739381730556488,False,Virginia,North Carolina,35.0,14.0,4,2,22,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,76.0,76.0,-0.6285552978515625,False,Virginia,North Carolina,35.0,14.0,4,7,18,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Passing Touchdown,,,46.0,46.0,3.0685477256774902,True,Virginia,North Carolina,35.0,14.0,4,8,30,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,80.0,80.0,0.17562198638916016,False,Virginia,North Carolina,28.0,7.0,4,14,46,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,18.0,18.0,0.6197481155395508,False,Virginia,North Carolina,21.0,7.0,3,1,44,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,28.0,28.0,0.3169403076171875,False,Virginia,North Carolina,21.0,7.0,3,2,47,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Passing Touchdown,,,10.0,10.0,2.399941921234131,True,Virginia,North Carolina,21.0,7.0,3,7,39,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,34.0,34.0,3.6109910011291504,False,Virginia,North Carolina,14.0,7.0,3,8,45,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,61.0,61.0,0.5958776473999023,False,Virginia,North Carolina,14.0,7.0,3,9,45,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,70.0,70.0,0.9437844753265381,False,Virginia,North Carolina,14.0,7.0,3,10,20,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Fumble Recovery (Opponent),,,47.0,47.0,-4.751809597015381,False,Virginia,North Carolina,14.0,7.0,3,13,34,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,64.0,64.0,0.9259700775146484,False,Virginia,North Carolina,14.0,7.0,3,14,28,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Incompletion,,,62.0,62.0,-0.43634456396102905,False,Virginia,North Carolina,14.0,7.0,2,0,29,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Incompletion,,,62.0,62.0,-0.26823365688323975,False,Virginia,North Carolina,14.0,7.0,2,0,34,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,72.0,72.0,0.19958364963531494,False,Virginia,North Carolina,14.0,7.0,2,0,50,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Passing Touchdown,,,40.0,40.0,4.42233943939209,True,Virginia,North Carolina,14.0,7.0,2,2,52,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,64.0,64.0,1.8406786918640137,False,Virginia,North Carolina,7.0,7.0,2,4,5,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Incompletion,,,64.0,64.0,-0.7965424060821533,False,Virginia,North Carolina,7.0,7.0,2,4,19,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Incompletion,,,81.0,81.0,-0.5894715189933777,False,Virginia,North Carolina,7.0,7.0,2,5,15,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Sack,,,59.0,59.0,-1.835094690322876,False,Virginia,North Carolina,7.0,0.0,2,13,0,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,64.0,64.0,-0.45318078994750977,False,Virginia,North Carolina,7.0,0.0,2,13,50,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,80.0,80.0,0.9098247289657593,False,Virginia,North Carolina,7.0,0.0,2,14,5,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,26.0,26.0,3.6002633571624756,False,Virginia,North Carolina,0.0,0.0,1,0,55,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Incompletion,,,11.0,11.0,-3.6002633571624756,False,Virginia,North Carolina,0.0,0.0,1,1,10,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,24.0,24.0,0.6680150032043457,False,Virginia,North Carolina,0.0,0.0,1,3,42,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,40.0,40.0,0.8030920028686523,False,Virginia,North Carolina,0.0,0.0,1,4,1,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,50.0,50.0,0.12045836448669434,False,Virginia,North Carolina,0.0,0.0,1,4,51,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,62.0,62.0,0.7275495529174805,False,Virginia,North Carolina,0.0,0.0,1,5,22,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,62.0,62.0,-0.2709991931915283,False,Virginia,North Carolina,0.0,0.0,1,7,5,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Sack,,,64.0,64.0,-1.6244399547576904,False,Virginia,North Carolina,0.0,0.0,1,8,40,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,65.0,65.0,1.6244399547576904,False,Virginia,North Carolina,0.0,0.0,1,8,58,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869470.0,Pass Reception,,,80.0,80.0,-1.1428923606872559,False,Virginia,North Carolina,0.0,0.0,1,12,52,8,Virginia,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,54.0,46.0,2.1618499755859375,False,North Carolina,Georgia Tech,48.0,20.0,4,5,45,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,36.0,64.0,-1.1257323026657104,False,North Carolina,Georgia Tech,48.0,20.0,4,5,45,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,87.0,13.0,1.522195816040039,False,North Carolina,Georgia Tech,41.0,20.0,4,15,0,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,40.0,60.0,1.7120811939239502,False,North Carolina,Georgia Tech,34.0,20.0,3,4,3,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,33.0,67.0,-0.569211483001709,False,North Carolina,Georgia Tech,34.0,20.0,3,4,3,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,28.0,72.0,1.3518593311309814,False,North Carolina,Georgia Tech,34.0,20.0,3,4,3,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,75.0,25.0,1.7377536296844482,False,North Carolina,Georgia Tech,27.0,20.0,3,8,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,53.0,47.0,-0.5853683948516846,False,North Carolina,Georgia Tech,27.0,20.0,3,8,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,50.0,50.0,2.2387750148773193,False,North Carolina,Georgia Tech,27.0,20.0,3,8,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,35.0,65.0,0.4378209114074707,False,North Carolina,Georgia Tech,27.0,20.0,3,8,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,2.0,98.0,-0.28206396102905273,False,North Carolina,Georgia Tech,27.0,20.0,3,8,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,80.0,20.0,-0.03428998589515686,False,North Carolina,Georgia Tech,27.0,17.0,2,0,33,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,80.0,20.0,0.07426005601882935,False,North Carolina,Georgia Tech,27.0,17.0,2,0,33,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Passing Touchdown,,,68.0,32.0,5.737367153167725,True,North Carolina,Georgia Tech,27.0,17.0,2,2,24,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,71.0,29.0,1.9540746212005615,False,North Carolina,Georgia Tech,17.0,10.0,2,10,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,59.0,41.0,-0.8323514461517334,False,North Carolina,Georgia Tech,17.0,10.0,2,10,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,59.0,41.0,2.052886486053467,False,North Carolina,Georgia Tech,17.0,10.0,2,10,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,48.0,52.0,1.8624029159545898,False,North Carolina,Georgia Tech,17.0,10.0,2,10,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,33.0,67.0,-0.5059771537780762,False,North Carolina,Georgia Tech,17.0,10.0,2,10,38,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,75.0,25.0,1.0725876092910767,False,North Carolina,Georgia Tech,10.0,7.0,1,2,32,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,56.0,44.0,-0.9586173295974731,False,North Carolina,Georgia Tech,10.0,7.0,1,2,32,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,56.0,44.0,2.097111701965332,False,North Carolina,Georgia Tech,10.0,7.0,1,2,32,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,42.0,58.0,-1.03717839717865,False,North Carolina,Georgia Tech,10.0,7.0,1,2,32,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,47.0,53.0,1.2156319618225098,False,North Carolina,Georgia Tech,10.0,7.0,1,2,32,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,74.0,26.0,1.3472445011138916,False,North Carolina,Georgia Tech,10.0,0.0,1,5,33,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,51.0,49.0,-1.6227107048034668,False,North Carolina,Georgia Tech,10.0,0.0,1,5,33,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,53.0,47.0,1.1921732425689697,False,North Carolina,Georgia Tech,7.0,0.0,1,11,48,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,22.0,78.0,-0.621345043182373,False,North Carolina,Georgia Tech,7.0,0.0,1,11,48,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,22.0,78.0,0.6828536987304688,False,North Carolina,Georgia Tech,7.0,0.0,1,11,48,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,20.0,80.0,-0.8245017528533936,False,North Carolina,Georgia Tech,7.0,0.0,1,11,48,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Incompletion,,,20.0,80.0,-0.8214824199676514,False,North Carolina,Georgia Tech,7.0,0.0,1,11,48,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,75.0,25.0,0.8232324719429016,False,North Carolina,Georgia Tech,0.0,0.0,1,15,0,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869480.0,Pass Reception,,,22.0,78.0,0.7996807098388672,False,North Carolina,Georgia Tech,0.0,0.0,1,15,0,10,Georgia Tech,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Interception Return,,,82.0,82.0,-2.0248703956604004,False,Duke,North Carolina,27.0,28.0,4,1,2,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,94.0,94.0,0.03998807072639465,False,Duke,North Carolina,27.0,28.0,4,1,35,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,94.0,94.0,-0.48561251163482666,False,Duke,North Carolina,27.0,28.0,4,1,44,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,26.0,26.0,-0.3132014274597168,False,Duke,North Carolina,24.0,28.0,3,1,12,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,30.0,30.0,-0.3227818012237549,False,Duke,North Carolina,24.0,28.0,3,1,43,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,33.0,33.0,0.42285776138305664,False,Duke,North Carolina,21.0,21.0,3,6,44,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,34.0,34.0,0.639904260635376,False,Duke,North Carolina,21.0,21.0,3,8,7,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,42.0,42.0,0.7349517345428467,False,Duke,North Carolina,21.0,21.0,3,8,21,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,78.0,78.0,3.3806345462799072,False,Duke,North Carolina,21.0,21.0,3,9,15,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Interception Return,,,31.0,31.0,-5.49998140335083,False,Duke,North Carolina,21.0,21.0,3,13,11,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,62.0,62.0,0.4949617385864258,False,Duke,North Carolina,21.0,21.0,3,14,3,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Sack,,,42.0,42.0,-1.6462678909301758,False,Duke,North Carolina,21.0,21.0,2,0,41,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Incompletion,,,42.0,42.0,-0.3681941032409668,False,Duke,North Carolina,21.0,21.0,2,0,47,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Incompletion,,,42.0,42.0,-0.24625110626220703,False,Duke,North Carolina,21.0,21.0,2,0,52,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,52.0,52.0,1.060259222984314,False,Duke,North Carolina,21.0,21.0,2,1,2,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,59.0,59.0,0.38726818561553955,False,Duke,North Carolina,21.0,21.0,2,1,21,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,52.0,52.0,-1.1918632984161377,False,Duke,North Carolina,21.0,21.0,2,1,31,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Incompletion,,,59.0,59.0,-1.7448338270187378,False,Duke,North Carolina,21.0,21.0,2,3,34,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Passing Touchdown,,,54.0,54.0,4.209665298461914,True,Duke,North Carolina,21.0,14.0,2,8,28,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,71.0,71.0,1.289230465888977,False,Duke,North Carolina,14.0,14.0,2,8,43,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,84.0,84.0,0.732399582862854,False,Duke,North Carolina,14.0,14.0,2,9,29,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Incompletion,,,49.0,49.0,-1.7495856285095215,False,Duke,North Carolina,14.0,7.0,2,13,40,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Passing Touchdown,,,19.0,19.0,2.4341163635253906,True,Duke,North Carolina,14.0,0.0,1,3,59,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,30.0,30.0,1.8787553310394287,False,Duke,North Carolina,7.0,0.0,1,4,57,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,30.0,30.0,-0.8248364925384521,False,Duke,North Carolina,7.0,0.0,1,5,32,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Incompletion,,,30.0,30.0,-0.5492458343505859,False,Duke,North Carolina,7.0,0.0,1,5,39,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,41.0,41.0,-0.02267932891845703,False,Duke,North Carolina,7.0,0.0,1,6,28,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,64.0,64.0,1.1078112125396729,False,Duke,North Carolina,7.0,0.0,1,7,5,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Passing Touchdown,,,16.0,16.0,2.2267050743103027,True,Duke,North Carolina,7.0,0.0,1,9,34,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,39.0,39.0,2.0703446865081787,False,Duke,North Carolina,0.0,0.0,1,10,9,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Incompletion,,,39.0,39.0,-0.6720623970031738,False,Duke,North Carolina,0.0,0.0,1,10,15,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,57.0,57.0,1.265571117401123,False,Duke,North Carolina,0.0,0.0,1,10,40,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869483.0,Pass Reception,,,70.0,70.0,-0.1047590970993042,False,Duke,North Carolina,0.0,0.0,1,11,51,11,Duke,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,68.0,32.0,0.8963148593902588,False,North Carolina,The Citadel,41.0,7.0,4,9,16,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,32.0,68.0,1.7995631694793701,False,North Carolina,The Citadel,41.0,0.0,4,15,0,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,33.0,67.0,-0.784529447555542,False,North Carolina,The Citadel,41.0,0.0,4,15,0,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,33.0,67.0,0.27199554443359375,False,North Carolina,The Citadel,41.0,0.0,4,15,0,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,19.0,81.0,-1.0273282527923584,False,North Carolina,The Citadel,41.0,0.0,4,15,0,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,24.0,76.0,-1.3442528247833252,False,North Carolina,The Citadel,38.0,0.0,3,8,29,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,77.0,23.0,0.3222334384918213,False,North Carolina,The Citadel,38.0,0.0,3,11,9,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Fumble Recovery (Own),,,51.0,49.0,-1.2611416578292847,False,North Carolina,The Citadel,38.0,0.0,3,11,9,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,6.0,94.0,-1.2533252239227295,False,North Carolina,The Citadel,28.0,0.0,2,1,14,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,32.0,68.0,0.4392735958099365,False,North Carolina,The Citadel,28.0,0.0,2,6,9,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,59.0,41.0,-0.7088454961776733,False,North Carolina,The Citadel,28.0,0.0,2,7,42,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,59.0,41.0,-1.0634510517120361,False,North Carolina,The Citadel,28.0,0.0,2,7,42,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Passing Touchdown,,,23.0,77.0,2.485046863555908,True,North Carolina,The Citadel,21.0,0.0,2,11,9,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Passing Touchdown,,,72.0,28.0,4.20503044128418,True,North Carolina,The Citadel,14.0,0.0,1,1,15,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Passing Touchdown,,,19.0,81.0,2.7254085540771484,True,North Carolina,The Citadel,7.0,0.0,1,3,10,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,57.0,43.0,-0.6329648494720459,False,North Carolina,The Citadel,0.0,0.0,1,5,57,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,56.0,44.0,2.6743321418762207,False,North Carolina,The Citadel,0.0,0.0,1,5,57,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,80.0,20.0,-0.6979349255561829,False,North Carolina,The Citadel,0.0,0.0,1,8,4,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Reception,,,80.0,20.0,-0.10771334916353226,False,North Carolina,The Citadel,0.0,0.0,1,8,4,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869496.0,Pass Incompletion,,,74.0,26.0,-1.7556488513946533,False,North Carolina,The Citadel,0.0,0.0,1,8,4,12,The Citadel,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,87.0,13.0,1.9091390371322632,False,North Carolina,NC State,21.0,28.0,4,6,53,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Sack,,,72.0,28.0,-1.3719167709350586,False,North Carolina,NC State,21.0,28.0,4,6,53,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,79.0,21.0,-0.1883750557899475,False,North Carolina,NC State,21.0,28.0,4,6,53,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,51.0,49.0,-0.8383879065513611,False,North Carolina,NC State,21.0,28.0,4,6,53,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,51.0,49.0,-2.4900660514831543,False,North Carolina,NC State,21.0,28.0,4,6,53,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Passing Touchdown,,,48.0,52.0,4.529799461364746,True,North Carolina,NC State,21.0,28.0,4,7,52,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,62.0,38.0,-0.06801444292068481,False,North Carolina,NC State,14.0,28.0,4,10,25,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,54.0,46.0,3.0413362979888916,False,North Carolina,NC State,14.0,28.0,4,10,25,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Passing Touchdown,,,7.0,93.0,2.3090429306030273,True,North Carolina,NC State,14.0,28.0,4,13,49,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,70.0,30.0,5.266887664794922,False,North Carolina,NC State,7.0,28.0,4,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,25.0,75.0,1.9106740951538086,False,North Carolina,NC State,7.0,28.0,4,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,93.0,7.0,0.6861042976379395,False,North Carolina,NC State,7.0,28.0,3,1,13,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,82.0,18.0,0.708253026008606,False,North Carolina,NC State,7.0,28.0,3,1,13,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,64.0,36.0,-0.7193001508712769,False,North Carolina,NC State,7.0,28.0,3,1,13,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,64.0,36.0,-1.2568734884262085,False,North Carolina,NC State,7.0,28.0,3,1,13,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,9.0,91.0,-5.6574883460998535,False,North Carolina,NC State,7.0,28.0,3,5,7,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,56.0,44.0,-0.16044127941131592,False,North Carolina,NC State,7.0,28.0,3,8,16,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,51.0,49.0,3.445239543914795,False,North Carolina,NC State,7.0,28.0,3,8,16,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,29.0,71.0,-0.7548103332519531,False,North Carolina,NC State,7.0,28.0,3,8,16,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,29.0,71.0,2.118269205093384,False,North Carolina,NC State,7.0,28.0,3,8,16,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,17.0,83.0,-0.27159976959228516,False,North Carolina,NC State,7.0,28.0,3,8,16,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,66.0,34.0,-0.247283935546875,False,North Carolina,NC State,7.0,21.0,2,6,53,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Passing Touchdown,,,4.0,96.0,1.3656005859375,True,North Carolina,NC State,7.0,21.0,2,8,16,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,33.0,67.0,-1.1374211311340332,False,North Carolina,NC State,0.0,21.0,2,9,3,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,33.0,67.0,-0.9801676273345947,False,North Carolina,NC State,0.0,21.0,2,9,3,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,74.0,26.0,-0.7497246265411377,False,North Carolina,NC State,0.0,21.0,2,10,27,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,70.0,30.0,0.04341578483581543,False,North Carolina,NC State,0.0,21.0,2,10,27,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,80.0,20.0,-0.6137856841087341,False,North Carolina,NC State,0.0,14.0,2,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,77.0,23.0,3.9046599864959717,False,North Carolina,NC State,0.0,14.0,2,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,49.0,51.0,-0.4062159061431885,False,North Carolina,NC State,0.0,14.0,2,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,42.0,58.0,-2.0076305866241455,False,North Carolina,NC State,0.0,14.0,2,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,81.0,19.0,1.1342225074768066,False,North Carolina,NC State,0.0,14.0,1,8,19,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,68.0,32.0,1.3532394170761108,False,North Carolina,NC State,0.0,14.0,1,8,19,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,48.0,52.0,-0.25640636682510376,False,North Carolina,NC State,0.0,14.0,1,8,19,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,43.0,57.0,-2.0118260383605957,False,North Carolina,NC State,0.0,14.0,1,8,19,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Incompletion,,,72.0,28.0,-0.8704890012741089,False,North Carolina,NC State,0.0,0.0,1,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Pass Reception,,,38.0,62.0,-0.11663174629211426,False,North Carolina,NC State,0.0,0.0,1,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869497.0,Sack,,,32.0,68.0,-3.2817723751068115,False,North Carolina,NC State,0.0,0.0,1,15,0,13,NC State,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,39.0,39.0,-0.7948688268661499,False,Miami,North Carolina,20.0,13.0,4,2,35,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,40.0,40.0,0.551685094833374,False,Miami,North Carolina,20.0,13.0,4,3,39,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,45.0,45.0,0.31879234313964844,False,Miami,North Carolina,20.0,13.0,4,4,14,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,48.0,48.0,-0.6814990043640137,False,Miami,North Carolina,20.0,13.0,4,5,0,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,54.0,54.0,1.4126273393630981,False,Miami,North Carolina,20.0,13.0,4,5,31,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,59.0,59.0,-0.09345972537994385,False,Miami,North Carolina,20.0,13.0,4,5,45,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,80.0,80.0,0.14359331130981445,False,Miami,North Carolina,20.0,10.0,4,12,13,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,39.0,39.0,1.3677382469177246,False,Miami,North Carolina,20.0,10.0,3,1,39,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,50.0,50.0,0.6036930084228516,False,Miami,North Carolina,20.0,10.0,3,2,3,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,72.0,72.0,2.8077352046966553,False,Miami,North Carolina,20.0,10.0,3,2,21,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,75.0,75.0,-0.5684212446212769,False,Miami,North Carolina,20.0,10.0,3,3,28,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,85.0,85.0,-1.3000109195709229,False,Miami,North Carolina,20.0,3.0,3,5,1,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,89.0,89.0,-0.368125855922699,False,Miami,North Carolina,20.0,3.0,3,5,23,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Sack,,,51.0,51.0,-1.671342372894287,False,Miami,North Carolina,20.0,3.0,3,7,45,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,56.0,56.0,-0.9316798448562622,False,Miami,North Carolina,20.0,3.0,3,8,30,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,59.0,59.0,-0.23743009567260742,False,Miami,North Carolina,20.0,3.0,3,9,47,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,63.0,63.0,-0.18188858032226562,False,Miami,North Carolina,20.0,3.0,3,10,11,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,29.0,29.0,0.2684664726257324,False,Miami,North Carolina,20.0,3.0,3,12,7,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,48.0,48.0,1.6596567630767822,False,Miami,North Carolina,20.0,3.0,3,12,50,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,62.0,62.0,-0.9544609785079956,False,Miami,North Carolina,20.0,3.0,3,13,41,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,62.0,62.0,-0.6045315265655518,False,Miami,North Carolina,20.0,3.0,3,13,56,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,75.0,75.0,0.17068803310394287,False,Miami,North Carolina,20.0,3.0,3,14,38,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,75.0,75.0,-2.4714293479919434,False,Miami,North Carolina,20.0,3.0,3,14,50,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Passing Touchdown,,,1.0,1.0,1.650815486907959,True,Miami,North Carolina,20.0,3.0,2,0,18,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,7.0,7.0,1.0422086715698242,False,Miami,North Carolina,13.0,3.0,2,0,25,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,56.0,56.0,4.195026874542236,False,Miami,North Carolina,13.0,3.0,2,1,22,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,59.0,59.0,-0.33624720573425293,False,Miami,North Carolina,13.0,3.0,2,2,5,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,37.0,37.0,-0.2166907787322998,False,Miami,North Carolina,10.0,3.0,2,4,15,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,58.0,58.0,0.0753173828125,False,Miami,North Carolina,10.0,3.0,2,6,38,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,42.0,42.0,-1.3104007244110107,False,Miami,North Carolina,10.0,3.0,2,11,2,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,37.0,37.0,-1.0215027332305908,False,Miami,North Carolina,10.0,3.0,2,11,35,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,72.0,72.0,2.4010143280029297,False,Miami,North Carolina,10.0,3.0,2,12,41,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Passing Touchdown,,,5.0,5.0,2.4909706115722656,True,Miami,North Carolina,10.0,0.0,1,1,34,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,19.0,19.0,2.4162399768829346,False,Miami,North Carolina,3.0,0.0,1,2,33,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,23.0,23.0,-0.2105860710144043,False,Miami,North Carolina,3.0,0.0,1,3,14,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,69.0,69.0,1.4900941848754883,False,Miami,North Carolina,3.0,0.0,1,4,20,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,80.0,80.0,-0.4572330713272095,False,Miami,North Carolina,3.0,0.0,1,5,19,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,25.0,25.0,-0.7880100011825562,False,Miami,North Carolina,0.0,0.0,1,11,35,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,15.0,15.0,-0.7862904071807861,False,Miami,North Carolina,0.0,0.0,1,12,0,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Reception,,,57.0,57.0,4.263674736022949,False,Miami,North Carolina,0.0,0.0,1,12,30,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400869723.0,Pass Incompletion,,,57.0,57.0,-0.9557764530181885,False,Miami,North Carolina,0.0,0.0,1,12,45,7,Miami,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Passing Touchdown,,,2.0,98.0,1.1544113159179688,True,North Carolina,Stanford,23.0,25.0,4,0,25,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,2.0,98.0,-0.23597097396850586,False,North Carolina,Stanford,17.0,25.0,4,0,34,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,28.0,72.0,3.745248317718506,False,North Carolina,Stanford,17.0,25.0,4,0,45,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,28.0,72.0,-0.33792567253112793,False,North Carolina,Stanford,17.0,25.0,4,1,2,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,72.0,28.0,2.287874698638916,False,North Carolina,Stanford,17.0,25.0,4,1,8,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,78.0,22.0,0.3482615053653717,False,North Carolina,Stanford,17.0,25.0,4,1,15,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,97.0,3.0,0.5454335808753967,False,North Carolina,Stanford,17.0,25.0,4,1,30,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Sack,,,70.0,30.0,-1.4045124053955078,False,North Carolina,Stanford,17.0,25.0,4,2,20,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,75.0,25.0,-0.42632800340652466,False,North Carolina,Stanford,17.0,25.0,4,2,51,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,75.0,25.0,-0.43292006850242615,False,North Carolina,Stanford,17.0,25.0,4,3,5,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Sack,,,27.0,73.0,-3.0947675704956055,False,North Carolina,Stanford,17.0,22.0,4,11,15,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,49.0,51.0,-1.0252856016159058,False,North Carolina,Stanford,17.0,22.0,4,12,35,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,76.0,24.0,2.7254228591918945,False,North Carolina,Stanford,17.0,22.0,4,13,30,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Interception Return Touchdown,,,86.0,14.0,-7.911950588226318,True,North Carolina,Stanford,17.0,22.0,4,14,13,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,15.0,85.0,1.4043598175048828,False,North Carolina,Stanford,10.0,16.0,3,2,35,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,55.0,45.0,0.7860689163208008,False,North Carolina,Stanford,10.0,16.0,3,4,55,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,26.0,74.0,-0.8530974388122559,False,North Carolina,Stanford,7.0,16.0,3,7,38,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,64.0,36.0,0.760986328125,False,North Carolina,Stanford,7.0,16.0,3,9,30,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,34.0,66.0,-1.162397861480713,False,North Carolina,Stanford,7.0,13.0,3,12,16,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,59.0,41.0,2.9634909629821777,False,North Carolina,Stanford,7.0,13.0,3,13,45,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,79.0,21.0,2.6098854541778564,False,North Carolina,Stanford,7.0,13.0,3,14,30,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,67.0,33.0,-0.03119048848748207,False,North Carolina,Stanford,7.0,13.0,2,0,0,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,67.0,33.0,-0.24459302425384521,False,North Carolina,Stanford,7.0,13.0,2,0,8,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,70.0,30.0,0.04987893998622894,False,North Carolina,Stanford,7.0,13.0,2,0,16,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,75.0,25.0,0.014338269829750061,False,North Carolina,Stanford,7.0,13.0,2,0,22,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,83.0,17.0,-0.44020605087280273,False,North Carolina,Stanford,7.0,10.0,2,2,0,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,63.0,37.0,-1.3722684383392334,False,North Carolina,Stanford,7.0,10.0,2,8,46,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,63.0,37.0,-0.7803518176078796,False,North Carolina,Stanford,7.0,10.0,2,9,0,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,80.0,20.0,1.1352428197860718,False,North Carolina,Stanford,7.0,10.0,2,10,5,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Interception Return,,,44.0,56.0,-6.68477725982666,False,North Carolina,Stanford,7.0,10.0,2,11,41,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,49.0,51.0,-0.12364315986633301,False,North Carolina,Stanford,7.0,10.0,2,12,30,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,63.0,37.0,2.2162630558013916,False,North Carolina,Stanford,7.0,10.0,2,13,15,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,65.0,35.0,-0.7353304624557495,False,North Carolina,Stanford,7.0,10.0,2,14,0,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,65.0,35.0,-0.6021453142166138,False,North Carolina,Stanford,7.0,10.0,2,14,9,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,86.0,14.0,-1.1469173431396484,False,North Carolina,Stanford,7.0,7.0,1,5,0,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Passing Touchdown,,,19.0,81.0,1.9016876220703125,True,North Carolina,Stanford,7.0,0.0,1,8,58,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Reception,,,55.0,45.0,2.7359731197357178,False,North Carolina,Stanford,0.0,0.0,1,11,15,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017
+400878692.0,Pass Incompletion,,,55.0,45.0,-0.9576472640037537,False,North Carolina,Stanford,0.0,0.0,1,11,20,1,Stanford,2016,North Carolina,Mitchell Trubisky,2017

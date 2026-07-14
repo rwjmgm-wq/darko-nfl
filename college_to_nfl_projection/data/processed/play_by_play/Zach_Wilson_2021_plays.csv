@@ -1,0 +1,376 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401209818.0,Pass Incompletion,,,36.0,64,-0.6664614677429199,False,BYU,North Alabama,56.0,14.0,4,3,41,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,37.0,63,-0.29768669605255127,False,BYU,North Alabama,56.0,14.0,4,4,15,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,73.0,27,-0.84732985496521,False,BYU,North Alabama,56.0,14.0,4,10,27,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Sack,,,75.0,25,-0.9905322790145874,False,BYU,North Alabama,56.0,14.0,4,11,50,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,19.0,81,0.38562440872192383,False,BYU,North Alabama,49.0,7.0,3,1,10,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,26.0,74,0.3295135498046875,False,BYU,North Alabama,49.0,7.0,3,1,46,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Passing Touchdown,,,7.0,93,1.5067338943481445,True,BYU,North Alabama,49.0,7.0,3,10,50,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,18.0,82,0.35637950897216797,False,BYU,North Alabama,42.0,7.0,3,12,15,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,43.0,57,1.6953368186950684,False,BYU,North Alabama,42.0,7.0,3,12,34,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Incompletion,,,71.0,29,-1.3651384115219116,False,BYU,North Alabama,42.0,7.0,3,13,42,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,75.0,25,-3.573871374130249,False,BYU,North Alabama,42.0,7.0,3,14,55,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Passing Touchdown,,,22.0,78,4.547981262207031,True,BYU,North Alabama,42.0,7.0,2,0,40,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,75.0,25,3.0020787715911865,False,BYU,North Alabama,35.0,7.0,2,1,30,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Passing Touchdown,,,3.0,97,4.092018127441406,True,BYU,North Alabama,35.0,0.0,2,2,59,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Passing Touchdown,,,19.0,81,2.1506571769714355,True,BYU,North Alabama,28.0,0.0,2,6,39,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Incompletion,,,2.0,98,-0.7702851295471191,False,BYU,North Alabama,14.0,0.0,2,13,29,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Incompletion,,,49.0,51,-0.585136890411377,False,BYU,North Alabama,14.0,0.0,1,0,28,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Incompletion,,,61.0,39,-0.5452909469604492,False,BYU,North Alabama,14.0,0.0,1,1,1,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,86.0,14,0.5491716861724854,False,BYU,North Alabama,14.0,0.0,1,1,29,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Incompletion,,,25.0,75,-0.5622787475585938,False,BYU,North Alabama,7.0,0.0,1,5,38,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,45.0,55,0.9914915561676025,False,BYU,North Alabama,7.0,0.0,1,5,51,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,56.0,44,1.0515460968017578,False,BYU,North Alabama,7.0,0.0,1,6,8,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Passing Touchdown,,,2.0,98,0.8594913482666016,True,BYU,North Alabama,7.0,0.0,1,9,42,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,16.0,84,2.05440092086792,False,BYU,North Alabama,0.0,0.0,1,10,48,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Incompletion,,,16.0,84,-0.5586261749267578,False,BYU,North Alabama,0.0,0.0,1,10,53,12,North Alabama,2020,BYU,Zach Wilson,2021
+401209818.0,Pass Reception,,,80.0,20,3.2973296642303467,False,BYU,North Alabama,0.0,0.0,1,12,0,12,North Alabama,2020,BYU,Zach Wilson,2021
+401212551.0,Passing Touchdown,,,18.0,18,4.590800762176514,True,Houston,BYU,36.0,26.0,4,3,6,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,13.0,13,-0.606574535369873,False,Houston,BYU,29.0,26.0,4,3,14,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,13.0,13,-0.5172700881958008,False,Houston,BYU,29.0,26.0,4,3,17,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,33.0,33,1.6289691925048828,False,Houston,BYU,29.0,26.0,4,3,55,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,54.0,54,0.49207472801208496,False,Houston,BYU,29.0,26.0,4,9,1,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Passing Touchdown,,,8.0,8,3.310546398162842,True,Houston,BYU,29.0,26.0,4,10,35,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,23.0,23,0.6812963485717773,False,Houston,BYU,21.0,26.0,4,11,42,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Sack,,,31.0,31,-3.071403980255127,False,Houston,BYU,21.0,26.0,4,13,45,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,31.0,31,-0.8328032493591309,False,Houston,BYU,21.0,26.0,4,14,16,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,44.0,44,0.8484351634979248,False,Houston,BYU,21.0,26.0,3,0,14,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,54.0,54,0.6988840103149414,False,Houston,BYU,21.0,26.0,3,0,27,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Passing Touchdown,,,2.0,2,0.9807510375976562,True,Houston,BYU,21.0,26.0,3,0,53,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,38.0,38,3.48886775970459,False,Houston,BYU,14.0,26.0,3,2,9,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,57.0,57,1.3637287616729736,False,Houston,BYU,14.0,26.0,3,2,28,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,75.0,75,1.5568207502365112,False,Houston,BYU,14.0,26.0,3,3,0,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,50.0,50,-0.41188961267471313,False,Houston,BYU,14.0,20.0,3,10,20,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,46.0,40,0.41188958287239075,False,Houston,BYU,14.0,20.0,3,10,35,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,41.0,41,-0.5034725666046143,False,Houston,BYU,14.0,20.0,3,12,25,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,62.0,62,0.5695854425430298,False,Houston,BYU,14.0,20.0,3,13,33,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,75.0,75,-0.39655831456184387,False,Houston,BYU,14.0,20.0,3,14,55,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,11.0,11,0.42262983322143555,False,Houston,BYU,14.0,17.0,2,1,16,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,11.0,11,-0.689983606338501,False,Houston,BYU,14.0,17.0,2,1,22,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,11.0,11,-0.47261524200439453,False,Houston,BYU,14.0,17.0,2,1,26,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,30.0,30,1.441657304763794,False,Houston,BYU,14.0,17.0,2,1,56,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,43.0,43,0.8617300987243652,False,Houston,BYU,14.0,17.0,2,2,21,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,53.0,53,-0.49419617652893066,False,Houston,BYU,14.0,17.0,2,3,33,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,72.0,72,1.5437440872192383,False,Houston,BYU,14.0,17.0,2,4,6,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,75.0,75,-1.276953101158142,False,Houston,BYU,14.0,10.0,2,8,17,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,75.0,75,-0.6609034538269043,False,Houston,BYU,14.0,10.0,2,8,55,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,50.0,50,-1.3349672555923462,False,Houston,BYU,14.0,3.0,2,13,11,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Incompletion,,,40.0,40,-1.1059192419052124,False,Houston,BYU,14.0,3.0,2,14,6,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Sack,,,31.0,31,-1.7389702796936035,False,Houston,BYU,14.0,3.0,2,14,30,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,76.0,64,0.4009742736816406,False,Houston,BYU,14.0,3.0,1,0,20,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,39.0,39,2.410837411880493,False,Houston,BYU,7.0,3.0,1,6,10,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Pass Reception,,,85.0,85,0.9329692125320435,False,Houston,BYU,7.0,3.0,1,7,41,7,Houston,2020,BYU,Zach Wilson,2021
+401212551.0,Passing Touchdown,,,78.0,78,5.5790510177612305,True,Houston,BYU,7.0,3.0,1,9,34,7,Houston,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,41.0,41,2.0604233741760254,False,Navy,BYU,48.0,3.0,4,9,35,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Incompletion,,,22.0,22,-0.5714466571807861,False,Navy,BYU,45.0,0.0,3,3,53,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,30.0,30,0.5187053680419922,False,Navy,BYU,45.0,0.0,3,5,0,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,50.0,50,0.26577138900756836,False,Navy,BYU,45.0,0.0,3,5,40,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,60.0,60,1.7396903038024902,False,Navy,BYU,38.0,0.0,3,7,35,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Passing Touchdown,,,45.0,45,2.844552993774414,True,Navy,BYU,38.0,0.0,3,13,5,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,78.0,78,1.4205780029296875,False,Navy,BYU,31.0,0.0,3,14,8,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,20.0,20,3.362365961074829,False,Navy,BYU,24.0,0.0,2,0,15,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,33.0,33,0.6259229183197021,False,Navy,BYU,24.0,0.0,2,0,25,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Incompletion,,,36.0,36,-0.44926369190216064,False,Navy,BYU,24.0,0.0,2,1,2,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,50.0,50,1.3348768949508667,False,Navy,BYU,24.0,0.0,2,1,9,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,52.0,52,0.3080710172653198,False,Navy,BYU,24.0,0.0,2,1,55,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,10.0,10,-1.0240983963012695,False,Navy,BYU,21.0,0.0,2,5,30,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,21.0,21,0.02081918716430664,False,Navy,BYU,21.0,0.0,2,8,0,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,48.0,48,-0.20926237106323242,False,Navy,BYU,21.0,0.0,2,11,9,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Passing Touchdown,,,15.0,15,1.0882091522216797,True,Navy,BYU,21.0,0.0,2,13,31,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,78.0,78,0.7763450145721436,False,Navy,BYU,14.0,0.0,1,1,10,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Interception Return,,,74.0,74,-5.920618534088135,False,Navy,BYU,14.0,0.0,1,3,47,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Reception,,,50.0,50,1.0134773254394531,False,Navy,BYU,7.0,0.0,1,7,45,1,Navy,2020,BYU,Zach Wilson,2021
+401234576.0,Pass Incompletion,,,74.0,74,-0.884235680103302,False,Navy,BYU,0.0,0.0,1,12,50,1,Navy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,37.0,63,2.589550256729126,False,BYU,Troy,48.0,7.0,4,2,47,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,60.0,40,-0.012162446975708008,False,BYU,Troy,48.0,7.0,4,5,41,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,74.0,26,0.6425344347953796,False,BYU,Troy,48.0,7.0,4,6,0,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Incompletion,,,3.0,97,-1.734304428100586,False,BYU,Troy,45.0,7.0,4,7,35,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,39.0,61,1.4168226718902588,False,BYU,Troy,45.0,7.0,4,9,33,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,50.0,50,0.19522905349731445,False,BYU,Troy,45.0,7.0,4,11,35,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,56.0,44,2.839982271194458,False,BYU,Troy,38.0,7.0,3,1,10,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,59.0,41,-0.5933411121368408,False,BYU,Troy,38.0,7.0,3,1,32,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,7.0,93,0.5479097366333008,False,BYU,Troy,31.0,7.0,3,4,23,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,64.0,36,0.36971426010131836,False,BYU,Troy,31.0,7.0,3,7,11,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Sack,,,33.0,67,-3.56508469581604,False,BYU,Troy,31.0,7.0,3,10,31,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,37.0,63,-0.2989463806152344,False,BYU,Troy,31.0,7.0,3,10,56,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Incompletion,,,37.0,63,-0.9084446430206299,False,BYU,Troy,31.0,7.0,3,11,20,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,70.0,30,0.6239602565765381,False,BYU,Troy,31.0,7.0,3,12,44,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Passing Touchdown,,,70.0,30,3.6484198570251465,True,BYU,Troy,31.0,7.0,3,14,27,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,25.0,75,-0.20553183555603027,False,BYU,Troy,21.0,7.0,2,0,15,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,49.0,51,0.4673539400100708,False,BYU,Troy,21.0,7.0,2,0,29,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,66.0,34,0.41687506437301636,False,BYU,Troy,21.0,7.0,2,0,40,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,78.0,22,0.2167542576789856,False,BYU,Troy,21.0,7.0,2,0,49,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Passing Touchdown,,,10.0,90,2.536921977996826,True,BYU,Troy,21.0,0.0,2,1,49,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,64.0,36,2.95231294631958,False,BYU,Troy,14.0,0.0,2,2,45,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,76.0,24,0.3946864604949951,False,BYU,Troy,14.0,0.0,2,4,7,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,28.0,72,-3.000011920928955,False,BYU,Troy,14.0,0.0,2,6,43,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,28.0,72,-3.045325756072998,False,BYU,Troy,14.0,0.0,2,6,43,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Incompletion,,,30.0,70,-0.6689639091491699,False,BYU,Troy,14.0,0.0,2,7,19,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Incompletion,,,30.0,70,-0.7197155952453613,False,BYU,Troy,14.0,0.0,2,7,19,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,36.0,64,0.36278653144836426,False,BYU,Troy,14.0,0.0,2,7,54,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,36.0,64,0.2888782024383545,False,BYU,Troy,14.0,0.0,2,7,54,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,42.0,58,2.5889272689819336,False,BYU,Troy,7.0,0.0,2,11,9,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,53.0,47,0.21231496334075928,False,BYU,Troy,7.0,0.0,2,12,10,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Incompletion,,,53.0,47,-0.8473418951034546,False,BYU,Troy,7.0,0.0,2,12,35,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Incompletion,,,53.0,47,-0.5272023677825928,False,BYU,Troy,7.0,0.0,2,12,45,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,29.0,71,1.7749381065368652,False,BYU,Troy,0.0,0.0,1,3,58,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,40.0,60,1.201686143875122,False,BYU,Troy,0.0,0.0,1,4,29,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,64.0,36,1.5248390436172485,False,BYU,Troy,0.0,0.0,1,5,41,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,52.0,48,-1.5323138236999512,False,BYU,Troy,0.0,0.0,1,10,15,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Sack,,,43.0,57,-1.9330137968063354,False,BYU,Troy,0.0,0.0,1,11,20,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Sack,,,43.0,57,-2.154794216156006,False,BYU,Troy,0.0,0.0,1,11,20,4,Troy,2020,BYU,Zach Wilson,2021
+401236223.0,Pass Reception,,,87.0,13,1.6372414827346802,False,BYU,Troy,0.0,0.0,1,11,50,4,Troy,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,31.0,31,-0.0016732215881347656,False,Coastal Carolina,BYU,17.0,22.0,4,0,7,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,18.0,18,3.0543622970581055,False,Coastal Carolina,BYU,17.0,22.0,4,0,7,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,91.0,91,-0.12709620594978333,False,Coastal Carolina,BYU,17.0,22.0,4,0,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,91.0,91,1.1742075681686401,False,Coastal Carolina,BYU,17.0,22.0,4,0,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,58.0,58,0.47547733783721924,False,Coastal Carolina,BYU,17.0,22.0,4,0,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,46.0,46,1.353044867515564,False,Coastal Carolina,BYU,17.0,22.0,4,0,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,31.0,31,-0.2663235664367676,False,Coastal Carolina,BYU,17.0,22.0,4,0,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,58.0,58,-0.32846689224243164,False,Coastal Carolina,BYU,17.0,22.0,4,6,54,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,61.0,61,0.9337300062179565,False,Coastal Carolina,BYU,17.0,22.0,4,11,27,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,54.0,54,-0.5351290702819824,False,Coastal Carolina,BYU,17.0,22.0,4,11,27,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,54.0,54,-2.4463722705841064,False,Coastal Carolina,BYU,17.0,22.0,4,11,27,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,50.0,50,-1.2540209293365479,False,Coastal Carolina,BYU,17.0,16.0,3,3,26,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,75.0,75,-0.5964047908782959,False,Coastal Carolina,BYU,17.0,16.0,3,6,32,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,58.0,58,-0.6261897087097168,False,Coastal Carolina,BYU,17.0,16.0,3,6,32,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,56.0,56,2.586493730545044,False,Coastal Carolina,BYU,17.0,16.0,3,6,32,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,40.0,40,-0.6101326942443848,False,Coastal Carolina,BYU,17.0,16.0,3,6,32,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Sack,,,38.0,38,-2.3313121795654297,False,Coastal Carolina,BYU,17.0,16.0,3,6,32,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,68.0,68,-0.8833291530609131,False,Coastal Carolina,BYU,14.0,13.0,3,14,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,41.0,41,1.1483476161956787,False,Coastal Carolina,BYU,14.0,13.0,3,14,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,18.0,18,0.0850534439086914,False,Coastal Carolina,BYU,14.0,13.0,3,14,55,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Interception Return,,,53.0,53,-0.7489538192749023,False,Coastal Carolina,BYU,14.0,13.0,2,0,7,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,74.0,74,-0.10052624344825745,False,Coastal Carolina,BYU,14.0,13.0,2,0,38,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,74.0,74,0.8937257528305054,False,Coastal Carolina,BYU,14.0,13.0,2,0,38,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,53.0,53,-0.10637766122817993,False,Coastal Carolina,BYU,14.0,13.0,2,0,38,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Passing Touchdown,,,41.0,41,5.055804252624512,True,Coastal Carolina,BYU,14.0,13.0,2,1,45,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,94.0,94,0.8979812264442444,False,Coastal Carolina,BYU,7.0,13.0,2,3,52,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,76.0,76,0.09782320261001587,False,Coastal Carolina,BYU,7.0,13.0,2,3,52,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,63.0,63,0.056540608406066895,False,Coastal Carolina,BYU,7.0,13.0,2,3,52,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,49.0,49,-3.8469886779785156,False,Coastal Carolina,BYU,7.0,6.0,2,11,51,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Reception,,,64.0,64,0.8043334484100342,False,Coastal Carolina,BYU,0.0,6.0,2,15,0,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,89.0,89,-0.9518693089485168,False,Coastal Carolina,BYU,0.0,0.0,1,12,37,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,71.0,71,-0.8335106372833252,False,Coastal Carolina,BYU,0.0,0.0,1,12,37,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401237514.0,Pass Incompletion,,,57.0,57,-0.6463738679885864,False,Coastal Carolina,BYU,0.0,0.0,1,12,37,14,Coastal Carolina,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,28.0,72,-0.18782269954681396,False,BYU,Western Kentucky,38.0,10.0,4,1,8,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,23.0,77,0.480393648147583,False,BYU,Western Kentucky,38.0,10.0,4,1,58,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,38.0,62,0.11749672889709473,False,BYU,Western Kentucky,38.0,10.0,4,3,51,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,58.0,42,-0.41965341567993164,False,BYU,Western Kentucky,38.0,10.0,4,5,1,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,67.0,33,-1.1991100311279297,False,BYU,Western Kentucky,38.0,10.0,4,8,1,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,37.0,63,-1.5265932083129883,False,BYU,Western Kentucky,35.0,10.0,3,0,16,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,61.0,49,-0.2801027297973633,False,BYU,Western Kentucky,35.0,10.0,3,1,56,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,61.0,39,-0.8697357177734375,False,BYU,Western Kentucky,35.0,10.0,3,2,3,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,75.0,25,0.3190491199493408,False,BYU,Western Kentucky,35.0,10.0,3,3,8,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Interception Return,,,88.0,12,-8.939356803894043,False,BYU,Western Kentucky,35.0,3.0,3,3,13,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Passing Touchdown,,,4.0,96,3.0907328128814697,True,BYU,Western Kentucky,35.0,3.0,2,0,16,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,17.0,83,1.410212755203247,False,BYU,Western Kentucky,28.0,3.0,2,1,26,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,25.0,75,0.5442473888397217,False,BYU,Western Kentucky,28.0,3.0,2,2,21,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,35.0,65,0.6795651912689209,False,BYU,Western Kentucky,28.0,3.0,2,2,42,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,75.0,25,-0.7685606479644775,False,BYU,Western Kentucky,28.0,3.0,2,3,4,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,75.0,25,-0.4753516614437103,False,BYU,Western Kentucky,28.0,3.0,2,3,15,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,88.0,12,-0.40495336055755615,False,BYU,Western Kentucky,28.0,3.0,2,4,35,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Passing Touchdown,,,42.0,58,3.6203651428222656,True,BYU,Western Kentucky,28.0,3.0,2,7,44,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,70.0,30,-1.2925995588302612,False,BYU,Western Kentucky,21.0,3.0,2,8,44,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,82.0,18,1.0105024576187134,False,BYU,Western Kentucky,21.0,3.0,2,9,22,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,23.0,77,-0.6048312187194824,False,BYU,Western Kentucky,14.0,3.0,2,14,2,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,30.0,70,1.7163221836090088,False,BYU,Western Kentucky,14.0,3.0,2,14,27,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,39.0,61,0.40302467346191406,False,BYU,Western Kentucky,14.0,3.0,1,0,0,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,39.0,61,-0.6920175552368164,False,BYU,Western Kentucky,14.0,3.0,1,0,11,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Passing Touchdown,,,23.0,77,2.1243457794189453,True,BYU,Western Kentucky,14.0,3.0,1,0,22,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,55.0,45,-0.8138487339019775,False,BYU,Western Kentucky,7.0,3.0,1,1,9,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,64.0,36,0.7591674327850342,False,BYU,Western Kentucky,7.0,3.0,1,1,32,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,75.0,25,1.0116946697235107,False,BYU,Western Kentucky,7.0,3.0,1,2,23,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,41.0,59,4.255575180053711,False,BYU,Western Kentucky,0.0,0.0,1,11,49,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Incompletion,,,44.0,56,-0.6482391357421875,False,BYU,Western Kentucky,0.0,0.0,1,12,18,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,53.0,47,0.6011168956756592,False,BYU,Western Kentucky,0.0,0.0,1,14,2,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,56.0,44,-0.4556910991668701,False,BYU,Western Kentucky,0.0,0.0,1,14,36,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401239887.0,Pass Reception,,,75.0,25,1.425089716911316,False,BYU,Western Kentucky,0.0,0.0,1,14,59,9,Western Kentucky,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,49.0,51,2.5742745399475098,False,BYU,UTSA,21.0,13.0,4,5,55,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,68.0,34,0.5854651927947998,False,BYU,UTSA,21.0,13.0,4,7,11,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,78.0,22,1.1327277421951294,False,BYU,UTSA,21.0,13.0,4,7,55,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,73.0,27,-1.3939361572265625,False,BYU,UTSA,21.0,13.0,4,13,7,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,72.0,28,2.8613665103912354,False,BYU,UTSA,14.0,6.0,3,2,55,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,86.0,14,2.0243024826049805,False,BYU,UTSA,14.0,6.0,3,3,30,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,75.0,25,-1.3861846923828125,False,BYU,UTSA,14.0,6.0,3,9,35,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,78.0,22,-0.6899737119674683,False,BYU,UTSA,14.0,6.0,3,10,20,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,64.0,36,-0.6909574270248413,False,BYU,UTSA,14.0,3.0,2,1,35,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,71.0,29,-0.21333324909210205,False,BYU,UTSA,14.0,3.0,2,1,40,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,71.0,29,-0.5800705552101135,False,BYU,UTSA,14.0,3.0,2,1,56,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Passing Touchdown,,,11.0,89,2.738163948059082,True,BYU,UTSA,14.0,3.0,2,4,44,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,26.0,74,1.016148567199707,False,BYU,UTSA,7.0,3.0,2,6,0,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,52.0,48,-0.9869115352630615,False,BYU,UTSA,7.0,3.0,2,9,26,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,60.0,40,-0.5487308502197266,False,BYU,UTSA,7.0,3.0,2,11,33,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Passing Touchdown,,,4.0,96,4.024148941040039,True,BYU,UTSA,7.0,3.0,2,13,41,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,10.0,90,-0.816009521484375,False,BYU,UTSA,0.0,3.0,2,14,30,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,48.0,52,0.3384932279586792,False,BYU,UTSA,0.0,3.0,1,2,0,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,53.0,47,-0.26070451736450195,False,BYU,UTSA,0.0,3.0,1,2,45,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,75.0,25,1.3320883512496948,False,BYU,UTSA,0.0,3.0,1,4,40,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,40.0,60,-2.3622868061065674,False,BYU,UTSA,0.0,0.0,1,7,49,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,47.0,53,-0.5787556171417236,False,BYU,UTSA,0.0,0.0,1,8,30,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Incompletion,,,44.0,56,-0.6829288005828857,False,BYU,UTSA,0.0,0.0,1,9,13,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,63.0,37,1.1672801971435547,False,BYU,UTSA,0.0,0.0,1,9,50,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,82.0,18,0.9276049137115479,False,BYU,UTSA,0.0,0.0,1,10,30,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Fumble Recovery (Opponent),,,20.0,80,-4.784389019012451,False,BYU,UTSA,0.0,0.0,1,13,31,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,55.0,45,2.178027868270874,False,BYU,UTSA,0.0,0.0,1,14,15,6,UTSA,2020,BYU,Zach Wilson,2021
+401240997.0,Pass Reception,,,72.0,28,-1.3783704042434692,False,BYU,UTSA,0.0,0.0,1,14,45,6,UTSA,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,50.0,50,-0.22328126430511475,False,BYU,Texas State,52.0,14.0,4,2,28,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,11.0,89,-1.177253246307373,False,BYU,Texas State,49.0,14.0,4,4,49,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,75.0,25,-0.3449054956436157,False,BYU,Texas State,49.0,14.0,4,8,2,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,66.0,34,-0.5375288724899292,False,BYU,Texas State,49.0,7.0,4,12,50,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,62.0,38,-0.7573225498199463,False,BYU,Texas State,49.0,7.0,4,13,50,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,66.0,34,0.22734522819519043,False,BYU,Texas State,49.0,7.0,3,0,1,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Interception Return,,,52.0,48,-4.370241165161133,False,BYU,Texas State,49.0,7.0,3,3,7,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,70.0,30,1.8057940006256104,False,BYU,Texas State,49.0,7.0,3,4,0,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,74.0,26,-0.49815821647644043,False,BYU,Texas State,49.0,7.0,3,4,42,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,87.0,13,1.1683080196380615,False,BYU,Texas State,49.0,7.0,3,4,50,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Passing Touchdown,,,30.0,70,2.1003174781799316,True,BYU,Texas State,42.0,7.0,3,10,47,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,45.0,55,-0.5150680541992188,False,BYU,Texas State,35.0,7.0,3,13,0,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,75.0,25,-0.4039578437805176,False,BYU,Texas State,35.0,7.0,3,14,55,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Passing Touchdown,,,45.0,55,5.780778884887695,True,BYU,Texas State,35.0,7.0,2,0,27,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,70.0,30,0.8715082406997681,False,BYU,Texas State,28.0,7.0,2,0,40,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,76.0,24,0.031583964824676514,False,BYU,Texas State,28.0,7.0,2,0,58,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Passing Touchdown,,,3.0,97,0.670353889465332,True,BYU,Texas State,28.0,7.0,2,7,47,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,9.0,91,-0.9437785148620605,False,BYU,Texas State,21.0,7.0,2,8,35,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,29.0,71,0.6247878074645996,False,BYU,Texas State,21.0,7.0,2,9,29,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,49.0,51,-0.30227231979370117,False,BYU,Texas State,21.0,7.0,2,10,2,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,46.0,54,-1.1235969066619873,False,BYU,Texas State,21.0,7.0,2,10,32,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,57.0,43,0.5556082725524902,False,BYU,Texas State,21.0,7.0,2,10,45,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,71.0,29,-0.5917844772338867,False,BYU,Texas State,21.0,7.0,2,11,37,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,27.0,73,0.585139274597168,False,BYU,Texas State,14.0,7.0,2,12,40,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,33.0,67,0.9763932228088379,False,BYU,Texas State,14.0,7.0,2,13,25,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,60.0,40,0.9976720809936523,False,BYU,Texas State,14.0,7.0,1,0,1,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Passing Touchdown,,,33.0,67,4.773261070251465,True,BYU,Texas State,14.0,7.0,1,1,43,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Incompletion,,,33.0,67,-2.1364259719848633,False,BYU,Texas State,7.0,7.0,1,1,51,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,40.0,60,0.3341197967529297,False,BYU,Texas State,7.0,7.0,1,1,55,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,81.0,19,2.3958029747009277,False,BYU,Texas State,7.0,7.0,1,2,55,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,5.0,95,-0.5339255332946777,False,BYU,Texas State,0.0,7.0,1,7,20,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,24.0,76,1.3323731422424316,False,BYU,Texas State,0.0,7.0,1,8,40,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,49.0,51,1.4664008617401123,False,BYU,Texas State,0.0,7.0,1,10,6,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,71.0,29,1.4231094121932983,False,BYU,Texas State,0.0,7.0,1,10,15,8,Texas State,2020,BYU,Zach Wilson,2021
+401240998.0,Pass Reception,,,82.0,18,1.312604308128357,False,BYU,Texas State,0.0,7.0,1,10,33,8,Texas State,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,47.0,53,0.8231291770935059,False,BYU,Louisiana Tech,38.0,7.0,3,1,0,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,59.0,41,0.5021026134490967,False,BYU,Louisiana Tech,38.0,7.0,3,1,40,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Incompletion,,,28.0,72,-1.3278932571411133,False,BYU,Louisiana Tech,35.0,7.0,3,7,23,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,33.0,67,-0.12023591995239258,False,BYU,Louisiana Tech,35.0,7.0,3,7,45,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,42.0,58,0.45044517517089844,False,BYU,Louisiana Tech,28.0,7.0,3,13,15,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,57.0,43,0.7435908317565918,False,BYU,Louisiana Tech,28.0,7.0,3,14,15,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,75.0,25,-3.3078958988189697,False,BYU,Louisiana Tech,28.0,7.0,3,14,45,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Passing Touchdown,,,22.0,78,3.37273907661438,True,BYU,Louisiana Tech,28.0,7.0,2,0,59,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,41.0,59,1.2230558395385742,False,BYU,Louisiana Tech,21.0,7.0,2,1,5,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,54.0,46,0.2842433452606201,False,BYU,Louisiana Tech,21.0,7.0,2,1,13,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,65.0,35,0.2933896780014038,False,BYU,Louisiana Tech,21.0,7.0,2,1,25,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,23.0,77,2.241434097290039,False,BYU,Louisiana Tech,14.0,7.0,2,5,13,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,42.0,58,1.9530205726623535,False,BYU,Louisiana Tech,14.0,7.0,2,6,10,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Incompletion,,,47.0,53,-0.506521463394165,False,BYU,Louisiana Tech,14.0,7.0,2,6,38,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,55.0,45,1.7958658933639526,False,BYU,Louisiana Tech,14.0,7.0,2,7,25,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,59.0,41,-0.22690141201019287,False,BYU,Louisiana Tech,14.0,7.0,2,7,55,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Passing Touchdown,,,22.0,78,2.1439061164855957,True,BYU,Louisiana Tech,14.0,7.0,2,10,34,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,58.0,42,-0.060263872146606445,False,BYU,Louisiana Tech,7.0,7.0,2,13,15,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,83.0,17,-0.32236409187316895,False,BYU,Louisiana Tech,7.0,7.0,1,0,35,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,88.0,12,-0.5130165219306946,False,BYU,Louisiana Tech,7.0,7.0,1,1,15,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,51.0,49,0.3479447364807129,False,BYU,Louisiana Tech,7.0,7.0,1,4,5,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,52.0,48,-0.6309013366699219,False,BYU,Louisiana Tech,7.0,7.0,1,5,20,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,65.0,35,0.5610918998718262,False,BYU,Louisiana Tech,7.0,7.0,1,6,25,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,48.0,52,1.6205852031707764,False,BYU,Louisiana Tech,0.0,0.0,1,10,40,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,64.0,36,1.164564609527588,False,BYU,Louisiana Tech,0.0,0.0,1,11,20,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401246275.0,Pass Reception,,,78.0,22,0.7658853530883789,False,BYU,Louisiana Tech,0.0,0.0,1,12,50,5,Louisiana Tech,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,44.0,44,3.9440813064575195,False,Boise State,BYU,45.0,17.0,4,8,40,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Passing Touchdown,,,1.0,1,0.9664053916931152,True,Boise State,BYU,45.0,3.0,4,11,27,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,16.0,16,1.6974363327026367,False,Boise State,BYU,38.0,3.0,4,12,32,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,60.0,60,0.6994376182556152,False,Boise State,BYU,31.0,3.0,3,2,59,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Passing Touchdown,,,20.0,20,2.596348285675049,True,Boise State,BYU,31.0,3.0,3,6,57,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,25.0,25,2.1944327354431152,False,Boise State,BYU,23.0,3.0,3,7,35,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Incompletion,,,33.0,33,-0.5511350631713867,False,Boise State,BYU,23.0,3.0,3,8,52,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,72.0,72,1.7399344444274902,False,Boise State,BYU,23.0,3.0,3,9,10,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Passing Touchdown,,,5.0,5,0.9473028182983398,True,Boise State,BYU,23.0,3.0,3,12,48,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,43.0,43,1.7656683921813965,False,Boise State,BYU,16.0,3.0,3,13,16,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,81.0,81,3.008359432220459,False,Boise State,BYU,16.0,3.0,3,13,27,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,87.0,87,0.12572574615478516,False,Boise State,BYU,16.0,3.0,3,14,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,30.0,30,-1.232024073600769,False,Boise State,BYU,16.0,3.0,2,0,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,46.0,46,1.1215426921844482,False,Boise State,BYU,16.0,3.0,2,0,25,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Incompletion,,,46.0,46,-0.3011571764945984,False,Boise State,BYU,16.0,3.0,2,0,32,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Sack,,,35.0,35,-1.336268663406372,False,Boise State,BYU,16.0,3.0,2,0,38,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,47.0,47,0.631352424621582,False,Boise State,BYU,10.0,3.0,2,1,35,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,66.0,62,-0.631352424621582,False,Boise State,BYU,10.0,3.0,2,1,45,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,96.0,96,0.5733829736709595,False,Boise State,BYU,10.0,3.0,2,2,20,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Sack,,,33.0,33,-3.150296211242676,False,Boise State,BYU,10.0,3.0,2,4,30,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,42.0,42,0.04251980781555176,False,Boise State,BYU,10.0,3.0,2,5,35,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Sack,,,39.0,39,-1.3732881546020508,False,Boise State,BYU,10.0,3.0,2,6,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,56.0,56,-1.2855024337768555,False,Boise State,BYU,10.0,3.0,2,12,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Incompletion,,,30.0,30,-1.7525066137313843,False,Boise State,BYU,7.0,3.0,1,0,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,44.0,44,0.6886591911315918,False,Boise State,BYU,7.0,3.0,1,1,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,66.0,66,0.5204758644104004,False,Boise State,BYU,7.0,3.0,1,2,40,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,80.0,80,2.561138391494751,False,Boise State,BYU,7.0,3.0,1,2,52,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Incompletion,,,82.0,82,-0.6647300124168396,False,Boise State,BYU,7.0,3.0,1,3,20,10,Boise State,2020,BYU,Zach Wilson,2021
+401249005.0,Pass Reception,,,95.0,95,-0.23048454523086548,False,Boise State,BYU,0.0,0.0,1,12,0,10,Boise State,2020,BYU,Zach Wilson,2021
+401249435.0,Passing Touchdown,,,20.0,80,3.0452728271484375,True,BYU,San Diego State,28.0,14.0,4,10,53,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,34.0,66,1.9831151962280273,False,BYU,San Diego State,20.0,14.0,4,11,34,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,71.0,29,3.3903043270111084,False,BYU,San Diego State,20.0,14.0,4,12,56,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,74.0,26,-0.43662822246551514,False,BYU,San Diego State,20.0,14.0,4,13,33,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,18.0,82,-0.3397190570831299,False,BYU,San Diego State,17.0,14.0,3,6,29,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,34.0,66,2.196604013442993,False,BYU,San Diego State,17.0,14.0,3,7,47,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,39.0,61,-0.16037797927856445,False,BYU,San Diego State,17.0,14.0,3,9,2,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,52.0,48,0.4071536064147949,False,BYU,San Diego State,17.0,14.0,3,10,6,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,63.0,37,0.6155169010162354,False,BYU,San Diego State,17.0,14.0,3,10,39,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,91.0,9,3.652238368988037,False,BYU,San Diego State,17.0,14.0,3,11,18,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Sack,,,92.0,8,-1.1355196237564087,False,BYU,San Diego State,17.0,14.0,3,12,34,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,33.0,67,-1.858847737312317,False,BYU,San Diego State,14.0,14.0,2,0,9,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,42.0,58,1.085920810699463,False,BYU,San Diego State,14.0,14.0,2,0,17,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,56.0,44,1.106398344039917,False,BYU,San Diego State,14.0,14.0,2,0,38,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,71.0,29,0.8683488368988037,False,BYU,San Diego State,14.0,14.0,2,1,1,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,73.0,27,-0.2966339588165283,False,BYU,San Diego State,14.0,14.0,2,1,13,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,65.0,35,-1.4235994815826416,False,BYU,San Diego State,14.0,14.0,2,2,14,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,74.0,26,0.32628196477890015,False,BYU,San Diego State,14.0,14.0,2,2,57,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Sack,,,65.0,35,-1.3998507261276245,False,BYU,San Diego State,14.0,14.0,2,3,36,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,76.0,24,1.426037311553955,False,BYU,San Diego State,14.0,14.0,2,3,59,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,88.0,12,0.8067361116409302,False,BYU,San Diego State,14.0,14.0,2,4,43,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Passing Touchdown,,,2.0,98,0.7637896537780762,True,BYU,San Diego State,14.0,14.0,2,8,34,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,52.0,48,0.6765732765197754,False,BYU,San Diego State,7.0,14.0,2,10,33,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,60.0,40,-1.4720516204833984,False,BYU,San Diego State,7.0,14.0,1,2,25,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,60.0,40,-0.8500418663024902,False,BYU,San Diego State,7.0,14.0,1,2,29,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,60.0,40,-0.5867811441421509,False,BYU,San Diego State,7.0,14.0,1,2,34,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,75.0,25,0.4250431954860687,False,BYU,San Diego State,7.0,14.0,1,3,7,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Fumble Recovery (Opponent),,,75.0,25,-5.104388236999512,False,BYU,San Diego State,7.0,7.0,1,5,50,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Passing Touchdown,,,5.0,95,2.4942359924316406,True,BYU,San Diego State,7.0,0.0,1,10,56,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,10.0,90,-0.5887041091918945,False,BYU,San Diego State,0.0,0.0,1,11,41,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,31.0,69,1.0433311462402344,False,BYU,San Diego State,0.0,0.0,1,12,12,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Incompletion,,,38.0,62,-1.026548147201538,False,BYU,San Diego State,0.0,0.0,1,12,49,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,43.0,57,0.06913566589355469,False,BYU,San Diego State,0.0,0.0,1,13,21,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,57.0,43,1.0098366737365723,False,BYU,San Diego State,0.0,0.0,1,14,36,15,San Diego State,2020,BYU,Zach Wilson,2021
+401249435.0,Pass Reception,,,75.0,25,-0.937023401260376,False,BYU,San Diego State,0.0,0.0,1,14,55,15,San Diego State,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,20.0,80,3.014281749725342,False,BYU,UCF,49.0,23.0,4,2,5,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,20.0,80,-0.5532619953155518,False,BYU,UCF,49.0,23.0,4,2,11,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,47.0,53,0.43525755405426025,False,BYU,UCF,49.0,23.0,4,4,50,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,58.0,42,0.20805931091308594,False,BYU,UCF,49.0,23.0,4,6,57,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,65.0,35,-1.124237060546875,False,BYU,UCF,49.0,17.0,4,13,12,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,74.0,26,-0.3416461944580078,False,BYU,UCF,49.0,17.0,4,13,45,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Sack,,,60.0,40,-1.6690475940704346,False,BYU,UCF,49.0,17.0,4,14,34,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,38.0,62,-0.7766822576522827,False,BYU,UCF,49.0,10.0,3,3,3,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,41.0,59,-0.8816418647766113,False,BYU,UCF,49.0,10.0,3,3,54,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,52.0,48,0.46181535720825195,False,BYU,UCF,49.0,10.0,3,5,27,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,55.0,45,0.19133853912353516,False,BYU,UCF,42.0,10.0,3,11,45,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,70.0,30,2.0814619064331055,False,BYU,UCF,42.0,10.0,3,12,8,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,50.0,50,0.3134169578552246,False,BYU,UCF,35.0,10.0,3,13,49,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Passing Touchdown,,,35.0,65,4.057445526123047,True,BYU,UCF,35.0,7.0,2,3,31,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,65.0,35,1.817934513092041,False,BYU,UCF,28.0,7.0,2,3,51,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,73.0,27,0.030050039291381836,False,BYU,UCF,28.0,7.0,2,4,29,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,81.0,19,1.2466353178024292,False,BYU,UCF,28.0,7.0,2,5,5,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Passing Touchdown,,,27.0,73,2.56846284866333,True,BYU,UCF,28.0,7.0,2,7,11,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,49.0,51,3.046267032623291,False,BYU,UCF,21.0,7.0,2,7,56,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,44.0,56,-0.6114060878753662,False,BYU,UCF,21.0,7.0,2,9,24,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,27.0,73,0.6994452476501465,False,BYU,UCF,14.0,0.0,1,1,27,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,76.0,58,-0.6994452476501465,False,BYU,UCF,14.0,0.0,1,1,53,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,38.0,62,-2.4863405227661133,False,BYU,UCF,14.0,0.0,1,4,42,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,49.0,51,0.1236351728439331,False,BYU,UCF,14.0,0.0,1,5,0,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,61.0,39,0.8704109191894531,False,BYU,UCF,14.0,0.0,1,6,39,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,74.0,26,2.196908950805664,False,BYU,UCF,14.0,0.0,1,7,11,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,76.0,24,-0.6004184484481812,False,BYU,UCF,14.0,0.0,1,7,56,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,86.0,14,1.9413936138153076,False,BYU,UCF,14.0,0.0,1,8,13,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,88.0,12,-0.9917731285095215,False,BYU,UCF,14.0,0.0,1,9,27,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Passing Touchdown,,,36.0,64,2.8316831588745117,True,BYU,UCF,14.0,0.0,1,11,10,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,60.0,40,0.9040088653564453,False,BYU,UCF,7.0,0.0,1,12,0,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,72.0,28,0.7486035823822021,False,BYU,UCF,7.0,0.0,1,12,15,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Incompletion,,,15.0,85,-0.8455443382263184,False,BYU,UCF,0.0,0.0,1,13,20,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,58.0,42,2.6494786739349365,False,BYU,UCF,0.0,0.0,1,13,53,1,UCF,2020,BYU,Zach Wilson,2021
+401256137.0,Pass Reception,,,87.0,13,0.4945290684700012,False,BYU,UCF,0.0,0.0,1,14,43,1,UCF,2020,BYU,Zach Wilson,2021

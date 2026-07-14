@@ -1,0 +1,449 @@
+{
+  "beta_epa_per_defense_point": 0.009411848258388164,
+  "beta_se": 0.0018296596306579406,
+  "gamma_success_per_defense_point": 0.004112675591614912,
+  "gamma_se": 0.0005356901552869591,
+  "beta_n_plays": 19581,
+  "unmatched_colleges": [
+    [
+      "Rhett Bomar",
+      "Sam Houston State"
+    ],
+    [
+      "Jimmy Garoppolo",
+      "Eastern Illinois"
+    ],
+    [
+      "Carson Wentz",
+      "North Dakota St."
+    ],
+    [
+      "Kyle Lauletta",
+      "Richmond"
+    ],
+    [
+      "Adam Urena",
+      "Mercyhurst"
+    ],
+    [
+      "Aidan Bouman",
+      "South Dakota"
+    ],
+    [
+      "Aidan Sayin",
+      "Pennsylvania"
+    ],
+    [
+      "Amari Odom",
+      "Wofford"
+    ],
+    [
+      "Anthony Chiccitt",
+      "Robert Morris"
+    ],
+    [
+      "Austin Smith",
+      "Austin Peay"
+    ],
+    [
+      "Ayden Pereira",
+      "Merrimack"
+    ],
+    [
+      "Beau Brungard",
+      "Youngstown State"
+    ],
+    [
+      "Blaine Hipa",
+      "Princeton"
+    ],
+    [
+      "Brady Meitz",
+      "Stetson"
+    ],
+    [
+      "Brady Olson",
+      "Central Connecticut"
+    ],
+    [
+      "Cam Miller",
+      "North Dakota State"
+    ],
+    [
+      "Camden Coleman",
+      "Richmond"
+    ],
+    [
+      "Caron Tyler",
+      "Valparaiso"
+    ],
+    [
+      "Carson Conklin",
+      "Sacramento State"
+    ],
+    [
+      "Carter Cravens",
+      "Morehead State"
+    ],
+    [
+      "Carter Peevy",
+      "Maine"
+    ],
+    [
+      "Chad Mascoe II",
+      "Campbell"
+    ],
+    [
+      "Chase Artopoeus",
+      "Chattanooga"
+    ],
+    [
+      "Christopher Zellous",
+      "Hampton"
+    ],
+    [
+      "Cole Gonzales",
+      "Western Carolina"
+    ],
+    [
+      "Collin Hurst",
+      "Presbyterian"
+    ],
+    [
+      "Connor Watkins",
+      "Villanova"
+    ],
+    [
+      "Danny Lauter",
+      "Georgetown"
+    ],
+    [
+      "Dante Chachere",
+      "Portland State"
+    ],
+    [
+      "Darius Perrantes",
+      "Duquesne"
+    ],
+    [
+      "Darius Wilson",
+      "William & Mary"
+    ],
+    [
+      "Davin Wydner",
+      "West Georgia"
+    ],
+    [
+      "Dean DeNobile",
+      "Lafayette"
+    ],
+    [
+      "Derek Robertson",
+      "Monmouth"
+    ],
+    [
+      "Devin Farrell",
+      "Rhode Island"
+    ],
+    [
+      "Draylen Ellis",
+      "Tennessee State"
+    ],
+    [
+      "Drew VanVleet",
+      "Dayton"
+    ],
+    [
+      "Eli Sawyer",
+      "SE Louisiana"
+    ],
+    [
+      "Elijah Owens",
+      "Indiana State"
+    ],
+    [
+      "Grant Jordan",
+      "Yale"
+    ],
+    [
+      "Grant Sergent",
+      "San Diego"
+    ],
+    [
+      "Hayden Johnson",
+      "Lehigh"
+    ],
+    [
+      "Hunter Helms",
+      "Rhode Island"
+    ],
+    [
+      "JT Fayard",
+      "Northwestern State"
+    ],
+    [
+      "Ja'Shawn Scroggins",
+      "Howard"
+    ],
+    [
+      "JaCobian Morgan",
+      "Jackson State"
+    ],
+    [
+      "Jack Capaldi",
+      "Fordham"
+    ],
+    [
+      "Jackson Berry",
+      "Southern Utah"
+    ],
+    [
+      "Jackson Proctor",
+      "Dartmouth"
+    ],
+    [
+      "Jaden Craig",
+      "Harvard"
+    ],
+    [
+      "Jaden Johnson",
+      "Prairie View A&M"
+    ],
+    [
+      "Jake Stearney",
+      "Colgate"
+    ],
+    [
+      "Jake Willcox",
+      "Brown"
+    ],
+    [
+      "Jameson Wang",
+      "Cornell"
+    ],
+    [
+      "Jarrett Guest",
+      "Bryant"
+    ],
+    [
+      "Jaylen King",
+      "East Tennessee State"
+    ],
+    [
+      "Joe Pesansky",
+      "Holy Cross"
+    ],
+    [
+      "John Michalski",
+      "Sacred Heart"
+    ],
+    [
+      "Johnathan Bennett",
+      "The Citadel"
+    ],
+    [
+      "Jordyn Potts",
+      "Tennessee Tech"
+    ],
+    [
+      "Justin Fomby",
+      "North Carolina A&T"
+    ],
+    [
+      "Keali'i Ah Yat",
+      "Montana"
+    ],
+    [
+      "Kekoa Visperas",
+      "Eastern Washington"
+    ],
+    [
+      "Kia'i Keone",
+      "Northern Colorado"
+    ],
+    [
+      "Kinkead Dent",
+      "UT Martin"
+    ],
+    [
+      "Kobe Tracy",
+      "Idaho State"
+    ],
+    [
+      "Logan Fife",
+      "Montana"
+    ],
+    [
+      "Luke Bailey",
+      "Drake"
+    ],
+    [
+      "Mark Gronowski",
+      "South Dakota State"
+    ],
+    [
+      "Marqui Adams",
+      "Delaware State"
+    ],
+    [
+      "Matt Morrissey",
+      "Eastern Kentucky"
+    ],
+    [
+      "Matthew Downing",
+      "Elon"
+    ],
+    [
+      "Matthew Schecklman",
+      "Northern Iowa"
+    ],
+    [
+      "Maverick McIvor",
+      "Abilene Christian"
+    ],
+    [
+      "Mekhi Hagens",
+      "Arkansas-Pine Bluff"
+    ],
+    [
+      "Miles Hastings",
+      "UC Davis"
+    ],
+    [
+      "Myles Burkett",
+      "UAlbany"
+    ],
+    [
+      "Myles Crawley",
+      "Grambling"
+    ],
+    [
+      "Nate Glantz",
+      "Lindenwood"
+    ],
+    [
+      "Nate Lamb",
+      "Western Illinois"
+    ],
+    [
+      "Noah Bodden",
+      "Southern"
+    ],
+    [
+      "Pat McQuaide",
+      "Nicholls"
+    ],
+    [
+      "Paxton DeLaurent",
+      "Southeast Missouri State"
+    ],
+    [
+      "Pierce Holley",
+      "Eastern Illinois"
+    ],
+    [
+      "Quincy Crittendon",
+      "Samford"
+    ],
+    [
+      "Ralph Rucker",
+      "Bucknell"
+    ],
+    [
+      "Reagan Andrew",
+      "Butler"
+    ],
+    [
+      "Reggie Graff",
+      "Utah Tech"
+    ],
+    [
+      "Richie Munoz",
+      "Weber State"
+    ],
+    [
+      "Robert Coleman",
+      "Lamar"
+    ],
+    [
+      "Ron Peace",
+      "East Texas A&M"
+    ],
+    [
+      "Sam Vidlak",
+      "Stephen F. Austin"
+    ],
+    [
+      "Sean Brown",
+      "Towson"
+    ],
+    [
+      "Seth Morgan",
+      "New Hampshire"
+    ],
+    [
+      "Simon Romfo",
+      "North Dakota"
+    ],
+    [
+      "Sonny Mannino",
+      "Marist"
+    ],
+    [
+      "Tak Tateoka",
+      "St. Thomas (MN)"
+    ],
+    [
+      "Taron Dickens",
+      "Western Carolina"
+    ],
+    [
+      "Tommy Mellott",
+      "Montana State"
+    ],
+    [
+      "Tommy Rittenhouse",
+      "Illinois State"
+    ],
+    [
+      "Trey Hedden",
+      "Furman"
+    ],
+    [
+      "Ty Pennington",
+      "Northern Arizona"
+    ],
+    [
+      "Ty'Jarian Williams",
+      "Mississippi Valley State"
+    ],
+    [
+      "Tyler Knoop",
+      "Stony Brook"
+    ],
+    [
+      "Victor Gabalis",
+      "Tarleton State"
+    ],
+    [
+      "Walker Harris",
+      "North Carolina Central"
+    ],
+    [
+      "Whitt Newbauer",
+      "Mercer"
+    ],
+    [
+      "Will McElvain",
+      "Central Arkansas"
+    ],
+    [
+      "Xaiver Lankford",
+      "Alabama A&M"
+    ],
+    [
+      "Zach Calzada",
+      "Incarnate Word"
+    ]
+  ]
+}

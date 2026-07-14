@@ -1,0 +1,470 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400548258101849905,Pass Incompletion,2,33,88,12,-0.01329244642739713,False,Oregon State,Portland State,0,0,1,15,0,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101888006,Pass Incompletion,3,3,3,97,-0.291784144723391,False,Oregon State,Portland State,0,0,1,11,19,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101888003,Pass Reception,1,10,46,54,1.1190495844879964,False,Oregon State,Portland State,0,0,1,11,19,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101888002,Pass Reception,2,6,56,44,1.381087634091994,False,Oregon State,Portland State,0,0,1,11,19,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101938609,Pass Reception,3,2,4,96,-0.252780610187641,False,Oregon State,Portland State,3,0,1,6,13,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101938606,Pass Reception,1,10,27,73,0.2111862993555605,False,Oregon State,Portland State,3,0,1,6,13,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101938603,Pass Incompletion,2,20,88,12,-0.05035094585025757,False,Oregon State,Portland State,3,0,1,6,13,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258101938605,Pass Reception,1,10,38,62,0.353311807193702,False,Oregon State,Portland State,3,0,1,6,13,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855707,Pass Reception,2,12,22,78,1.4843861207842886,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855703,Pass Reception,2,4,47,53,0.790422057796324,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855704,Pass Reception,1,10,34,66,-0.6630222646782312,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855710,Pass Incompletion,2,6,6,94,-0.29509485739271,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855705,Pass Reception,2,10,34,66,0.9818206965602022,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855701,Pass Reception,1,10,82,18,2.392998815719543,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102855706,Pass Reception,1,10,20,80,-0.5546489104665645,False,Oregon State,Portland State,6,7,2,14,42,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102946803,Pass Incompletion,2,13,66,34,-0.4414369064806207,False,Oregon State,Portland State,13,14,2,5,31,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102946804,Pass Incompletion,3,13,66,34,-0.21346312569586434,False,Oregon State,Portland State,13,14,2,5,31,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102999003,Pass Reception,2,11,35,65,-0.511392672688967,False,Oregon State,Portland State,13,14,2,0,9,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102986304,Pass Reception,1,10,62,38,1.2667698043995337,False,Oregon State,Portland State,13,14,2,1,36,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102986302,Pass Reception,1,10,75,25,0.3333748010525683,False,Oregon State,Portland State,13,14,2,1,36,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258102986303,Pass Reception,2,4,69,31,0.7913766779892626,False,Oregon State,Portland State,13,14,2,1,36,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103854910,Pass Incompletion,3,9,9,91,-0.39104614280078,False,Oregon State,Portland State,13,14,3,14,50,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103854909,Pass Incompletion,2,9,9,91,-0.270076451519454,False,Oregon State,Portland State,13,14,3,14,50,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103854908,Pass Incompletion,1,9,9,91,-0.315798379566314,False,Oregon State,Portland State,13,14,3,14,50,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103854902,Pass Reception,2,6,56,44,1.16204449058921,False,Oregon State,Portland State,13,14,3,14,50,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103914607,Pass Incompletion,3,30,38,62,-0.35622268096865817,False,Oregon State,Portland State,16,14,3,8,53,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103914605,Pass Incompletion,1,20,28,72,-0.68568696969146,False,Oregon State,Portland State,16,14,3,8,53,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103907003,Pass Incompletion,2,10,35,65,-0.9144980156718301,False,Oregon State,Portland State,16,14,3,9,29,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103914603,Pass Reception,4,10,35,65,3.0111258252645725,False,Oregon State,Portland State,16,14,3,8,53,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103914602,Pass Incompletion,3,10,35,65,-1.0239694443844112,False,Oregon State,Portland State,16,14,3,8,53,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103949201,Passing Touchdown,1,10,23,77,2.6639776780712285,True,Oregon State,Portland State,23,14,3,5,7,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103957402,Pass Incompletion,2,8,14,86,-0.3440507031992759,False,Oregon State,Portland State,23,14,3,4,25,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103957403,Pass Incompletion,3,8,14,86,-0.4970876604054996,False,Oregon State,Portland State,23,14,3,4,25,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103957401,Pass Reception,1,10,16,84,-0.1838209433726501,False,Oregon State,Portland State,23,14,3,4,25,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103979202,Pass Reception,2,10,85,15,0.4488134699291759,False,Oregon State,Portland State,26,14,3,2,7,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258103979201,Pass Incompletion,1,10,85,15,-0.4404078956667625,False,Oregon State,Portland State,26,14,3,2,7,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104865604,Pass Reception,3,7,12,88,-0.0449260048220236,False,Oregon State,Portland State,26,14,4,13,43,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104865603,Pass Incompletion,2,7,12,88,-0.327630498967477,False,Oregon State,Portland State,26,14,4,13,43,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104939803,Pass Incompletion,3,4,6,94,-0.3110685547647857,False,Oregon State,Portland State,26,14,4,6,1,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104908902,Pass Reception,2,5,80,20,0.6882513265485661,False,Oregon State,Portland State,26,14,4,9,10,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104908904,Pass Reception,2,7,69,31,1.7229406974048853,False,Oregon State,Portland State,26,14,4,9,10,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104908905,Pass Reception,1,10,57,43,1.935222155475401,False,Oregon State,Portland State,26,14,4,9,10,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104908906,Pass Incompletion,1,10,12,88,-0.2977696357406735,False,Oregon State,Portland State,26,14,4,9,10,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548258104957704,Pass Reception,1,10,65,35,-0.1595952673507188,False,Oregon State,Portland State,29,14,4,4,22,1,Portland State,2014,Oregon State,Sean Mannion,2015
+400548183101877002,Pass Reception,1,10,84,84,3.1664869696936533,False,Hawai'i,Oregon State,0,0,1,12,29,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101877004,Pass Reception,2,9,43,43,2.1072477954299647,False,Hawai'i,Oregon State,0,0,1,12,29,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101898701,Passing Touchdown,2,4,4,4,2.3338902404479605,True,Hawai'i,Oregon State,7,0,1,10,12,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101938401,Passing Touchdown,1,5,5,5,1.883780840558874,True,Hawai'i,Oregon State,14,0,1,6,15,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101959206,Pass Reception,3,15,40,40,-0.3389185592047887,False,Hawai'i,Oregon State,14,0,1,4,7,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101959204,Pass Incompletion,1,15,40,40,-0.9133066411526763,False,Hawai'i,Oregon State,14,0,1,4,7,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101959201,Pass Reception,1,10,78,78,2.4305728702197493,False,Hawai'i,Oregon State,14,0,1,4,7,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101959205,Pass Incompletion,2,15,40,40,-1.0167029345328213,False,Hawai'i,Oregon State,14,0,1,4,7,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183101994401,Pass Reception,1,10,52,52,1.150899831387264,False,Hawai'i,Oregon State,14,0,1,0,55,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102849902,Pass Reception,1,10,40,40,0.637524267916824,False,Hawai'i,Oregon State,14,0,2,15,0,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102885601,Pass Interception Return,1,10,80,80,-0.6139422043948972,False,Hawai'i,Oregon State,21,0,2,11,43,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894710,Pass Incompletion,2,15,54,54,-0.716340276249669,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894712,Pass Reception,1,10,32,32,0.2916163228045484,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894715,Pass Incompletion,3,3,10,10,-0.378282360045859,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894708,Pass Incompletion,1,10,49,49,-1.0955888671820908,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894704,Pass Reception,1,10,75,75,0.604642460086338,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894713,Pass Reception,1,10,17,17,0.307369563857817,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894711,Pass Reception,3,15,54,54,3.7901498189824796,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102894707,Pass Reception,2,4,56,56,0.787677025205209,False,Hawai'i,Oregon State,21,7,2,10,52,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102949001,Pass Reception,1,10,84,84,2.114052629692348,False,Hawai'i,Oregon State,24,7,2,5,9,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102949007,Pass Reception,2,5,7,7,1.242013608681761,False,Hawai'i,Oregon State,24,7,2,5,9,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102989601,Pass Incompletion,1,10,45,45,-0.997770018980635,False,Hawai'i,Oregon State,31,7,2,1,3,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183102989604,Pass Reception,3,8,43,43,-1.3003541224406003,False,Hawai'i,Oregon State,31,7,2,1,3,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103894301,Passing Touchdown,2,8,8,8,2.676770954733065,True,Hawai'i,Oregon State,38,7,3,10,56,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103849906,Pass Incompletion,1,10,40,40,-0.8457687366186873,False,Hawai'i,Oregon State,31,7,3,15,0,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103849905,Pass Reception,3,4,46,46,1.6403750848580625,False,Hawai'i,Oregon State,31,7,3,15,0,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103849904,Pass Reception,2,16,58,58,1.5113643558820122,False,Hawai'i,Oregon State,31,7,3,15,0,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103874402,Pass Reception,2,10,40,40,0.656919495520004,False,Hawai'i,Oregon State,31,7,3,12,55,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103874403,Pass Reception,3,2,32,32,0.8640715427865825,False,Hawai'i,Oregon State,31,7,3,12,55,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103907106,Pass Incompletion,3,1,55,55,-1.0447541898354382,False,Hawai'i,Oregon State,38,7,3,9,28,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103907102,Pass Incompletion,2,10,76,76,-0.3277685291678001,False,Hawai'i,Oregon State,38,7,3,9,28,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103907101,Pass Reception,1,10,76,76,-0.6723571521309859,False,Hawai'i,Oregon State,38,7,3,9,28,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103907103,Pass Reception,3,10,76,76,1.9985514169392458,False,Hawai'i,Oregon State,38,7,3,9,28,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103907105,Pass Reception,2,7,61,61,0.3593674708208941,False,Hawai'i,Oregon State,38,7,3,9,28,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103947702,Pass Reception,1,20,88,88,0.16570507789210343,False,Hawai'i,Oregon State,38,7,3,5,22,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183103947703,Pass Reception,2,12,80,80,0.7559702225771732,False,Hawai'i,Oregon State,38,7,3,5,22,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548183104894405,Pass Incompletion,3,6,71,71,-0.3146897268978579,False,Hawai'i,Oregon State,38,23,4,10,55,2,Hawai'i,2014,Oregon State,Sean Mannion,2015
+400548198101887208,Pass Incompletion,3,3,57,43,-0.8451240228241659,False,Oregon State,San Diego State,0,7,1,11,27,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198101936710,Pass Reception,1,10,28,72,-0.043244644569821,False,Oregon State,San Diego State,0,7,1,6,32,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198101936713,Pass Reception,1,10,15,85,-0.103053233199689,False,Oregon State,San Diego State,0,7,1,6,32,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198101936703,Pass Reception,3,12,72,28,2.4717185742418364,False,Oregon State,San Diego State,0,7,1,6,32,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198101936709,Pass Reception,2,27,60,40,4.279172562356201,False,Oregon State,San Diego State,0,7,1,6,32,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198101936702,Pass Incompletion,2,12,72,28,-0.33790192419717613,False,Oregon State,San Diego State,0,7,1,6,32,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198101936706,Pass Reception,3,4,53,47,2.1494535227511236,False,Oregon State,San Diego State,0,7,1,6,32,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102885004,Pass Reception,3,6,66,34,-0.18343597598034922,False,Oregon State,San Diego State,7,7,2,11,49,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102885003,Pass Incompletion,2,6,66,34,-0.8073982355249001,False,Oregon State,San Diego State,7,7,2,11,49,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102885001,Pass Reception,1,10,81,19,0.7458330020984532,False,Oregon State,San Diego State,7,7,2,11,49,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102956306,Pass Reception,2,5,65,35,1.0281644515384691,False,Oregon State,San Diego State,7,7,2,4,36,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102956309,Pass Reception,1,15,51,49,3.423099422522616,False,Oregon State,San Diego State,7,7,2,4,36,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102956305,Pass Reception,1,10,70,30,0.1029188553265588,False,Oregon State,San Diego State,7,7,2,4,36,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102956301,Pass Reception,1,10,88,12,0.4067090181335251,False,Oregon State,San Diego State,7,7,2,4,36,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102956304,Pass Reception,1,22,88,12,1.4247858387386927,False,Oregon State,San Diego State,7,7,2,4,36,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198102956307,Pass Reception,1,10,58,42,1.0184158039048512,False,Oregon State,San Diego State,7,7,2,4,36,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103849904,Pass Reception,1,10,64,36,-0.1622709044233037,False,Oregon State,San Diego State,14,7,3,15,0,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103849902,Pass Reception,1,10,75,25,0.604642460086338,False,Oregon State,San Diego State,14,7,3,15,0,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103878604,Pass Reception,1,10,20,80,0.312961885301428,False,Oregon State,San Diego State,14,7,3,12,13,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103849907,Pass Incompletion,1,10,49,51,-1.0955888671820908,False,Oregon State,San Diego State,14,7,3,15,0,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103878602,Pass Reception,2,10,49,51,-0.625577595101671,False,Oregon State,San Diego State,14,7,3,12,13,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103878603,Pass Reception,3,8,47,53,2.865569284889311,False,Oregon State,San Diego State,14,7,3,12,13,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103929901,Pass Reception,1,10,75,25,2.4645528784548913,False,Oregon State,San Diego State,21,7,3,7,0,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103929912,Pass Incompletion,2,3,3,97,-0.413137785818898,False,Oregon State,San Diego State,21,7,3,7,0,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198103929904,Pass Reception,2,10,36,64,1.1278730806951296,False,Oregon State,San Diego State,21,7,3,7,0,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198104869202,Pass Reception,2,9,78,22,-0.14224430903912655,False,Oregon State,San Diego State,28,7,4,13,7,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198104869203,Pass Incompletion,3,6,75,25,-0.2505074961764233,False,Oregon State,San Diego State,28,7,4,13,7,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198104905204,Pass Reception,2,10,34,66,-0.1121278119288398,False,Oregon State,San Diego State,28,7,4,9,47,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198104905202,Pass Reception,2,11,55,45,2.6331139205322067,False,Oregon State,San Diego State,28,7,4,9,47,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198104954002,Pass Interception Return,2,9,48,52,-2.381204313813262,False,Oregon State,San Diego State,28,7,4,4,59,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548198104968303,Pass Reception,3,8,47,53,2.472718918907214,False,Oregon State,San Diego State,28,7,4,3,16,4,San Diego State,2014,Oregon State,Sean Mannion,2015
+400548270101909801,Pass Reception,3,11,50,50,-0.7590384184955097,False,USC,Oregon State,0,0,1,9,1,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270101899901,Pass Incompletion,1,10,49,49,-1.0955888671820908,False,USC,Oregon State,0,0,1,10,0,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270101895901,Pass Reception,1,10,68,68,0.6906032640622382,False,USC,Oregon State,0,0,1,10,40,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270101937701,Pass Incompletion,2,6,80,80,-0.42558642364504085,False,USC,Oregon State,0,0,1,6,22,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270101974901,Pass Reception,2,6,61,61,1.5609003459206805,False,USC,Oregon State,7,7,1,2,50,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270101987301,Pass Incompletion,3,26,66,66,-0.06355690894717723,False,USC,Oregon State,7,7,1,1,26,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102884601,Pass Incompletion,2,17,23,23,-0.7398630665911144,False,USC,Oregon State,7,7,2,11,53,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102875301,Pass Incompletion,2,15,26,26,-0.7708606782960247,False,USC,Oregon State,7,7,2,12,46,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270101999901,Pass Reception,1,13,96,96,0.03540852385329796,False,USC,Oregon State,7,7,1,0,0,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102885901,Pass Reception,3,17,23,23,-0.555059248248817,False,USC,Oregon State,7,7,2,11,40,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102867601,Pass Reception,1,10,48,48,1.053937022484464,False,USC,Oregon State,7,7,2,13,23,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102874601,Pass Incompletion,1,10,21,21,-0.3882383440694163,False,USC,Oregon State,7,7,2,12,53,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102854401,Pass Reception,2,8,91,91,2.118685993444277,False,USC,Oregon State,7,7,2,14,55,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102859401,Pass Reception,1,10,62,62,0.4029960638370333,False,USC,Oregon State,7,7,2,14,5,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102976101,Pass Interception Return,1,10,22,22,-4.35237723335154,False,USC,Oregon State,10,14,2,2,38,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102967901,Pass Reception,1,10,41,41,0.5928968592480593,False,USC,Oregon State,10,14,2,3,20,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102967201,Pass Reception,1,10,52,52,0.7675346628139116,False,USC,Oregon State,10,14,2,3,27,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270102936101,Pass Reception,1,10,60,60,0.4012419719961234,False,USC,Oregon State,10,14,2,6,38,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103877701,Pass Incompletion,3,9,46,46,-0.8699475122976805,False,USC,Oregon State,10,21,3,12,22,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103877001,Pass Incompletion,2,9,46,46,-1.084471532153902,False,USC,Oregon State,10,21,3,12,29,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103859901,Pass Reception,1,10,65,65,1.6295147694249048,False,USC,Oregon State,10,21,3,14,0,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103889001,Pass Incompletion,1,10,56,56,-1.1612466882658818,False,USC,Oregon State,10,21,3,11,9,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103894301,Pass Incompletion,3,10,56,56,-0.5203815921674826,False,USC,Oregon State,10,21,3,10,56,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103889701,Pass Incompletion,2,10,56,56,-0.8812901257339192,False,USC,Oregon State,10,21,3,11,2,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103955401,Pass Reception,2,8,78,78,-0.06044976469947195,False,USC,Oregon State,10,21,3,4,45,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270103959401,Pass Incompletion,3,4,74,74,-0.3362980935228226,False,USC,Oregon State,10,21,3,4,5,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104877101,Pass Incompletion,3,17,79,79,-0.05702799860788322,False,USC,Oregon State,10,28,4,12,28,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104904001,Pass Incompletion,2,10,63,63,-0.6622137678957802,False,USC,Oregon State,10,28,4,9,59,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104905901,Pass Reception,3,10,63,63,0.14614681829434328,False,USC,Oregon State,10,28,4,9,40,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104895401,Pass Reception,1,10,91,91,-0.1388134637685603,False,USC,Oregon State,10,28,4,10,45,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104899401,Pass Incompletion,1,10,63,63,-1.065701080215459,False,USC,Oregon State,10,28,4,10,5,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104954901,Pass Incompletion,1,10,61,61,-1.1077677360468863,False,USC,Oregon State,10,35,4,4,50,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104956001,Pass Incompletion,3,10,61,61,-0.3883061492737845,False,USC,Oregon State,10,35,4,4,39,5,USC,2014,Oregon State,Sean Mannion,2015
+400548270104955501,Pass Incompletion,2,10,61,61,-0.7257152293373617,False,USC,Oregon State,10,35,4,4,44,5,USC,2014,Oregon State,Sean Mannion,2015
+400548277101865304,Pass Incompletion,3,5,58,58,-0.69319973884107,False,Colorado,Oregon State,0,0,1,13,46,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101865303,Pass Incompletion,2,5,58,58,-1.113574478166404,False,Colorado,Oregon State,0,0,1,13,46,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101865301,Pass Reception,1,10,82,82,1.4377874557151005,False,Colorado,Oregon State,0,0,1,13,46,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101906003,Pass Reception,1,10,24,24,0.993247429893,False,Colorado,Oregon State,0,0,1,9,39,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101964302,Pass Reception,2,7,63,63,1.6392747983735418,False,Colorado,Oregon State,14,7,1,3,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101964303,Pass Reception,1,10,53,53,1.3069982489751957,False,Colorado,Oregon State,14,7,1,3,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101964306,Pass Reception,3,6,25,25,-0.0946254123900764,False,Colorado,Oregon State,14,7,1,3,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277101964304,Pass Reception,1,10,29,29,-0.534372502378378,False,Colorado,Oregon State,14,7,1,3,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102895106,Pass Reception,3,5,64,64,-0.4323525696169171,False,Colorado,Oregon State,17,14,2,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102895103,Pass Reception,3,5,75,75,1.2996358328466622,False,Colorado,Oregon State,17,14,2,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102895102,Pass Incompletion,2,5,75,75,-0.6063758180006475,False,Colorado,Oregon State,17,14,2,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102969502,Pass Incompletion,3,5,16,16,-0.501574330015505,False,Colorado,Oregon State,17,14,2,3,4,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102939204,Pass Reception,1,10,42,42,0.662638657776631,False,Colorado,Oregon State,17,14,2,6,7,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102939211,Pass Reception,2,10,79,79,-0.12063240682809884,False,Colorado,Oregon State,17,14,2,6,7,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102939214,Pass Reception,2,8,19,19,-0.133251184955105,False,Colorado,Oregon State,17,14,2,6,7,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102939212,Pass Reception,3,7,76,76,3.7418478226898895,False,Colorado,Oregon State,17,14,2,6,7,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277102939210,Pass Incompletion,1,10,79,79,-0.585616097616759,False,Colorado,Oregon State,17,14,2,6,7,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103849908,Pass Reception,3,8,38,38,-1.4221126933828963,False,Colorado,Oregon State,20,21,3,15,0,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103849906,Pass Incompletion,2,3,33,33,-0.8272922849198068,False,Colorado,Oregon State,20,21,3,15,0,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103849904,Pass Reception,3,7,72,72,3.7439051179400193,False,Colorado,Oregon State,20,21,3,15,0,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103849902,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Colorado,Oregon State,20,21,3,15,0,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103904306,Pass Incompletion,2,19,29,29,-0.9515187989942236,False,Colorado,Oregon State,20,21,3,9,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103904302,Pass Reception,2,1,73,73,0.2881541641072828,False,Colorado,Oregon State,20,21,3,9,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103904304,Pass Reception,1,10,37,37,0.4334809024450442,False,Colorado,Oregon State,20,21,3,9,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103904301,Pass Reception,1,10,82,82,1.0529514774102369,False,Colorado,Oregon State,20,21,3,9,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103904307,Pass Incompletion,3,19,29,29,-0.9563457395346937,False,Colorado,Oregon State,20,21,3,9,56,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103965201,Pass Reception,1,10,87,87,-0.05810963665836066,False,Colorado,Oregon State,23,21,3,3,47,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277103965204,Pass Reception,1,10,57,57,0.6806591914994475,False,Colorado,Oregon State,23,21,3,3,47,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104857901,Passing Touchdown,1,10,24,24,2.681437948606975,True,Colorado,Oregon State,30,21,4,14,20,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104895103,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,Colorado,Oregon State,30,24,4,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104915203,Pass Reception,1,10,57,57,0.391648506498802,False,Colorado,Oregon State,30,24,4,8,47,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104915206,Pass Reception,1,10,40,40,0.400747959339229,False,Colorado,Oregon State,30,24,4,8,47,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104915205,Pass Reception,3,2,49,49,1.6085552125193026,False,Colorado,Oregon State,30,24,4,8,47,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104895101,Pass Reception,1,10,85,85,-0.0658646968869041,False,Colorado,Oregon State,30,24,4,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104895104,Pass Reception,2,10,71,71,0.3715472143028862,False,Colorado,Oregon State,30,24,4,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104895102,Pass Reception,2,6,81,81,0.9112093740071492,False,Colorado,Oregon State,30,24,4,10,48,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548277104974603,Pass Reception,3,7,87,87,-0.09779753391885837,False,Colorado,Oregon State,36,31,4,2,53,6,Colorado,2014,Oregon State,Sean Mannion,2015
+400548284101878401,Pass Interception Return,1,10,90,10,-0.20615574686279547,False,Oregon State,Utah,0,0,1,12,15,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284101929201,Pass Reception,2,22,70,30,0.6057603012939978,False,Oregon State,Utah,0,3,1,7,7,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284101996301,Pass Incompletion,1,10,81,19,-0.5327945515514214,False,Oregon State,Utah,0,6,1,0,36,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102884001,Pass Incompletion,2,11,11,89,-0.2964634983560065,False,Oregon State,Utah,0,6,2,11,59,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102918401,Pass Reception,3,5,65,35,-0.08718108893365616,False,Oregon State,Utah,3,6,2,8,15,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102935901,Pass Reception,2,7,56,44,1.5484470397327872,False,Oregon State,Utah,3,6,2,6,40,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102928401,Pass Reception,1,10,59,41,-0.4327220980688242,False,Oregon State,Utah,3,6,2,7,15,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102968701,Pass Reception,1,10,87,13,0.07402668150212044,False,Oregon State,Utah,3,6,2,3,12,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102987301,Pass Incompletion,3,10,69,31,-0.2338253757696238,False,Oregon State,Utah,3,6,2,1,26,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102998101,Pass Incompletion,2,4,22,78,-0.5403649724921123,False,Oregon State,Utah,3,6,2,0,18,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102999201,Pass Incompletion,1,10,13,87,-0.3048472994988835,False,Oregon State,Utah,3,6,2,0,7,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284102998701,Pass Reception,3,4,22,78,0.5614270711659394,False,Oregon State,Utah,3,6,2,0,12,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103864901,Pass Reception,2,11,67,33,0.3953799797348623,False,Oregon State,Utah,6,6,3,13,50,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103868401,Pass Reception,3,4,60,40,-0.687014751346763,False,Oregon State,Utah,6,6,3,13,15,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103855201,Pass Reception,1,10,82,18,1.1515288595632365,False,Oregon State,Utah,6,6,3,14,47,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103907301,Pass Incompletion,2,8,81,19,-0.31458761397077595,False,Oregon State,Utah,6,9,3,9,26,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103934901,Pass Incompletion,2,9,63,37,-0.7156844087137806,False,Oregon State,Utah,6,9,3,6,50,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103936301,Pass Incompletion,3,9,63,37,-0.3756863864160813,False,Oregon State,Utah,6,9,3,6,36,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103979101,Pass Incompletion,2,4,34,66,-0.8414986923547828,False,Oregon State,Utah,6,9,3,2,8,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103979501,Pass Incompletion,3,4,34,66,-1.011904872651165,False,Oregon State,Utah,6,9,3,2,4,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103967901,Pass Reception,2,9,92,8,3.941870954927449,False,Oregon State,Utah,6,9,3,3,20,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284103984201,Pass Incompletion,4,4,34,66,-2.2227521837336752,False,Oregon State,Utah,6,9,3,1,57,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104865001,Passing Touchdown,2,8,72,28,6.478463282075263,True,Oregon State,Utah,13,9,4,13,49,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104889901,Pass Reception,1,10,69,31,-0.367641675563645,False,Oregon State,Utah,13,9,4,11,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104924801,Pass Incompletion,3,2,38,62,-1.1021109972656529,False,Oregon State,Utah,13,9,4,7,51,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104895501,Pass Incompletion,2,7,66,34,-0.7395134950588975,False,Oregon State,Utah,13,9,4,10,44,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104989902,Pass Reception,1,10,31,69,-0.1807619553029143,False,Oregon State,Utah,13,16,4,1,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104986901,Pass Reception,1,10,60,40,1.339431621541097,False,Oregon State,Utah,13,16,4,1,30,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104988901,Pass Reception,2,1,51,49,0.5755228125296304,False,Oregon State,Utah,13,16,4,1,10,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104979901,Pass Reception,3,7,69,31,2.077391266818137,False,Oregon State,Utah,13,16,4,2,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284104965401,Pass Reception,1,10,83,17,0.6795498702856051,False,Oregon State,Utah,13,16,4,3,45,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284105000229,Passing Touchdown,4,2,2,98,2.851352701254402,True,Oregon State,Utah,23,23,5,0,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284105000225,Pass Reception,1,10,25,75,0.6475945912007804,False,Oregon State,Utah,16,23,5,0,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284105000228,Pass Reception,3,9,9,91,0.158759953477834,False,Oregon State,Utah,16,23,5,0,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284105000226,Pass Incompletion,1,6,6,94,-0.476177221716661,False,Oregon State,Utah,16,23,5,0,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284106000236,Pass Incompletion,3,5,20,80,-0.6114987464281078,False,Oregon State,Utah,23,23,5,0,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548284106000234,Pass Reception,1,10,25,75,0.1956069877394565,False,Oregon State,Utah,23,23,5,0,0,8,Utah,2014,Oregon State,Sean Mannion,2015
+400548293101887001,Pass Incompletion,3,20,85,85,-0.0269821033744684,False,Stanford,Oregon State,0,7,1,11,29,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293101886001,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Stanford,Oregon State,0,7,1,11,39,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293101886501,Pass Incompletion,2,20,85,85,-0.0620549092933107,False,Stanford,Oregon State,0,7,1,11,34,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293101935401,Pass Reception,1,10,82,82,1.0529514774102369,False,Stanford,Oregon State,0,7,1,6,45,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293101956201,Pass Incompletion,1,10,60,60,-1.1247712359915258,False,Stanford,Oregon State,0,7,1,4,37,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293101966401,Pass Reception,3,12,62,62,0.5312410707631017,False,Stanford,Oregon State,0,7,1,3,35,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293101949401,Pass Reception,2,8,69,69,1.5478202743316647,False,Stanford,Oregon State,0,7,1,5,5,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102855401,Pass Reception,3,17,82,82,0.0421941257411813,False,Stanford,Oregon State,7,14,2,14,45,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102908301,Pass Incompletion,3,10,65,65,-0.30241592870214795,False,Stanford,Oregon State,7,21,2,9,16,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102899901,Pass Reception,1,10,65,65,-1.0146424556055624,False,Stanford,Oregon State,7,21,2,10,0,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102879901,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Stanford,Oregon State,7,21,2,12,0,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102907901,Pass Incompletion,2,10,65,65,-0.6004605992346148,False,Stanford,Oregon State,7,21,2,9,20,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102948601,Pass Incompletion,3,6,40,40,-1.065988714378813,False,Stanford,Oregon State,7,21,2,5,13,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102948901,Pass Incompletion,4,6,40,40,-1.3938580556320623,False,Stanford,Oregon State,7,21,2,5,10,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102948001,Pass Incompletion,2,6,40,40,-1.0164008224593708,False,Stanford,Oregon State,7,21,2,5,19,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102939401,Pass Reception,1,10,54,54,0.7720151801751867,False,Stanford,Oregon State,7,21,2,6,5,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102935401,Pass Reception,2,12,67,67,2.374749489596668,False,Stanford,Oregon State,7,21,2,6,45,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102979901,Pass Reception,3,2,77,77,1.0532617374033455,False,Stanford,Oregon State,7,28,2,2,0,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102977401,Pass Reception,1,10,85,85,0.6856189176956029,False,Stanford,Oregon State,7,28,2,2,25,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293102978601,Pass Incompletion,2,2,77,77,-0.8107056241280821,False,Stanford,Oregon State,7,28,2,2,13,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103864401,Pass Reception,2,20,85,85,0.29123180311663077,False,Stanford,Oregon State,7,28,3,13,55,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103888601,Pass Incompletion,2,10,85,85,-0.19768513834417423,False,Stanford,Oregon State,7,35,3,11,13,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103889401,Pass Reception,3,10,85,85,1.9222851941565322,False,Stanford,Oregon State,7,35,3,11,5,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103907401,Pass Incompletion,3,5,61,61,-0.6004620432207028,False,Stanford,Oregon State,7,35,3,9,25,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103954601,Pass Incompletion,4,1,5,5,-4.146427856099022,False,Stanford,Oregon State,7,35,3,4,53,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103954101,Pass Incompletion,3,1,5,5,-0.361126152882802,False,Stanford,Oregon State,7,35,3,4,58,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103939901,Pass Reception,1,10,14,14,0.3040362457915165,False,Stanford,Oregon State,7,35,3,6,0,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103936901,Pass Reception,2,5,19,19,0.0580839851939355,False,Stanford,Oregon State,7,35,3,6,30,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293103984901,Pass Reception,2,19,60,60,0.2900536202579546,False,Stanford,Oregon State,7,35,3,1,50,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104909701,Pass Incompletion,3,13,58,58,-0.36317352114341883,False,Stanford,Oregon State,7,38,4,9,2,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104955401,Pass Reception,2,10,57,57,-0.1498323988275079,False,Stanford,Oregon State,7,38,4,4,45,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104944401,Pass Incompletion,1,10,72,72,-0.7982008475508557,False,Stanford,Oregon State,7,38,4,5,55,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104948601,Pass Incompletion,1,10,57,57,-1.15714755134967,False,Stanford,Oregon State,7,38,4,5,13,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104946901,Pass Reception,2,10,72,72,2.1885168623055815,False,Stanford,Oregon State,7,38,4,5,30,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104958901,Pass Reception,3,6,53,53,4.834275372568062,False,Stanford,Oregon State,7,38,4,4,10,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104998001,Pass Incompletion,1,10,75,75,-0.7029700220436519,False,Stanford,Oregon State,14,38,4,0,19,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104998501,Pass Incompletion,2,10,75,75,-0.34710487712173865,False,Stanford,Oregon State,14,38,4,0,14,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548293104999901,Pass Reception,3,10,75,75,2.468817669088285,False,Stanford,Oregon State,14,38,4,0,0,9,Stanford,2014,Oregon State,Sean Mannion,2015
+400548300101879504,Pass Reception,3,6,64,36,-0.306455348630724,False,Oregon State,California,0,0,1,12,4,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101879502,Pass Reception,1,10,68,32,-0.7658255968233298,False,Oregon State,California,0,0,1,12,4,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101947902,Pass Incompletion,1,10,58,42,-1.1496266880203319,False,Oregon State,California,0,0,1,5,20,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101947904,Pass Incompletion,3,3,51,49,-1.0200812830572126,False,Oregon State,California,0,0,1,5,20,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101947903,Pass Reception,2,10,58,42,0.5512629254184472,False,Oregon State,California,0,0,1,5,20,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101947901,Pass Reception,1,10,79,21,1.7688315777778403,False,Oregon State,California,0,0,1,5,20,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102858101,Passing Touchdown,1,3,3,97,1.464451732731337,True,Oregon State,California,7,3,2,14,18,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101988006,Pass Reception,1,10,65,35,0.1088137823196469,False,Oregon State,California,0,3,1,1,19,10,California,2014,Oregon State,Sean Mannion,2015
+400548300101988005,Pass Reception,1,10,75,25,0.8350381090299867,False,Oregon State,California,0,3,1,1,19,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102904201,Pass Reception,1,10,87,13,0.23191006772714043,False,Oregon State,California,7,10,2,9,57,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102904205,Pass Incompletion,1,10,27,73,-0.490975886965904,False,Oregon State,California,7,10,2,9,57,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102904207,Pass Incompletion,1,10,15,85,-0.320977659489319,False,Oregon State,California,7,10,2,9,57,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102904204,Pass Reception,1,10,49,51,1.0210497102457623,False,Oregon State,California,7,10,2,9,57,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102904202,Pass Reception,2,4,81,19,1.3176929433651603,False,Oregon State,California,7,10,2,9,57,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102904209,Pass Incompletion,3,8,13,87,-0.4704630070105704,False,Oregon State,California,7,10,2,9,57,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102967502,Pass Incompletion,2,3,65,35,-1.089007191755849,False,Oregon State,California,10,17,2,3,24,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102967503,Pass Reception,3,3,65,35,-0.8053341687617053,False,Oregon State,California,10,17,2,3,24,10,California,2014,Oregon State,Sean Mannion,2015
+400548300102998503,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Oregon State,California,10,20,2,0,14,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103854506,Pass Incompletion,3,3,52,48,-0.9944183972399357,False,Oregon State,California,10,20,3,14,54,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103854502,Pass Incompletion,2,6,70,30,-0.6809782552782009,False,Oregon State,California,10,20,3,14,54,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103854503,Pass Reception,3,6,70,30,2.1483298390463546,False,Oregon State,California,10,20,3,14,54,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103915703,Pass Reception,3,2,57,43,2.315755949566965,False,Oregon State,California,10,27,3,8,42,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103915704,Pass Reception,1,10,41,59,0.6823205363314364,False,Oregon State,California,10,27,3,8,42,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103915702,Pass Reception,2,8,63,37,0.3172382685870705,False,Oregon State,California,10,27,3,8,42,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103944901,Passing Touchdown,1,3,8,92,1.511453218057195,True,Oregon State,California,17,27,3,5,50,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103975001,Pass Reception,1,10,50,50,0.830633837107577,False,Oregon State,California,17,27,3,2,49,10,California,2014,Oregon State,Sean Mannion,2015
+400548300103975003,Pass Reception,2,4,30,70,0.191357330728539,False,Oregon State,California,17,27,3,2,49,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104849903,Pass Incompletion,1,10,63,37,-1.065701080215459,False,Oregon State,California,24,27,4,15,0,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104849904,Pass Incompletion,2,10,63,37,-0.6622137678957802,False,Oregon State,California,24,27,4,15,0,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104849907,Pass Reception,2,9,47,53,1.7594399981642435,False,Oregon State,California,24,27,4,15,0,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104849905,Pass Reception,3,10,63,37,3.0921918054090325,False,Oregon State,California,24,27,4,15,0,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104916402,Pass Interception Return,2,11,69,31,-0.4141333515083918,False,Oregon State,California,31,34,4,8,35,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104939205,Pass Reception,4,2,49,51,-1.0851731157082227,False,Oregon State,California,31,37,4,6,7,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104939202,Pass Reception,1,10,57,43,-0.1651640993405828,False,Oregon State,California,31,37,4,6,7,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104939201,Pass Reception,1,10,78,22,1.8066681048297957,False,Oregon State,California,31,37,4,6,7,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104939204,Pass Reception,3,16,63,37,1.1341854041175603,False,Oregon State,California,31,37,4,6,7,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104995903,Pass Incompletion,1,10,45,55,-0.997770018980635,False,Oregon State,California,31,45,4,0,40,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104995902,Pass Reception,4,4,57,43,3.155764738327578,False,Oregon State,California,31,45,4,0,40,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104986008,Pass Incompletion,1,10,63,37,-1.065701080215459,False,Oregon State,California,31,45,4,1,39,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104986006,Pass Incompletion,1,10,75,25,-0.7029700220436519,False,Oregon State,California,31,45,4,1,39,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104986009,Pass Reception,2,10,63,37,0.7408255008820132,False,Oregon State,California,31,45,4,1,39,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104995905,Pass Reception,1,10,34,66,0.3884429857345885,False,Oregon State,California,31,45,4,0,40,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104995904,Pass Reception,2,10,45,55,1.537557943134033,False,Oregon State,California,31,45,4,0,40,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104986007,Pass Reception,2,10,75,25,1.7302143481872232,False,Oregon State,California,31,45,4,1,39,10,California,2014,Oregon State,Sean Mannion,2015
+400548300104986010,Pass Reception,3,2,55,45,-1.2568924504834502,False,Oregon State,California,31,45,4,1,39,10,California,2014,Oregon State,Sean Mannion,2015
+400548305101868201,Passing Touchdown,2,11,14,86,2.907923713571485,True,Oregon State,Washington State,7,0,1,13,17,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101849903,Pass Reception,1,10,75,25,3.357752997313141,False,Oregon State,Washington State,0,0,1,15,0,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101927702,Pass Incompletion,1,10,12,88,-0.2977696357406735,False,Oregon State,Washington State,7,0,1,7,22,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101909402,Pass Reception,1,10,80,20,1.0492884058754886,False,Oregon State,Washington State,7,0,1,9,5,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101909403,Pass Reception,1,10,66,34,2.572754915591183,False,Oregon State,Washington State,7,0,1,9,5,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101927704,Pass Reception,3,11,13,87,0.111082521050692,False,Oregon State,Washington State,7,0,1,7,22,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101909404,Pass Reception,1,10,28,72,0.204023160418757,False,Oregon State,Washington State,7,0,1,9,5,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101988603,Pass Incompletion,3,5,81,19,-0.20608278222802046,False,Oregon State,Washington State,10,7,1,1,13,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305101988601,Pass Reception,1,10,86,14,0.4338898358306427,False,Oregon State,Washington State,10,7,1,1,13,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102878603,Pass Incompletion,3,6,69,31,-0.35293968896594485,False,Oregon State,Washington State,10,14,2,12,13,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102927508,Pass Reception,2,19,24,76,0.0338443503009687,False,Oregon State,Washington State,10,14,2,7,24,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102927504,Pass Reception,1,10,34,66,-0.063267952570744,False,Oregon State,Washington State,10,14,2,7,24,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102927509,Pass Reception,3,14,19,81,-1.0265781889197194,False,Oregon State,Washington State,10,14,2,7,24,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102927506,Pass Reception,3,5,29,71,0.983363422322277,False,Oregon State,Washington State,10,14,2,7,24,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102927502,Pass Reception,2,9,75,25,3.0948968158674433,False,Oregon State,Washington State,10,14,2,7,24,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102989201,Pass Incompletion,1,10,52,48,-1.1430602484821704,False,Oregon State,Washington State,13,21,2,1,7,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102998502,Pass Reception,3,13,35,65,0.6849864992210913,False,Oregon State,Washington State,13,21,2,0,14,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102994503,Pass Reception,3,18,60,40,4.163610348526638,False,Oregon State,Washington State,13,21,2,0,54,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305102994504,Pass Reception,1,10,32,68,0.3684640561633454,False,Oregon State,Washington State,13,21,2,0,54,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103896103,Pass Reception,1,10,80,20,1.4330541549256122,False,Oregon State,Washington State,16,24,3,10,38,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103896105,Pass Reception,2,3,55,45,0.4802879767844387,False,Oregon State,Washington State,16,24,3,10,38,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103948904,Pass Incompletion,3,4,64,36,-0.566704659737983,False,Oregon State,Washington State,22,24,3,5,10,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103948903,Pass Incompletion,2,4,64,36,-1.028560398477305,False,Oregon State,Washington State,22,24,3,5,10,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103948902,Pass Reception,1,20,80,20,1.736201952291112,False,Oregon State,Washington State,22,24,3,5,10,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103979301,Pass Reception,1,10,72,28,2.503262624335198,False,Oregon State,Washington State,22,24,3,2,6,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104849901,Pass Reception,3,18,34,66,0.0461941272988167,False,Oregon State,Washington State,22,24,4,15,0,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103979303,Pass Reception,2,5,38,62,0.5409772411118805,False,Oregon State,Washington State,22,24,3,2,6,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305103995802,Pass Reception,1,10,26,74,-0.1464938748677045,False,Oregon State,Washington State,22,24,3,0,41,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104909403,Pass Incompletion,3,15,76,24,-0.08696773152847825,False,Oregon State,Washington State,25,32,4,9,5,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104909402,Pass Reception,2,25,86,14,0.09349929386584677,False,Oregon State,Washington State,25,32,4,9,5,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104894501,Pass Reception,1,10,85,15,0.4482007778738044,False,Oregon State,Washington State,25,32,4,10,54,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104894502,Pass Reception,2,3,78,22,0.3971438992464407,False,Oregon State,Washington State,25,32,4,10,54,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945002,Pass Incompletion,2,1,66,34,-1.2753422217375716,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945004,Pass Reception,1,10,61,39,1.013604104343493,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945010,Pass Reception,3,3,8,92,1.746838181568778,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945008,Pass Reception,1,10,15,85,-0.810353210013964,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104969202,Pass Incompletion,1,1,1,99,-0.962330962352563,False,Oregon State,Washington State,25,39,4,3,7,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945007,Pass Reception,1,10,35,65,0.414389694211873,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945005,Pass Incompletion,1,10,50,50,-1.1143038065675126,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945009,Pass Reception,2,16,21,79,0.683692842889826,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548305104945001,Pass Reception,1,10,75,25,1.252308359788624,False,Oregon State,Washington State,25,39,4,5,49,11,Washington State,2014,Oregon State,Sean Mannion,2015
+400548308101874401,Pass Incompletion,3,9,70,30,-0.24285188526338786,False,Oregon State,Arizona State,0,0,1,12,55,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308101869901,Pass Incompletion,2,4,65,35,-0.9974449858368741,False,Oregon State,Arizona State,0,0,1,13,0,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308101866402,Pass Reception,1,10,71,29,0.366045681425021,False,Oregon State,Arizona State,0,0,1,13,35,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308101934301,Pass Interception Return,2,5,63,37,-1.5863698317235233,False,Oregon State,Arizona State,7,0,1,6,56,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308101919002,Pass Reception,1,10,79,21,0.8112240741752963,False,Oregon State,Arizona State,7,0,1,8,9,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308101944803,Pass Reception,1,10,70,30,-0.1399034934597019,False,Oregon State,Arizona State,7,3,1,5,51,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102876901,Pass Incompletion,1,10,39,61,-0.814236079442537,False,Oregon State,Arizona State,14,10,2,12,30,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308101988604,Pass Reception,1,10,88,12,0.6233612650694251,False,Oregon State,Arizona State,14,10,1,1,13,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102885901,Pass Reception,3,9,38,62,-0.3884793554070302,False,Oregon State,Arizona State,14,10,2,11,40,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102849901,Pass Reception,1,10,50,50,-0.385960016074776,False,Oregon State,Arizona State,14,10,2,15,0,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102919901,Pass Reception,2,13,58,42,0.6918245633048244,False,Oregon State,Arizona State,14,17,2,8,0,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102937901,Pass Incompletion,2,5,66,34,-0.8824226559216264,False,Oregon State,Arizona State,14,24,2,6,20,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102939401,Pass Incompletion,3,5,66,34,-0.4625775407061088,False,Oregon State,Arizona State,14,24,2,6,5,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102987602,Pass Reception,1,10,80,20,-0.46882789768185695,False,Oregon State,Arizona State,14,24,2,1,23,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102989901,Pass Incompletion,2,9,79,21,-0.31009262307283425,False,Oregon State,Arizona State,14,24,2,1,0,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102999401,Pass Reception,2,10,41,59,-1.0411051963664768,False,Oregon State,Arizona State,14,24,2,0,5,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102998902,Pass Incompletion,1,10,41,59,-0.8772679222659558,False,Oregon State,Arizona State,14,24,2,0,10,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102999901,Pass Incompletion,3,10,41,59,-0.956206077295109,False,Oregon State,Arizona State,14,24,2,0,0,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102997702,Pass Incompletion,1,10,52,48,-1.1430602484821704,False,Oregon State,Arizona State,14,24,2,0,22,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308102998401,Pass Reception,2,10,52,48,1.9105949112960818,False,Oregon State,Arizona State,14,24,2,0,15,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103878001,Pass Incompletion,4,1,19,81,-3.6948767912220397,False,Oregon State,Arizona State,14,24,3,12,19,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103857901,Pass Reception,2,3,66,34,2.534839687508942,False,Oregon State,Arizona State,14,24,3,14,20,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103868901,Pass Incompletion,2,1,19,81,-0.635415870732274,False,Oregon State,Arizona State,14,24,3,13,10,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103864901,Pass Reception,1,10,28,72,0.669445675164459,False,Oregon State,Arizona State,14,24,3,13,50,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103919901,Pass Incompletion,1,10,72,28,-0.7982008475508557,False,Oregon State,Arizona State,14,24,3,8,0,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103968001,Passing Touchdown,2,7,20,80,2.794788688811137,True,Oregon State,Arizona State,21,24,3,3,19,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103955901,Pass Reception,2,15,39,61,1.8751413482376602,False,Oregon State,Arizona State,14,24,3,4,40,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103916401,Pass Reception,2,3,80,20,0.4211120341672521,False,Oregon State,Arizona State,14,24,3,8,35,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308103979402,Pass Reception,1,10,75,25,1.124751479041831,False,Oregon State,Arizona State,21,24,3,2,5,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308104894401,Passing Touchdown,3,8,67,33,6.820285652976471,True,Oregon State,Arizona State,28,27,4,10,55,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308104938401,Pass Incompletion,2,9,64,36,-0.6839286311037895,False,Oregon State,Arizona State,28,27,4,6,15,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308104927401,Pass Reception,2,7,79,21,1.4606621352654487,False,Oregon State,Arizona State,28,27,4,7,25,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548308104965401,Pass Reception,3,12,56,44,1.135265818983326,False,Oregon State,Arizona State,28,27,4,3,45,12,Arizona State,2014,Oregon State,Sean Mannion,2015
+400548314101888309,Pass Reception,2,10,35,35,-0.7032689720266774,False,Washington,Oregon State,0,7,1,11,16,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101888308,Pass Incompletion,1,10,35,35,-0.6918622905019662,False,Washington,Oregon State,0,7,1,11,16,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101888307,Pass Reception,1,10,49,49,0.7897417678602923,False,Washington,Oregon State,0,7,1,11,16,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101888310,Pass Incompletion,3,9,34,34,-1.0267863164886872,False,Washington,Oregon State,0,7,1,11,16,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101888304,Pass Incompletion,1,10,71,71,-0.8305196050291288,False,Washington,Oregon State,0,7,1,11,16,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101888306,Pass Reception,3,4,65,65,2.6446856255295694,False,Washington,Oregon State,0,7,1,11,16,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101956107,Pass Reception,3,8,22,22,0.0428288821172114,False,Washington,Oregon State,0,14,1,4,38,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101956105,Pass Incompletion,1,10,24,24,-0.4346450377339437,False,Washington,Oregon State,0,14,1,4,38,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101956101,Pass Reception,1,10,59,59,1.6482342547846314,False,Washington,Oregon State,0,14,1,4,38,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101956108,Pass Reception,4,3,17,17,-3.6250216544660514,False,Washington,Oregon State,0,14,1,4,38,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101956103,Pass Incompletion,2,9,35,35,-0.898580349128384,False,Washington,Oregon State,0,14,1,4,38,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314101956104,Pass Reception,3,9,35,35,1.776976275448533,False,Washington,Oregon State,0,14,1,4,38,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102896703,Pass Reception,3,15,78,78,0.0355673123187037,False,Washington,Oregon State,0,17,2,10,32,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102945604,Pass Incompletion,2,25,95,95,-0.01782657349281802,False,Washington,Oregon State,0,17,2,5,43,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102976901,Passing Touchdown,1,9,9,9,2.424237823646468,True,Washington,Oregon State,7,17,2,2,30,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102945603,Pass Incompletion,1,25,95,95,-0.04124380424867358,False,Washington,Oregon State,0,17,2,5,43,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102945605,Pass Reception,3,25,95,95,4.73245880147458,False,Washington,Oregon State,0,17,2,5,43,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102945607,Pass Reception,2,8,21,21,0.160127546559868,False,Washington,Oregon State,0,17,2,5,43,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102987901,Pass Reception,1,10,67,67,0.1068735075937823,False,Washington,Oregon State,7,17,2,1,20,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102987902,Pass Reception,2,5,62,62,-0.1551664723485473,False,Washington,Oregon State,7,17,2,1,20,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314102994901,Pass Incompletion,3,1,58,58,-0.9553787222018348,False,Washington,Oregon State,7,17,2,0,50,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314103875701,Pass Reception,1,10,69,69,2.943313327043821,False,Washington,Oregon State,7,17,3,12,42,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314103875702,Pass Interception Return,1,10,23,23,-4.3360223219287715,False,Washington,Oregon State,7,17,3,12,42,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314103897803,Pass Reception,3,3,62,62,-0.9344410230431404,False,Washington,Oregon State,7,20,3,10,21,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314103955303,Pass Incompletion,3,4,71,71,-0.39384507400369273,False,Washington,Oregon State,7,23,3,4,46,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314103994501,Passing Touchdown,3,5,11,11,2.8589237054296905,True,Washington,Oregon State,13,23,3,0,54,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104869205,Pass Reception,2,6,71,71,-0.6509048869110972,False,Washington,Oregon State,13,30,4,13,7,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104869204,Pass Reception,1,10,75,75,-0.1142886249388964,False,Washington,Oregon State,13,30,4,13,7,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104869210,Pass Incompletion,2,10,53,53,-0.9619971707978011,False,Washington,Oregon State,13,30,4,13,7,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104869209,Pass Incompletion,1,10,53,53,-1.1527089917962545,False,Washington,Oregon State,13,30,4,13,7,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104869206,Pass Reception,3,6,71,71,1.7924378379935648,False,Washington,Oregon State,13,30,4,13,7,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104869208,Pass Reception,1,20,73,73,2.7378112389318217,False,Washington,Oregon State,13,30,4,13,7,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929001,Pass Reception,1,10,82,82,-0.2150808966639328,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929007,Pass Reception,2,7,50,50,1.366653159657524,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929008,Pass Reception,1,10,39,39,0.086001265551813,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929014,Pass Incompletion,1,9,9,9,-0.315798379566314,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929005,Pass Reception,3,1,62,62,1.7170035719326044,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929003,Pass Reception,1,10,71,71,-0.5291040057203755,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929011,Pass Reception,1,10,22,22,0.464651193572722,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929009,Pass Incompletion,2,5,34,34,-0.834862003904032,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929016,Pass Reception,3,9,9,9,-0.042479503078356,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929015,Pass Incompletion,2,9,9,9,-0.270076451519454,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929012,Pass Incompletion,2,2,14,14,-0.526950216053992,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929010,Pass Reception,3,5,34,34,1.24167652663531,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929004,Pass Reception,2,8,69,69,0.4924178729694279,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548314104929002,Pass Reception,2,7,79,79,0.9277622732018189,False,Washington,Oregon State,13,37,4,7,9,13,Washington,2014,Oregon State,Sean Mannion,2015
+400548320101878901,Pass Incompletion,1,10,57,43,-1.15714755134967,False,Oregon State,Oregon,0,6,1,12,10,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320101896201,Pass Reception,2,10,39,61,0.816992639830001,False,Oregon State,Oregon,0,6,1,10,37,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320101965601,Pass Reception,3,8,61,39,0.36568305218661035,False,Oregon State,Oregon,0,9,1,3,43,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320101964601,Pass Incompletion,2,8,61,39,-0.8373064649049704,False,Oregon State,Oregon,0,9,1,3,53,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320101954201,Pass Reception,2,2,67,33,0.116807471082506,False,Oregon State,Oregon,0,9,1,4,57,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102859701,Pass Reception,1,10,77,23,0.090922002905697,False,Oregon State,Oregon,0,16,2,14,2,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102865901,Pass Incompletion,2,5,72,28,-0.6922204692512759,False,Oregon State,Oregon,0,16,2,13,40,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102878701,Pass Incompletion,1,10,72,28,-0.7982008475508557,False,Oregon State,Oregon,0,23,2,12,12,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102879801,Pass Incompletion,3,10,72,28,-0.19252985967911143,False,Oregon State,Oregon,0,23,2,12,1,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102879201,Pass Incompletion,2,10,72,28,-0.41175635476850303,False,Oregon State,Oregon,0,23,2,12,7,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102929301,Pass Incompletion,2,14,58,42,-0.6324591236193173,False,Oregon State,Oregon,0,30,2,7,6,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102907801,Pass Reception,2,10,69,31,-0.08946312699115921,False,Oregon State,Oregon,0,30,2,9,21,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102934901,Pass Reception,3,19,63,37,1.704370569449245,False,Oregon State,Oregon,0,30,2,6,50,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102906301,Pass Incompletion,1,10,69,31,-0.8947814664467213,False,Oregon State,Oregon,0,30,2,9,36,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102915801,Pass Reception,3,6,65,35,2.406638060867722,False,Oregon State,Oregon,0,30,2,8,41,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102999801,Pass Incompletion,2,17,22,78,-0.7083267963829433,False,Oregon State,Oregon,0,30,2,0,1,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102975101,Pass Incompletion,1,10,39,61,-0.814236079442537,False,Oregon State,Oregon,0,30,2,2,48,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102967301,Pass Incompletion,2,5,45,55,-1.1417165513541647,False,Oregon State,Oregon,0,30,2,3,26,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102985101,Pass Reception,3,5,34,66,1.100998108685658,False,Oregon State,Oregon,0,30,2,1,48,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102968201,Pass Reception,3,5,45,55,1.7408700541882265,False,Oregon State,Oregon,0,30,2,3,17,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102987801,Pass Incompletion,1,10,29,71,-0.534372502378378,False,Oregon State,Oregon,0,30,2,1,21,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102998501,Pass Reception,4,1,20,80,0.7970525661432712,False,Oregon State,Oregon,0,30,2,0,14,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320102997401,Pass Reception,3,6,25,75,0.0534649057055657,False,Oregon State,Oregon,0,30,2,0,25,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103905601,Pass Reception,1,10,65,35,-0.1595952673507188,False,Oregon State,Oregon,3,33,3,9,43,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103945301,Passing Touchdown,3,7,20,80,3.251250020179425,True,Oregon State,Oregon,10,33,3,5,46,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103915701,Pass Reception,3,3,58,42,2.107272914780795,False,Oregon State,Oregon,3,33,3,8,42,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103925701,Pass Incompletion,2,10,35,65,-0.9144980156718301,False,Oregon State,Oregon,3,33,3,7,42,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103926901,Pass Reception,3,10,35,65,0.0559246993740743,False,Oregon State,Oregon,3,33,3,7,30,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103925101,Pass Incompletion,1,10,35,65,-0.6918622905019662,False,Oregon State,Oregon,3,33,3,7,48,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103929401,Pass Reception,4,5,30,70,1.8590467125054495,False,Oregon State,Oregon,3,33,3,7,5,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103944701,Pass Incompletion,2,7,20,80,-0.456461331368288,False,Oregon State,Oregon,3,33,3,5,52,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103999901,Pass Incompletion,2,7,44,56,-1.0972327822548973,False,Oregon State,Oregon,10,40,3,0,0,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104856501,Pass Reception,1,10,26,74,1.2555503896768434,False,Oregon State,Oregon,10,40,4,14,34,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103979701,Pass Incompletion,1,10,65,35,-1.0146424556055624,False,Oregon State,Oregon,10,40,3,2,2,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320103989601,Pass Reception,3,7,62,38,2.90349909614845,False,Oregon State,Oregon,10,40,3,1,3,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104887001,Pass Incompletion,1,10,74,26,-0.7342478781140684,False,Oregon State,Oregon,17,40,4,11,29,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104889401,Pass Reception,2,10,74,26,-0.4161003712951965,False,Oregon State,Oregon,17,40,4,11,5,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104895901,Pass Incompletion,3,11,75,25,-0.14229746614608363,False,Oregon State,Oregon,17,40,4,10,40,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104937001,Pass Incompletion,2,10,76,24,-0.3277685291678001,False,Oregon State,Oregon,17,47,4,6,29,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104936601,Pass Incompletion,1,10,76,24,-0.6723571521309859,False,Oregon State,Oregon,17,47,4,6,33,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104976901,Pass Incompletion,2,9,16,84,-0.3760447922386218,False,Oregon State,Oregon,19,47,4,2,30,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104969901,Pass Reception,1,10,42,58,0.71503236878771,False,Oregon State,Oregon,19,47,4,3,0,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104994401,Pass Reception,3,40,47,53,0.32393277798194475,False,Oregon State,Oregon,19,47,4,0,55,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104997901,Pass Reception,1,10,31,69,0.250153461002357,False,Oregon State,Oregon,19,47,4,0,20,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104998401,Pass Incompletion,1,10,18,82,-0.350740748439042,False,Oregon State,Oregon,19,47,4,0,15,14,Oregon,2014,Oregon State,Sean Mannion,2015
+400548320104999901,Pass Incompletion,2,10,18,82,-0.423613027815584,False,Oregon State,Oregon,19,47,4,0,0,14,Oregon,2014,Oregon State,Sean Mannion,2015

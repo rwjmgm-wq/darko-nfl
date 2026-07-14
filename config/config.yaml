@@ -1,0 +1,107 @@
+# DARKO NFL Configuration File
+
+# Data paths
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  cache_dir: "data/cache"
+
+# NFL Data Settings
+nfl_data:
+  start_year: 2006  # CPOE available from 2006 onwards
+  end_year: 2024
+  update_frequency: "daily"  # daily, weekly, or manual
+
+# College Football Data API
+cfb_data:
+  api_key: ""  # Add your collegefootballdata.com API key
+  start_year: 2014
+
+# PFF Data Settings (if available)
+pff_data:
+  enabled: false
+  data_path: ""  # Path to PFF data if you have it
+
+# Exponential Decay Parameters
+decay:
+  epa_beta: 0.996      # Decay rate for EPA (daily)
+  cpoe_beta: 0.995     # Decay rate for CPOE (daily)
+  success_beta: 0.996  # Decay rate for success rate
+  default_beta: 0.997  # Default decay for other metrics
+
+# Age Curve Parameters
+age_curves:
+  peak_age: 28
+  retirement_age: 40
+  min_attempts: 100  # Minimum attempts to include in age curve fitting
+
+# Bayesian Prior Parameters
+priors:
+  league_avg_epa: 0.0      # League average EPA per play
+  league_avg_cpoe: 0.0     # League average CPOE
+  league_avg_success: 0.5  # League average success rate
+  prior_weight: 200        # Equivalent attempts for prior (regression strength)
+
+# Kalman Filter Parameters
+kalman:
+  auto_tune: true          # Use EM algorithm to learn optimal parameters
+  em_iterations: 10        # Number of EM iterations for auto-tuning
+  process_noise: 0.02      # Initial process noise (skill change per game)
+  observation_noise: 0.15  # Initial observation noise (game-to-game variance)
+
+# Context Adjustment Parameters (Weather, Game Script, Situation)
+context:
+  use_ridge: true          # Use Ridge regression (vs OLS)
+  ridge_alpha: 1.0         # Regularization strength (higher = more regularization)
+  include_weather: true    # Adjust for temperature, wind, precipitation
+  include_game_script: true  # Adjust for score differential, time
+  include_situation: true  # Adjust for down, distance, field position
+
+# Rookie Parameters
+rookie:
+  college_weight: 0.3        # Weight for college stats in Year 1
+  draft_position_weight: 0.2 # Weight for draft position prior
+  faster_learning: true      # Use higher learning rate for rookies
+  learning_rate_multiplier: 1.5
+
+# Projection Parameters
+projections:
+  games_to_project: 17     # Full season projection
+  confidence_level: 0.95   # For confidence intervals
+  min_attempts_confidence: 50  # Min attempts before full confidence
+
+# Composite Metric (LEAF Rating)
+# Weights optimized via holdout validation (2020-2022 -> 2023)
+# Correlation with future EPA improved from 0.884 to 0.906 (+2.4%)
+composite:
+  # Component weights (should sum to 1.0)
+  # Validated using grid search + predictive power analysis
+  weights:
+    epa: 0.65           # EPA is dominant predictor (r=0.886 w/ Kalman+Opp-Adj)
+    cpoe: 0.15          # Accuracy component (r=0.574 w/ Kalman, less predictive than expected)
+    success_rate: 0.20  # Consistency (r=0.879 w/ Kalman+Opp-Adj, nearly matches EPA!)
+    situational: 0.00   # Removed - too noisy in small samples (hurts prediction)
+  plays_per_game: 35.0  # Average QB plays per game for per-game conversion
+  replacement_percentile: 25.0  # Replacement level for WAR calculation
+  points_per_win: 25.0  # Points needed for one additional win
+
+# Analysis Settings
+analysis:
+  situational_splits: false  # Generate detailed situational analysis
+  min_attempts_situation: 10  # Min attempts per situation to include
+
+# Validation Settings
+validation:
+  test_years: [2023, 2024]  # Years to hold out for testing
+  cv_folds: 5               # Cross-validation folds
+
+# Model Parameters
+models:
+  random_state: 42  # For reproducibility
+  n_jobs: -1        # Use all CPU cores
+
+# Output Settings
+output:
+  save_daily: true
+  save_format: "csv"  # csv, parquet, or both
+  include_confidence_intervals: true

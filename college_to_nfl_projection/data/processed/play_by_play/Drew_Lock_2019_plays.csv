@@ -1,0 +1,426 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401012255.0,Pass Incompletion,,,64.0,36.0,-0.6269199848175049,False,Missouri,UT Martin,51.0,14.0,4,12,3,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,62.0,38.0,-0.8343995809555054,False,Missouri,UT Martin,51.0,14.0,4,12,3,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,21.0,79.0,-0.4262270927429199,False,Missouri,UT Martin,48.0,14.0,4,15,0,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,20.0,80.0,-0.8821337223052979,False,Missouri,UT Martin,48.0,14.0,4,15,0,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,59.0,41.0,-0.8427762985229492,False,Missouri,UT Martin,48.0,14.0,3,1,39,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,59.0,41.0,2.931825637817383,False,Missouri,UT Martin,48.0,14.0,3,1,39,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,82.0,18.0,2.0368266105651855,False,Missouri,UT Martin,45.0,7.0,3,9,58,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,38.0,62.0,0.597956657409668,False,Missouri,UT Martin,45.0,7.0,3,9,58,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,14.0,86.0,-1.7508316040039062,False,Missouri,UT Martin,45.0,7.0,3,9,58,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Passing Touchdown,,,70.0,30.0,4.03530216217041,True,Missouri,UT Martin,45.0,7.0,3,13,14,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,75.0,25.0,0.30783867835998535,False,Missouri,UT Martin,38.0,7.0,3,15,0,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,64.0,36.0,-3.9855313301086426,False,Missouri,UT Martin,38.0,7.0,3,15,0,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,85.0,15.0,1.5953679084777832,False,Missouri,UT Martin,38.0,7.0,2,1,31,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Passing Touchdown,,,5.0,95.0,2.1174521446228027,True,Missouri,UT Martin,38.0,7.0,2,2,43,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,63.0,37.0,0.6381306648254395,False,Missouri,UT Martin,31.0,7.0,2,6,54,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,55.0,45.0,-0.13453984260559082,False,Missouri,UT Martin,31.0,7.0,2,6,54,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,50.0,50.0,0.7844994068145752,False,Missouri,UT Martin,31.0,7.0,2,6,54,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,11.0,89.0,-0.5153689384460449,False,Missouri,UT Martin,31.0,7.0,2,6,54,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,74.0,26.0,3.222740411758423,False,Missouri,UT Martin,28.0,7.0,2,9,34,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,12.0,88.0,-0.5346846580505371,False,Missouri,UT Martin,28.0,7.0,2,9,34,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,8.0,92.0,-1.6338131427764893,False,Missouri,UT Martin,28.0,7.0,2,9,34,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Passing Touchdown,,,31.0,69.0,3.720332145690918,True,Missouri,UT Martin,28.0,0.0,2,12,55,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,33.0,67.0,-0.4608042240142822,False,Missouri,UT Martin,21.0,0.0,2,14,12,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,59.0,41.0,0.1741011142730713,False,Missouri,UT Martin,14.0,0.0,1,4,30,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,50.0,50.0,1.5161073207855225,False,Missouri,UT Martin,14.0,0.0,1,4,30,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,24.0,76.0,-0.6671538352966309,False,Missouri,UT Martin,14.0,0.0,1,4,30,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,24.0,76.0,1.1325640678405762,False,Missouri,UT Martin,14.0,0.0,1,4,30,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,14.0,86.0,-0.5710558891296387,False,Missouri,UT Martin,14.0,0.0,1,4,30,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Passing Touchdown,,,34.0,66.0,2.607532024383545,True,Missouri,UT Martin,14.0,0.0,1,7,22,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Incompletion,,,44.0,56.0,-0.7961781024932861,False,Missouri,UT Martin,7.0,0.0,1,7,57,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,51.0,49.0,0.8744461536407471,False,Missouri,UT Martin,0.0,0.0,1,13,56,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,40.0,60.0,0.5113470554351807,False,Missouri,UT Martin,0.0,0.0,1,13,56,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,32.0,68.0,2.013178586959839,False,Missouri,UT Martin,0.0,0.0,1,13,56,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012255.0,Pass Reception,,,15.0,85.0,0.07029294967651367,False,Missouri,UT Martin,0.0,0.0,1,13,56,1,UT Martin,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,49.0,51.0,1.3945913314819336,False,Missouri,Wyoming,37.0,10.0,4,11,16,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,25.0,75.0,-1.4079108238220215,False,Missouri,Wyoming,37.0,10.0,4,11,16,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Passing Touchdown,,,14.0,86.0,2.7733545303344727,True,Missouri,Wyoming,37.0,10.0,4,13,5,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,56.0,44.0,0.9264822006225586,False,Missouri,Wyoming,30.0,10.0,4,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,49.0,51.0,3.055392265319824,False,Missouri,Wyoming,30.0,10.0,4,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,14.0,86.0,-0.8342604637145996,False,Missouri,Wyoming,30.0,10.0,4,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,58.0,42.0,-0.5624899864196777,False,Missouri,Wyoming,30.0,10.0,3,0,24,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,70.0,30.0,1.411463737487793,False,Missouri,Wyoming,30.0,10.0,3,2,51,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Passing Touchdown,,,12.0,88.0,1.2235627174377441,True,Missouri,Wyoming,30.0,3.0,3,4,37,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,63.0,37.0,0.4151747226715088,False,Missouri,Wyoming,23.0,3.0,3,7,29,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,25.0,75.0,0.6331620216369629,False,Missouri,Wyoming,23.0,3.0,3,7,29,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Passing Touchdown,,,28.0,72.0,2.6351280212402344,True,Missouri,Wyoming,23.0,0.0,3,10,16,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,77.0,23.0,2.1711807250976562,False,Missouri,Wyoming,16.0,0.0,3,14,55,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,43.0,57.0,-0.8774740695953369,False,Missouri,Wyoming,16.0,0.0,3,14,55,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,43.0,57.0,1.0235645771026611,False,Missouri,Wyoming,16.0,0.0,3,14,55,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,28.0,72.0,-0.5686273574829102,False,Missouri,Wyoming,16.0,0.0,3,14,55,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Passing Touchdown,,,19.0,81.0,2.6327829360961914,True,Missouri,Wyoming,16.0,0.0,2,0,32,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,24.0,76.0,0.3079257011413574,False,Missouri,Wyoming,10.0,0.0,2,0,51,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,37.0,63.0,1.1245362758636475,False,Missouri,Wyoming,10.0,0.0,2,1,14,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,29.0,71.0,0.2518584728240967,False,Missouri,Wyoming,10.0,0.0,2,1,14,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,73.0,27.0,-0.5058131217956543,False,Missouri,Wyoming,10.0,0.0,2,2,23,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,73.0,27.0,0.831328272819519,False,Missouri,Wyoming,10.0,0.0,2,2,23,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,60.0,40.0,-0.5321863293647766,False,Missouri,Wyoming,10.0,0.0,2,2,23,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,52.0,48.0,0.33201396465301514,False,Missouri,Wyoming,10.0,0.0,2,2,23,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,41.0,59.0,-0.15114045143127441,False,Missouri,Wyoming,10.0,0.0,2,2,23,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,93.0,7.0,3.569145679473877,False,Missouri,Wyoming,3.0,0.0,2,8,56,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,52.0,48.0,0.8609659671783447,False,Missouri,Wyoming,3.0,0.0,2,8,56,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,22.0,78.0,0.4977145195007324,False,Missouri,Wyoming,3.0,0.0,2,8,56,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,78.0,22.0,2.4728920459747314,False,Missouri,Wyoming,3.0,0.0,2,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,48.0,52.0,-0.978693962097168,False,Missouri,Wyoming,3.0,0.0,2,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,48.0,52.0,1.8623812198638916,False,Missouri,Wyoming,3.0,0.0,2,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,36.0,64.0,0.07721376419067383,False,Missouri,Wyoming,3.0,0.0,2,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,31.0,69.0,-1.4755150079727173,False,Missouri,Wyoming,3.0,0.0,2,15,0,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,61.0,39.0,0.22088193893432617,False,Missouri,Wyoming,3.0,0.0,1,3,10,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Fumble Recovery (Opponent),,,55.0,45.0,-4.924295425415039,False,Missouri,Wyoming,3.0,0.0,1,3,10,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,68.0,32.0,0.9553438425064087,False,Missouri,Wyoming,0.0,0.0,1,6,50,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,52.0,48.0,0.9183804988861084,False,Missouri,Wyoming,0.0,0.0,1,6,50,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,38.0,62.0,-1.4539985656738281,False,Missouri,Wyoming,0.0,0.0,1,6,50,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,50.0,50.0,0.8336806297302246,False,Missouri,Wyoming,0.0,0.0,1,11,11,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,44.0,56.0,1.4540815353393555,False,Missouri,Wyoming,0.0,0.0,1,13,50,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Incompletion,,,32.0,68.0,-0.6067814826965332,False,Missouri,Wyoming,0.0,0.0,1,13,50,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012267.0,Pass Reception,,,29.0,71.0,-1.4650194644927979,False,Missouri,Wyoming,0.0,0.0,1,13,50,2,Wyoming,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,75.0,75.0,-0.6038125157356262,False,Purdue,Missouri,37.0,37.0,4,3,28,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,75.0,75.0,1.820451021194458,False,Purdue,Missouri,37.0,37.0,4,3,28,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,39.0,39.0,1.2037408351898193,False,Purdue,Missouri,37.0,37.0,4,3,28,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,75.0,75.0,0.8396141529083252,False,Purdue,Missouri,37.0,34.0,4,12,16,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,57.0,57.0,0.49294114112854004,False,Purdue,Missouri,37.0,34.0,4,12,16,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,43.0,43.0,0.3874199390411377,False,Purdue,Missouri,37.0,34.0,4,12,16,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,35.0,35.0,-1.7809267044067383,False,Purdue,Missouri,37.0,34.0,4,12,16,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Interception Return,,,19.0,19.0,-3.4542365074157715,False,Purdue,Missouri,37.0,34.0,4,12,16,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Sack,,,57.0,57.0,-1.756993055343628,False,Purdue,Missouri,37.0,27.0,4,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,73.0,73.0,-0.9902624487876892,False,Purdue,Missouri,37.0,27.0,4,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,64.0,64.0,0.053894758224487305,False,Purdue,Missouri,37.0,27.0,3,1,23,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,51.0,51.0,6.023853302001953,False,Purdue,Missouri,34.0,27.0,3,3,53,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,22.0,22.0,0.45124340057373047,False,Purdue,Missouri,34.0,27.0,3,3,53,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,75.0,75.0,0.09496775269508362,False,Purdue,Missouri,27.0,27.0,3,8,27,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,72.0,72.0,0.12417817115783691,False,Purdue,Missouri,27.0,17.0,2,2,42,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,64.0,64.0,-0.4675116539001465,False,Purdue,Missouri,27.0,17.0,2,2,42,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,64.0,64.0,0.9464825391769409,False,Purdue,Missouri,27.0,17.0,2,2,42,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,48.0,48.0,0.9149773120880127,False,Purdue,Missouri,27.0,17.0,2,2,42,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,38.0,38.0,0.40988993644714355,False,Purdue,Missouri,27.0,17.0,2,2,42,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,32.0,32.0,-0.5409469604492188,False,Purdue,Missouri,27.0,17.0,2,2,42,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Passing Touchdown,,,2.0,2.0,1.1068553924560547,True,Purdue,Missouri,27.0,10.0,2,7,10,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,57.0,57.0,0.740156888961792,False,Purdue,Missouri,20.0,10.0,2,10,17,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,52.0,52.0,0.4465327262878418,False,Purdue,Missouri,20.0,10.0,2,10,17,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,40.0,40.0,4.595497131347656,False,Purdue,Missouri,20.0,10.0,2,10,17,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Passing Touchdown,,,59.0,59.0,5.604825019836426,True,Purdue,Missouri,20.0,10.0,2,12,33,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,75.0,75.0,-0.6035393476486206,False,Purdue,Missouri,13.0,10.0,2,14,52,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,73.0,73.0,-0.08520407974720001,False,Purdue,Missouri,13.0,10.0,2,14,52,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,58.0,58.0,0.8024475574493408,False,Purdue,Missouri,10.0,7.0,1,4,48,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,28.0,28.0,0.42731189727783203,False,Purdue,Missouri,10.0,7.0,1,4,48,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,13.0,13.0,-0.5633430480957031,False,Purdue,Missouri,10.0,7.0,1,4,48,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,11.0,11.0,-1.1373646259307861,False,Purdue,Missouri,10.0,7.0,1,4,48,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Passing Touchdown,,,21.0,21.0,3.5898261070251465,True,Purdue,Missouri,10.0,7.0,1,5,26,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,75.0,75.0,3.188891887664795,False,Purdue,Missouri,3.0,7.0,1,7,20,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,22.0,22.0,-0.5688884258270264,False,Purdue,Missouri,3.0,7.0,1,7,20,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,75.0,75.0,0.4187847971916199,False,Purdue,Missouri,0.0,0.0,1,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,44.0,44.0,-0.6869878768920898,False,Purdue,Missouri,0.0,0.0,1,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Reception,,,42.0,42.0,2.5733275413513184,False,Purdue,Missouri,0.0,0.0,1,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,22.0,22.0,-0.7766537666320801,False,Purdue,Missouri,0.0,0.0,1,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012279.0,Pass Incompletion,,,22.0,22.0,-3.0746209621429443,False,Purdue,Missouri,0.0,0.0,1,15,0,3,Purdue,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,75.0,25.0,-2.7000651359558105,False,Missouri,Georgia,29.0,43.0,4,1,18,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,75.0,25.0,-0.5247271060943604,False,Missouri,Georgia,29.0,43.0,4,1,34,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,61.0,39.0,-2.8070173263549805,False,Missouri,Georgia,29.0,40.0,4,4,58,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,61.0,39.0,-1.572939157485962,False,Missouri,Georgia,29.0,40.0,4,5,9,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,68.0,32.0,0.8346724510192871,False,Missouri,Georgia,29.0,40.0,4,5,46,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,68.0,32.0,-0.863261878490448,False,Missouri,Georgia,29.0,40.0,4,5,51,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,80.0,20.0,0.8387621641159058,False,Missouri,Georgia,29.0,40.0,4,6,7,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,32.0,68.0,1.6142628192901611,False,Missouri,Georgia,22.0,40.0,4,11,58,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,50.0,50.0,2.9072892665863037,False,Missouri,Georgia,22.0,40.0,4,13,12,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,50.0,50.0,-1.416105031967163,False,Missouri,Georgia,22.0,40.0,4,13,22,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,75.0,25.0,1.320413589477539,False,Missouri,Georgia,22.0,40.0,4,14,51,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,17.0,83.0,1.4285907745361328,False,Missouri,Georgia,14.0,33.0,3,2,49,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,46.0,54.0,2.9921867847442627,False,Missouri,Georgia,14.0,33.0,3,3,24,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,46.0,54.0,-1.070632815361023,False,Missouri,Georgia,14.0,33.0,3,3,28,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,46.0,54.0,-0.6607056856155396,False,Missouri,Georgia,14.0,33.0,3,3,33,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,60.0,40.0,1.305659532546997,False,Missouri,Georgia,14.0,33.0,3,3,53,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,11.0,89.0,-0.8166646957397461,False,Missouri,Georgia,7.0,27.0,3,8,7,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,23.0,77.0,2.180619478225708,False,Missouri,Georgia,7.0,27.0,3,8,26,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,51.0,49.0,1.104625940322876,False,Missouri,Georgia,7.0,27.0,3,10,37,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,65.0,35.0,1.0702359676361084,False,Missouri,Georgia,7.0,27.0,3,10,58,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,63.0,37.0,-1.2571579217910767,False,Missouri,Georgia,7.0,20.0,3,14,16,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,64.0,36.0,-0.9921168088912964,False,Missouri,Georgia,7.0,20.0,3,14,54,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Fumble Recovery (Own),,,69.0,31.0,-2.5219228267669678,False,Missouri,Georgia,7.0,20.0,2,0,51,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,69.0,31.0,-0.18954667448997498,False,Missouri,Georgia,7.0,20.0,2,0,57,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Fumble Recovery (Opponent),,,42.0,58.0,-3.6962599754333496,False,Missouri,Georgia,7.0,20.0,2,2,18,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,49.0,51.0,-0.017490863800048828,False,Missouri,Georgia,7.0,20.0,2,2,59,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,57.0,43.0,1.5444931983947754,False,Missouri,Georgia,7.0,20.0,2,4,8,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,61.0,39.0,-0.11603701114654541,False,Missouri,Georgia,7.0,20.0,2,4,44,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,73.0,27.0,-0.7213921546936035,False,Missouri,Georgia,7.0,13.0,2,5,56,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,75.0,25.0,-0.6556954383850098,False,Missouri,Georgia,7.0,13.0,2,6,33,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,75.0,25.0,-1.2528712749481201,False,Missouri,Georgia,7.0,13.0,2,10,56,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,75.0,25.0,-0.9086927175521851,False,Missouri,Georgia,7.0,13.0,2,10,59,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,75.0,25.0,-0.5620542764663696,False,Missouri,Georgia,7.0,13.0,2,11,6,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Interception Return,,,58.0,42.0,-7.5054707527160645,False,Missouri,Georgia,7.0,10.0,2,11,59,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,68.0,32.0,0.5154052972793579,False,Missouri,Georgia,7.0,10.0,2,13,20,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,7.0,93.0,-0.8252730369567871,False,Missouri,Georgia,0.0,7.0,1,2,13,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,23.0,77.0,1.040928840637207,False,Missouri,Georgia,0.0,7.0,1,3,15,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,41.0,59.0,1.2555880546569824,False,Missouri,Georgia,0.0,7.0,1,3,39,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,23.0,77.0,-0.9405792951583862,False,Missouri,Georgia,0.0,7.0,1,7,14,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,23.0,77.0,-0.7462327480316162,False,Missouri,Georgia,0.0,7.0,1,7,17,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,31.0,69.0,0.7520768642425537,False,Missouri,Georgia,0.0,7.0,1,8,7,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Incompletion,,,40.0,60.0,-1.0124731063842773,False,Missouri,Georgia,0.0,0.0,1,9,28,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,66.0,34.0,1.765021562576294,False,Missouri,Georgia,0.0,0.0,1,10,33,4,Georgia,2018,Missouri,Drew Lock,2019
+401012289.0,Pass Reception,,,71.0,29.0,0.1271207332611084,False,Missouri,Georgia,0.0,0.0,1,11,9,4,Georgia,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,67.0,67.0,0.013097874820232391,False,South Carolina,Missouri,35.0,37.0,4,0,2,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,71.0,71.0,0.498555064201355,False,South Carolina,Missouri,32.0,34.0,4,4,6,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Interception Return,,,87.0,87.0,-2.6407763957977295,False,South Carolina,Missouri,32.0,34.0,4,6,23,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,24.0,24.0,-1.8267611265182495,False,South Carolina,Missouri,29.0,31.0,4,12,56,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Interception Return Touchdown,,,83.0,83.0,-4.921360015869141,True,South Carolina,Missouri,23.0,31.0,3,5,0,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,7.0,7.0,-0.9466409683227539,False,South Carolina,Missouri,23.0,31.0,3,5,0,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,7.0,7.0,-1.3448317050933838,False,South Carolina,Missouri,23.0,31.0,3,5,0,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,81.0,81.0,-0.6623054146766663,False,South Carolina,Missouri,23.0,24.0,3,5,15,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,75.0,75.0,-0.06345188617706299,False,South Carolina,Missouri,23.0,14.0,3,15,0,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,71.0,71.0,-1.0575530529022217,False,South Carolina,Missouri,23.0,14.0,3,15,0,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,3.0,3.0,-1.3040361404418945,False,South Carolina,Missouri,20.0,14.0,2,0,30,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,24.0,24.0,2.3841378688812256,False,South Carolina,Missouri,20.0,14.0,2,1,34,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,80.0,80.0,1.2595645189285278,False,South Carolina,Missouri,20.0,14.0,2,4,53,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,65.0,65.0,0.3262099027633667,False,South Carolina,Missouri,20.0,14.0,2,4,53,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,53.0,53.0,-0.41980624198913574,False,South Carolina,Missouri,20.0,14.0,2,4,53,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,52.0,52.0,0.2794489860534668,False,South Carolina,Missouri,20.0,14.0,2,4,53,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,63.0,63.0,-0.6534364819526672,False,South Carolina,Missouri,17.0,14.0,2,8,54,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,61.0,61.0,4.01617956161499,False,South Carolina,Missouri,17.0,14.0,2,8,54,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,27.0,27.0,0.8141217231750488,False,South Carolina,Missouri,17.0,14.0,2,8,54,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,14.0,14.0,-0.7756469249725342,False,South Carolina,Missouri,17.0,14.0,2,8,54,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,14.0,14.0,-1.1445178985595703,False,South Carolina,Missouri,17.0,14.0,2,8,54,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,75.0,75.0,0.17831945419311523,False,South Carolina,Missouri,17.0,14.0,2,12,57,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,63.0,63.0,-0.5971392393112183,False,South Carolina,Missouri,17.0,14.0,2,12,57,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,63.0,63.0,0.06781566143035889,False,South Carolina,Missouri,17.0,14.0,2,12,57,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,61.0,61.0,-1.496895670890808,False,South Carolina,Missouri,17.0,14.0,2,12,57,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,4.0,4.0,-1.6695096492767334,False,South Carolina,Missouri,14.0,7.0,2,15,0,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,62.0,62.0,0.4387667179107666,False,South Carolina,Missouri,14.0,7.0,1,2,53,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,55.0,55.0,1.2395601272583008,False,South Carolina,Missouri,7.0,7.0,1,6,40,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,75.0,75.0,0.9186275005340576,False,South Carolina,Missouri,7.0,7.0,1,11,2,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Sack,,,63.0,63.0,-1.6490360498428345,False,South Carolina,Missouri,7.0,7.0,1,11,2,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Incompletion,,,56.0,56.0,-0.980628490447998,False,South Carolina,Missouri,0.0,0.0,1,13,14,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012305.0,Pass Reception,,,45.0,45.0,3.2268879413604736,False,South Carolina,Missouri,0.0,0.0,1,13,14,6,South Carolina,2018,Missouri,Drew Lock,2019
+401012307.0,Interception Return,,,8.0,8.0,-3.044989824295044,False,Alabama,Missouri,10.0,39.0,4,5,54,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,19.0,19.0,1.379176139831543,False,Alabama,Missouri,10.0,39.0,4,8,21,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,25.0,25.0,0.18048715591430664,False,Alabama,Missouri,10.0,39.0,4,9,0,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,25.0,25.0,-0.5259170532226562,False,Alabama,Missouri,10.0,39.0,4,9,9,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,34.0,34.0,3.6025490760803223,False,Alabama,Missouri,10.0,39.0,4,9,12,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Sack,,,33.0,33.0,-1.6039338111877441,False,Alabama,Missouri,10.0,39.0,4,10,2,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,57.0,57.0,0.3336171805858612,False,Alabama,Missouri,10.0,39.0,4,11,34,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Safety,,,94.0,94.0,-0.23497223854064941,True,Alabama,Missouri,10.0,32.0,3,0,0,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,64.0,64.0,-0.7947904467582703,False,Alabama,Missouri,10.0,30.0,3,4,29,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Sack,,,56.0,56.0,-2.376420736312866,False,Alabama,Missouri,10.0,30.0,3,10,40,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,59.0,59.0,-0.853980541229248,False,Alabama,Missouri,10.0,30.0,3,11,30,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,74.0,74.0,-0.9864349365234375,False,Alabama,Missouri,10.0,30.0,3,13,36,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,75.0,75.0,0.583057701587677,False,Alabama,Missouri,10.0,30.0,3,14,50,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,52.0,52.0,-0.6506152153015137,False,Alabama,Missouri,10.0,30.0,2,1,23,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,58.0,58.0,-0.059986233711242676,False,Alabama,Missouri,10.0,30.0,2,1,35,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,58.0,58.0,-0.4700900912284851,False,Alabama,Missouri,10.0,30.0,2,1,41,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,75.0,75.0,0.6292441487312317,False,Alabama,Missouri,10.0,30.0,2,2,25,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,55.0,55.0,0.1498393714427948,False,Alabama,Missouri,10.0,27.0,2,6,50,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,78.0,78.0,3.678833484649658,False,Alabama,Missouri,10.0,27.0,2,8,30,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Fumble Recovery (Opponent),,,69.0,69.0,-4.688290596008301,False,Alabama,Missouri,10.0,20.0,2,10,15,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Passing Touchdown,,,20.0,20.0,2.454779624938965,True,Alabama,Missouri,10.0,13.0,1,0,2,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,37.0,37.0,1.2790603637695312,False,Alabama,Missouri,0.0,10.0,1,6,15,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,48.0,48.0,-0.5652221441268921,False,Alabama,Missouri,0.0,10.0,1,8,24,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,58.0,58.0,-1.3630000352859497,False,Alabama,Missouri,0.0,10.0,1,10,42,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Incompletion,,,58.0,58.0,-0.9254752397537231,False,Alabama,Missouri,0.0,10.0,1,10,47,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Pass Reception,,,83.0,83.0,3.2861695289611816,False,Alabama,Missouri,0.0,10.0,1,11,36,7,Alabama,2018,Missouri,Drew Lock,2019
+401012307.0,Interception Return,,,68.0,68.0,-5.692047119140625,False,Alabama,Missouri,0.0,7.0,1,14,0,7,Alabama,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,44.0,56.0,-0.8605403900146484,False,Missouri,Memphis,62.0,27.0,4,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,44.0,56.0,2.480426549911499,False,Missouri,Memphis,62.0,27.0,4,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,19.0,81.0,-1.384533405303955,False,Missouri,Memphis,62.0,27.0,4,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,65.0,35.0,0.9800171852111816,False,Missouri,Memphis,62.0,27.0,3,2,2,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Passing Touchdown,,,23.0,77.0,1.6496543884277344,True,Missouri,Memphis,55.0,27.0,3,4,26,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,85.0,15.0,1.388442039489746,False,Missouri,Memphis,48.0,27.0,3,8,55,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,57.0,43.0,1.0312705039978027,False,Missouri,Memphis,48.0,27.0,3,8,55,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,53.0,47.0,0.19542932510375977,False,Missouri,Memphis,48.0,27.0,3,8,55,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,42.0,58.0,0.654273509979248,False,Missouri,Memphis,48.0,27.0,3,8,55,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,75.0,25.0,0.59393310546875,False,Missouri,Memphis,48.0,20.0,3,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,62.0,38.0,-0.2317793369293213,False,Missouri,Memphis,48.0,20.0,3,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,37.0,63.0,1.019334316253662,False,Missouri,Memphis,48.0,20.0,3,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,20.0,80.0,-0.5609211921691895,False,Missouri,Memphis,48.0,20.0,3,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,20.0,80.0,-0.2971158027648926,False,Missouri,Memphis,48.0,20.0,3,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,15.0,85.0,-4.562475681304932,False,Missouri,Memphis,48.0,20.0,3,15,0,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Passing Touchdown,,,47.0,53.0,5.141229629516602,True,Missouri,Memphis,48.0,20.0,2,1,7,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,75.0,25.0,0.009899735450744629,False,Missouri,Memphis,41.0,20.0,2,2,41,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,67.0,33.0,0.5859056711196899,False,Missouri,Memphis,41.0,20.0,2,2,41,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,58.0,42.0,-0.2752307653427124,False,Missouri,Memphis,41.0,20.0,2,2,41,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,52.0,48.0,-0.05796647071838379,False,Missouri,Memphis,41.0,20.0,2,2,41,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Passing Touchdown,,,44.0,56.0,3.433690309524536,True,Missouri,Memphis,34.0,17.0,2,8,28,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Passing Touchdown,,,58.0,42.0,3.618893623352051,True,Missouri,Memphis,27.0,17.0,2,8,47,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,66.0,34.0,2.6158549785614014,False,Missouri,Memphis,21.0,17.0,2,9,16,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,75.0,25.0,-0.5729255080223083,False,Missouri,Memphis,21.0,17.0,2,10,52,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,74.0,26.0,0.04486984759569168,False,Missouri,Memphis,21.0,17.0,2,10,52,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,75.0,25.0,-0.15282630920410156,False,Missouri,Memphis,21.0,3.0,1,2,15,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,71.0,29.0,-0.9120181798934937,False,Missouri,Memphis,21.0,3.0,1,2,15,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Incompletion,,,71.0,29.0,-1.6282731294631958,False,Missouri,Memphis,21.0,3.0,1,2,15,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,76.0,24.0,-1.458022117614746,False,Missouri,Memphis,14.0,0.0,1,7,52,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,75.0,25.0,2.569608211517334,False,Missouri,Memphis,14.0,0.0,1,7,52,8,Memphis,2018,Missouri,Drew Lock,2019
+401012317.0,Pass Reception,,,34.0,66.0,0.48279809951782227,False,Missouri,Memphis,14.0,0.0,1,7,52,8,Memphis,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,74.0,26.0,-0.9603615999221802,False,Missouri,Kentucky,14.0,9.0,4,1,41,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,75.0,25.0,-0.5154646635055542,False,Missouri,Kentucky,14.0,9.0,4,5,18,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,75.0,25.0,-0.6712408065795898,False,Missouri,Kentucky,14.0,9.0,4,5,18,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,75.0,25.0,-0.18428249657154083,False,Missouri,Kentucky,14.0,9.0,4,5,18,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Fumble Recovery (Own),,,44.0,56.0,-1.0877082347869873,False,Missouri,Kentucky,14.0,3.0,4,14,5,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,48.0,52.0,-0.8814384937286377,False,Missouri,Kentucky,14.0,3.0,4,14,5,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,80.0,20.0,0.505730390548706,False,Missouri,Kentucky,14.0,3.0,3,2,6,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,45.0,55.0,-0.6095075607299805,False,Missouri,Kentucky,14.0,3.0,3,8,5,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,45.0,55.0,-0.3153076171875,False,Missouri,Kentucky,14.0,3.0,3,8,5,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Fumble Recovery (Own),,,40.0,60.0,-2.9313294887542725,False,Missouri,Kentucky,14.0,3.0,3,8,5,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,78.0,22.0,-1.8185995817184448,False,Missouri,Kentucky,14.0,3.0,3,9,43,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,58.0,42.0,-0.31681180000305176,False,Missouri,Kentucky,14.0,3.0,3,14,53,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,61.0,39.0,-0.9293103218078613,False,Missouri,Kentucky,14.0,3.0,3,14,53,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,2.0,98.0,-0.3411984443664551,False,Missouri,Kentucky,7.0,3.0,2,1,14,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,51.0,49.0,1.9980084896087646,False,Missouri,Kentucky,7.0,3.0,2,4,4,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,82.0,18.0,-0.6328660845756531,False,Missouri,Kentucky,7.0,3.0,2,11,8,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,76.0,24.0,2.0162270069122314,False,Missouri,Kentucky,7.0,3.0,2,11,8,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,60.0,40.0,-0.811895489692688,False,Missouri,Kentucky,7.0,3.0,2,11,8,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,60.0,40.0,-1.3874619007110596,False,Missouri,Kentucky,7.0,3.0,2,11,8,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,10.0,90.0,-1.0101125240325928,False,Missouri,Kentucky,0.0,3.0,2,15,0,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,73.0,27.0,1.9635143280029297,False,Missouri,Kentucky,0.0,3.0,1,3,1,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,40.0,60.0,1.8884752988815308,False,Missouri,Kentucky,0.0,3.0,1,3,1,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,70.0,30.0,-0.6107760667800903,False,Missouri,Kentucky,0.0,3.0,1,11,12,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,68.0,32.0,1.413325548171997,False,Missouri,Kentucky,0.0,3.0,1,11,12,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,61.0,39.0,1.323340654373169,False,Missouri,Kentucky,0.0,3.0,1,11,12,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,51.0,49.0,0.9610469341278076,False,Missouri,Kentucky,0.0,3.0,1,11,12,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Incompletion,,,29.0,71.0,-0.5899994373321533,False,Missouri,Kentucky,0.0,3.0,1,11,12,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012322.0,Pass Reception,,,30.0,70.0,-0.31811046600341797,False,Missouri,Kentucky,0.0,3.0,1,11,12,9,Kentucky,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,70.0,70.0,0.43390536308288574,False,Florida,Missouri,35.0,17.0,4,15,0,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,44.0,44.0,-0.25006651878356934,False,Florida,Missouri,35.0,17.0,4,15,0,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,22.0,22.0,-1.3889386653900146,False,Florida,Missouri,35.0,17.0,4,15,0,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Passing Touchdown,,,4.0,4.0,1.8098387718200684,True,Florida,Missouri,35.0,10.0,3,5,0,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,44.0,44.0,1.2073664665222168,False,Florida,Missouri,28.0,10.0,3,7,51,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,23.0,23.0,-0.6063461303710938,False,Florida,Missouri,28.0,10.0,3,7,51,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,22.0,22.0,1.7786328792572021,False,Florida,Missouri,28.0,10.0,3,7,51,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Passing Touchdown,,,41.0,41.0,3.1400139331817627,True,Florida,Missouri,28.0,10.0,3,10,2,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Sack,,,66.0,66.0,-1.5139135122299194,False,Florida,Missouri,21.0,10.0,3,13,50,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,66.0,66.0,2.1269917488098145,False,Florida,Missouri,21.0,10.0,3,13,50,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,54.0,54.0,0.04742789268493652,False,Florida,Missouri,21.0,10.0,3,13,50,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,47.0,47.0,1.0718817710876465,False,Florida,Missouri,21.0,10.0,3,13,50,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,75.0,75.0,-0.036803603172302246,False,Florida,Missouri,21.0,10.0,2,1,42,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,69.0,69.0,-0.5009261965751648,False,Florida,Missouri,21.0,10.0,2,1,42,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,69.0,69.0,-0.9976401329040527,False,Florida,Missouri,21.0,10.0,2,1,42,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,52.0,52.0,-0.8969817161560059,False,Florida,Missouri,14.0,3.0,2,9,28,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,54.0,54.0,3.4857044219970703,False,Florida,Missouri,14.0,3.0,2,9,28,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,84.0,84.0,-1.7892577648162842,False,Florida,Missouri,14.0,3.0,2,11,54,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Passing Touchdown,,,22.0,22.0,3.2168807983398438,True,Florida,Missouri,14.0,3.0,2,13,12,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,25.0,25.0,-0.1361227035522461,False,Florida,Missouri,7.0,3.0,2,13,59,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,22.0,22.0,-0.7862861156463623,False,Florida,Missouri,7.0,3.0,2,13,59,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,47.0,47.0,0.174454927444458,False,Florida,Missouri,7.0,3.0,1,1,51,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,41.0,41.0,0.47246408462524414,False,Florida,Missouri,7.0,3.0,1,1,51,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,34.0,34.0,-0.8701422214508057,False,Florida,Missouri,7.0,3.0,1,1,51,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,73.0,73.0,-0.7909047603607178,False,Florida,Missouri,0.0,3.0,1,7,13,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,72.0,72.0,2.307457208633423,False,Florida,Missouri,0.0,3.0,1,7,13,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,57.0,57.0,0.6100342273712158,False,Florida,Missouri,0.0,3.0,1,7,13,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,51.0,51.0,0.21634578704833984,False,Florida,Missouri,0.0,3.0,1,7,13,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,38.0,38.0,0.7221667766571045,False,Florida,Missouri,0.0,3.0,1,7,13,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,92.0,92.0,-0.9918231964111328,False,Florida,Missouri,0.0,0.0,1,9,49,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,92.0,92.0,-0.7803189754486084,False,Florida,Missouri,0.0,0.0,1,9,49,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Incompletion,,,76.0,76.0,-0.6833901405334473,False,Florida,Missouri,0.0,0.0,1,15,0,10,Florida,2018,Missouri,Drew Lock,2019
+401012325.0,Pass Reception,,,77.0,77.0,-0.3476128578186035,False,Florida,Missouri,0.0,0.0,1,15,0,10,Florida,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,17.0,83.0,-0.6071405410766602,False,Missouri,Vanderbilt,33.0,28.0,4,3,2,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,63.0,37.0,2.9107391834259033,False,Missouri,Vanderbilt,33.0,28.0,4,4,35,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Interception Return,,,74.0,26.0,-3.4913671016693115,False,Missouri,Vanderbilt,33.0,28.0,4,7,1,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,70.0,30.0,0.7657820582389832,False,Missouri,Vanderbilt,26.0,28.0,4,14,56,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,61.0,39.0,1.7992026805877686,False,Missouri,Vanderbilt,26.0,28.0,4,14,56,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,28.0,72.0,2.6535911560058594,False,Missouri,Vanderbilt,26.0,28.0,4,14,56,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Passing Touchdown,,,20.0,80.0,2.377845287322998,True,Missouri,Vanderbilt,26.0,28.0,3,4,39,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,42.0,58.0,0.5926227569580078,False,Missouri,Vanderbilt,19.0,28.0,3,7,23,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,30.0,70.0,0.837756872177124,False,Missouri,Vanderbilt,19.0,28.0,3,7,23,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Passing Touchdown,,,11.0,89.0,1.8023009300231934,True,Missouri,Vanderbilt,19.0,21.0,3,10,51,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,31.0,69.0,0.2816591262817383,False,Missouri,Vanderbilt,13.0,21.0,3,14,55,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,25.0,75.0,0.9005472660064697,False,Missouri,Vanderbilt,13.0,21.0,3,14,55,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Incompletion,,,25.0,75.0,-0.34326648712158203,False,Missouri,Vanderbilt,10.0,21.0,2,0,49,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,25.0,75.0,-0.4655275344848633,False,Missouri,Vanderbilt,10.0,21.0,2,0,49,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,56.0,44.0,0.5923647880554199,False,Missouri,Vanderbilt,10.0,21.0,2,2,31,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,46.0,54.0,1.4259607791900635,False,Missouri,Vanderbilt,10.0,21.0,2,2,31,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,27.0,73.0,-0.16783738136291504,False,Missouri,Vanderbilt,10.0,21.0,2,2,31,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Sack,,,11.0,89.0,-1.027557373046875,False,Missouri,Vanderbilt,7.0,14.0,2,9,28,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,70.0,30.0,1.1548230648040771,False,Missouri,Vanderbilt,7.0,14.0,2,12,4,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,49.0,51.0,0.6077694892883301,False,Missouri,Vanderbilt,7.0,14.0,2,12,4,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,41.0,59.0,0.32912421226501465,False,Missouri,Vanderbilt,7.0,14.0,2,12,4,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Incompletion,,,34.0,66.0,-0.5833556652069092,False,Missouri,Vanderbilt,7.0,14.0,2,12,4,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Incompletion,,,11.0,89.0,-0.7952785491943359,False,Missouri,Vanderbilt,7.0,14.0,2,12,4,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,76.0,24.0,-1.032128095626831,False,Missouri,Vanderbilt,7.0,14.0,2,15,0,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Incompletion,,,74.0,26.0,-1.2714813947677612,False,Missouri,Vanderbilt,7.0,14.0,1,2,51,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Incompletion,,,53.0,47.0,-0.5704413652420044,False,Missouri,Vanderbilt,7.0,14.0,1,5,59,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Interception Return,,,53.0,47.0,-5.666315078735352,False,Missouri,Vanderbilt,7.0,14.0,1,5,59,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,75.0,25.0,1.0548062324523926,False,Missouri,Vanderbilt,0.0,7.0,1,13,0,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Incompletion,,,64.0,36.0,-0.6272806525230408,False,Missouri,Vanderbilt,0.0,7.0,1,13,0,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,64.0,36.0,4.067895412445068,False,Missouri,Vanderbilt,0.0,7.0,1,13,0,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012335.0,Pass Reception,,,29.0,71.0,-0.06938624382019043,False,Missouri,Vanderbilt,0.0,7.0,1,13,0,11,Vanderbilt,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,40.0,40.0,-1.1440165042877197,False,Tennessee,Missouri,40.0,17.0,4,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,40.0,40.0,2.1010820865631104,False,Tennessee,Missouri,40.0,17.0,4,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,22.0,22.0,-1.229689598083496,False,Tennessee,Missouri,40.0,17.0,4,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,74.0,74.0,0.5449566841125488,False,Tennessee,Missouri,40.0,17.0,3,3,13,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Fumble Recovery (Opponent),,,38.0,38.0,-4.675088882446289,False,Tennessee,Missouri,40.0,17.0,3,6,49,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,58.0,58.0,-0.5768667459487915,False,Tennessee,Missouri,26.0,17.0,3,12,44,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,54.0,54.0,2.6295714378356934,False,Tennessee,Missouri,26.0,17.0,3,12,44,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,26.0,26.0,1.8200368881225586,False,Tennessee,Missouri,26.0,17.0,3,12,44,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Passing Touchdown,,,3.0,3.0,2.5315685272216797,True,Tennessee,Missouri,26.0,10.0,2,0,15,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,11.0,11.0,-0.5049281120300293,False,Tennessee,Missouri,19.0,10.0,2,0,44,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Passing Touchdown,,,8.0,8.0,2.699314594268799,True,Tennessee,Missouri,19.0,10.0,2,1,39,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,77.0,77.0,0.8444141745567322,False,Tennessee,Missouri,13.0,10.0,2,5,36,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,62.0,62.0,0.4885671138763428,False,Tennessee,Missouri,13.0,10.0,2,5,36,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,40.0,40.0,-0.46688199043273926,False,Tennessee,Missouri,13.0,10.0,2,5,36,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,40.0,40.0,1.4986164569854736,False,Tennessee,Missouri,13.0,10.0,2,5,36,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,66.0,66.0,0.299379825592041,False,Tennessee,Missouri,6.0,7.0,2,10,39,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,59.0,59.0,3.0077896118164062,False,Tennessee,Missouri,6.0,7.0,2,10,39,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,52.0,52.0,-0.907856822013855,False,Tennessee,Missouri,6.0,0.0,2,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Sack,,,52.0,52.0,-2.082156181335449,False,Tennessee,Missouri,6.0,0.0,2,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,65.0,65.0,0.5084474086761475,False,Tennessee,Missouri,6.0,0.0,1,0,15,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,47.0,47.0,1.677622675895691,False,Tennessee,Missouri,3.0,0.0,1,6,35,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,19.0,19.0,1.4780900478363037,False,Tennessee,Missouri,3.0,0.0,1,6,35,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,5.0,5.0,-1.4877276420593262,False,Tennessee,Missouri,3.0,0.0,1,6,35,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,53.0,53.0,-0.6374387741088867,False,Tennessee,Missouri,3.0,0.0,1,9,26,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,53.0,53.0,-0.9325315952301025,False,Tennessee,Missouri,3.0,0.0,1,9,26,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,53.0,53.0,-1.3193663358688354,False,Tennessee,Missouri,3.0,0.0,1,9,26,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,60.0,60.0,2.064692497253418,False,Tennessee,Missouri,0.0,0.0,1,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Reception,,,26.0,26.0,0.7466917037963867,False,Tennessee,Missouri,0.0,0.0,1,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012346.0,Pass Incompletion,,,17.0,17.0,-3.3683152198791504,False,Tennessee,Missouri,0.0,0.0,1,15,0,12,Tennessee,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,82.0,18.0,-0.27535927295684814,False,Missouri,Arkansas,38.0,0.0,4,8,57,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,76.0,24.0,-0.9014948606491089,False,Missouri,Arkansas,38.0,0.0,4,8,57,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,48.0,52.0,0.13963913917541504,False,Missouri,Arkansas,38.0,0.0,4,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,51.0,49.0,-0.810448408126831,False,Missouri,Arkansas,38.0,0.0,4,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,56.0,44.0,0.0042078495025634766,False,Missouri,Arkansas,38.0,0.0,3,0,28,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,58.0,42.0,1.1366052627563477,False,Missouri,Arkansas,35.0,0.0,3,6,21,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,9.0,91.0,-2.719707727432251,False,Missouri,Arkansas,35.0,0.0,3,6,21,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Passing Touchdown,,,67.0,33.0,4.613668441772461,True,Missouri,Arkansas,35.0,0.0,3,8,19,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,81.0,19.0,-0.5535938739776611,False,Missouri,Arkansas,28.0,0.0,3,11,50,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,81.0,19.0,0.3489046096801758,False,Missouri,Arkansas,28.0,0.0,3,11,50,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,70.0,30.0,-0.584216833114624,False,Missouri,Arkansas,28.0,0.0,3,11,50,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Passing Touchdown,,,6.0,94.0,2.5002617835998535,True,Missouri,Arkansas,28.0,0.0,2,0,35,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,11.0,89.0,1.1362037658691406,False,Missouri,Arkansas,21.0,0.0,2,1,39,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,55.0,45.0,1.5150448083877563,False,Missouri,Arkansas,21.0,0.0,2,5,21,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,49.0,51.0,2.058260917663574,False,Missouri,Arkansas,21.0,0.0,2,5,21,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,11.0,89.0,-0.5268440246582031,False,Missouri,Arkansas,21.0,0.0,2,5,21,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,66.0,34.0,-0.5246226787567139,False,Missouri,Arkansas,21.0,0.0,2,10,37,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,61.0,39.0,-0.6897974014282227,False,Missouri,Arkansas,21.0,0.0,2,10,37,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,61.0,39.0,-1.4796987771987915,False,Missouri,Arkansas,21.0,0.0,2,10,37,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,27.0,73.0,1.5402169227600098,False,Missouri,Arkansas,7.0,0.0,2,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Incompletion,,,51.0,49.0,-0.5818843841552734,False,Missouri,Arkansas,7.0,0.0,1,4,48,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,48.0,52.0,-0.7539267539978027,False,Missouri,Arkansas,7.0,0.0,1,4,48,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,75.0,25.0,0.4187847971916199,False,Missouri,Arkansas,0.0,0.0,1,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,48.0,52.0,0.6158626079559326,False,Missouri,Arkansas,0.0,0.0,1,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,37.0,63.0,0.17008328437805176,False,Missouri,Arkansas,0.0,0.0,1,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401012354.0,Pass Reception,,,31.0,69.0,1.0674474239349365,False,Missouri,Arkansas,0.0,0.0,1,15,0,13,Arkansas,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,25.0,25.0,2.382382869720459,False,Oklahoma State,Missouri,33.0,38.0,4,2,27,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,75.0,75.0,2.74668025970459,False,Oklahoma State,Missouri,33.0,38.0,4,5,33,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,32.0,32.0,0.6966032981872559,False,Oklahoma State,Missouri,33.0,35.0,4,10,16,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Passing Touchdown,,,86.0,86.0,7.072783470153809,True,Oklahoma State,Missouri,26.0,35.0,4,14,41,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Incompletion,,,48.0,48.0,-2.3578133583068848,False,Oklahoma State,Missouri,19.0,35.0,3,0,41,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,52.0,52.0,-0.39314281940460205,False,Oklahoma State,Missouri,19.0,35.0,3,1,16,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,64.0,64.0,1.605145812034607,False,Oklahoma State,Missouri,19.0,35.0,3,1,49,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,34.0,34.0,3.7461116313934326,False,Oklahoma State,Missouri,16.0,28.0,3,5,55,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,36.0,36.0,-0.8634427785873413,False,Oklahoma State,Missouri,16.0,28.0,3,6,39,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,62.0,62.0,4.277254581451416,False,Oklahoma State,Missouri,16.0,28.0,3,8,2,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,71.0,71.0,-0.20409443974494934,False,Oklahoma State,Missouri,16.0,28.0,3,8,50,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,67.0,67.0,0.8500310778617859,False,Oklahoma State,Missouri,16.0,28.0,3,9,56,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Fumble Recovery (Opponent),,,80.0,80.0,-4.851858139038086,False,Oklahoma State,Missouri,16.0,21.0,3,11,35,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,58.0,58.0,-0.47736287117004395,False,Oklahoma State,Missouri,16.0,14.0,2,0,32,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Incompletion,,,61.0,61.0,-0.13251757621765137,False,Oklahoma State,Missouri,16.0,14.0,2,0,58,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,74.0,74.0,0.606120228767395,False,Oklahoma State,Missouri,16.0,14.0,2,1,17,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Passing Touchdown,,,16.0,16.0,1.2062392234802246,True,Oklahoma State,Missouri,16.0,14.0,2,3,35,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,69.0,69.0,2.332582712173462,False,Oklahoma State,Missouri,10.0,14.0,2,4,21,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,71.0,71.0,-0.4157414734363556,False,Oklahoma State,Missouri,10.0,14.0,2,4,59,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Passing Touchdown,,,5.0,5.0,2.668585777282715,True,Oklahoma State,Missouri,10.0,7.0,2,7,49,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Incompletion,,,24.0,24.0,-0.5581603050231934,False,Oklahoma State,Missouri,3.0,7.0,2,9,35,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Incompletion,,,34.0,34.0,-0.9051802158355713,False,Oklahoma State,Missouri,3.0,7.0,2,10,0,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,45.0,45.0,1.2643842697143555,False,Oklahoma State,Missouri,3.0,7.0,2,10,40,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,53.0,53.0,-0.5297633409500122,False,Oklahoma State,Missouri,3.0,7.0,2,12,2,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,65.0,65.0,-0.3651447296142578,False,Oklahoma State,Missouri,3.0,7.0,2,12,45,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,67.0,67.0,0.8457601070404053,False,Oklahoma State,Missouri,3.0,7.0,1,4,35,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Incompletion,,,7.0,7.0,-1.3384835720062256,False,Oklahoma State,Missouri,0.0,7.0,1,6,50,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Reception,,,64.0,64.0,4.540036201477051,False,Oklahoma State,Missouri,0.0,7.0,1,8,25,1,Oklahoma State,2018,Missouri,Drew Lock,2019
+401032081.0,Pass Incompletion,,,69.0,69.0,-1.6242607831954956,False,Oklahoma State,Missouri,0.0,0.0,1,13,48,1,Oklahoma State,2018,Missouri,Drew Lock,2019

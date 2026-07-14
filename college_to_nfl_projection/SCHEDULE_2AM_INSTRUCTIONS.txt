@@ -1,0 +1,118 @@
+================================================================================
+HOW TO SCHEDULE CFBD JOBS FOR 2 AM EST
+================================================================================
+
+The CFBD API jobs have been stopped to avoid wasting API calls.
+They are scheduled to restart at 2 AM EST when API quotas may have reset.
+
+AUTOMATIC SCHEDULING (Windows Task Scheduler)
+================================================================================
+
+Option 1: Using Task Scheduler GUI
+-----------------------------------
+1. Press Windows Key + R, type "taskschd.msc", press Enter
+2. Click "Create Basic Task" in the right panel
+3. Name: "CFBD Data Collection 2AM"
+4. Trigger: One time → Set date to tonight, time to 2:00 AM
+5. Action: Start a program
+6. Program/script: Browse to:
+   c:\Users\rwjmg\OneDrive\Pictures\Writing\DARKO_NFL\college_to_nfl_projection\start_cfbd_jobs_2am.bat
+7. Click Finish
+
+Option 2: Quick Command (Run as Administrator)
+-----------------------------------------------
+Open PowerShell as Administrator and run:
+
+schtasks /create /tn "CFBD_Data_Collection" /tr "c:\Users\rwjmg\OneDrive\Pictures\Writing\DARKO_NFL\college_to_nfl_projection\start_cfbd_jobs_2am.bat" /sc once /st 02:00 /sd 11/13/2025
+
+(This schedules for 2:00 AM on 11/13/2025)
+
+
+MANUAL START (if you want to start now or manually)
+================================================================================
+
+Option 1: Double-click the batch file
+--------------------------------------
+Navigate to:
+c:\Users\rwjmg\OneDrive\Pictures\Writing\DARKO_NFL\college_to_nfl_projection\start_cfbd_jobs_2am.bat
+
+Double-click it. Two terminal windows will open.
+
+Option 2: Run scripts individually
+-----------------------------------
+Open two separate terminal windows and run:
+
+Terminal 1:
+cd "c:\Users\rwjmg\OneDrive\Pictures\Writing\DARKO_NFL\college_to_nfl_projection"
+python src/fetch_historical_sp_plus_retry.py
+
+Terminal 2:
+cd "c:\Users\rwjmg\OneDrive\Pictures\Writing\DARKO_NFL\college_to_nfl_projection"
+python src/collect_full_college_careers_retry.py
+
+
+WHAT THE JOBS DO
+================================================================================
+
+Job 1: fetch_historical_sp_plus_retry.py
+- Fetches SP+ opponent strength ratings (2003-2023)
+- Retries every 10 minutes if it hits API errors
+- Saves progress incrementally
+- Will run until all 21 years are collected
+
+Job 2: collect_full_college_careers_retry.py
+- Fetches full college career play-by-play for all 124 QBs
+- Retries every 30 minutes if it hits API errors
+- Saves progress incrementally (QB by QB)
+- Will run until all 124 QBs are collected
+
+Both scripts will automatically retry when they hit errors, so you can leave
+them running overnight. They save progress as they go, so they won't lose
+work if interrupted.
+
+
+MONITORING PROGRESS
+================================================================================
+
+The terminal windows will show:
+- Current attempt number
+- How many years/QBs have been collected
+- Percentage complete
+- When the next retry will occur (if blocked)
+
+You can safely close the windows to stop the jobs. Progress is saved,
+so they'll resume where they left off when restarted.
+
+
+AFTER DATA COLLECTION COMPLETES
+================================================================================
+
+Once both jobs finish successfully, run these scripts in order:
+
+1. python src/create_multi_year_aggregations.py
+   (Creates 6 different ways to aggregate college careers)
+
+2. python src/test_comprehensive_models.py
+   (Tests ~1,500 model combinations)
+
+3. python src/generate_comprehensive_report.py
+   (Generates final analysis report)
+
+
+CURRENT STATUS
+================================================================================
+
+✅ COMPLETE:
+  - QB list expansion (124 QBs, 2007-2023)
+  - NFL outcomes extraction (113/124 QBs with all 5 outcomes)
+
+🔴 BLOCKED (waiting for CFBD API at 2 AM):
+  - SP+ historical data (0/21 years - AUTH errors)
+  - College career data (0/124 QBs - AUTH errors)
+
+📋 READY (scripts created, waiting for data):
+  - Multi-year aggregations
+  - Comprehensive model testing
+  - Final comparison report
+
+================================================================================

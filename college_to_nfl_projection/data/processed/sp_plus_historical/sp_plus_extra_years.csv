@@ -1,0 +1,259 @@
+season,team,conference,overall_rating,offense_rating,defense_rating,special_teams_rating
+2004,USC,Big Ten,32.3,45.2,14.3,
+2004,Oklahoma,SEC,28.8,44.2,17.1,
+2004,Auburn,SEC,27.3,39.3,12.5,
+2004,Miami,ACC,26.8,41.3,16.5,
+2004,California,ACC,26.7,43.6,19.2,
+2004,Texas,SEC,24.7,43.1,20.3,
+2004,Louisville,ACC,24.0,50.7,32.1,
+2004,Utah,Big 12,23.6,49.3,29.4,
+2004,Georgia,SEC,21.8,35.2,14.1,
+2004,Arizona State,Big 12,20.7,42.0,23.7,
+2004,Florida State,ACC,20.2,32.7,13.4,
+2004,Virginia,ACC,20.0,38.4,19.5,
+2004,Iowa,Big Ten,20.0,34.4,15.3,
+2004,Virginia Tech,ACC,19.9,35.4,16.9,
+2004,LSU,SEC,19.5,36.2,18.4,
+2004,Texas Tech,Big 12,19.5,45.2,30.0,
+2004,Boise State,Pac-12,19.3,50.9,36.9,
+2004,Texas A&M,SEC,18.6,40.0,24.0,
+2004,Purdue,Big Ten,18.3,38.0,21.3,
+2004,Ohio State,Big Ten,17.5,33.3,17.4,
+2004,Michigan,Big Ten,17.5,40.3,25.5,
+2004,Oregon State,Pac-12,17.5,39.1,23.3,
+2004,Florida,SEC,17.1,39.4,25.0,
+2004,Tennessee,SEC,16.1,38.8,24.7,
+2004,Arkansas,SEC,15.4,39.7,26.7,
+2004,Fresno State,Pac-12,14.9,43.8,32.1,
+2004,Oklahoma State,Big 12,13.1,40.3,29.7,
+2004,North Carolina,ACC,12.8,39.6,28.7,
+2004,Notre Dame,FBS Independents,12.6,34.9,23.7,
+2004,Georgia Tech,ACC,12.4,30.4,19.1,
+2004,Bowling Green,Mid-American,11.9,45.9,36.7,
+2004,Minnesota,Big Ten,10.7,36.2,27.8,
+2004,Wisconsin,Big Ten,10.5,26.2,16.9,
+2004,UCLA,Big Ten,10.0,38.5,30.4,
+2004,Kansas,Big 12,9.8,31.5,23.2,
+2004,Alabama,SEC,9.2,27.8,19.2,
+2004,UTEP,Mountain West,9.0,42.1,35.1,
+2004,Boston College,ACC,8.5,29.0,21.6,
+2004,Stanford,ACC,8.2,29.6,22.7,
+2004,West Virginia,Big 12,8.1,33.8,27.6,
+2004,NC State,ACC,8.1,29.9,23.3,
+2004,Kansas State,Big 12,7.9,40.8,34.9,
+2004,BYU,Big 12,7.8,34.4,28.3,
+2004,Colorado,Big 12,7.8,32.9,27.0,
+2004,Penn State,Big Ten,7.4,22.5,15.9,
+2004,Cincinnati,Big 12,7.1,36.5,31.7,
+2004,Clemson,ACC,7.1,28.6,22.7,
+2004,South Carolina,SEC,6.4,28.7,23.4,
+2004,Pittsburgh,ACC,6.4,32.1,27.4,
+2004,New Mexico,Mountain West,5.4,25.6,21.0,
+2004,Maryland,Big Ten,5.1,24.5,20.0,
+2004,Michigan State,Big Ten,4.9,36.8,33.6,
+2004,Troy,Sun Belt,4.6,26.3,22.7,
+2004,Syracuse,ACC,4.4,33.6,31.2,
+2004,Northern Illinois,Mountain West,4.0,39.3,36.0,
+2004,Northwestern,Big Ten,3.9,33.8,31.6,
+2004,Iowa State,Big 12,3.9,28.1,25.4,
+2004,Oregon,Big Ten,3.7,32.6,30.4,
+2004,Louisiana Tech,Sun Belt,3.5,36.2,34.2,
+2004,Arizona,Big 12,3.1,26.3,24.0,
+2004,Memphis,American Athletic,2.8,41.3,38.9,
+2004,Nebraska,Big Ten,1.9,31.1,30.2,
+2004,Marshall,Sun Belt,1.2,28.8,28.1,
+2004,Missouri,SEC,0.8,26.3,25.8,
+2004,Toledo,Mid-American,0.3,39.3,38.7,
+2004,Miami (OH),Mid-American,-0.3,33.2,33.9,
+2004,UConn,FBS Independents,-0.4,30.5,31.7,
+2004,Southern Miss,Sun Belt,-0.7,30.4,31.8,
+2004,Wake Forest,ACC,-0.9,26.2,27.3,
+2004,Colorado State,Pac-12,-0.9,32.2,33.4,
+2004,Air Force,Mountain West,-0.9,36.6,36.9,
+2004,Washington State,Pac-12,-0.9,32.0,33.2,
+2004,Wyoming,Mountain West,-1.6,30.1,32.0,
+2004,Ole Miss,SEC,-1.6,26.6,28.2,
+2004,Hawai'i,Mountain West,-2.4,43.8,43.4,
+2004,UAB,American Athletic,-3.2,35.4,37.5,
+2004,Navy,American Athletic,-3.4,27.0,30.2,
+2004,TCU,Big 12,-3.9,39.3,41.2,
+2004,San Diego State,Pac-12,-4.0,25.9,30.0,
+2004,New Mexico State,Conference USA,-4.4,33.0,36.5,
+2004,Mississippi State,SEC,-5.7,23.8,29.5,
+2004,Vanderbilt,SEC,-6.2,25.9,31.9,
+2004,Houston,Big 12,-6.3,29.8,35.0,
+2004,Rutgers,Big Ten,-6.7,30.9,36.3,
+2004,Kentucky,SEC,-7.1,25.4,32.0,
+2004,Indiana,Big Ten,-7.4,30.5,36.3,
+2004,Duke,ACC,-7.6,25.1,32.1,
+2004,Baylor,Big 12,-8.0,32.6,38.7,
+2004,South Florida,American Athletic,-9.7,32.3,39.2,
+2004,Kent State,Mid-American,-10.0,29.6,37.2,
+2004,Washington,Big Ten,-10.0,22.6,31.7,
+2004,Akron,Mid-American,-11.1,29.9,38.2,
+2004,Illinois,Big Ten,-11.3,26.7,35.5,
+2004,Florida Atlantic,American Athletic,-11.7,18.6,29.2,
+2004,North Texas,American Athletic,-12.0,29.2,38.2,
+2004,Middle Tennessee,Conference USA,-12.0,26.3,35.7,
+2004,Temple,American Athletic,-12.4,30.4,39.4,
+2004,Rice,American Athletic,-13.0,30.7,40.2,
+2004,Tulsa,American Athletic,-14.0,32.6,42.2,
+2004,Tulane,American Athletic,-14.1,30.9,41.0,
+2004,UNLV,Mountain West,-14.3,26.7,37.7,
+2004,Ohio,Mid-American,-14.8,19.7,33.2,
+2004,Army,American Athletic,-15.6,29.5,41.2,
+2004,Louisiana,Sun Belt,-15.9,23.2,36.5,
+2004,SMU,ACC,-16.2,27.5,40.3,
+2004,UL Monroe,Sun Belt,-17.2,20.2,35.7,
+2004,Utah State,Pac-12,-17.8,20.0,36.3,
+2004,Ball State,Mid-American,-18.7,26.8,41.6,
+2004,East Carolina,American Athletic,-18.9,29.0,42.8,
+2004,Nevada,Mountain West,-19.0,30.5,44.0,
+2004,Arkansas State,Sun Belt,-19.7,23.3,39.8,
+2004,Eastern Michigan,Mid-American,-20.2,35.6,50.8,
+2004,Western Michigan,Mid-American,-21.7,29.9,44.8,
+2004,UCF,Big 12,-22.2,19.0,38.9,
+2004,Central Michigan,Mid-American,-22.2,25.4,42.6,
+2004,San José State,Mountain West,-22.8,33.3,,
+2004,Idaho,Big Sky,-23.1,26.6,43.4,
+2004,Buffalo,Mid-American,-27.6,17.3,40.9,
+2004,Florida International,Conference USA,-27.8,24.5,45.4,
+2004,Florida A&M,SWAC,-37.4,16.3,47.5,
+2004,nationalAverages,,1.4616666666666667,32.4325,,
+2025,Indiana,Big Ten,32.4,40.8,9.9,1.5
+2025,Ohio State,Big Ten,30.1,37.6,7.7,0.2
+2025,Texas Tech,Big 12,27.6,39.3,12.3,0.6
+2025,Oregon,Big Ten,25.9,38.7,13.5,0.7
+2025,Notre Dame,FBS Independents,24.4,40.0,16.3,0.8
+2025,Georgia,SEC,24.1,37.0,14.8,1.9
+2025,Ole Miss,SEC,24.0,40.4,18.3,1.9
+2025,Utah,Big 12,22.2,39.7,17.5,0.0
+2025,Miami,ACC,20.7,34.2,14.3,0.8
+2025,Texas A&M,SEC,20.7,38.0,16.4,-1.0
+2025,Vanderbilt,SEC,20.3,39.9,21.4,1.8
+2025,Iowa,Big Ten,19.7,32.1,14.2,1.7
+2025,Washington,Big Ten,18.4,34.5,15.3,-0.9
+2025,Oklahoma,SEC,18.3,30.1,12.9,1.1
+2025,Penn State,Big Ten,18.1,35.1,18.8,1.8
+2025,USC,Big Ten,16.9,38.9,21.0,-1.0
+2025,Texas,SEC,16.2,32.9,17.9,1.2
+2025,BYU,Big 12,15.9,33.9,18.8,0.8
+2025,Tennessee,SEC,15.0,39.3,25.4,1.1
+2025,Alabama,SEC,14.8,32.2,16.1,-1.3
+2025,Missouri,SEC,14.4,31.2,15.4,-1.4
+2025,North Texas,American Athletic,13.8,43.1,28.6,-0.7
+2025,SMU,ACC,13.4,34.2,19.5,-1.2
+2025,Illinois,Big Ten,12.9,33.3,21.7,1.3
+2025,Michigan,Big Ten,12.4,30.9,17.0,-1.4
+2025,Louisville,ACC,12.4,31.6,19.8,0.6
+2025,James Madison,Sun Belt,12.3,34.9,21.4,-1.1
+2025,Arizona,Big 12,12.0,33.0,19.5,-1.5
+2025,Auburn,SEC,11.6,28.3,17.4,0.7
+2025,South Florida,American Athletic,11.6,37.7,25.3,-0.8
+2025,Virginia,ACC,11.1,28.8,18.1,0.5
+2025,LSU,SEC,10.3,25.8,16.1,0.7
+2025,Iowa State,Big 12,9.9,28.1,19.5,1.3
+2025,Clemson,ACC,9.5,27.5,18.9,0.8
+2025,Georgia Tech,ACC,9.3,32.5,24.9,1.7
+2025,Pittsburgh,ACC,8.4,31.6,23.5,0.4
+2025,TCU,Big 12,8.3,32.9,23.9,-0.7
+2025,East Carolina,American Athletic,8.0,32.6,24.0,-0.5
+2025,Memphis,American Athletic,7.6,34.3,28.3,1.5
+2025,Houston,Big 12,7.4,31.5,23.0,-1.1
+2025,Florida State,ACC,7.2,29.3,21.2,-0.8
+2025,Kansas State,Big 12,7.0,31.3,25.0,0.7
+2025,San Diego State,Pac-12,6.7,24.4,19.6,1.8
+2025,Duke,ACC,6.6,34.8,29.2,1.1
+2025,Tulane,American Athletic,6.3,32.4,27.6,1.6
+2025,Nebraska,Big Ten,6.2,28.8,22.7,0.1
+2025,Navy,American Athletic,6.2,33.6,27.9,0.5
+2025,Toledo,Mid-American,6.0,25.8,18.5,-1.3
+2025,Old Dominion,Sun Belt,5.9,31.6,23.7,-2.0
+2025,South Carolina,SEC,5.9,24.6,20.2,1.5
+2025,Northwestern,Big Ten,5.8,24.4,20.0,1.3
+2025,Wake Forest,ACC,5.7,26.6,20.9,0.0
+2025,UConn,FBS Independents,5.1,32.0,28.5,1.6
+2025,Arkansas,SEC,5.1,35.8,31.4,0.8
+2025,NC State,ACC,4.8,31.4,25.5,-1.2
+2025,Cincinnati,Big 12,4.5,30.2,26.4,0.8
+2025,UNLV,Mountain West,4.3,33.8,29.8,0.2
+2025,Kansas,Big 12,4.1,30.9,28.5,1.7
+2025,Mississippi State,SEC,4.1,31.6,29.0,1.5
+2025,Arizona State,Big 12,3.9,28.3,22.7,-1.7
+2025,Washington State,Pac-12,3.8,24.6,20.5,-0.3
+2025,UTSA,American Athletic,3.7,33.3,30.0,0.4
+2025,Florida,SEC,3.5,24.5,22.6,1.5
+2025,Boise State,Pac-12,3.1,29.1,25.1,-0.8
+2025,Texas State,Pac-12,2.3,36.6,34.6,0.4
+2025,Fresno State,Pac-12,1.8,23.0,21.1,-0.1
+2025,Kentucky,SEC,1.8,25.5,23.7,0.0
+2025,Hawai'i,Mountain West,1.7,27.3,27.3,1.7
+2025,Western Kentucky,Conference USA,1.6,28.8,28.6,1.4
+2025,Minnesota,Big Ten,1.5,23.8,20.8,-1.6
+2025,Baylor,Big 12,1.4,32.8,33.3,1.9
+2025,Rutgers,Big Ten,1.0,31.6,30.7,0.2
+2025,New Mexico,Mountain West,0.9,25.4,26.1,1.6
+2025,Army,American Athletic,0.8,24.7,24.1,0.3
+2025,Maryland,Big Ten,0.6,24.4,24.7,0.9
+2025,UCF,Big 12,-1.2,23.2,24.0,-0.5
+2025,Louisiana Tech,Sun Belt,-1.3,25.6,27.0,0.1
+2025,Western Michigan,Mid-American,-1.4,21.7,21.8,-1.3
+2025,Utah State,Pac-12,-3.1,29.5,31.2,-1.4
+2025,California,ACC,-3.2,25.6,27.9,-0.9
+2025,Air Force,Mountain West,-3.2,28.3,31.7,0.2
+2025,Michigan State,Big Ten,-3.4,26.6,28.7,-1.3
+2025,Miami (OH),Mid-American,-3.4,19.3,24.2,1.5
+2025,Ohio,Mid-American,-4.0,23.2,25.2,-1.9
+2025,Wisconsin,Big Ten,-4.4,17.4,20.9,-0.9
+2025,Marshall,Sun Belt,-4.5,29.6,34.8,0.7
+2025,Troy,Sun Belt,-4.8,23.6,29.0,0.7
+2025,Temple,American Athletic,-5.1,27.1,33.2,1.0
+2025,Kennesaw State,Conference USA,-5.4,26.4,30.2,-1.7
+2025,Purdue,Big Ten,-6.1,21.9,29.9,1.8
+2025,North Carolina,ACC,-6.6,17.2,25.0,1.2
+2025,Jacksonville State,Conference USA,-6.7,27.2,32.4,-1.6
+2025,West Virginia,Big 12,-6.8,22.8,30.0,0.3
+2025,Southern Miss,Sun Belt,-7.1,27.0,32.8,-1.3
+2025,Buffalo,Mid-American,-7.5,18.2,27.4,1.6
+2025,Colorado,Big 12,-8.3,22.6,29.5,-1.4
+2025,Boston College,ACC,-8.5,23.3,33.1,1.3
+2025,Florida Atlantic,American Athletic,-8.7,27.8,38.1,1.5
+2025,UCLA,Big Ten,-8.7,21.7,30.4,0.1
+2025,Central Michigan,Mid-American,-8.8,17.6,25.7,-0.7
+2025,Arkansas State,Sun Belt,-8.8,24.4,33.5,0.3
+2025,Liberty,Conference USA,-9.0,24.6,32.8,-0.7
+2025,Georgia Southern,Sun Belt,-9.4,28.3,37.7,0.1
+2025,Tulsa,American Athletic,-10.0,21.7,33.1,1.4
+2025,Louisiana,Sun Belt,-10.1,25.3,34.0,-1.4
+2025,Virginia Tech,ACC,-10.1,21.4,30.8,-0.7
+2025,Florida International,Conference USA,-10.5,26.1,35.8,-0.8
+2025,Missouri State,Conference USA,-10.7,25.6,34.8,-1.5
+2025,Delaware,Conference USA,-10.9,26.2,36.2,-0.9
+2025,Wyoming,Mountain West,-11.3,15.3,24.7,-1.8
+2025,App State,Sun Belt,-11.4,23.0,35.2,0.9
+2025,Stanford,ACC,-11.8,18.4,28.6,-1.7
+2025,Bowling Green,Mid-American,-12.6,15.4,28.8,0.8
+2025,South Alabama,Sun Belt,-12.7,25.4,36.0,-2.0
+2025,Syracuse,ACC,-13.1,18.8,33.0,1.1
+2025,Nevada,Mountain West,-13.4,14.2,28.7,1.0
+2025,Akron,Mid-American,-13.9,17.2,29.3,-1.9
+2025,San José State,Mountain West,-14.3,21.6,34.4,-1.5
+2025,Eastern Michigan,Mid-American,-14.7,19.4,34.1,0.1
+2025,Rice,American Athletic,-14.8,17.7,33.9,1.3
+2025,Coastal Carolina,Sun Belt,-15.1,23.4,37.0,-1.4
+2025,Oklahoma State,Big 12,-15.1,15.2,31.6,1.3
+2025,New Mexico State,Conference USA,-15.5,19.7,34.9,-0.3
+2025,Colorado State,Pac-12,-15.6,17.6,32.9,-0.3
+2025,UAB,American Athletic,-15.8,25.5,39.8,-1.5
+2025,Oregon State,Pac-12,-15.9,17.0,30.8,-2.0
+2025,Middle Tennessee,Conference USA,-16.0,20.4,37.0,0.5
+2025,Northern Illinois,Mountain West,-16.7,12.0,28.1,-0.6
+2025,UTEP,Mountain West,-17.5,20.2,36.3,-1.4
+2025,Kent State,Mid-American,-19.3,17.0,34.9,-1.5
+2025,UL Monroe,Sun Belt,-21.6,16.1,35.7,-2.1
+2025,Ball State,Mid-American,-23.0,13.4,34.4,-2.0
+2025,Georgia State,Sun Belt,-24.5,18.6,41.1,-2.0
+2025,Charlotte,American Athletic,-26.7,14.5,39.8,-1.4
+2025,Sam Houston,Conference USA,-27.8,15.3,41.8,-1.3
+2025,Massachusetts,Mid-American,-36.6,7.8,42.8,-1.5
+2025,nationalAverages,,0.6970588235294117,27.158088235294116,26.459558823529413,0.0014705882352941176

@@ -1,0 +1,401 @@
+player_name,draft_year,file,college,seasons_played,total_plays
+Brady Quinn,2007,Brady_Quinn_2007.csv,Notre Dame,3,1096
+Drew Stanton,2007,Drew_Stanton_2007.csv,Michigan State,3,770
+Isaiah Stanback,2007,Isaiah_Stanback_2007.csv,Washington,3,393
+JaMarcus Russell,2007,JaMarcus_Russell_2007.csv,LSU,3,728
+John Beck,2007,John_Beck_2007.csv,BYU,3,869
+Kevin Kolb,2007,Kevin_Kolb_2007.csv,Houston,3,844
+Trent Edwards,2007,Trent_Edwards_2007.csv,Stanford,3,609
+Troy Smith,2007,Troy_Smith_2007.csv,Ohio State,3,644
+Brian Brohm,2008,Brian_Brohm_2008.csv,Louisville,4,1111
+Chad Henne,2008,Chad_Henne_2008.csv,Michigan,4,1250
+Dennis Dixon,2008,Dennis_Dixon_2008.csv,Oregon,4,628
+Joe Flacco,2008,Joe_Flacco_2008.csv,Delaware,1,40
+John David Booty,2008,John_David_Booty_2008.csv,USC,2,626
+Matt Ryan,2008,Matt_Ryan_2008.csv,Boston College,4,1231
+Josh Freeman,2009,Josh_Freeman_2009.csv,Kansas State,3,938
+Mark Sanchez,2009,Mark_Sanchez_2009.csv,USC,3,439
+Matthew Stafford,2009,Matthew_Stafford_2009.csv,Georgia,3,915
+Pat White,2009,Pat_White_2009.csv,West Virginia,4,758
+Rhett Bomar,2009,Rhett_Bomar_2009.csv,Sam Houston State,1,32
+Stephen McGee,2009,Stephen_McGee_2009.csv,Texas A&M,4,760
+Tom Brandstater,2009,Tom_Brandstater_2009.csv,Fresno State,4,734
+Colt McCoy,2010,Colt_McCoy_2010.csv,Texas,4,1599
+Dan LeFevour,2010,Dan_LeFevour_2010.csv,Central Michigan,4,1561
+Jimmy Clausen,2010,Jimmy_Clausen_2010.csv,Notre Dame,3,1039
+Jonathan Crompton,2010,Jonathan_Crompton_2010.csv,Tennessee,4,570
+Sam Bradford,2010,Sam_Bradford_2010.csv,Oklahoma,3,806
+Tim Tebow,2010,Tim_Tebow_2010.csv,Florida,4,968
+Tony Pike,2010,Tony_Pike_2010.csv,Cincinnati,3,596
+Andy Dalton,2011,Andy_Dalton_2011.csv,TCU,4,1118
+Blaine Gabbert,2011,Blaine_Gabbert_2011.csv,Missouri,3,823
+Christian Ponder,2011,Christian_Ponder_2011.csv,Florida State,4,895
+Colin Kaepernick,2011,Colin_Kaepernick_2011.csv,Nevada,4,1118
+Jake Locker,2011,Jake_Locker_2011.csv,Washington,4,1033
+Nathan Enderle,2011,Nathan_Enderle_2011.csv,Idaho,4,983
+Ricky Stanzi,2011,Ricky_Stanzi_2011.csv,Iowa,2,552
+Ryan Mallett,2011,Ryan_Mallett_2011.csv,Arkansas,2,748
+Tyrod Taylor,2011,Tyrod_Taylor_2011.csv,Virginia Tech,4,877
+Andrew Luck,2012,Andrew_Luck_2012.csv,Stanford,3,947
+Brandon Weeden,2012,Brandon_Weeden_2012.csv,Oklahoma State,4,1019
+Brock Osweiler,2012,Brock_Osweiler_2012.csv,Arizona State,3,634
+Kirk Cousins,2012,Kirk_Cousins_2012.csv,Michigan State,4,1041
+Nick Foles,2012,Nick_Foles_2012.csv,Arizona,3,1271
+Robert Griffin III,2012,Robert_Griffin_III_2012.csv,Baylor,3,917
+Russell Wilson,2012,Russell_Wilson_2012.csv,Wisconsin,1,310
+Ryan Lindley,2012,Ryan_Lindley_2012.csv,San Diego State,4,1468
+Ryan Tannehill,2012,Ryan_Tannehill_2012.csv,Texas A&M,4,701
+EJ Manuel,2013,EJ_Manuel_2013.csv,Florida State,2,699
+Geno Smith,2013,Geno_Smith_2013.csv,West Virginia,4,1406
+Landry Jones,2013,Landry_Jones_2013.csv,Oklahoma,4,1963
+Matt Barkley,2013,Matt_Barkley_2013.csv,USC,4,1441
+Mike Glennon,2013,Mike_Glennon_2013.csv,NC State,4,1034
+Ryan Nassib,2013,Ryan_Nassib_2013.csv,Syracuse,4,1261
+Tyler Wilson,2013,Tyler_Wilson_2013.csv,Arkansas,5,879
+AJ McCarron,2014,AJ_McCarron_2014.csv,Alabama,3,938
+Aaron Murray,2014,Aaron_Murray_2014.csv,Georgia,4,1411
+Blake Bortles,2014,Blake_Bortles_2014.csv,UCF,3,870
+Derek Carr,2014,Derek_Carr_2014.csv,Fresno State,4,1513
+Jimmy Garoppolo,2014,Jimmy_Garoppolo_2014.csv,Eastern Illinois,3,144
+Johnny Manziel,2014,Johnny_Manziel_2014.csv,Texas A&M,2,800
+Logan Thomas,2014,Logan_Thomas_2014.csv,Virginia Tech,4,1153
+Teddy Bridgewater,2014,Teddy_Bridgewater_2014.csv,Louisville,3,1134
+Brett Hundley,2015,Brett_Hundley_2015.csv,UCLA,3,1224
+Bryce Petty,2015,Bryce_Petty_2015.csv,Baylor,4,782
+Jameis Winston,2015,Jameis_Winston_2015.csv,Florida St.,2,812
+Marcus Mariota,2015,Marcus_Mariota_2015.csv,Oregon,3,1149
+Sean Mannion,2015,Sean_Mannion_2015.csv,Oregon St.,4,1741
+Trevor Siemian,2015,Trevor_Siemian_2015.csv,Northwestern,4,877
+Brandon Allen,2016,Brandon_Allen_2016.csv,Arkansas,4,956
+Brandon Doughty,2016,Brandon_Doughty_2016.csv,Western Kentucky,5,1423
+Cardale Jones,2016,Cardale_Jones_2016.csv,Ohio St.,3,274
+Carson Wentz,2016,Carson_Wentz_2016.csv,North Dakota St.,1,29
+Cody Kessler,2016,Cody_Kessler_2016.csv,USC,4,1250
+Connor Cook,2016,Connor_Cook_2016.csv,Michigan St.,4,1073
+Dak Prescott,2016,Dak_Prescott_2016.csv,Mississippi St.,4,1135
+Jacoby Brissett,2016,Jacoby_Brissett_2016.csv,North Carolina St.,2,765
+Jake Rudock,2016,Jake_Rudock_2016.csv,Michigan,2,412
+Jared Goff,2016,Jared_Goff_2016.csv,California,3,1473
+Jeff Driskel,2016,Jeff_Driskel_2016.csv,Louisiana Tech,1,441
+Kevin Hogan,2016,Kevin_Hogan_2016.csv,Stanford,4,1079
+Nate Sudfeld,2016,Nate_Sudfeld_2016.csv,Indiana,4,866
+Paxton Lynch,2016,Paxton_Lynch_2016.csv,Memphis,3,1137
+C.J. Beathard,2017,C.J._Beathard_2017.csv,Iowa,4,783
+Davis Webb,2017,Davis_Webb_2017.csv,California,1,576
+DeShone Kizer,2017,DeShone_Kizer_2017.csv,Notre Dame,2,699
+Deshaun Watson,2017,Deshaun_Watson_2017.csv,Clemson,3,1182
+Joshua Dobbs,2017,Joshua_Dobbs_2017.csv,Tennessee,4,983
+Nathan Peterman,2017,Nathan_Peterman_2017.csv,Pittsburgh,2,617
+Patrick Mahomes,2017,Patrick_Mahomes_2017.csv,Texas Tech,3,1287
+Baker Mayfield,2018,Baker_Mayfield_2018.csv,Oklahoma,3,1174
+Danny Etling,2018,Danny_Etling_2018.csv,LSU,2,556
+Josh Allen,2018,Josh_Allen_2018.csv,Wyoming,3,619
+Josh Rosen,2018,Josh_Rosen_2018.csv,UCLA,3,1100
+Kyle Lauletta,2018,Kyle_Lauletta_2018.csv,Richmond,2,64
+Lamar Jackson,2018,Lamar_Jackson_2018.csv,Louisville,3,1082
+Logan Woodside,2018,Logan_Woodside_2018.csv,Toledo,4,1086
+Mike White,2018,Mike_White_2018.csv,Western Kentucky,2,937
+Sam Darnold,2018,Sam_Darnold_2018.csv,USC,2,765
+Tanner Lee,2018,Tanner_Lee_2018.csv,Nebraska,1,420
+Clayton Thorson,2019,Clayton_Thorson_2019.csv,Northwestern,4,1691
+Daniel Jones,2019,Daniel_Jones_2019.csv,Duke,3,1240
+Drew Lock,2019,Drew_Lock_2019.csv,Missouri,4,1455
+Dwayne Haskins,2019,Dwayne_Haskins_2019.csv,Ohio St.,2,579
+Jarrett Stidham,2019,Jarrett_Stidham_2019.csv,Auburn,2,738
+Kyler Murray,2019,Kyler_Murray_2019.csv,Oklahoma,2,398
+Ryan Finley,2019,Ryan_Finley_2019.csv,North Carolina St.,3,1303
+Will Grier,2019,Will_Grier_2019.csv,West Virginia,2,758
+Ben DiNucci,2020,Ben_DiNucci_2020.csv,James Madison,2,53
+Jacob Eason,2020,Jacob_Eason_2020.csv,Washington,1,398
+Jake Fromm,2020,Jake_Fromm_2020.csv,Georgia,3,985
+Jake Luton,2020,Jake_Luton_2020.csv,Oregon St.,3,714
+Jalen Hurts,2020,Jalen_Hurts_2020.csv,Oklahoma,2,349
+James Morgan,2020,James_Morgan_2020.csv,Florida International,2,663
+Joe Burrow,2020,Joe_Burrow_2020.csv,LSU,2,916
+Justin Herbert,2020,Justin_Herbert_2020.csv,Oregon,4,1282
+Nate Stanley,2020,Nate_Stanley_2020.csv,Iowa,2,769
+Tua Tagovailoa,2020,Tua_Tagovailoa_2020.csv,Alabama,3,682
+Davis Mills,2021,Davis_Mills_2021.csv,Stanford,3,425
+Ian Book,2021,Ian_Book_2021.csv,Notre Dame,4,1127
+Justin Fields,2021,Justin_Fields_2021.csv,Ohio St.,2,602
+Kellen Mond,2021,Kellen_Mond_2021.csv,Texas A&M,4,1332
+Kyle Trask,2021,Kyle_Trask_2021.csv,Florida,3,820
+Mac Jones,2021,Mac_Jones_2021.csv,Alabama,3,548
+Sam Ehlinger,2021,Sam_Ehlinger_2021.csv,Texas,4,1428
+Trevor Lawrence,2021,Trevor_Lawrence_2021.csv,Clemson,3,1106
+Zach Wilson,2021,Zach_Wilson_2021.csv,BYU,3,822
+Bailey Zappe,2022,Bailey_Zappe_2022.csv,Western Kentucky,1,588
+Brock Purdy,2022,Brock_Purdy_2022.csv,Iowa St.,4,1394
+Desmond Ridder,2022,Desmond_Ridder_2022.csv,Cincinnati,4,1306
+Kenny Pickett,2022,Kenny_Pickett_2022.csv,Pittsburgh,5,1584
+Malik Willis,2022,Malik_Willis_2022.csv,Liberty,3,620
+Sam Howell,2022,Sam_Howell_2022.csv,North Carolina,3,1160
+Skylar Thompson,2022,Skylar_Thompson_2022.csv,Kansas St.,5,899
+Aidan O'Connell,2023,Aidan_O'Connell_2023.csv,Purdue,3,690
+Anthony Richardson,2023,Anthony_Richardson_2023.csv,Florida,2,66
+Bryce Young,2023,Bryce_Young_2023.csv,Alabama,2,569
+C.J. Stroud,2023,C.J._Stroud_2023.csv,Ohio St.,1,409
+Clayton Tune,2023,Clayton_Tune_2023.csv,Houston,4,996
+Dorian Thompson-Robinson,2023,Dorian_Thompson-Robinson_2023.csv,UCLA,4,910
+Hendon Hooker,2023,Hendon_Hooker_2023.csv,Tennessee,1,323
+Jaren Hall,2023,Jaren_Hall_2023.csv,BYU,2,325
+Max Duggan,2023,Max_Duggan_2023.csv,TCU,3,773
+Sean Clifford,2023,Sean_Clifford_2023.csv,Penn St.,4,964
+Stetson Bennett,2023,Stetson_Bennett_2023.csv,Georgia,3,467
+Tanner McKee,2023,Tanner_McKee_2023.csv,Stanford,2,308
+Will Levis,2023,Will_Levis_2023.csv,Kentucky,1,355
+Bo Nix,2024,Bo_Nix.csv,Oregon,2,849
+Bo Nix,2024,Bo_Nix_2024.csv,Oregon,1,28
+Caleb Williams,2024,Caleb_Williams.csv,USC,2,861
+Devin Leary,2024,Devin_Leary.csv,Kentucky,1,353
+Drake Maye,2024,Drake_Maye.csv,North Carolina,3,923
+Drake Maye,2024,Drake_Maye_2024.csv,North Carolina,1,12
+J.J. McCarthy,2024,J.J._McCarthy.csv,Michigan,3,695
+J.J. McCarthy,2024,J.J._McCarthy_2024.csv,Michigan,1,60
+Jayden Daniels,2024,Jayden_Daniels.csv,LSU,2,693
+Joe Milton,2024,Joe_Milton_2024.csv,Tennessee,1,64
+Michael Pratt,2024,Michael_Pratt.csv,Tulane,4,1151
+Michael Pratt,2024,Michael_Pratt_2024.csv,Tulane,2,563
+Spencer Rattler,2024,Spencer_Rattler.csv,South Carolina,2,766
+Graham Mertz,2025,Graham_Mertz.csv,Florida,2,434
+Jalen Milroe,2025,Jalen_Milroe_2025.csv,Alabama,1,9
+Adam Urena,2026,Adam_Urena.csv,Mercyhurst,1,267
+Aidan Armenta,2026,Aidan_Armenta.csv,UL Monroe,1,181
+Aidan Bouman,2026,Aidan_Bouman.csv,South Dakota,3,619
+Aidan Chiles,2026,Aidan_Chiles.csv,Michigan State,1,304
+Aidan Sayin,2026,Aidan_Sayin.csv,Pennsylvania,3,763
+Alan Bowman,2026,Alan_Bowman.csv,Oklahoma State,2,807
+Amari Odom,2026,Amari_Odom.csv,Wofford,2,201
+Anthony Chiccitt,2026,Anthony_Chiccitt.csv,Robert Morris,3,449
+Anthony Colandrea,2026,Anthony_Colandrea.csv,Virginia,2,549
+Ashton Daniels,2026,Ashton_Daniels.csv,Stanford,3,583
+Athan Kaliakmanis,2026,Athan_Kaliakmanis.csv,Rutgers,1,354
+Austin Smith,2026,Austin_Smith.csv,Austin Peay,1,284
+Avery Johnson,2026,Avery_Johnson.csv,Kansas State,2,425
+Ayden Pereira,2026,Ayden_Pereira.csv,Merrimack,1,107
+Beau Brungard,2026,Beau_Brungard.csv,Youngstown State,2,315
+Behren Morton,2026,Behren_Morton.csv,Texas Tech,4,902
+Ben Finley,2026,Ben_Finley.csv,Akron,1,344
+Ben Wooldridge,2026,Ben_Wooldridge.csv,Louisiana,3,580
+Blaine Hipa,2026,Blaine_Hipa.csv,Princeton,2,221
+Brady Cook,2026,Brady_Cook.csv,Missouri,5,1069
+Brady Meitz,2026,Brady_Meitz.csv,Stetson,3,458
+Brady Olson,2026,Brady_Olson.csv,Central Connecticut,1,241
+Braedyn Locke,2026,Braedyn_Locke.csv,Wisconsin,2,440
+Brayden Fowler-Nicolosi,2026,Brayden_Fowler-Nicolosi.csv,Colorado State,3,830
+Brayden Schager,2026,Brayden_Schager.csv,Hawai'i,4,1340
+Braylon Braxton,2026,Braylon_Braxton.csv,Marshall,1,193
+Brendan Sorsby,2026,Brendan_Sorsby.csv,Cincinnati,1,381
+Brendon Lewis,2026,Brendon_Lewis.csv,Nevada,2,486
+Brett Gabbert,2026,Brett_Gabbert.csv,Miami (OH),5,889
+Brock Vandagriff,2026,Brock_Vandagriff.csv,Kentucky,1,212
+Bryce Archie,2026,Bryce_Archie.csv,South Florida,2,300
+CJ Bailey,2026,CJ_Bailey.csv,NC State,1,280
+CJ Ogbonna,2026,CJ_Ogbonna.csv,Buffalo,1,16
+Cade Klubnik,2026,Cade_Klubnik.csv,Clemson,3,1027
+Cade McNamara,2026,Cade_McNamara.csv,Iowa,2,231
+Caden Veltkamp,2026,Caden_Veltkamp.csv,Western Kentucky,3,436
+Cam Fancher,2026,Cam_Fancher.csv,Florida Atlantic,1,197
+Cam Miller,2026,Cam_Miller.csv,North Dakota State,3,796
+Camden Coleman,2026,Camden_Coleman.csv,Richmond,2,283
+Caron Tyler,2026,Caron_Tyler.csv,Valparaiso,1,150
+Carson Beck,2026,Carson_Beck.csv,Georgia,4,902
+Carson Conklin,2026,Carson_Conklin.csv,Sacramento State,2,436
+Carter Cravens,2026,Carter_Cravens.csv,Morehead State,3,519
+Carter Peevy,2026,Carter_Peevy.csv,Maine,1,310
+Chad Mascoe II,2026,Chad_Mascoe_II.csv,Campbell,1,24
+Chandler Morris,2026,Chandler_Morris.csv,North Texas,1,487
+Chase Artopoeus,2026,Chase_Artopoeus.csv,Chattanooga,2,463
+Christian Veilleux,2026,Christian_Veilleux.csv,Georgia State,1,285
+Christopher Zellous,2026,Christopher_Zellous.csv,Hampton,2,117
+Cole Gonzales,2026,Cole_Gonzales.csv,Western Carolina,3,671
+Cole Snyder,2026,Cole_Snyder.csv,Eastern Michigan,1,364
+Collin Hurst,2026,Collin_Hurst.csv,Presbyterian,1,246
+Colton Joseph,2026,Colton_Joseph.csv,Old Dominion,1,188
+Connor Bazelak,2026,Connor_Bazelak.csv,Bowling Green,2,669
+Connor Watkins,2026,Connor_Watkins.csv,Villanova,3,741
+Cooper Legas,2026,Cooper_Legas.csv,Tulsa,1,156
+Daniel Richardson,2026,Daniel_Richardson.csv,Florida A&M,1,261
+Danny Lauter,2026,Danny_Lauter.csv,Georgetown,1,264
+Danny O'Neil,2026,Danny_O'Neil.csv,San Diego State,1,324
+Dante Chachere,2026,Dante_Chachere.csv,Portland State,3,653
+Darian Mensah,2026,Darian_Mensah.csv,Tulane,1,280
+Darius Perrantes,2026,Darius_Perrantes.csv,Duquesne,4,492
+Darius Wilson,2026,Darius_Wilson.csv,William & Mary,4,550
+Davin Wydner,2026,Davin_Wydner.csv,West Georgia,1,85
+Davis Bryson,2026,Davis_Bryson.csv,Kennesaw State,2,260
+Davis Warren,2026,Davis_Warren.csv,Michigan,3,220
+Dean DeNobile,2026,Dean_DeNobile.csv,Lafayette,2,512
+Derek Robertson,2026,Derek_Robertson.csv,Monmouth,1,409
+Deshawn Purdie,2026,Deshawn_Purdie.csv,Charlotte,1,178
+Devin Farrell,2026,Devin_Farrell.csv,Rhode Island,2,204
+Devon Dampier,2026,Devon_Dampier.csv,New Mexico,2,405
+Diego Pavia,2026,Diego_Pavia.csv,Vanderbilt,1,293
+Dillon Gabriel,2026,Dillon_Gabriel.csv,Oregon,1,440
+Draylen Ellis,2026,Draylen_Ellis.csv,Tennessee State,3,690
+Drew Allar,2026,Drew_Allar.csv,Penn State,3,793
+Drew VanVleet,2026,Drew_VanVleet.csv,Dayton,2,391
+Dylan Raiola,2026,Dylan_Raiola.csv,Nebraska,1,366
+E.J. Warner,2026,E.J._Warner.csv,Rice,1,426
+Eli Holstein,2026,Eli_Holstein.csv,Pittsburgh,1,282
+Eli Sawyer,2026,Eli_Sawyer.csv,SE Louisiana,3,541
+Elijah Owens,2026,Elijah_Owens.csv,Indiana State,2,286
+Emmett Brown,2026,Emmett_Brown.csv,San José State,1,202
+Ethan Garbers,2026,Ethan_Garbers.csv,UCLA,4,590
+Ethan Hampton,2026,Ethan_Hampton.csv,Northern Illinois,4,376
+Ethan Vasko,2026,Ethan_Vasko.csv,Coastal Carolina,2,380
+Evan Bullock,2026,Evan_Bullock.csv,Louisiana Tech,2,301
+Evan Simon,2026,Evan_Simon.csv,Temple,1,285
+Evan Svoboda,2026,Evan_Svoboda.csv,Wyoming,2,258
+Fernando Mendoza,2026,Fernando_Mendoza.csv,California,2,568
+Garrett Greene,2026,Garrett_Greene.csv,West Virginia,5,653
+Garrett Nussmeier,2026,Garrett_Nussmeier.csv,LSU,4,731
+Gevani McCoy,2026,Gevani_McCoy.csv,Oregon State,1,200
+Grant Jordan,2026,Grant_Jordan.csv,Yale,1,175
+Grant Sergent,2026,Grant_Sergent.csv,San Diego,3,374
+Grayson James,2026,Grayson_James.csv,Boston College,1,169
+Hajj-Malik Williams,2026,Hajj-Malik_Williams.csv,UNLV,1,246
+Hank Bachmeier,2026,Hank_Bachmeier.csv,Wake Forest,1,345
+Hayden Johnson,2026,Hayden_Johnson.csv,Lehigh,1,123
+Hayden Wolff,2026,Hayden_Wolff.csv,Western Michigan,2,489
+Haynes King,2026,Haynes_King.csv,Georgia Tech,2,546
+Hudson Card,2026,Hudson_Card.csv,Purdue,2,580
+Hunter Helms,2026,Hunter_Helms.csv,Rhode Island,1,127
+Hunter Watson,2026,Hunter_Watson.csv,Sam Houston,1,252
+Isaac Wilson,2026,Isaac_Wilson.csv,Utah,1,211
+JC French,2026,JC_French.csv,Georgia Southern,2,413
+JT Fayard,2026,JT_Fayard.csv,Northwestern State,2,144
+Ja'Shawn Scroggins,2026,Ja'Shawn_Scroggins.csv,Howard,3,187
+JaCobian Morgan,2026,JaCobian_Morgan.csv,Jackson State,2,260
+Jack Capaldi,2026,Jack_Capaldi.csv,Fordham,2,172
+Jack Lausch,2026,Jack_Lausch.csv,Northwestern,3,293
+Jack Layne,2026,Jack_Layne.csv,Idaho,2,113
+Jack Wagner,2026,Jack_Wagner.csv,Idaho,2,154
+Jackson Arnold,2026,Jackson_Arnold.csv,Oklahoma,2,270
+Jackson Berry,2026,Jackson_Berry.csv,Southern Utah,2,155
+Jackson Proctor,2026,Jackson_Proctor.csv,Dartmouth,3,238
+Jacob Clark,2026,Jacob_Clark.csv,Missouri State,3,459
+Jacolby Criswell,2026,Jacolby_Criswell.csv,North Carolina,4,345
+Jaden Craig,2026,Jaden_Craig.csv,Harvard,2,251
+Jaden Johnson,2026,Jaden_Johnson.csv,Prairie View A&M,1,154
+Jake Garcia,2026,Jake_Garcia.csv,East Carolina,1,178
+Jake Retzlaff,2026,Jake_Retzlaff.csv,BYU,2,477
+Jake Stearney,2026,Jake_Stearney.csv,Colgate,2,296
+Jake Willcox,2026,Jake_Willcox.csv,Brown,3,290
+Jalen Kitna,2026,Jalen_Kitna.csv,UAB,1,322
+Jalen Milroe,2026,Jalen_Milroe.csv,Alabama,4,644
+Jalon Daniels,2026,Jalon_Daniels.csv,Kansas,5,839
+Jameson Wang,2026,Jameson_Wang.csv,Cornell,3,627
+Jarrett Guest,2026,Jarrett_Guest.csv,Bryant,1,177
+Jaxson Dart,2026,Jaxson_Dart.csv,Ole Miss,3,1075
+Jayden Maiava,2026,Jayden_Maiava.csv,USC,1,158
+Jaylen King,2026,Jaylen_King.csv,East Tennessee State,1,192
+Jaylen Raynor,2026,Jaylen_Raynor.csv,Arkansas State,2,684
+Joe Fagnano,2026,Joe_Fagnano.csv,UConn,1,185
+Joe Pesansky,2026,Joe_Pesansky.csv,Holy Cross,3,287
+Joey Aguilar,2026,Joey_Aguilar.csv,App State,2,822
+John Mateer,2026,John_Mateer.csv,Washington State,3,317
+John Michalski,2026,John_Michalski.csv,Sacred Heart,1,179
+Johnathan Bennett,2026,Johnathan_Bennett.csv,The Citadel,1,151
+Jordan McCloud,2026,Jordan_McCloud.csv,Texas State,1,275
+Jordyn Potts,2026,Jordyn_Potts.csv,Tennessee Tech,2,316
+Josh Hoover,2026,Josh_Hoover.csv,TCU,3,677
+Justin Fomby,2026,Justin_Fomby.csv,North Carolina A&T,1,211
+Kadin Semonza,2026,Kadin_Semonza.csv,Ball State,2,488
+Kaidon Salter,2026,Kaidon_Salter.csv,Liberty,4,678
+Katin Houser,2026,Katin_Houser.csv,East Carolina,1,237
+Keali'i Ah Yat,2026,Keali'i_Ah_Yat.csv,Montana,2,218
+Kekoa Visperas,2026,Kekoa_Visperas.csv,Eastern Washington,3,526
+Kevin Jennings,2026,Kevin_Jennings.csv,SMU,3,500
+Keyone Jenkins,2026,Keyone_Jenkins.csv,Florida International,2,606
+Kia'i Keone,2026,Kia'i_Keone.csv,Northern Colorado,1,136
+Kinkead Dent,2026,Kinkead_Dent.csv,UT Martin,2,556
+Kirk Francis,2026,Kirk_Francis.csv,Tulsa,2,360
+Kobe Tracy,2026,Kobe_Tracy.csv,Idaho State,1,401
+Kurtis Rourke,2026,Kurtis_Rourke.csv,Indiana,1,316
+Kyle McCord,2026,Kyle_McCord.csv,Syracuse,1,575
+Kyron Drones,2026,Kyron_Drones.csv,Virginia Tech,2,495
+Lanorris Sellers,2026,Lanorris_Sellers.csv,South Carolina,2,285
+Logan Fife,2026,Logan_Fife.csv,Montana,1,241
+Luke Altmyer,2026,Luke_Altmyer.csv,Illinois,2,568
+Luke Bailey,2026,Luke_Bailey.csv,Drake,3,729
+Maalik Murphy,2026,Maalik_Murphy.csv,Duke,1,401
+Maddux Madsen,2026,Maddux_Madsen.csv,Boise State,3,522
+Marcel Reed,2026,Marcel_Reed.csv,Texas A&M,2,273
+Mark Gronowski,2026,Mark_Gronowski.csv,South Dakota State,3,870
+Marqui Adams,2026,Marqui_Adams.csv,Delaware State,3,282
+Matt Morrissey,2026,Matt_Morrissey.csv,Eastern Kentucky,1,278
+Matthew Caldwell,2026,Matthew_Caldwell.csv,Troy,1,220
+Matthew Downing,2026,Matthew_Downing.csv,Elon,2,398
+Matthew Schecklman,2026,Matthew_Schecklman.csv,Northern Iowa,1,147
+Maverick McIvor,2026,Maverick_McIvor.csv,Abilene Christian,3,921
+Max Brosmer,2026,Max_Brosmer.csv,Minnesota,1,388
+Mekhi Hagens,2026,Mekhi_Hagens.csv,Arkansas-Pine Bluff,2,258
+Michael Van Buren Jr.,2026,Michael_Van_Buren_Jr..csv,Mississippi State,1,243
+Mikey Keene,2026,Mikey_Keene.csv,Fresno State,2,750
+Miles Hastings,2026,Miles_Hastings.csv,UC Davis,3,1000
+Miller Moss,2026,Miller_Moss.csv,USC,4,457
+Myles Burkett,2026,Myles_Burkett.csv,UAlbany,1,212
+Myles Crawley,2026,Myles_Crawley.csv,Grambling,2,360
+Nate Glantz,2026,Nate_Glantz.csv,Lindenwood,1,236
+Nate Lamb,2026,Nate_Lamb.csv,Western Illinois,1,5
+Nate Yarnell,2026,Nate_Yarnell.csv,Pittsburgh,3,240
+Nick Evers,2026,Nick_Evers.csv,UConn,1,177
+Nick Vattiato,2026,Nick_Vattiato.csv,Middle Tennessee,1,93
+Nico Iamaleava,2026,Nico_Iamaleava.csv,Tennessee,2,376
+Noah Bodden,2026,Noah_Bodden.csv,Southern,3,167
+Noah Fifita,2026,Noah_Fifita.csv,Arizona,3,763
+Owen McCown,2026,Owen_McCown.csv,UTSA,2,492
+Parker Awad,2026,Parker_Awad.csv,New Mexico State,1,155
+Parker Navarro,2026,Parker_Navarro.csv,Ohio,3,329
+Pat McQuaide,2026,Pat_McQuaide.csv,Nicholls,2,519
+Paxton DeLaurent,2026,Paxton_DeLaurent.csv,Southeast Missouri State,3,1080
+Payton Thorne,2026,Payton_Thorne.csv,Auburn,2,571
+Pierce Holley,2026,Pierce_Holley.csv,Eastern Illinois,2,654
+Quincy Crittendon,2026,Quincy_Crittendon.csv,Samford,3,408
+Quinn Ewers,2026,Quinn_Ewers.csv,Texas,3,1074
+Ralph Rucker,2026,Ralph_Rucker.csv,Bucknell,1,265
+Reagan Andrew,2026,Reagan_Andrew.csv,Butler,1,210
+Reggie Graff,2026,Reggie_Graff.csv,Utah Tech,1,125
+Richie Munoz,2026,Richie_Munoz.csv,Weber State,2,440
+Riley Leonard,2026,Riley_Leonard.csv,Notre Dame,1,395
+Robert Coleman,2026,Robert_Coleman.csv,Lamar,2,437
+Rocco Becht,2026,Rocco_Becht.csv,Iowa State,3,801
+Ron Peace,2026,Ron_Peace.csv,East Texas A&M,1,313
+Sam Leavitt,2026,Sam_Leavitt.csv,Arizona State,1,303
+Sam Vidlak,2026,Sam_Vidlak.csv,Stephen F. Austin,1,212
+Sawyer Robertson,2026,Sawyer_Robertson.csv,Baylor,2,474
+Sean Brown,2026,Sean_Brown.csv,Towson,2,223
+Seth Henigan,2026,Seth_Henigan.csv,Memphis,4,1750
+Seth Morgan,2026,Seth_Morgan.csv,New Hampshire,1,303
+Shedeur Sanders,2026,Shedeur_Sanders.csv,Colorado,2,880
+Simon Romfo,2026,Simon_Romfo.csv,North Dakota,3,299
+Skyler Locklear,2026,Skyler_Locklear.csv,UTEP,1,229
+Sonny Mannino,2026,Sonny_Mannino.csv,Marist,1,260
+Spencer Petras,2026,Spencer_Petras.csv,Utah State,1,267
+Taisun Phommachanh,2026,Taisun_Phommachanh.csv,Massachusetts,2,436
+Tak Tateoka,2026,Tak_Tateoka.csv,St. Thomas (MN),2,201
+Taron Dickens,2026,Taron_Dickens.csv,Western Carolina,2,159
+Tate Rodemaker,2026,Tate_Rodemaker.csv,Southern Miss,1,158
+Taylen Green,2026,Taylen_Green.csv,Arkansas,1,375
+Thomas Castellanos,2026,Thomas_Castellanos.csv,Boston College,2,456
+Tommy Mellott,2026,Tommy_Mellott.csv,Montana State,3,532
+Tommy Rittenhouse,2026,Tommy_Rittenhouse.csv,Illinois State,3,424
+Tommy Ulatowski,2026,Tommy_Ulatowski.csv,Kent State,3,262
+Trey Hedden,2026,Trey_Hedden.csv,Furman,1,213
+Tucker Gleason,2026,Tucker_Gleason.csv,Toledo,4,528
+Ty Pennington,2026,Ty_Pennington.csv,Northern Arizona,1,204
+Ty'Jarian Williams,2026,Ty'Jarian_Williams.csv,Mississippi Valley State,2,304
+Tyler Huff,2026,Tyler_Huff.csv,Jacksonville State,1,281
+Tyler Knoop,2026,Tyler_Knoop.csv,Stony Brook,1,221
+Tyler Shough,2026,Tyler_Shough.csv,Louisville,1,383
+Victor Gabalis,2026,Victor_Gabalis.csv,Tarleton State,2,510
+Walker Eget,2026,Walker_Eget.csv,San José State,3,329
+Walker Harris,2026,Walker_Harris.csv,North Carolina Central,3,254
+Whitt Newbauer,2026,Whitt_Newbauer.csv,Mercer,1,157
+Will Howard,2026,Will_Howard.csv,Ohio State,1,368
+Will McElvain,2026,Will_McElvain.csv,Central Arkansas,3,667
+Will Rogers,2026,Will_Rogers.csv,Washington,1,304
+Xaiver Lankford,2026,Xaiver_Lankford.csv,Alabama A&M,1,133
+Zach Calzada,2026,Zach_Calzada.csv,Incarnate Word,2,569
+Zach Gibson,2026,Zach_Gibson.csv,Georgia State,1,149

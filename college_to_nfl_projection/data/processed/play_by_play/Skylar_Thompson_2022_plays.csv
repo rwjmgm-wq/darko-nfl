@@ -1,0 +1,316 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401287889.0,Pass Reception,,,65.0,35,0.10155487060546875,False,Kansas State,Stanford,14.0,0.0,4,14,51,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Incompletion,,,55.0,45,-0.528693437576294,False,Kansas State,Stanford,14.0,0.0,4,14,51,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,43.0,57,1.5224840641021729,False,Kansas State,Stanford,14.0,0.0,4,14,51,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Incompletion,,,21.0,79,-0.5769362449645996,False,Kansas State,Stanford,14.0,0.0,4,14,51,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,24.0,76,-0.47205615043640137,False,Kansas State,Stanford,14.0,0.0,4,14,51,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Sack,,,78.0,22,-1.4158012866973877,False,Kansas State,Stanford,14.0,0.0,3,6,17,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Incompletion,,,65.0,35,-0.5361232757568359,False,Kansas State,Stanford,14.0,0.0,3,15,0,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Sack,,,59.0,41,-2.084597587585449,False,Kansas State,Stanford,14.0,0.0,3,15,0,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,69.0,31,1.520372748374939,False,Kansas State,Stanford,14.0,0.0,2,3,0,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Sack,,,46.0,54,-1.425079584121704,False,Kansas State,Stanford,7.0,0.0,2,13,3,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,53.0,47,-0.8457633256912231,False,Kansas State,Stanford,7.0,0.0,2,13,3,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Incompletion,,,50.0,50,-1.3823678493499756,False,Kansas State,Stanford,7.0,0.0,2,13,3,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,62.0,38,2.7860569953918457,False,Kansas State,Stanford,0.0,0.0,1,4,2,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,78.0,22,2.265035629272461,False,Kansas State,Stanford,0.0,0.0,1,10,8,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,56.0,44,1.094151258468628,False,Kansas State,Stanford,0.0,0.0,1,10,8,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Pass Reception,,,29.0,71,0.2899622917175293,False,Kansas State,Stanford,0.0,0.0,1,10,8,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287889.0,Interception Return,,,23.0,77,-5.314931869506836,False,Kansas State,Stanford,0.0,0.0,1,10,8,1,Stanford,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,59.0,41,2.397296905517578,False,Kansas State,Southern Illinois,24.0,23.0,4,5,16,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Incompletion,,,6.0,94,-1.1974637508392334,False,Kansas State,Southern Illinois,24.0,23.0,4,8,37,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Incompletion,,,57.0,43,-1.4416742324829102,False,Kansas State,Southern Illinois,24.0,23.0,4,11,6,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,40.0,60,-1.5486427545547485,False,Kansas State,Southern Illinois,24.0,23.0,3,0,0,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,71.0,29,0.6612975597381592,False,Kansas State,Southern Illinois,21.0,23.0,3,13,34,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Fumble Recovery (Opponent),,,36.0,64,-3.6879093647003174,False,Kansas State,Southern Illinois,21.0,23.0,2,0,59,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,45.0,55,2.048434257507324,False,Kansas State,Southern Illinois,21.0,23.0,2,1,19,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Interception Return Touchdown,,,81.0,19,-6.869987964630127,True,Kansas State,Southern Illinois,21.0,23.0,2,3,16,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,67.0,33,0.3944355249404907,False,Kansas State,Southern Illinois,21.0,23.0,2,3,16,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,62.0,38,0.33048737049102783,False,Kansas State,Southern Illinois,21.0,23.0,2,3,16,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Incompletion,,,51.0,49,-0.40627968311309814,False,Kansas State,Southern Illinois,21.0,23.0,2,3,16,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Incompletion,,,81.0,19,-0.5983099937438965,False,Kansas State,Southern Illinois,21.0,16.0,2,4,8,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,65.0,35,-0.4344143867492676,False,Kansas State,Southern Illinois,14.0,3.0,2,14,13,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Incompletion,,,60.0,40,-0.9805259704589844,False,Kansas State,Southern Illinois,14.0,3.0,2,14,13,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,60.0,40,2.984041452407837,False,Kansas State,Southern Illinois,14.0,3.0,2,14,13,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,65.0,35,-0.4471536874771118,False,Kansas State,Southern Illinois,7.0,0.0,1,10,10,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,62.0,38,3.4705495834350586,False,Kansas State,Southern Illinois,7.0,0.0,1,10,10,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Interception Return,,,34.0,66,-4.997527122497559,False,Kansas State,Southern Illinois,7.0,0.0,1,11,8,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287897.0,Pass Reception,,,65.0,35,2.6353530883789062,False,Kansas State,Southern Illinois,0.0,0.0,1,15,0,2,Southern Illinois,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,56.0,44,0.6764485836029053,False,Kansas State,Nevada,24.0,17.0,4,12,21,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,37.0,63,0.17043638229370117,False,Kansas State,Nevada,24.0,17.0,4,12,21,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,36.0,64,1.1970837116241455,False,Kansas State,Nevada,24.0,17.0,4,12,21,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,75.0,25,1.8089393377304077,False,Kansas State,Nevada,17.0,17.0,3,4,8,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,59.0,41,0.4537687301635742,False,Kansas State,Nevada,17.0,17.0,3,4,8,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Incompletion,,,76.0,24,-1.0504422187805176,False,Kansas State,Nevada,17.0,10.0,3,10,35,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,20.0,80,-0.3871619701385498,False,Kansas State,Nevada,14.0,7.0,2,6,45,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,68.0,32,0.3633846044540405,False,Kansas State,Nevada,7.0,7.0,2,15,0,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Incompletion,,,22.0,78,-0.7275915145874023,False,Kansas State,Nevada,7.0,7.0,2,15,0,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Reception,,,65.0,35,0.5797157287597656,False,Kansas State,Nevada,7.0,0.0,1,12,5,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Incompletion,,,43.0,57,-0.967970609664917,False,Kansas State,Nevada,7.0,0.0,1,12,5,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Pass Incompletion,,,43.0,57,-1.8138562440872192,False,Kansas State,Nevada,7.0,0.0,1,12,5,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287905.0,Passing Touchdown,,,68.0,32,4.443595886230469,True,Kansas State,Nevada,7.0,0.0,1,14,16,3,Nevada,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Fumble Recovery (Own),,,68.0,68,-1.9471714496612549,False,Oklahoma State,Kansas State,20.0,31.0,4,6,58,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,87.0,87,-1.2742482423782349,False,Oklahoma State,Kansas State,20.0,31.0,4,13,3,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,75.0,75,-1.0098979473114014,False,Oklahoma State,Kansas State,20.0,31.0,4,15,0,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,70.0,70,-0.7842898368835449,False,Oklahoma State,Kansas State,20.0,31.0,3,0,20,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Passing Touchdown,,,55.0,55,5.278295516967773,True,Oklahoma State,Kansas State,20.0,31.0,3,1,8,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,85.0,85,1.1765813827514648,False,Oklahoma State,Kansas State,13.0,31.0,3,2,36,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,67.0,67,0.854983925819397,False,Oklahoma State,Kansas State,13.0,31.0,3,2,36,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Sack,,,47.0,47,-2.6998612880706787,False,Oklahoma State,Kansas State,13.0,31.0,3,3,19,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,54.0,54,-0.40464067459106445,False,Oklahoma State,Kansas State,13.0,31.0,3,5,32,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,51.0,51,-1.081912875175476,False,Oklahoma State,Kansas State,13.0,31.0,3,5,32,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,66.0,66,-0.8433497548103333,False,Oklahoma State,Kansas State,13.0,31.0,3,12,13,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,66.0,66,-1.2806767225265503,False,Oklahoma State,Kansas State,13.0,31.0,3,12,13,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,60.0,60,0.34715861082077026,False,Oklahoma State,Kansas State,10.0,31.0,2,0,38,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,51.0,51,0.28981447219848633,False,Oklahoma State,Kansas State,10.0,31.0,2,0,38,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,44.0,44,1.5894533395767212,False,Oklahoma State,Kansas State,10.0,31.0,2,0,38,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Interception Return,,,22.0,22,-3.5670461654663086,False,Oklahoma State,Kansas State,10.0,31.0,2,1,29,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,75.0,75,0.37599220871925354,False,Oklahoma State,Kansas State,3.0,31.0,2,4,21,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,55.0,55,-0.538733959197998,False,Oklahoma State,Kansas State,10.0,32.0,2,4,21,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,43.0,43,-0.5589118003845215,False,Oklahoma State,Kansas State,10.0,31.0,2,4,21,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,43.0,43,1.9905753135681152,False,Oklahoma State,Kansas State,10.0,31.0,2,4,21,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,22.0,22,-0.5658652782440186,False,Oklahoma State,Kansas State,10.0,31.0,2,4,21,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,69.0,69,-0.8053693175315857,False,Oklahoma State,Kansas State,10.0,21.0,1,3,15,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,69.0,69,2.7954328060150146,False,Oklahoma State,Kansas State,10.0,21.0,1,3,15,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,44.0,44,-1.8822524547576904,False,Oklahoma State,Kansas State,10.0,21.0,1,3,15,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,14.0,14,-0.583765983581543,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,14.0,14,-1.2011439800262451,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,82.0,82,0.4466429352760315,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,35.0,35,-0.6423261165618896,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,35.0,35,1.164881706237793,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Incompletion,,,29.0,29,-0.6951825618743896,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287909.0,Pass Reception,,,24.0,24,-2.7804088592529297,False,Oklahoma State,Kansas State,0.0,0.0,1,14,54,4,Oklahoma State,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Passing Touchdown,,,6.0,94,3.1626765727996826,True,Kansas State,Oklahoma,24.0,34.0,4,4,15,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,45.0,88,-0.05378007888793945,False,Kansas State,Oklahoma,17.0,34.0,4,5,42,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,63.0,37,1.8386480808258057,False,Kansas State,Oklahoma,17.0,34.0,4,7,5,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,59.0,41,-1.329582691192627,False,Kansas State,Oklahoma,17.0,34.0,4,7,50,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,75.0,25,-0.5813947916030884,False,Kansas State,Oklahoma,17.0,34.0,4,9,42,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,48.0,52,-2.122846841812134,False,Kansas State,Oklahoma,17.0,27.0,4,13,5,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,46.0,54,-1.0363044738769531,False,Kansas State,Oklahoma,17.0,27.0,4,14,12,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,73.0,27,1.88409423828125,False,Kansas State,Oklahoma,17.0,27.0,3,0,10,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,87.0,13,1.9957950115203857,False,Kansas State,Oklahoma,17.0,27.0,3,0,40,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,93.0,7,0.05607199668884277,False,Kansas State,Oklahoma,17.0,27.0,3,1,15,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,93.0,7,-0.5855290293693542,False,Kansas State,Oklahoma,17.0,27.0,3,1,22,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Passing Touchdown,,,7.0,93,3.260819673538208,True,Kansas State,Oklahoma,17.0,27.0,3,3,19,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,75.0,25,4.707515716552734,False,Kansas State,Oklahoma,10.0,27.0,3,5,20,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,80.0,20,-1.0168968439102173,False,Kansas State,Oklahoma,10.0,20.0,3,10,8,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,85.0,15,-0.44786500930786133,False,Kansas State,Oklahoma,10.0,20.0,3,10,42,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,19.0,81,-0.639786958694458,False,Kansas State,Oklahoma,7.0,10.0,2,1,35,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Sack,,,10.0,90,-2.0205745697021484,False,Kansas State,Oklahoma,7.0,10.0,2,2,0,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,30.0,70,2.0511882305145264,False,Kansas State,Oklahoma,7.0,10.0,2,2,50,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,30.0,70,-0.6418077945709229,False,Kansas State,Oklahoma,7.0,10.0,2,3,30,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,33.0,67,-0.9791278839111328,False,Kansas State,Oklahoma,7.0,10.0,2,4,50,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,43.0,57,-0.16085612773895264,False,Kansas State,Oklahoma,7.0,10.0,2,6,10,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,43.0,57,-0.6610890626907349,False,Kansas State,Oklahoma,7.0,10.0,2,6,24,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,46.0,54,3.1153159141540527,False,Kansas State,Oklahoma,7.0,10.0,2,7,20,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,50.0,50,-0.8462622165679932,False,Kansas State,Oklahoma,7.0,10.0,2,7,54,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,64.0,36,0.690780758857727,False,Kansas State,Oklahoma,7.0,10.0,2,9,33,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Passing Touchdown,,,2.0,98,3.2935268878936768,True,Kansas State,Oklahoma,7.0,3.0,1,0,11,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,6.0,94,-0.5613160133361816,False,Kansas State,Oklahoma,0.0,3.0,1,0,49,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,12.0,88,-0.01771831512451172,False,Kansas State,Oklahoma,0.0,3.0,1,1,29,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,7.0,93,-0.6220197677612305,False,Kansas State,Oklahoma,0.0,3.0,1,1,37,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,31.0,69,1.2598998546600342,False,Kansas State,Oklahoma,0.0,3.0,1,2,39,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,31.0,69,-0.5567855834960938,False,Kansas State,Oklahoma,0.0,3.0,1,2,47,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,56.0,44,1.6877260208129883,False,Kansas State,Oklahoma,0.0,3.0,1,3,25,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,29.0,71,0.8817496299743652,False,Kansas State,Oklahoma,0.0,0.0,1,9,24,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,40.0,60,3.833789825439453,False,Kansas State,Oklahoma,0.0,0.0,1,10,0,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,46.0,54,-0.7426068782806396,False,Kansas State,Oklahoma,0.0,0.0,1,10,38,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,65.0,35,-0.948666512966156,False,Kansas State,Oklahoma,0.0,0.0,1,12,44,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,65.0,35,3.328240156173706,False,Kansas State,Oklahoma,0.0,0.0,1,12,44,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,66.0,34,-0.596490740776062,False,Kansas State,Oklahoma,0.0,0.0,1,13,15,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Reception,,,66.0,34,1.2357717752456665,False,Kansas State,Oklahoma,0.0,0.0,1,14,10,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287913.0,Pass Incompletion,,,66.0,34,-1.0376580953598022,False,Kansas State,Oklahoma,0.0,0.0,1,14,15,5,Oklahoma,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,30.0,70,-2.1309704780578613,False,Kansas State,Iowa State,20.0,33.0,4,0,1,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,45.0,55,0.5391575694084167,False,Kansas State,Iowa State,20.0,33.0,4,0,15,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,65.0,35,0.7104642391204834,False,Kansas State,Iowa State,20.0,33.0,4,0,20,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Sack,,,61.0,39,-0.5583946704864502,False,Kansas State,Iowa State,20.0,33.0,4,0,40,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,68.0,32,0.31989771127700806,False,Kansas State,Iowa State,20.0,33.0,4,0,55,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,74.0,26,0.09395274519920349,False,Kansas State,Iowa State,20.0,33.0,4,1,1,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,77.0,23,-0.2038220465183258,False,Kansas State,Iowa State,20.0,33.0,4,1,10,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Passing Touchdown,,,9.0,91,4.44017219543457,True,Kansas State,Iowa State,20.0,30.0,4,5,5,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Incompletion,,,11.0,89,-0.7875566482543945,False,Kansas State,Iowa State,13.0,30.0,4,5,53,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,45.0,55,0.9887781143188477,False,Kansas State,Iowa State,13.0,30.0,4,7,42,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,65.0,35,3.078817129135132,False,Kansas State,Iowa State,13.0,30.0,4,7,58,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,64.0,36,0.7574892044067383,False,Kansas State,Iowa State,7.0,27.0,3,2,10,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Incompletion,,,54.0,46,-1.447930932044983,False,Kansas State,Iowa State,7.0,20.0,3,13,6,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,75.0,25,0.06106657162308693,False,Kansas State,Iowa State,7.0,20.0,3,14,43,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Sack,,,76.0,24,-1.2103691101074219,False,Kansas State,Iowa State,7.0,17.0,2,3,0,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Incompletion,,,27.0,73,-0.8749721050262451,False,Kansas State,Iowa State,7.0,10.0,2,13,0,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Incompletion,,,22.0,78,-0.5528426170349121,False,Kansas State,Iowa State,7.0,10.0,2,13,30,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,39.0,61,1.5542707443237305,False,Kansas State,Iowa State,7.0,10.0,2,14,0,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,49.0,51,1.3113291263580322,False,Kansas State,Iowa State,7.0,10.0,2,15,0,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Reception,,,56.0,44,0.03699946403503418,False,Kansas State,Iowa State,7.0,10.0,1,1,26,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Passing Touchdown,,,40.0,60,3.645806312561035,True,Kansas State,Iowa State,7.0,10.0,1,3,58,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Sack,,,53.0,34,0.1610703468322754,False,Kansas State,Iowa State,0.0,10.0,1,5,30,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Interception Return,,,53.0,47,-5.495136260986328,False,Kansas State,Iowa State,0.0,7.0,1,10,3,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287922.0,Pass Incompletion,,,59.0,41,-1.6525630950927734,False,Kansas State,Iowa State,0.0,7.0,1,13,16,7,Iowa State,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Passing Touchdown,,,22.0,22,1.7569842338562012,True,Texas Tech,Kansas State,25.0,24.0,4,6,9,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Sack,,,59.0,59,-0.8247002959251404,False,Texas Tech,Kansas State,19.0,24.0,4,11,43,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Sack,,,68.0,68,-1.3993948698043823,False,Texas Tech,Kansas State,19.0,24.0,4,11,43,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,45.0,45,0.20155668258666992,False,Texas Tech,Kansas State,19.0,24.0,4,11,43,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,38.0,38,1.396327018737793,False,Texas Tech,Kansas State,19.0,24.0,4,11,43,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,29.0,29,0.511202335357666,False,Texas Tech,Kansas State,19.0,24.0,4,11,43,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,26.0,26,-1.9915947914123535,False,Texas Tech,Kansas State,19.0,24.0,3,0,31,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,80.0,80,0.5644629597663879,False,Texas Tech,Kansas State,19.0,24.0,3,5,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,69.0,69,1.1219407320022583,False,Texas Tech,Kansas State,19.0,24.0,3,5,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,41.0,41,0.34226155281066895,False,Texas Tech,Kansas State,19.0,24.0,3,5,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,41.0,41,1.1523103713989258,False,Texas Tech,Kansas State,19.0,24.0,3,5,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,69.0,69,1.5698875188827515,False,Texas Tech,Kansas State,12.0,24.0,3,12,33,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,37.0,37,1.9126834869384766,False,Texas Tech,Kansas State,12.0,24.0,3,12,33,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,11.0,11,1.207627773284912,False,Texas Tech,Kansas State,12.0,24.0,3,12,33,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,74.0,74,-0.8696765899658203,False,Texas Tech,Kansas State,10.0,24.0,3,15,0,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,35.0,35,0.2905080318450928,False,Texas Tech,Kansas State,7.0,21.0,2,5,30,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,8.0,8,-0.7792849540710449,False,Texas Tech,Kansas State,7.0,21.0,2,5,30,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,9.0,9,-0.44576406478881836,False,Texas Tech,Kansas State,7.0,21.0,2,5,30,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,80.0,80,3.7341554164886475,False,Texas Tech,Kansas State,7.0,21.0,2,8,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,54.0,54,-0.20389056205749512,False,Texas Tech,Kansas State,7.0,21.0,2,8,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Incompletion,,,50.0,50,-0.8851798176765442,False,Texas Tech,Kansas State,7.0,21.0,2,8,50,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,32.0,32,-0.7902079820632935,False,Texas Tech,Kansas State,0.0,14.0,1,3,29,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,20.0,20,2.2033510208129883,False,Texas Tech,Kansas State,0.0,14.0,1,3,29,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,82.0,82,2.255025863647461,False,Texas Tech,Kansas State,0.0,14.0,1,8,59,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,65.0,65,2.926074504852295,False,Texas Tech,Kansas State,0.0,14.0,1,8,59,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Reception,,,44.0,44,0.8934705853462219,False,Texas Tech,Kansas State,0.0,14.0,1,8,59,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Incompletion,,,74.0,74,-0.8747807145118713,False,Texas Tech,Kansas State,0.0,14.0,1,11,31,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287928.0,Pass Incompletion,,,79.0,79,-0.826974630355835,False,Texas Tech,Kansas State,0.0,14.0,1,11,31,8,Texas Tech,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,69.0,31,-0.05009325221180916,False,Kansas State,TCU,29.0,7.0,4,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,69.0,31,-0.05982286483049393,False,Kansas State,TCU,29.0,7.0,4,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Passing Touchdown,,,73.0,27,5.901177883148193,True,Kansas State,TCU,28.0,5.0,4,14,49,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,81.0,19,-1.0369873046875,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,81.0,19,-1.2962796688079834,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,83.0,17,-1.0234509706497192,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,78.0,22,-1.0648772716522217,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,78.0,22,2.1409101486206055,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,70.0,30,0.4969754219055176,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,54.0,46,-0.8923044204711914,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Sack,,,54.0,46,-2.1407923698425293,False,Kansas State,TCU,21.0,5.0,3,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,73.0,27,2.300309181213379,False,Kansas State,TCU,8.0,0.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,83.0,17,-0.09228390455245972,False,Kansas State,TCU,8.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,51.0,49,-0.2704259157180786,False,Kansas State,TCU,8.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,85.0,15,0.020093021914362907,False,Kansas State,TCU,14.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,80.0,20,-0.0761144831776619,False,Kansas State,TCU,14.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Incompletion,,,65.0,35,-0.09049135446548462,False,Kansas State,TCU,14.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,65.0,35,0.0,False,Kansas State,TCU,14.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,38.0,62,-0.6989827752113342,False,Kansas State,TCU,14.0,3.0,2,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,78.0,22,0.5085144639015198,False,Kansas State,TCU,0.0,0.0,1,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Sack,,,71.0,29,-2.2058162689208984,False,Kansas State,TCU,0.0,0.0,1,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,77.0,23,2.9626517295837402,False,Kansas State,TCU,0.0,0.0,1,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,45.0,55,3.5129547119140625,False,Kansas State,TCU,0.0,0.0,1,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,80.0,20,1.4313876628875732,False,Kansas State,TCU,6.0,0.0,1,0,0,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Interception Return,,,72.0,28,-1.9653608798980713,False,Kansas State,TCU,7.0,0.0,1,3,6,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287930.0,Pass Reception,,,73.0,27,-0.958871066570282,False,Kansas State,TCU,7.0,0.0,1,3,57,9,TCU,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Incompletion,,,83.0,83,-0.7175752520561218,False,Kansas,Kansas State,35.0,10.0,4,2,43,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,75.0,75,-0.2586173415184021,False,Kansas,Kansas State,35.0,10.0,4,3,54,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,88.0,88,0.9719012975692749,False,Kansas,Kansas State,35.0,10.0,4,5,40,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,28.0,28,0.6036171913146973,False,Kansas,Kansas State,28.0,10.0,4,13,17,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,47.0,47,1.9015917778015137,False,Kansas,Kansas State,28.0,10.0,4,14,0,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,52.0,52,-0.256788969039917,False,Kansas,Kansas State,28.0,10.0,4,14,46,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Incompletion,,,65.0,65,-0.5529835224151611,False,Kansas,Kansas State,28.0,10.0,3,0,56,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,69.0,69,1.2234225273132324,False,Kansas,Kansas State,28.0,10.0,3,1,34,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,75.0,75,0.2284848690032959,False,Kansas,Kansas State,28.0,10.0,3,2,52,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Incompletion,,,6.0,6,-1.6574041843414307,False,Kansas,Kansas State,28.0,3.0,3,7,32,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,10.0,10,-0.5351247787475586,False,Kansas,Kansas State,28.0,3.0,3,8,18,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Incompletion,,,10.0,10,-0.5142059326171875,False,Kansas,Kansas State,28.0,3.0,3,8,30,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,20.0,20,1.5626516342163086,False,Kansas,Kansas State,28.0,3.0,3,9,6,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Incompletion,,,22.0,22,-0.675567626953125,False,Kansas,Kansas State,28.0,3.0,3,10,3,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,39.0,39,1.3652381896972656,False,Kansas,Kansas State,28.0,3.0,3,10,40,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,45.0,45,-0.45194149017333984,False,Kansas,Kansas State,28.0,3.0,3,12,4,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,56.0,56,2.9982247352600098,False,Kansas,Kansas State,21.0,3.0,2,0,2,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,24.0,24,3.818390130996704,False,Kansas,Kansas State,14.0,3.0,2,3,21,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Incompletion,,,24.0,24,-0.7662174701690674,False,Kansas,Kansas State,14.0,3.0,2,3,34,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,73.0,73,1.1391609907150269,False,Kansas,Kansas State,14.0,3.0,2,6,8,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,79.0,79,-0.17092525959014893,False,Kansas,Kansas State,14.0,3.0,2,6,43,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,63.0,63,-0.16070440411567688,False,Kansas,Kansas State,14.0,3.0,2,8,44,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,78.0,78,-0.41835159063339233,False,Kansas,Kansas State,14.0,3.0,2,9,40,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Passing Touchdown,,,68.0,68,5.082776069641113,True,Kansas,Kansas State,14.0,3.0,1,1,57,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,15.0,15,1.46559476852417,False,Kansas,Kansas State,0.0,0.0,1,6,47,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,13.0,13,-1.016282558441162,False,Kansas,Kansas State,0.0,0.0,1,7,35,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287935.0,Pass Reception,,,52.0,52,0.9431443214416504,False,Kansas,Kansas State,0.0,0.0,1,8,49,10,Kansas,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,24.0,76,0.34192371368408203,False,Kansas State,West Virginia,31.0,17.0,4,4,22,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Incompletion,,,63.0,37,-0.5273633003234863,False,Kansas State,West Virginia,24.0,17.0,4,11,44,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,60.0,40,2.291576385498047,False,Kansas State,West Virginia,24.0,17.0,4,11,44,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Sack,,,41.0,59,-1.025691270828247,False,Kansas State,West Virginia,24.0,17.0,4,11,44,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,45.0,55,-0.86314857006073,False,Kansas State,West Virginia,24.0,17.0,4,11,44,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,39.0,61,5.278724670410156,False,Kansas State,West Virginia,24.0,17.0,4,11,44,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,27.0,73,0.5781459808349609,False,Kansas State,West Virginia,24.0,10.0,3,6,2,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Passing Touchdown,,,4.0,96,1.9869928359985352,True,Kansas State,West Virginia,24.0,3.0,3,10,17,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,31.0,69,0.938835620880127,False,Kansas State,West Virginia,17.0,3.0,3,14,48,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,21.0,79,-0.10070276260375977,False,Kansas State,West Virginia,17.0,3.0,3,14,48,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,21.0,79,-0.357144832611084,False,Kansas State,West Virginia,14.0,0.0,2,5,2,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,66.0,34,0.7958967685699463,False,Kansas State,West Virginia,14.0,0.0,2,10,27,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,54.0,46,2.447465658187866,False,Kansas State,West Virginia,14.0,0.0,2,10,27,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Incompletion,,,31.0,69,-0.5587878227233887,False,Kansas State,West Virginia,14.0,0.0,2,10,27,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,31.0,69,-2.422377347946167,False,Kansas State,West Virginia,14.0,0.0,2,10,27,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Incompletion,,,59.0,41,-0.9890207052230835,False,Kansas State,West Virginia,14.0,0.0,2,15,0,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Incompletion,,,68.0,32,-1.3171886205673218,False,Kansas State,West Virginia,7.0,0.0,1,7,3,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,90.0,10,-0.14513911306858063,False,Kansas State,West Virginia,7.0,0.0,1,8,30,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287939.0,Pass Reception,,,35.0,65,0.0752568244934082,False,Kansas State,West Virginia,0.0,0.0,1,14,20,11,West Virginia,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Interception Return,,,38.0,62,-4.62995719909668,False,Kansas State,Baylor,10.0,20.0,4,3,43,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Sack,,,57.0,43,-1.2297701835632324,False,Kansas State,Baylor,10.0,20.0,4,5,44,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,62.0,38,-0.20994456112384796,False,Kansas State,Baylor,10.0,20.0,4,5,44,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,58.0,42,2.4740283489227295,False,Kansas State,Baylor,10.0,20.0,4,5,44,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,43.0,57,0.21442484855651855,False,Kansas State,Baylor,10.0,20.0,4,5,44,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Sack,,,75.0,25,-1.231013536453247,False,Kansas State,Baylor,10.0,20.0,4,13,35,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,71.0,29,4.90498685836792,False,Kansas State,Baylor,10.0,20.0,4,13,35,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Sack,,,22.0,78,-0.8790233135223389,False,Kansas State,Baylor,10.0,20.0,4,13,35,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,23.0,77,-0.8383622169494629,False,Kansas State,Baylor,10.0,20.0,4,13,35,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,60.0,40,0.03956523537635803,False,Kansas State,Baylor,10.0,17.0,3,5,5,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,54.0,46,0.8047301769256592,False,Kansas State,Baylor,7.0,17.0,3,11,38,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,40.0,60,2.829256534576416,False,Kansas State,Baylor,7.0,17.0,3,11,38,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,22.0,78,0.5091981887817383,False,Kansas State,Baylor,7.0,17.0,3,11,38,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,11.0,89,-0.5764245986938477,False,Kansas State,Baylor,7.0,17.0,3,11,38,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,11.0,89,-0.6799571514129639,False,Kansas State,Baylor,7.0,17.0,3,11,38,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,61.0,39,-0.8332766890525818,False,Kansas State,Baylor,7.0,17.0,3,15,0,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,61.0,39,0.042059801518917084,False,Kansas State,Baylor,7.0,17.0,3,15,0,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,70.0,30,-0.9064967036247253,False,Kansas State,Baylor,0.0,14.0,2,4,1,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,51.0,49,-0.0316309928894043,False,Kansas State,Baylor,0.0,7.0,2,13,24,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,46.0,54,-1.7716052532196045,False,Kansas State,Baylor,0.0,7.0,2,13,24,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,50.0,50,-0.9184496402740479,False,Kansas State,Baylor,0.0,7.0,2,14,53,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,68.0,32,-0.9004590511322021,False,Kansas State,Baylor,0.0,7.0,1,4,33,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,68.0,32,-0.9601945877075195,False,Kansas State,Baylor,0.0,7.0,1,4,33,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,37.0,63,-1.9703748226165771,False,Kansas State,Baylor,0.0,7.0,1,6,1,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,75.0,25,-0.4648110270500183,False,Kansas State,Baylor,0.0,7.0,1,11,9,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,55.0,45,-1.0769776105880737,False,Kansas State,Baylor,0.0,7.0,1,11,9,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,50.0,50,3.843487501144409,False,Kansas State,Baylor,0.0,7.0,1,11,9,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Reception,,,37.0,63,0.24651288986206055,False,Kansas State,Baylor,0.0,7.0,1,11,9,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287943.0,Pass Incompletion,,,37.0,63,-1.819131851196289,False,Kansas State,Baylor,0.0,7.0,1,11,9,12,Baylor,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,67.0,67,1.8883545398712158,False,Texas,Kansas State,17.0,22.0,4,0,0,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,80.0,80,0.26677581667900085,False,Texas,Kansas State,17.0,22.0,4,0,33,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,60.0,60,0.9228196144104004,False,Texas,Kansas State,17.0,22.0,4,7,28,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,67.0,67,-1.9301146268844604,False,Texas,Kansas State,17.0,19.0,3,0,0,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Incompletion,,,58.0,58,-0.6137523651123047,False,Texas,Kansas State,17.0,16.0,3,9,52,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Incompletion,,,58.0,58,-1.553403377532959,False,Texas,Kansas State,17.0,16.0,3,9,52,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Sack,,,37.0,37,-1.6356127262115479,False,Texas,Kansas State,17.0,16.0,3,14,52,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,32.0,32,-1.3983941078186035,False,Texas,Kansas State,14.0,13.0,2,6,3,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,76.0,76,0.344246506690979,False,Texas,Kansas State,14.0,13.0,2,11,28,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,67.0,67,0.891655445098877,False,Texas,Kansas State,14.0,13.0,2,11,28,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Incompletion,,,61.0,61,-0.5613700151443481,False,Texas,Kansas State,14.0,13.0,2,11,28,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,49.0,49,0.3442363739013672,False,Texas,Kansas State,0.0,7.0,1,8,42,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Reception,,,20.0,20,0.7969546318054199,False,Texas,Kansas State,0.0,7.0,1,8,42,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401287952.0,Pass Incompletion,,,58.0,58,-1.5072321891784668,False,Texas,Kansas State,0.0,7.0,1,10,5,13,Texas,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,13.0,87,2.3423380851745605,False,Kansas State,LSU,35.0,7.0,4,11,1,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Passing Touchdown,,,2.0,98,0.4882693290710449,True,Kansas State,LSU,35.0,7.0,4,14,56,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,55.0,45,0.8082423210144043,False,Kansas State,LSU,28.0,7.0,3,0,41,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,29.0,71,-0.34753894805908203,False,Kansas State,LSU,28.0,7.0,3,3,0,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,33.0,67,-0.23956871032714844,False,Kansas State,LSU,28.0,7.0,3,3,49,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Sack,,,20.0,67,0.23956871032714844,False,Kansas State,LSU,28.0,7.0,3,4,14,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,54.0,46,1.8083345890045166,False,Kansas State,LSU,28.0,7.0,3,4,20,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,29.0,71,0.45184803009033203,False,Kansas State,LSU,21.0,7.0,3,9,40,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,38.0,62,0.137451171875,False,Kansas State,LSU,21.0,7.0,3,11,0,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,60.0,40,4.241926193237305,False,Kansas State,LSU,21.0,7.0,2,0,5,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Passing Touchdown,,,5.0,95,1.880392074584961,True,Kansas State,LSU,21.0,0.0,2,7,1,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Incompletion,,,12.0,88,-0.5242738723754883,False,Kansas State,LSU,14.0,0.0,2,7,56,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,37.0,63,2.098093032836914,False,Kansas State,LSU,14.0,0.0,2,8,30,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Incompletion,,,1.0,99,-0.2177600860595703,False,Kansas State,LSU,7.0,0.0,2,11,44,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,10.0,90,2.519955635070801,False,Kansas State,LSU,7.0,0.0,2,12,20,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,11.0,89,-1.1459345817565918,False,Kansas State,LSU,7.0,0.0,2,13,30,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,36.0,64,-0.05738210678100586,False,Kansas State,LSU,7.0,0.0,1,1,25,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Incompletion,,,36.0,64,-0.8605983257293701,False,Kansas State,LSU,7.0,0.0,1,1,42,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Incompletion,,,36.0,64,-0.5903363227844238,False,Kansas State,LSU,7.0,0.0,1,1,47,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,48.0,52,2.1025924682617188,False,Kansas State,LSU,7.0,0.0,1,2,0,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Sack,,,61.0,39,-1.1238716840744019,False,Kansas State,LSU,7.0,0.0,1,4,48,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Passing Touchdown,,,25.0,75,2.8100099563598633,True,Kansas State,LSU,7.0,0.0,1,9,13,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,33.0,67,2.0624148845672607,False,Kansas State,LSU,0.0,0.0,1,9,50,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,45.0,55,0.7542862892150879,False,Kansas State,LSU,0.0,0.0,1,10,20,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Incompletion,,,40.0,60,-0.8249905109405518,False,Kansas State,LSU,0.0,0.0,1,11,42,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,64.0,36,3.2093000411987305,False,Kansas State,LSU,0.0,0.0,1,12,10,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,69.0,31,-0.06064656376838684,False,Kansas State,LSU,0.0,0.0,1,12,45,1,LSU,2021,Kansas State,Skylar Thompson,2022
+401331241.0,Pass Reception,,,70.0,30,0.6556786298751831,False,Kansas State,LSU,0.0,0.0,1,13,50,1,LSU,2021,Kansas State,Skylar Thompson,2022

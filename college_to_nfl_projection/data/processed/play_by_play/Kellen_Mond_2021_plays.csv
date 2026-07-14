@@ -1,0 +1,296 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401237037.0,Pass Reception,,,60.0,40,0.8305820226669312,False,Texas A&M,Vanderbilt,17.0,12.0,4,2,29,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,44.0,56,0.6345796585083008,False,Texas A&M,Vanderbilt,17.0,12.0,4,6,20,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,44.0,56,-0.4991569519042969,False,Texas A&M,Vanderbilt,17.0,12.0,4,6,30,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Fumble Recovery (Opponent),,,47.0,53,-4.962574005126953,False,Texas A&M,Vanderbilt,17.0,12.0,4,10,19,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,15.0,85,-0.7105679512023926,False,Texas A&M,Vanderbilt,14.0,12.0,4,14,48,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,15.0,85,-0.6663742065429688,False,Texas A&M,Vanderbilt,14.0,12.0,4,14,54,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,54.0,46,0.7086637020111084,False,Texas A&M,Vanderbilt,14.0,12.0,3,0,50,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,69.0,31,1.8996763229370117,False,Texas A&M,Vanderbilt,14.0,12.0,3,1,18,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,75.0,25,0.0878748893737793,False,Texas A&M,Vanderbilt,14.0,12.0,3,1,56,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,90.0,10,3.1510798931121826,False,Texas A&M,Vanderbilt,14.0,5.0,3,7,35,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Passing Touchdown,,,17.0,83,2.5253677368164062,True,Texas A&M,Vanderbilt,14.0,5.0,3,13,20,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Sack,,,84.0,16,-0.28772029280662537,False,Texas A&M,Vanderbilt,7.0,5.0,2,1,8,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,81.0,19,-0.829305112361908,False,Texas A&M,Vanderbilt,7.0,5.0,2,3,8,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,81.0,19,-0.5736801624298096,False,Texas A&M,Vanderbilt,7.0,5.0,2,3,15,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,34.0,66,-0.22758245468139648,False,Texas A&M,Vanderbilt,7.0,3.0,2,9,31,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,25.0,76,0.22758245468139648,False,Texas A&M,Vanderbilt,7.0,3.0,2,9,50,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,25.0,75,-0.5381360054016113,False,Texas A&M,Vanderbilt,7.0,3.0,2,10,14,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,39.0,61,1.3537604808807373,False,Texas A&M,Vanderbilt,7.0,3.0,2,11,25,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,60.0,40,1.1416354179382324,False,Texas A&M,Vanderbilt,7.0,3.0,2,13,0,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,65.0,35,0.10155081748962402,False,Texas A&M,Vanderbilt,7.0,3.0,2,13,22,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,73.0,27,0.6983176469802856,False,Texas A&M,Vanderbilt,7.0,3.0,2,14,3,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,25.0,75,-0.8523228168487549,False,Texas A&M,Vanderbilt,0.0,3.0,1,3,45,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,36.0,64,1.2403171062469482,False,Texas A&M,Vanderbilt,0.0,3.0,1,4,38,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,64.0,36,1.7083189487457275,False,Texas A&M,Vanderbilt,0.0,3.0,1,5,41,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Reception,,,75.0,25,0.7392834424972534,False,Texas A&M,Vanderbilt,0.0,3.0,1,6,47,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,93.0,7,-1.0580663681030273,False,Texas A&M,Vanderbilt,0.0,3.0,1,8,38,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,93.0,7,-0.9287704229354858,False,Texas A&M,Vanderbilt,0.0,3.0,1,8,43,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237037.0,Pass Incompletion,,,93.0,7,-0.8143206834793091,False,Texas A&M,Vanderbilt,0.0,3.0,1,8,49,4,Vanderbilt,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Interception Return,,,10.0,10,-4.992837905883789,False,Alabama,Texas A&M,24.0,52.0,4,1,24,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,45.0,45,-0.7768661975860596,False,Alabama,Texas A&M,24.0,52.0,4,4,20,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,70.0,70,1.0695734024047852,False,Alabama,Texas A&M,24.0,52.0,4,5,10,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Passing Touchdown,,,14.0,14,4.1318678855896,True,Alabama,Texas A&M,24.0,45.0,4,7,25,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,14.0,14,-0.9817154407501221,False,Alabama,Texas A&M,17.0,45.0,4,7,30,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,14.0,14,-0.5930869579315186,False,Alabama,Texas A&M,17.0,45.0,4,7,36,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,28.0,28,2.5180439949035645,False,Alabama,Texas A&M,17.0,45.0,4,7,57,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,32.0,32,-0.2231985330581665,False,Alabama,Texas A&M,17.0,45.0,4,8,52,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,75.0,75,3.0988667011260986,False,Alabama,Texas A&M,17.0,45.0,4,9,55,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,23.0,23,-3.80953049659729,False,Alabama,Texas A&M,17.0,42.0,3,0,46,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,21.0,21,-0.9164774417877197,False,Alabama,Texas A&M,17.0,42.0,3,1,39,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,26.0,26,0.4082064628601074,False,Alabama,Texas A&M,17.0,42.0,3,2,10,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,44.0,44,4.155784606933594,False,Alabama,Texas A&M,17.0,42.0,3,2,40,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,41.0,41,-0.9971927404403687,False,Alabama,Texas A&M,17.0,42.0,3,3,44,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,44.0,44,0.8611142635345459,False,Alabama,Texas A&M,17.0,42.0,3,5,25,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,47.0,47,-0.3860131502151489,False,Alabama,Texas A&M,17.0,42.0,3,5,45,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,65.0,65,1.470487356185913,False,Alabama,Texas A&M,17.0,42.0,3,6,22,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,75.0,75,1.0207693576812744,False,Alabama,Texas A&M,17.0,42.0,3,7,3,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,13.0,13,-1.3286956548690796,False,Alabama,Texas A&M,14.0,35.0,3,9,6,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,13.0,13,-0.9065086841583252,False,Alabama,Texas A&M,14.0,35.0,3,9,16,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,27.0,27,3.8639211654663086,False,Alabama,Texas A&M,14.0,35.0,3,10,24,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,40.0,40,3.0727615356445312,False,Alabama,Texas A&M,14.0,35.0,3,11,45,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,43.0,43,-0.1591494083404541,False,Alabama,Texas A&M,14.0,35.0,3,12,38,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,35.0,35,-2.7112209796905518,False,Alabama,Texas A&M,14.0,28.0,2,1,21,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,43.0,43,0.8907079696655273,False,Alabama,Texas A&M,14.0,28.0,2,3,10,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,58.0,58,1.1893872022628784,False,Alabama,Texas A&M,14.0,28.0,2,3,55,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,58.0,58,-0.4061896800994873,False,Alabama,Texas A&M,14.0,28.0,2,4,16,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Interception Return Touchdown,,,65.0,65,-6.388302326202393,True,Alabama,Texas A&M,14.0,28.0,2,6,19,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,72.0,72,0.00838230550289154,False,Alabama,Texas A&M,14.0,21.0,2,6,45,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,62.0,62,-0.43938755989074707,False,Alabama,Texas A&M,14.0,21.0,2,7,42,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,72.0,72,2.3266825675964355,False,Alabama,Texas A&M,14.0,21.0,2,7,59,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,75.0,75,-0.5563473701477051,False,Alabama,Texas A&M,14.0,21.0,2,9,3,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,66.0,66,-1.8271312713623047,False,Alabama,Texas A&M,14.0,14.0,2,12,20,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Passing Touchdown,,,17.0,17,2.0115442276000977,True,Alabama,Texas A&M,14.0,14.0,2,14,44,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Passing Touchdown,,,47.0,47,4.626805782318115,True,Alabama,Texas A&M,7.0,14.0,1,1,13,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,65.0,65,-1.1323249340057373,False,Alabama,Texas A&M,0.0,7.0,1,8,9,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,62.0,62,-0.6039763689041138,False,Alabama,Texas A&M,0.0,7.0,1,8,35,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,75.0,75,1.2191580533981323,False,Alabama,Texas A&M,0.0,7.0,1,8,45,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,20.0,20,-1.0518825054168701,False,Alabama,Texas A&M,0.0,0.0,1,11,15,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,20.0,20,-0.8090136051177979,False,Alabama,Texas A&M,0.0,0.0,1,11,30,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,21.0,21,-0.5345902442932129,False,Alabama,Texas A&M,0.0,0.0,1,11,45,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Incompletion,,,35.0,35,-0.6092216968536377,False,Alabama,Texas A&M,0.0,0.0,1,12,20,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,41.0,41,0.4332888126373291,False,Alabama,Texas A&M,0.0,0.0,1,12,35,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,61.0,61,0.9747869968414307,False,Alabama,Texas A&M,0.0,0.0,1,14,20,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237093.0,Pass Reception,,,75.0,75,1.0618350505828857,False,Alabama,Texas A&M,0.0,0.0,1,14,45,5,Alabama,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,35.0,65,0.8332021236419678,False,Texas A&M,Florida,38.0,38.0,4,0,50,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Passing Touchdown,,,51.0,49,4.2637481689453125,True,Texas A&M,Florida,38.0,38.0,4,4,30,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,64.0,36,0.12118244171142578,False,Texas A&M,Florida,31.0,38.0,4,5,7,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,68.0,32,0.7485187649726868,False,Texas A&M,Florida,31.0,38.0,4,5,34,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Fumble Recovery (Opponent),,,70.0,30,-3.701502799987793,False,Texas A&M,Florida,31.0,31.0,4,8,26,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,48.0,52,0.40148353576660156,False,Texas A&M,Florida,24.0,28.0,3,0,50,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,61.0,39,2.0718181133270264,False,Texas A&M,Florida,24.0,28.0,3,2,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,14.0,86,1.6336755752563477,False,Texas A&M,Florida,17.0,28.0,3,9,38,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,46.0,54,-1.9345357418060303,False,Texas A&M,Florida,17.0,21.0,3,13,27,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,57.0,43,-1.9996511936187744,False,Texas A&M,Florida,17.0,21.0,3,14,30,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,75.0,25,1.4392619132995605,False,Texas A&M,Florida,17.0,21.0,3,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,57.0,43,-0.621064305305481,False,Texas A&M,Florida,17.0,21.0,3,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,46.0,54,-2.682694911956787,False,Texas A&M,Florida,17.0,21.0,3,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,19.0,81,-0.5235247611999512,False,Texas A&M,Florida,14.0,21.0,2,0,40,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,30.0,70,1.146747350692749,False,Texas A&M,Florida,14.0,21.0,2,0,58,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,19.0,81,-0.38377904891967773,False,Texas A&M,Florida,14.0,21.0,2,0,58,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,19.0,81,-0.05393362045288086,False,Texas A&M,Florida,14.0,21.0,2,0,58,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,15.0,85,2.2751448154449463,False,Texas A&M,Florida,14.0,21.0,2,0,58,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,4.0,96,-0.4832792282104492,False,Texas A&M,Florida,14.0,21.0,2,0,58,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,40.0,60,1.491751790046692,False,Texas A&M,Florida,14.0,21.0,2,1,27,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,30.0,70,-0.333787202835083,False,Texas A&M,Florida,14.0,21.0,2,1,27,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,40.0,60,-0.5198084115982056,False,Texas A&M,Florida,14.0,21.0,2,1,27,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,75.0,25,-0.526685357093811,False,Texas A&M,Florida,14.0,21.0,2,4,14,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,75.0,25,1.3419216871261597,False,Texas A&M,Florida,14.0,21.0,2,4,14,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,40.0,60,-0.7705782651901245,False,Texas A&M,Florida,14.0,21.0,2,4,14,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Passing Touchdown,,,2.0,98,1.7018837928771973,True,Texas A&M,Florida,14.0,14.0,2,9,33,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,74.0,26,1.898553490638733,False,Texas A&M,Florida,7.0,14.0,2,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,60.0,40,2.1703248023986816,False,Texas A&M,Florida,7.0,14.0,2,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,19.0,81,0.02962636947631836,False,Texas A&M,Florida,7.0,14.0,2,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,15.0,85,2.0284230709075928,False,Texas A&M,Florida,7.0,14.0,2,15,0,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,94.0,6,-0.7574770450592041,False,Texas A&M,Florida,7.0,14.0,1,1,42,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,89.0,11,0.6320178508758545,False,Texas A&M,Florida,7.0,14.0,1,1,42,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,82.0,18,-0.004735350608825684,False,Texas A&M,Florida,7.0,14.0,1,1,42,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Passing Touchdown,,,11.0,89,3.164605140686035,True,Texas A&M,Florida,7.0,7.0,1,3,59,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,73.0,27,-1.9688650369644165,False,Texas A&M,Florida,0.0,7.0,1,6,48,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Incompletion,,,73.0,27,-0.9612945914268494,False,Texas A&M,Florida,0.0,7.0,1,7,32,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,73.0,27,2.5567784309387207,False,Texas A&M,Florida,0.0,7.0,1,7,32,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237102.0,Pass Reception,,,61.0,39,3.7564172744750977,False,Texas A&M,Florida,0.0,7.0,1,7,32,6,Florida,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,60.0,60,-1.4566693305969238,False,Mississippi State,Texas A&M,28.0,14.0,4,11,11,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,61.0,61,0.19179797172546387,False,Mississippi State,Texas A&M,28.0,7.0,3,6,53,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,53.0,53,0.4943222999572754,False,Mississippi State,Texas A&M,28.0,7.0,3,6,53,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,44.0,44,-0.6268043518066406,False,Mississippi State,Texas A&M,28.0,7.0,3,6,53,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,41.0,41,-0.8458981513977051,False,Mississippi State,Texas A&M,28.0,7.0,3,6,53,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,41.0,41,-1.7801350355148315,False,Mississippi State,Texas A&M,28.0,7.0,3,6,53,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Passing Touchdown,,,6.0,6,1.2841424942016602,True,Mississippi State,Texas A&M,28.0,7.0,3,8,39,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Passing Touchdown,,,51.0,51,3.479910135269165,True,Mississippi State,Texas A&M,21.0,7.0,3,10,5,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Interception Return Touchdown,,,32.0,32,-10.365456581115723,True,Mississippi State,Texas A&M,14.0,7.0,3,11,38,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,75.0,75,1.6750664710998535,False,Mississippi State,Texas A&M,14.0,7.0,3,11,38,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,62.0,62,-0.5357930660247803,False,Mississippi State,Texas A&M,14.0,0.0,3,15,0,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,62.0,62,1.0099718570709229,False,Mississippi State,Texas A&M,14.0,0.0,3,15,0,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,36.0,36,-0.15962696075439453,False,Mississippi State,Texas A&M,14.0,0.0,3,15,0,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,73.0,73,-1.0252599716186523,False,Mississippi State,Texas A&M,14.0,0.0,2,8,40,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,80.0,80,0.8422932624816895,False,Mississippi State,Texas A&M,0.0,0.0,1,9,48,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,69.0,69,0.10303366184234619,False,Mississippi State,Texas A&M,0.0,0.0,1,9,48,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,62.0,62,-0.61456298828125,False,Mississippi State,Texas A&M,0.0,0.0,1,9,48,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,60.0,60,0.8311009407043457,False,Mississippi State,Texas A&M,0.0,0.0,1,9,48,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,47.0,47,-2.043954372406006,False,Mississippi State,Texas A&M,0.0,0.0,1,9,48,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,71.0,71,-0.8173238039016724,False,Mississippi State,Texas A&M,0.0,0.0,1,13,36,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Reception,,,71.0,71,-0.900634229183197,False,Mississippi State,Texas A&M,0.0,0.0,1,13,36,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237112.0,Pass Incompletion,,,75.0,75,-0.9780635833740234,False,Mississippi State,Texas A&M,0.0,0.0,1,13,36,7,Mississippi State,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Incompletion,,,64.0,36,-1.2732739448547363,False,Texas A&M,Arkansas,42.0,24.0,4,9,47,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,65.0,35,1.8655593395233154,False,Texas A&M,Arkansas,35.0,17.0,3,2,31,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,68.0,32,-0.6697299480438232,False,Texas A&M,Arkansas,35.0,17.0,3,3,19,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Incompletion,,,68.0,32,-0.6598062515258789,False,Texas A&M,Arkansas,35.0,17.0,3,3,27,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Passing Touchdown,,,15.0,85,2.0411276817321777,True,Texas A&M,Arkansas,35.0,17.0,3,5,22,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,24.0,76,0.8649430274963379,False,Texas A&M,Arkansas,28.0,17.0,3,5,56,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,23.0,77,-1.0250294208526611,False,Texas A&M,Arkansas,28.0,17.0,3,6,32,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,49.0,51,1.2212650775909424,False,Texas A&M,Arkansas,28.0,17.0,3,7,4,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,59.0,41,0.7941403388977051,False,Texas A&M,Arkansas,28.0,17.0,3,7,42,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,73.0,27,2.128439426422119,False,Texas A&M,Arkansas,28.0,17.0,3,8,58,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,38.0,62,2.773792266845703,False,Texas A&M,Arkansas,21.0,14.0,2,1,45,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,60.0,40,0.4997103214263916,False,Texas A&M,Arkansas,21.0,14.0,2,2,16,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,74.0,26,0.4962782859802246,False,Texas A&M,Arkansas,21.0,14.0,2,4,1,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Passing Touchdown,,,6.0,94,1.8579325675964355,True,Texas A&M,Arkansas,21.0,7.0,2,6,43,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,58.0,62,-0.5837464332580566,False,Texas A&M,Arkansas,14.0,7.0,2,8,43,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Incompletion,,,58.0,42,-1.0057891607284546,False,Texas A&M,Arkansas,14.0,7.0,2,8,59,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,66.0,34,2.0052685737609863,False,Texas A&M,Arkansas,14.0,7.0,2,10,52,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,73.0,27,-0.11429417133331299,False,Texas A&M,Arkansas,14.0,7.0,2,11,28,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Incompletion,,,69.0,31,-0.685099720954895,False,Texas A&M,Arkansas,14.0,7.0,2,12,14,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,45.0,70,-1.9389348030090332,False,Texas A&M,Arkansas,7.0,7.0,1,0,55,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Passing Touchdown,,,35.0,65,3.1992604732513428,True,Texas A&M,Arkansas,7.0,7.0,1,3,57,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,43.0,57,0.8024853467941284,False,Texas A&M,Arkansas,0.0,7.0,1,4,53,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,60.0,40,2.1624624729156494,False,Texas A&M,Arkansas,0.0,7.0,1,5,55,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,64.0,36,-0.24848295748233795,False,Texas A&M,Arkansas,0.0,7.0,1,6,49,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Incompletion,,,56.0,44,-1.7382800579071045,False,Texas A&M,Arkansas,0.0,0.0,1,13,5,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237120.0,Pass Reception,,,61.0,39,0.06616222858428955,False,Texas A&M,Arkansas,0.0,0.0,1,13,42,9,Arkansas,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Passing Touchdown,,,42.0,42,6.256497859954834,True,South Carolina,Texas A&M,48.0,3.0,4,1,2,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,22.0,22,1.2262382507324219,False,South Carolina,Texas A&M,34.0,0.0,4,12,59,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,58.0,58,1.0476300716400146,False,South Carolina,Texas A&M,34.0,0.0,3,0,59,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,68.0,68,0.20541930198669434,False,South Carolina,Texas A&M,34.0,0.0,3,2,29,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Passing Touchdown,,,52.0,52,2.9828591346740723,True,South Carolina,Texas A&M,34.0,0.0,3,6,55,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,35.0,35,0.4356350898742676,False,South Carolina,Texas A&M,21.0,0.0,3,12,45,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,75.0,75,1.8264117240905762,False,South Carolina,Texas A&M,21.0,0.0,3,14,8,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Passing Touchdown,,,7.0,7,2.851534366607666,True,South Carolina,Texas A&M,21.0,0.0,2,0,14,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,13.0,13,-0.539522647857666,False,South Carolina,Texas A&M,14.0,0.0,2,1,2,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,74.0,74,0.01606374979019165,False,South Carolina,Texas A&M,14.0,0.0,2,1,59,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,39.0,39,-3.2047817707061768,False,South Carolina,Texas A&M,14.0,0.0,2,5,19,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,51.0,51,0.7708420753479004,False,South Carolina,Texas A&M,14.0,0.0,2,5,46,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,47.0,47,-0.40100932121276855,False,South Carolina,Texas A&M,14.0,0.0,2,7,36,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Passing Touchdown,,,15.0,15,2.0710482597351074,True,South Carolina,Texas A&M,14.0,0.0,2,9,5,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,38.0,38,1.0578608512878418,False,South Carolina,Texas A&M,7.0,0.0,2,11,6,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,52.0,52,1.9036586284637451,False,South Carolina,Texas A&M,7.0,0.0,2,12,29,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,70.0,70,-0.7528318166732788,False,South Carolina,Texas A&M,7.0,0.0,2,14,46,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,72.0,72,0.2494431734085083,False,South Carolina,Texas A&M,7.0,0.0,1,2,30,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Passing Touchdown,,,3.0,3,1.8788299560546875,True,South Carolina,Texas A&M,7.0,0.0,1,4,4,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,24.0,24,0.27584075927734375,False,South Carolina,Texas A&M,0.0,0.0,1,7,47,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,28.0,28,-0.6221065521240234,False,South Carolina,Texas A&M,0.0,0.0,1,8,43,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Reception,,,41.0,41,0.7924771308898926,False,South Carolina,Texas A&M,0.0,0.0,1,9,32,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,72.0,72,-1.551676630973816,False,South Carolina,Texas A&M,0.0,0.0,1,11,10,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237127.0,Pass Incompletion,,,72.0,72,-1.0822044610977173,False,South Carolina,Texas A&M,0.0,0.0,1,11,11,10,South Carolina,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,55.0,45,-0.4470703601837158,False,Texas A&M,LSU,20.0,0.0,4,14,54,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Sack,,,34.0,66,-2.360755205154419,False,Texas A&M,LSU,13.0,0.0,3,5,22,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,33.0,67,-0.5773093700408936,False,Texas A&M,LSU,13.0,0.0,3,6,8,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,81.0,19,0.5762184858322144,False,Texas A&M,LSU,13.0,0.0,3,9,53,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,92.0,8,1.421583652496338,False,Texas A&M,LSU,13.0,0.0,3,10,25,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,65.0,35,-1.0449306964874268,False,Texas A&M,LSU,13.0,0.0,3,12,49,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,65.0,35,-0.9630169868469238,False,Texas A&M,LSU,13.0,0.0,3,12,55,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,33.0,67,3.001851797103882,False,Texas A&M,LSU,10.0,0.0,2,0,3,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,39.0,61,0.5683045387268066,False,Texas A&M,LSU,10.0,0.0,2,0,8,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,45.0,55,-0.2443450689315796,False,Texas A&M,LSU,10.0,0.0,2,0,18,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,54.0,46,0.32002508640289307,False,Texas A&M,LSU,10.0,0.0,2,0,24,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,66.0,34,-0.8065754771232605,False,Texas A&M,LSU,10.0,0.0,2,1,12,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,66.0,34,-0.27846473455429077,False,Texas A&M,LSU,10.0,0.0,2,1,18,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,66.0,34,-0.1792217493057251,False,Texas A&M,LSU,10.0,0.0,2,1,24,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,70.0,30,-0.817561149597168,False,Texas A&M,LSU,10.0,0.0,2,1,55,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,80.0,20,-0.5099908113479614,False,Texas A&M,LSU,10.0,0.0,2,3,42,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,90.0,10,-0.8125000596046448,False,Texas A&M,LSU,10.0,0.0,2,7,45,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,21.0,79,1.0535435676574707,False,Texas A&M,LSU,10.0,0.0,2,10,5,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,21.0,79,-0.7248485088348389,False,Texas A&M,LSU,10.0,0.0,2,10,14,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,28.0,72,1.1896941661834717,False,Texas A&M,LSU,10.0,0.0,2,11,37,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,34.0,66,0.36226487159729004,False,Texas A&M,LSU,10.0,0.0,2,11,55,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,42.0,58,-0.6166050434112549,False,Texas A&M,LSU,3.0,0.0,1,4,6,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,60.0,40,1.416459083557129,False,Texas A&M,LSU,3.0,0.0,1,4,39,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,64.0,36,-1.443725824356079,False,Texas A&M,LSU,3.0,0.0,1,7,16,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,64.0,36,-0.8183550238609314,False,Texas A&M,LSU,3.0,0.0,1,7,24,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,24.0,76,-0.6187795400619507,False,Texas A&M,LSU,0.0,0.0,1,9,16,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,24.0,76,-0.829268217086792,False,Texas A&M,LSU,0.0,0.0,1,9,23,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,65.0,35,-0.7393512725830078,False,Texas A&M,LSU,0.0,0.0,1,11,22,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Reception,,,71.0,29,-0.23548293113708496,False,Texas A&M,LSU,0.0,0.0,1,14,10,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237146.0,Pass Incompletion,,,71.0,29,-1.0917353630065918,False,Texas A&M,LSU,0.0,0.0,1,14,21,13,LSU,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,50.0,50,0.8734077215194702,False,Auburn,Texas A&M,28.0,20.0,4,3,33,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,54.0,54,-0.2968873977661133,False,Auburn,Texas A&M,28.0,20.0,4,4,18,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Incompletion,,,70.0,70,-0.7282372117042542,False,Auburn,Texas A&M,28.0,20.0,4,5,48,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,42.0,42,3.7375636100769043,False,Auburn,Texas A&M,21.0,20.0,4,8,31,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,67.0,67,1.6430690288543701,False,Auburn,Texas A&M,21.0,20.0,4,10,32,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Passing Touchdown,,,20.0,20,2.3991689682006836,True,Auburn,Texas A&M,21.0,20.0,4,13,31,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,35.0,35,2.900242805480957,False,Auburn,Texas A&M,14.0,20.0,4,14,7,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,38.0,38,-0.6793990135192871,False,Auburn,Texas A&M,14.0,20.0,4,14,52,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Incompletion,,,65.0,65,-0.61713707447052,False,Auburn,Texas A&M,14.0,20.0,3,2,24,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Incompletion,,,57.0,57,-1.61592698097229,False,Auburn,Texas A&M,14.0,17.0,3,8,2,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Incompletion,,,57.0,57,-0.8892914056777954,False,Auburn,Texas A&M,14.0,17.0,3,8,10,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,30.0,30,1.4268624782562256,False,Auburn,Texas A&M,7.0,10.0,2,1,25,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,60.0,60,0.3702465295791626,False,Auburn,Texas A&M,7.0,10.0,2,2,59,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Sack,,,1.0,1,-3.180868625640869,False,Auburn,Texas A&M,7.0,3.0,2,9,2,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,16.0,16,1.1921749114990234,False,Auburn,Texas A&M,7.0,3.0,2,11,17,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Incompletion,,,37.0,37,-1.7495834827423096,False,Auburn,Texas A&M,7.0,0.0,1,3,36,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,49.0,49,0.19923973083496094,False,Auburn,Texas A&M,7.0,0.0,1,4,26,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,40.0,40,0.16243362426757812,False,Auburn,Texas A&M,7.0,0.0,1,5,43,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,52.0,52,0.6825170516967773,False,Auburn,Texas A&M,7.0,0.0,1,6,32,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Passing Touchdown,,,10.0,10,2.59731388092041,True,Auburn,Texas A&M,7.0,0.0,1,8,42,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,35.0,35,1.2322022914886475,False,Auburn,Texas A&M,0.0,0.0,1,11,57,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,39.0,39,-0.0550999641418457,False,Auburn,Texas A&M,0.0,0.0,1,12,44,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,41.0,41,-0.5279991626739502,False,Auburn,Texas A&M,0.0,0.0,1,13,28,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401237150.0,Pass Reception,,,61.0,61,0.7005195617675781,False,Auburn,Texas A&M,0.0,0.0,1,14,26,14,Auburn,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,85.0,85,1.1227200031280518,False,North Carolina,Texas A&M,27.0,27.0,4,4,28,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,60.0,60,4.022886276245117,False,North Carolina,Texas A&M,20.0,27.0,4,12,27,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,70.0,70,2.1055288314819336,False,North Carolina,Texas A&M,20.0,27.0,4,13,8,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,75.0,75,-0.19851255416870117,False,North Carolina,Texas A&M,20.0,27.0,4,13,40,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,5.0,5,-1.5510475635528564,False,North Carolina,Texas A&M,17.0,20.0,4,14,6,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,33.0,19,0.781989574432373,False,North Carolina,Texas A&M,17.0,20.0,3,0,1,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,36.0,36,-0.1494605541229248,False,North Carolina,Texas A&M,17.0,20.0,3,0,42,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,56.0,56,1.3581044673919678,False,North Carolina,Texas A&M,17.0,20.0,3,2,9,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,64.0,64,1.8470219373703003,False,North Carolina,Texas A&M,17.0,20.0,3,3,14,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,64.0,64,-0.5938574075698853,False,North Carolina,Texas A&M,17.0,20.0,3,3,20,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Sack,,,68.0,68,-1.6795319318771362,False,North Carolina,Texas A&M,17.0,20.0,3,7,35,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,75.0,75,-0.5879768133163452,False,North Carolina,Texas A&M,17.0,20.0,3,7,56,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,83.0,83,-1.041451096534729,False,North Carolina,Texas A&M,17.0,13.0,3,12,4,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,83.0,83,-0.8988449573516846,False,North Carolina,Texas A&M,17.0,13.0,3,12,14,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,26.0,26,2.463192939758301,False,North Carolina,Texas A&M,10.0,13.0,2,0,33,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Sack,,,45.0,45,-1.2926496267318726,False,North Carolina,Texas A&M,10.0,13.0,2,2,52,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,72.0,72,2.4552500247955322,False,North Carolina,Texas A&M,10.0,13.0,2,3,22,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,79.0,79,-0.2156563699245453,False,North Carolina,Texas A&M,10.0,13.0,2,4,8,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Sack,,,75.0,75,-0.8571107387542725,False,North Carolina,Texas A&M,10.0,13.0,2,4,47,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,13.0,13,-0.567896842956543,False,North Carolina,Texas A&M,7.0,6.0,2,9,16,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,75.0,75,1.925921082496643,False,North Carolina,Texas A&M,7.0,6.0,2,11,0,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,69.0,69,-1.7522960901260376,False,North Carolina,Texas A&M,7.0,3.0,1,2,52,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,75.0,75,-0.11228513717651367,False,North Carolina,Texas A&M,7.0,3.0,1,4,22,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Reception,,,16.0,16,-0.012815237045288086,False,North Carolina,Texas A&M,0.0,0.0,1,9,59,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,16.0,16,-0.7522118091583252,False,North Carolina,Texas A&M,0.0,0.0,1,10,8,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401256112.0,Pass Incompletion,,,68.0,68,-1.6597344875335693,False,North Carolina,Texas A&M,0.0,0.0,1,13,35,1,North Carolina,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,25.0,25,0.7686963081359863,False,Tennessee,Texas A&M,24.0,13.0,4,11,14,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,53.0,53,1.3369724750518799,False,Tennessee,Texas A&M,24.0,13.0,4,11,51,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,81.0,81,1.1551601886749268,False,Tennessee,Texas A&M,24.0,13.0,4,14,50,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Interception Return,,,11.0,11,-5.666220188140869,False,Tennessee,Texas A&M,24.0,13.0,3,2,42,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,23.0,23,0.23661470413208008,False,Tennessee,Texas A&M,24.0,13.0,3,5,30,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,28.0,28,0.8081903457641602,False,Tennessee,Texas A&M,24.0,13.0,3,6,56,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,72.0,72,2.778914213180542,False,Tennessee,Texas A&M,24.0,13.0,3,9,8,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Incompletion,,,48.0,48,-1.9917197227478027,False,Tennessee,Texas A&M,24.0,13.0,3,12,51,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Incompletion,,,48.0,48,-0.8667500019073486,False,Tennessee,Texas A&M,24.0,13.0,3,12,55,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,75.0,75,-2.009247303009033,False,Tennessee,Texas A&M,24.0,13.0,3,14,55,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Passing Touchdown,,,4.0,4,1.5877742767333984,True,Tennessee,Texas A&M,24.0,13.0,2,0,18,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,8.0,8,0.6210870742797852,False,Tennessee,Texas A&M,17.0,13.0,2,0,24,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,17.0,17,0.8711919784545898,False,Tennessee,Texas A&M,17.0,13.0,2,0,43,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,28.0,28,1.182389736175537,False,Tennessee,Texas A&M,17.0,13.0,2,0,55,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,53.0,53,1.6137195825576782,False,Tennessee,Texas A&M,17.0,13.0,2,1,26,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Incompletion,,,68.0,68,-0.44950196146965027,False,Tennessee,Texas A&M,17.0,13.0,2,1,38,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,67.0,67,0.9133626222610474,False,Tennessee,Texas A&M,17.0,13.0,2,3,20,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Incompletion,,,75.0,75,-0.519035279750824,False,Tennessee,Texas A&M,17.0,13.0,2,4,3,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,10.0,10,-0.30663347244262695,False,Tennessee,Texas A&M,14.0,7.0,2,7,37,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,23.0,23,0.1787853240966797,False,Tennessee,Texas A&M,14.0,7.0,2,9,8,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,34.0,34,1.416550874710083,False,Tennessee,Texas A&M,14.0,7.0,2,9,54,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,21.0,21,1.382887363433838,False,Tennessee,Texas A&M,7.0,7.0,2,14,18,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,32.0,32,1.602682113647461,False,Tennessee,Texas A&M,7.0,7.0,2,14,55,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,32.0,32,-0.8552262783050537,False,Tennessee,Texas A&M,7.0,7.0,1,0,0,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,37.0,37,0.264815092086792,False,Tennessee,Texas A&M,7.0,7.0,1,1,21,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,54.0,54,2.4097743034362793,False,Tennessee,Texas A&M,7.0,7.0,1,1,51,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Incompletion,,,58.0,58,-0.6339664459228516,False,Tennessee,Texas A&M,7.0,7.0,1,2,45,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,69.0,69,-0.012185931205749512,False,Tennessee,Texas A&M,7.0,7.0,1,4,24,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,14.0,14,1.7398338317871094,False,Tennessee,Texas A&M,0.0,7.0,1,7,57,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,38.0,38,0.8961026668548584,False,Tennessee,Texas A&M,0.0,7.0,1,9,42,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,52.0,52,0.9937293529510498,False,Tennessee,Texas A&M,0.0,7.0,1,10,16,16,Tennessee,2020,Texas A&M,Kellen Mond,2021
+401260158.0,Pass Reception,,,70.0,70,2.738402843475342,False,Tennessee,Texas A&M,0.0,7.0,1,10,48,16,Tennessee,2020,Texas A&M,Kellen Mond,2021

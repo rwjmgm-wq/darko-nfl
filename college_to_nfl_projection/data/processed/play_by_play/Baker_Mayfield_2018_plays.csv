@@ -1,0 +1,437 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400934492.0,Pass Incompletion,,,30.0,70,-0.3667256832122803,False,Oklahoma,UTEP,56.0,7.0,4,1,46,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,36.0,64,0.1422361135482788,False,Oklahoma,UTEP,56.0,7.0,4,2,55,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,51.0,49,0.7389506101608276,False,Oklahoma,UTEP,56.0,7.0,4,4,8,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Incompletion,,,51.0,49,-0.28264641761779785,False,Oklahoma,UTEP,56.0,7.0,4,4,15,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,63.0,37,0.2885371446609497,False,Oklahoma,UTEP,56.0,7.0,4,5,35,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,14.0,86,1.4216375350952148,False,Oklahoma,UTEP,49.0,7.0,4,10,52,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,20.0,80,0.14737558364868164,False,Oklahoma,UTEP,49.0,7.0,4,11,40,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,54.0,46,0.5797784328460693,False,Oklahoma,UTEP,49.0,7.0,4,12,50,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,67.0,33,0.7471568584442139,False,Oklahoma,UTEP,49.0,7.0,4,13,10,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,80.0,20,0.7437283992767334,False,Oklahoma,UTEP,49.0,7.0,4,14,15,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,16.0,84,1.597506046295166,False,Oklahoma,UTEP,42.0,7.0,3,1,35,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,28.0,72,-0.5054688453674316,False,Oklahoma,UTEP,42.0,7.0,3,3,20,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Passing Touchdown,,,43.0,57,3.0306174755096436,True,Oklahoma,UTEP,42.0,7.0,3,7,52,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,58.0,42,0.3762655258178711,False,Oklahoma,UTEP,35.0,7.0,3,8,45,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,79.0,21,0.8209357261657715,False,Oklahoma,UTEP,35.0,7.0,3,9,7,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Incompletion,,,80.0,20,-0.6385793685913086,False,Oklahoma,UTEP,35.0,7.0,3,13,31,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Passing Touchdown,,,4.0,96,1.794693946838379,True,Oklahoma,UTEP,35.0,7.0,2,1,46,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,21.0,79,1.4431047439575195,False,Oklahoma,UTEP,28.0,7.0,2,2,45,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,66.0,34,2.9874186515808105,False,Oklahoma,UTEP,28.0,7.0,2,3,15,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Incompletion,,,68.0,32,-0.48386943340301514,False,Oklahoma,UTEP,28.0,7.0,2,3,53,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Passing Touchdown,,,5.0,95,0.9242229461669922,True,Oklahoma,UTEP,28.0,7.0,2,6,36,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,56.0,44,2.4630677700042725,False,Oklahoma,UTEP,21.0,7.0,2,7,0,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,90.0,10,1.013872742652893,False,Oklahoma,UTEP,21.0,7.0,2,8,6,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Passing Touchdown,,,16.0,84,1.7774252891540527,True,Oklahoma,UTEP,21.0,7.0,2,9,48,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,35.0,65,0.9636406898498535,False,Oklahoma,UTEP,14.0,7.0,2,10,18,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,61.0,39,0.9562864303588867,False,Oklahoma,UTEP,14.0,7.0,2,10,41,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,70.0,30,0.7216525077819824,False,Oklahoma,UTEP,14.0,7.0,2,11,8,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,89.0,11,0.510509192943573,False,Oklahoma,UTEP,14.0,7.0,2,12,40,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Sack,,,32.0,68,-3.7868690490722656,False,Oklahoma,UTEP,14.0,7.0,1,0,8,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,34.0,66,-1.0843679904937744,False,Oklahoma,UTEP,14.0,7.0,1,0,55,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,51.0,49,0.6618382930755615,False,Oklahoma,UTEP,14.0,7.0,1,2,25,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,12.0,88,0.7066049575805664,False,Oklahoma,UTEP,7.0,7.0,1,4,45,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,30.0,70,1.5620665550231934,False,Oklahoma,UTEP,7.0,7.0,1,5,25,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,75.0,25,1.4383188486099243,False,Oklahoma,UTEP,7.0,7.0,1,8,12,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,25.0,75,2.5954649448394775,False,Oklahoma,UTEP,0.0,0.0,1,12,56,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,23.0,77,-1.2121636867523193,False,Oklahoma,UTEP,0.0,0.0,1,13,20,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934492.0,Pass Reception,,,57.0,43,2.67248797416687,False,Oklahoma,UTEP,0.0,0.0,1,13,50,1,UTEP,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,27.0,27,-2.297389507293701,False,Ohio State,Oklahoma,31.0,16.0,4,1,18,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,39.0,39,-0.803775429725647,False,Ohio State,Oklahoma,31.0,16.0,4,5,5,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,25.0,25,2.9550414085388184,False,Ohio State,Oklahoma,24.0,13.0,4,9,39,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,27.0,27,-0.019593238830566406,False,Ohio State,Oklahoma,24.0,13.0,4,11,0,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Passing Touchdown,,,10.0,10,1.5859174728393555,True,Ohio State,Oklahoma,24.0,13.0,4,11,11,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,30.0,30,1.107560634613037,False,Ohio State,Oklahoma,17.0,13.0,4,12,15,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,37.0,37,-0.224839448928833,False,Ohio State,Oklahoma,17.0,13.0,4,13,25,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,64.0,64,1.2320036888122559,False,Ohio State,Oklahoma,17.0,13.0,4,14,10,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Passing Touchdown,,,18.0,18,2.0430965423583984,True,Ohio State,Oklahoma,17.0,13.0,3,2,17,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,60.0,60,2.159785032272339,False,Ohio State,Oklahoma,10.0,13.0,3,2,45,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,77.0,77,1.2626941204071045,False,Ohio State,Oklahoma,10.0,13.0,3,3,5,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,90.0,90,0.11928439140319824,False,Ohio State,Oklahoma,10.0,13.0,3,6,10,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,98.0,98,-0.2268810272216797,False,Ohio State,Oklahoma,10.0,13.0,3,6,50,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Sack,,,89.0,89,-1.4848171472549438,False,Ohio State,Oklahoma,10.0,13.0,3,7,40,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Passing Touchdown,,,36.0,36,3.828556776046753,True,Ohio State,Oklahoma,10.0,10.0,3,10,50,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,36.0,36,-1.4296822547912598,False,Ohio State,Oklahoma,3.0,10.0,3,11,0,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,57.0,57,1.4478610754013062,False,Ohio State,Oklahoma,3.0,10.0,3,11,30,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,63.0,63,0.9172652363777161,False,Ohio State,Oklahoma,3.0,10.0,3,12,0,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,26.0,26,-0.4459342956542969,False,Ohio State,Oklahoma,0.0,3.0,2,2,50,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,64.0,64,0.3514474630355835,False,Ohio State,Oklahoma,0.0,3.0,2,5,0,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,72.0,72,0.7657669186592102,False,Ohio State,Oklahoma,0.0,3.0,2,5,30,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,22.0,22,-0.791377067565918,False,Ohio State,Oklahoma,0.0,3.0,2,8,28,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,46.0,46,1.8072893619537354,False,Ohio State,Oklahoma,0.0,3.0,2,9,30,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,46.0,46,-0.6134727001190186,False,Ohio State,Oklahoma,0.0,3.0,2,9,37,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,75.0,75,2.9684131145477295,False,Ohio State,Oklahoma,0.0,3.0,2,10,15,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Sack,,,71.0,71,-1.3198708295822144,False,Ohio State,Oklahoma,0.0,3.0,2,11,0,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,62.0,62,1.5674244165420532,False,Ohio State,Oklahoma,0.0,0.0,1,0,30,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,84.0,84,2.0131471157073975,False,Ohio State,Oklahoma,0.0,0.0,1,1,30,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,47.0,47,-0.10291779041290283,False,Ohio State,Oklahoma,0.0,0.0,1,6,10,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,45.0,45,-0.6623640060424805,False,Ohio State,Oklahoma,0.0,0.0,1,7,12,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,60.0,60,2.257824659347534,False,Ohio State,Oklahoma,0.0,0.0,1,7,40,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,77.0,77,0.9985274076461792,False,Ohio State,Oklahoma,0.0,0.0,1,9,20,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,36.0,36,-2.9565021991729736,False,Ohio State,Oklahoma,0.0,0.0,1,11,36,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,36.0,36,-1.8363399505615234,False,Ohio State,Oklahoma,0.0,0.0,1,11,40,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,52.0,52,2.221566677093506,False,Ohio State,Oklahoma,0.0,0.0,1,13,30,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Incompletion,,,55.0,55,-0.7127680778503418,False,Ohio State,Oklahoma,0.0,0.0,1,13,54,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934502.0,Pass Reception,,,71.0,71,0.8871984481811523,False,Ohio State,Oklahoma,0.0,0.0,1,14,45,2,Ohio State,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Passing Touchdown,,,87.0,13,6.619953155517578,True,Oklahoma,Tulane,56.0,14.0,4,2,42,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,90.0,10,0.7772737741470337,False,Oklahoma,Tulane,49.0,14.0,4,3,17,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,36.0,64,0.6255354881286621,False,Oklahoma,Tulane,42.0,14.0,4,11,40,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Passing Touchdown,,,11.0,89,1.9232072830200195,True,Oklahoma,Tulane,42.0,14.0,4,13,35,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,41.0,59,0.36502981185913086,False,Oklahoma,Tulane,35.0,14.0,4,14,54,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,66.0,34,1.1921114921569824,False,Oklahoma,Tulane,35.0,14.0,3,0,10,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,25.0,75,1.288860559463501,False,Oklahoma,Tulane,28.0,14.0,3,6,56,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,59.0,41,0.5479941368103027,False,Oklahoma,Tulane,28.0,14.0,3,12,0,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,71.0,29,0.32424497604370117,False,Oklahoma,Tulane,28.0,14.0,3,12,30,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Incompletion,,,52.0,48,-0.6748616099357605,False,Oklahoma,Tulane,28.0,14.0,2,1,6,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,65.0,35,0.4048130512237549,False,Oklahoma,Tulane,28.0,14.0,2,1,12,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Sack,,,59.0,41,-0.7451877593994141,False,Oklahoma,Tulane,28.0,14.0,2,1,20,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Passing Touchdown,,,20.0,80,3.638205051422119,True,Oklahoma,Tulane,28.0,14.0,2,2,34,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,32.0,68,0.7563390731811523,False,Oklahoma,Tulane,21.0,14.0,2,3,20,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,57.0,43,1.6158334016799927,False,Oklahoma,Tulane,21.0,14.0,2,3,29,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,92.0,8,1.7294888496398926,False,Oklahoma,Tulane,21.0,14.0,2,4,51,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Passing Touchdown,,,22.0,78,2.735823154449463,True,Oklahoma,Tulane,14.0,14.0,1,1,11,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,25.0,75,-0.4825751781463623,False,Oklahoma,Tulane,7.0,14.0,1,1,40,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Incompletion,,,39.0,61,-1.047288179397583,False,Oklahoma,Tulane,7.0,14.0,1,2,5,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,68.0,32,0.9610941410064697,False,Oklahoma,Tulane,7.0,14.0,1,3,22,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Passing Touchdown,,,82.0,18,7.336938381195068,True,Oklahoma,Tulane,7.0,7.0,1,8,32,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Fumble Recovery (Opponent),,,64.0,36,-3.30710506439209,False,Oklahoma,Tulane,0.0,0.0,1,13,0,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Incompletion,,,64.0,36,-0.6235243082046509,False,Oklahoma,Tulane,0.0,0.0,1,13,10,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934508.0,Pass Reception,,,74.0,26,2.519564390182495,False,Oklahoma,Tulane,0.0,0.0,1,13,55,3,Tulane,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Incompletion,,,54.0,54,-0.5326573848724365,False,Baylor,Oklahoma,35.0,31.0,4,13,32,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Passing Touchdown,,,48.0,48,3.721801996231079,True,Baylor,Oklahoma,35.0,31.0,3,0,55,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,75.0,75,1.162257432937622,False,Baylor,Oklahoma,28.0,31.0,3,2,40,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Fumble Recovery (Opponent),,,48.0,48,-4.766003131866455,False,Baylor,Oklahoma,28.0,28.0,3,4,58,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,55.0,55,0.8805716037750244,False,Baylor,Oklahoma,28.0,28.0,3,5,35,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Incompletion,,,57.0,57,-1.5247089862823486,False,Baylor,Oklahoma,28.0,25.0,3,12,28,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Incompletion,,,71.0,71,-0.11490541696548462,False,Baylor,Oklahoma,28.0,17.0,2,0,12,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Sack,,,62.0,62,-0.94277024269104,False,Baylor,Oklahoma,28.0,17.0,2,0,50,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,68.0,68,-0.0022162199020385742,False,Baylor,Oklahoma,28.0,17.0,2,1,1,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,71.0,71,-0.2602540850639343,False,Baylor,Oklahoma,28.0,17.0,2,7,0,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Sack,,,65.0,65,-1.2237359285354614,False,Baylor,Oklahoma,28.0,17.0,2,7,30,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,78.0,78,1.318212866783142,False,Baylor,Oklahoma,28.0,17.0,2,8,0,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,31.0,31,2.2448315620422363,False,Baylor,Oklahoma,21.0,10.0,2,10,45,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,78.0,78,2.9389939308166504,False,Baylor,Oklahoma,21.0,10.0,2,12,0,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Incompletion,,,70.0,70,-0.9767253398895264,False,Baylor,Oklahoma,14.0,0.0,1,1,25,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Incompletion,,,70.0,70,-0.6653561592102051,False,Baylor,Oklahoma,14.0,0.0,1,1,33,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,80.0,80,-0.31168699264526367,False,Baylor,Oklahoma,14.0,0.0,1,2,30,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Passing Touchdown,,,52.0,52,3.90864896774292,True,Baylor,Oklahoma,14.0,0.0,1,7,55,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Reception,,,75.0,75,1.155036211013794,False,Baylor,Oklahoma,7.0,0.0,1,8,45,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Passing Touchdown,,,24.0,24,3.2479376792907715,True,Baylor,Oklahoma,7.0,0.0,1,14,8,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934515.0,Pass Incompletion,,,24.0,24,-0.8929367065429688,False,Baylor,Oklahoma,0.0,0.0,1,14,15,4,Baylor,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,58.0,42,-2.034890651702881,False,Oklahoma,Iowa State,31.0,38.0,4,1,27,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,58.0,42,-0.8587062358856201,False,Oklahoma,Iowa State,31.0,38.0,4,1,31,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,75.0,25,0.45890355110168457,False,Oklahoma,Iowa State,31.0,38.0,4,2,19,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,60.0,40,-0.31401515007019043,False,Oklahoma,Iowa State,31.0,38.0,4,2,19,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,29.0,71,1.7401561737060547,False,Oklahoma,Iowa State,24.0,31.0,4,8,35,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,75.0,25,1.0073834657669067,False,Oklahoma,Iowa State,24.0,31.0,4,12,46,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,59.0,41,2.198974132537842,False,Oklahoma,Iowa State,24.0,31.0,4,12,46,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Sack,,,19.0,81,-1.9886085987091064,False,Oklahoma,Iowa State,24.0,31.0,4,12,46,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,76.0,24,0.6518507599830627,False,Oklahoma,Iowa State,24.0,24.0,3,2,7,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,69.0,31,0.6386317014694214,False,Oklahoma,Iowa State,24.0,24.0,3,2,7,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,57.0,43,2.317530393600464,False,Oklahoma,Iowa State,24.0,24.0,3,2,7,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,71.0,29,0.8182339668273926,False,Oklahoma,Iowa State,24.0,16.0,3,9,45,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,63.0,37,1.577845573425293,False,Oklahoma,Iowa State,24.0,16.0,3,9,45,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,24.0,76,0.30753612518310547,False,Oklahoma,Iowa State,24.0,16.0,3,9,45,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Sack,,,18.0,82,-0.9881086349487305,False,Oklahoma,Iowa State,24.0,16.0,3,9,45,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,19.0,81,1.4397344589233398,False,Oklahoma,Iowa State,24.0,16.0,3,9,45,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,73.0,27,-0.6753283143043518,False,Oklahoma,Iowa State,24.0,10.0,2,1,37,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,73.0,27,-0.7595022916793823,False,Oklahoma,Iowa State,24.0,10.0,2,1,37,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,73.0,27,-0.925512969493866,False,Oklahoma,Iowa State,17.0,10.0,2,6,12,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,62.0,38,1.137277364730835,False,Oklahoma,Iowa State,17.0,10.0,2,6,12,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,43.0,57,-0.06431078910827637,False,Oklahoma,Iowa State,17.0,10.0,2,6,12,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,40.0,60,1.5397825241088867,False,Oklahoma,Iowa State,17.0,10.0,2,6,12,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,53.0,47,0.5614376068115234,False,Oklahoma,Iowa State,14.0,3.0,2,15,0,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,13.0,87,-0.5764565467834473,False,Oklahoma,Iowa State,14.0,3.0,2,15,0,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,8.0,92,-1.468749761581421,False,Oklahoma,Iowa State,14.0,3.0,2,15,0,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,66.0,34,-0.5966036319732666,False,Oklahoma,Iowa State,14.0,3.0,1,1,20,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,66.0,34,1.1261484622955322,False,Oklahoma,Iowa State,14.0,3.0,1,1,20,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Passing Touchdown,,,15.0,85,1.6306324005126953,True,Oklahoma,Iowa State,14.0,0.0,1,5,49,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Incompletion,,,30.0,70,-0.841454267501831,False,Oklahoma,Iowa State,7.0,0.0,1,8,31,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,68.0,32,0.8102788925170898,False,Oklahoma,Iowa State,7.0,0.0,1,11,10,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,59.0,41,-1.056313157081604,False,Oklahoma,Iowa State,7.0,0.0,1,11,10,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,61.0,39,2.2971224784851074,False,Oklahoma,Iowa State,7.0,0.0,1,11,10,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Passing Touchdown,,,23.0,77,2.473573684692383,True,Oklahoma,Iowa State,7.0,0.0,1,12,35,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,46.0,54,0.8122248649597168,False,Oklahoma,Iowa State,0.0,0.0,1,15,0,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934523.0,Pass Reception,,,29.0,71,1.1310465335845947,False,Oklahoma,Iowa State,0.0,0.0,1,15,0,6,Iowa State,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Passing Touchdown,,,59.0,59,3.8956706523895264,True,Texas,Oklahoma,29.0,24.0,4,6,53,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,78.0,78,0.5919400453567505,False,Texas,Oklahoma,23.0,24.0,4,7,45,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,69.0,69,-1.2721199989318848,False,Texas,Oklahoma,23.0,17.0,4,10,35,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,69.0,69,-0.8455082774162292,False,Texas,Oklahoma,23.0,17.0,4,10,41,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,73.0,73,-0.1602407693862915,False,Texas,Oklahoma,23.0,17.0,4,10,55,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,98.0,98,-0.946886420249939,False,Texas,Oklahoma,23.0,17.0,4,13,13,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,57.0,57,-1.8661460876464844,False,Texas,Oklahoma,23.0,17.0,3,1,10,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,64.0,64,0.30826711654663086,False,Texas,Oklahoma,23.0,17.0,3,2,35,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,27.0,27,-0.7534639835357666,False,Texas,Oklahoma,20.0,10.0,3,9,54,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,30.0,30,0.24166417121887207,False,Texas,Oklahoma,20.0,10.0,3,11,35,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Sack,,,49.0,49,-2.18568754196167,False,Texas,Oklahoma,20.0,10.0,3,13,59,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,75.0,75,-1.8428536653518677,False,Texas,Oklahoma,20.0,10.0,3,14,55,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Interception Return,,,31.0,31,-1.8952255249023438,False,Texas,Oklahoma,20.0,7.0,2,0,59,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,31.0,31,-1.0125150680541992,False,Texas,Oklahoma,20.0,7.0,2,1,2,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,37.0,37,0.28164374828338623,False,Texas,Oklahoma,20.0,7.0,2,1,7,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,11.0,11,-1.412809133529663,False,Texas,Oklahoma,17.0,0.0,2,4,36,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,16.0,16,-0.2345561981201172,False,Texas,Oklahoma,17.0,0.0,2,5,5,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,16.0,16,-0.525047779083252,False,Texas,Oklahoma,17.0,0.0,2,5,24,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,58.0,58,2.609802484512329,False,Texas,Oklahoma,17.0,0.0,2,5,29,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,57.0,57,0.27379512786865234,False,Texas,Oklahoma,17.0,0.0,2,8,45,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,26.0,26,0.7712912559509277,False,Texas,Oklahoma,10.0,0.0,1,0,38,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,70.0,70,2.1556074619293213,False,Texas,Oklahoma,10.0,0.0,1,0,55,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,90.0,90,2.3784375190734863,False,Texas,Oklahoma,10.0,0.0,1,1,25,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,80.0,80,0.0043822526931762695,False,Texas,Oklahoma,10.0,0.0,1,2,15,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Sack,,,6.0,6,-1.5406570434570312,False,Texas,Oklahoma,7.0,0.0,1,4,14,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,16.0,16,0.20280933380126953,False,Texas,Oklahoma,7.0,0.0,1,4,49,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Fumble Recovery (Own),,,26.0,26,2.044978380203247,False,Texas,Oklahoma,7.0,0.0,1,5,59,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Reception,,,64.0,64,1.9754676818847656,False,Texas,Oklahoma,7.0,0.0,1,9,5,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Passing Touchdown,,,54.0,54,3.6138694286346436,True,Texas,Oklahoma,7.0,0.0,1,12,13,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934528.0,Pass Incompletion,,,74.0,74,-0.8705857992172241,False,Texas,Oklahoma,0.0,0.0,1,12,48,7,Texas,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,32.0,32,0.4385335445404053,False,Kansas State,Oklahoma,35.0,35.0,4,0,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,22.0,22,-0.21693754196166992,False,Kansas State,Oklahoma,35.0,35.0,4,0,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,50.0,50,1.1729575395584106,False,Kansas State,Oklahoma,35.0,35.0,4,0,36,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,61.0,61,-0.4658268690109253,False,Kansas State,Oklahoma,35.0,35.0,4,2,19,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,61.0,61,0.03355419635772705,False,Kansas State,Oklahoma,35.0,35.0,4,2,19,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,50.0,50,-0.4283103942871094,False,Kansas State,Oklahoma,35.0,35.0,4,2,19,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Passing Touchdown,,,5.0,5,1.6836276054382324,True,Kansas State,Oklahoma,35.0,28.0,4,5,16,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,74.0,74,3.577457904815674,False,Kansas State,Oklahoma,28.0,28.0,4,6,35,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,75.0,75,0.5173132419586182,False,Kansas State,Oklahoma,28.0,21.0,4,12,51,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,56.0,56,0.5834989547729492,False,Kansas State,Oklahoma,28.0,21.0,4,12,51,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Sack,,,49.0,49,-1.4239447116851807,False,Kansas State,Oklahoma,28.0,21.0,4,12,51,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,4.0,4,-0.7008609771728516,False,Kansas State,Oklahoma,20.0,21.0,4,15,0,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,57.0,57,0.9798929691314697,False,Kansas State,Oklahoma,20.0,21.0,3,3,13,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,42.0,42,0.09033632278442383,False,Kansas State,Oklahoma,20.0,21.0,3,3,13,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,37.0,37,2.3559327125549316,False,Kansas State,Oklahoma,20.0,21.0,3,3,13,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,19.0,19,-0.5066366195678711,False,Kansas State,Oklahoma,20.0,21.0,3,3,13,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,12.0,12,1.1932902336120605,False,Kansas State,Oklahoma,20.0,21.0,3,3,13,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,71.0,71,1.7324334383010864,False,Kansas State,Oklahoma,17.0,21.0,3,10,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,39.0,39,-0.8969810009002686,False,Kansas State,Oklahoma,17.0,21.0,3,10,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,39.0,39,1.2802624702453613,False,Kansas State,Oklahoma,17.0,21.0,3,10,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,87.0,87,0.0509008914232254,False,Kansas State,Oklahoma,17.0,21.0,3,10,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,18.0,18,-1.3660335540771484,False,Kansas State,Oklahoma,17.0,21.0,3,10,24,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,76.0,76,2.9360456466674805,False,Kansas State,Oklahoma,10.0,21.0,3,14,55,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,41.0,41,1.3130033016204834,False,Kansas State,Oklahoma,10.0,21.0,3,14,55,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,25.0,25,0.7557413578033447,False,Kansas State,Oklahoma,10.0,21.0,3,14,55,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,18.0,18,-4.324812412261963,False,Kansas State,Oklahoma,10.0,21.0,3,14,55,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,75.0,75,1.0812962055206299,False,Kansas State,Oklahoma,7.0,21.0,2,10,15,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,63.0,63,0.3418935537338257,False,Kansas State,Oklahoma,7.0,21.0,2,10,15,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,50.0,50,-0.6034797430038452,False,Kansas State,Oklahoma,7.0,21.0,2,10,15,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Sack,,,50.0,50,-2.11972713470459,False,Kansas State,Oklahoma,7.0,21.0,2,10,15,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,59.0,59,0.4572499096393585,False,Kansas State,Oklahoma,7.0,21.0,2,10,15,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,28.0,28,-0.6124954223632812,False,Kansas State,Oklahoma,7.0,21.0,2,10,15,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,38.0,38,3.204636573791504,False,Kansas State,Oklahoma,7.0,14.0,2,15,0,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,6.0,6,-1.0631699562072754,False,Kansas State,Oklahoma,7.0,14.0,2,15,0,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Interception Return,,,9.0,9,-6.421414852142334,False,Kansas State,Oklahoma,7.0,14.0,2,15,0,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,69.0,69,2.090169668197632,False,Kansas State,Oklahoma,7.0,14.0,1,1,20,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Incompletion,,,88.0,88,-0.6924073696136475,False,Kansas State,Oklahoma,7.0,7.0,1,7,26,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,81.0,81,-1.1686680316925049,False,Kansas State,Oklahoma,7.0,7.0,1,7,26,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Passing Touchdown,,,6.0,6,1.266265869140625,True,Kansas State,Oklahoma,7.0,7.0,1,12,16,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,74.0,74,2.185239553451538,False,Kansas State,Oklahoma,0.0,7.0,1,14,39,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,51.0,51,0.2801673412322998,False,Kansas State,Oklahoma,0.0,7.0,1,14,39,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934534.0,Pass Reception,,,50.0,50,0.6993083953857422,False,Kansas State,Oklahoma,0.0,7.0,1,14,39,8,Kansas State,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,33.0,67,-0.21494722366333008,False,Oklahoma,Texas Tech,49.0,27.0,4,1,25,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,81.0,19,-0.7371692657470703,False,Oklahoma,Texas Tech,49.0,27.0,4,9,40,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,93.0,7,1.6718971729278564,False,Oklahoma,Texas Tech,49.0,27.0,4,10,15,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Passing Touchdown,,,14.0,86,2.325000762939453,True,Oklahoma,Texas Tech,49.0,27.0,3,1,41,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,59.0,41,0.6424341201782227,False,Oklahoma,Texas Tech,42.0,27.0,3,4,34,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Interception Return,,,75.0,25,-2.85310697555542,False,Oklahoma,Texas Tech,42.0,27.0,3,7,1,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Passing Touchdown,,,7.0,93,2.7234301567077637,True,Oklahoma,Texas Tech,42.0,27.0,3,10,24,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,20.0,85,3.8738527297973633,False,Oklahoma,Texas Tech,35.0,27.0,3,10,45,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,38.0,62,1.256335735321045,False,Oklahoma,Texas Tech,35.0,27.0,3,11,0,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,60.0,40,0.7583780288696289,False,Oklahoma,Texas Tech,35.0,27.0,3,11,30,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,35.0,65,0.8090090751647949,False,Oklahoma,Texas Tech,28.0,20.0,3,14,5,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,72.0,28,2.276069164276123,False,Oklahoma,Texas Tech,28.0,20.0,3,14,29,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,70.0,30,-0.3652813732624054,False,Oklahoma,Texas Tech,28.0,20.0,2,1,22,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Sack,,,72.0,28,-0.9834145307540894,False,Oklahoma,Texas Tech,28.0,20.0,2,1,55,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,83.0,17,0.5544503927230835,False,Oklahoma,Texas Tech,28.0,20.0,2,2,34,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,89.0,11,-1.0779449939727783,False,Oklahoma,Texas Tech,28.0,20.0,2,5,11,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,89.0,11,-0.6484300494194031,False,Oklahoma,Texas Tech,28.0,20.0,2,5,16,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,35.0,65,2.4805800914764404,False,Oklahoma,Texas Tech,21.0,20.0,2,7,10,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,38.0,62,-0.05223250389099121,False,Oklahoma,Texas Tech,21.0,20.0,2,7,45,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,54.0,46,0.8194327354431152,False,Oklahoma,Texas Tech,21.0,20.0,2,8,15,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,54.0,46,-1.5204631090164185,False,Oklahoma,Texas Tech,21.0,20.0,2,10,42,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,54.0,46,-0.850536584854126,False,Oklahoma,Texas Tech,21.0,20.0,2,10,50,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Passing Touchdown,,,3.0,97,0.89202880859375,True,Oklahoma,Texas Tech,21.0,20.0,2,13,45,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,33.0,67,3.9632458686828613,False,Oklahoma,Texas Tech,14.0,20.0,2,14,45,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,33.0,67,-1.608912706375122,False,Oklahoma,Texas Tech,14.0,20.0,2,14,55,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,47.0,53,0.4766371250152588,False,Oklahoma,Texas Tech,14.0,20.0,1,0,40,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,62.0,38,-0.6386650800704956,False,Oklahoma,Texas Tech,7.0,13.0,1,5,35,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,74.0,26,1.6060280799865723,False,Oklahoma,Texas Tech,7.0,13.0,1,5,52,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Passing Touchdown,,,24.0,76,2.6423091888427734,True,Oklahoma,Texas Tech,7.0,6.0,1,7,8,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,62.0,38,-0.5872704982757568,False,Oklahoma,Texas Tech,0.0,6.0,1,7,31,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Reception,,,70.0,30,1.6834756135940552,False,Oklahoma,Texas Tech,0.0,6.0,1,7,45,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934539.0,Pass Incompletion,,,70.0,30,-0.8673011660575867,False,Oklahoma,Texas Tech,0.0,6.0,1,7,57,9,Texas Tech,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Interception Return,,,12.0,12,-4.924455165863037,False,Oklahoma State,Oklahoma,55.0,52.0,4,2,59,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Sack,,,6.0,6,-1.7195889949798584,False,Oklahoma State,Oklahoma,55.0,52.0,4,3,44,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,52.0,52,2.6599841117858887,False,Oklahoma State,Oklahoma,55.0,52.0,4,6,29,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Incompletion,,,52.0,52,-0.7794656753540039,False,Oklahoma State,Oklahoma,55.0,52.0,4,6,36,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,62.0,62,1.8769972324371338,False,Oklahoma State,Oklahoma,55.0,52.0,4,7,50,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Passing Touchdown,,,77.0,77,5.7855544090271,True,Oklahoma State,Oklahoma,55.0,45.0,4,11,43,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Passing Touchdown,,,43.0,43,3.326133966445923,True,Oklahoma State,Oklahoma,48.0,38.0,3,0,12,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,79.0,79,2.184743881225586,False,Oklahoma State,Oklahoma,41.0,38.0,3,0,43,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Sack,,,12.0,12,-1.1918489933013916,False,Oklahoma State,Oklahoma,38.0,38.0,3,5,15,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Sack,,,10.0,10,-1.2265973091125488,False,Oklahoma State,Oklahoma,38.0,38.0,3,6,23,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Sack,,,31.0,31,-2.2522075176239014,False,Oklahoma State,Oklahoma,38.0,38.0,3,8,28,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Sack,,,22.0,22,-2.1558339595794678,False,Oklahoma State,Oklahoma,38.0,38.0,3,9,14,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,52.0,52,1.524125576019287,False,Oklahoma State,Oklahoma,38.0,38.0,3,10,56,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,92.0,92,2.680204153060913,False,Oklahoma State,Oklahoma,38.0,38.0,3,12,47,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,22.0,22,1.8856637477874756,False,Oklahoma State,Oklahoma,35.0,31.0,2,3,59,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,29.0,29,0.2835385799407959,False,Oklahoma State,Oklahoma,35.0,31.0,2,4,35,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,44.0,44,1.4097981452941895,False,Oklahoma State,Oklahoma,35.0,31.0,2,5,51,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,76.0,76,1.6884050369262695,False,Oklahoma State,Oklahoma,35.0,31.0,2,7,4,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,27.0,27,0.9081785678863525,False,Oklahoma State,Oklahoma,28.0,24.0,2,8,45,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,61.0,61,0.7459092140197754,False,Oklahoma State,Oklahoma,28.0,24.0,2,10,30,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,75.0,75,0.9526865482330322,False,Oklahoma State,Oklahoma,28.0,24.0,2,11,3,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Passing Touchdown,,,84.0,84,5.39892578125,True,Oklahoma State,Oklahoma,28.0,17.0,2,13,50,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Incompletion,,,12.0,12,-0.5918927192687988,False,Oklahoma State,Oklahoma,14.0,10.0,1,0,8,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,48.0,48,1.913846731185913,False,Oklahoma State,Oklahoma,14.0,10.0,1,0,34,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,64.0,64,1.51655113697052,False,Oklahoma State,Oklahoma,14.0,10.0,1,1,5,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,77.0,77,2.504713535308838,False,Oklahoma State,Oklahoma,14.0,10.0,1,2,18,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Incompletion,,,74.0,74,-0.7665392160415649,False,Oklahoma State,Oklahoma,14.0,10.0,1,3,1,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Passing Touchdown,,,5.0,5,1.0108914375305176,True,Oklahoma State,Oklahoma,14.0,10.0,1,4,45,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Incompletion,,,11.0,11,-0.5518612861633301,False,Oklahoma State,Oklahoma,7.0,10.0,1,5,23,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,20.0,20,0.7981266975402832,False,Oklahoma State,Oklahoma,7.0,10.0,1,5,50,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,75.0,75,4.016559600830078,False,Oklahoma State,Oklahoma,7.0,10.0,1,6,7,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Incompletion,,,80.0,80,-0.5982041358947754,False,Oklahoma State,Oklahoma,7.0,10.0,1,6,49,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Passing Touchdown,,,49.0,49,3.7559850215911865,True,Oklahoma State,Oklahoma,7.0,3.0,1,9,3,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,60.0,60,0.29196619987487793,False,Oklahoma State,Oklahoma,0.0,3.0,1,9,30,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Incompletion,,,89.0,89,-1.0934875011444092,False,Oklahoma State,Oklahoma,0.0,3.0,1,11,22,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Interception Return,,,76.0,76,-3.1769909858703613,False,Oklahoma State,Oklahoma,0.0,0.0,1,13,54,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934544.0,Pass Reception,,,80.0,80,0.08776983618736267,False,Oklahoma State,Oklahoma,0.0,0.0,1,14,50,10,Oklahoma State,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Sack,,,80.0,20,-2.3398220539093018,False,Oklahoma,TCU,38.0,20.0,4,9,30,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,80.0,20,-0.863080620765686,False,Oklahoma,TCU,38.0,20.0,4,9,50,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,31.0,69,-1.9664723873138428,False,Oklahoma,TCU,38.0,14.0,4,12,39,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,59.0,41,1.5914990901947021,False,Oklahoma,TCU,38.0,14.0,3,0,0,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,86.0,14,-0.8731217384338379,False,Oklahoma,TCU,38.0,14.0,3,8,7,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,93.0,7,1.545194387435913,False,Oklahoma,TCU,38.0,14.0,3,9,15,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,98.0,2,0.016570329666137695,False,Oklahoma,TCU,38.0,14.0,3,9,37,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Passing Touchdown,,,33.0,67,5.778043746948242,True,Oklahoma,TCU,38.0,14.0,2,0,7,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,82.0,18,1.756354570388794,False,Oklahoma,TCU,31.0,14.0,2,0,23,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Passing Touchdown,,,14.0,86,2.154411792755127,True,Oklahoma,TCU,31.0,14.0,2,5,29,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,40.0,60,0.6012790203094482,False,Oklahoma,TCU,24.0,14.0,2,6,40,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,69.0,31,1.5622659921646118,False,Oklahoma,TCU,24.0,14.0,2,7,20,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,69.0,31,-0.8267108201980591,False,Oklahoma,TCU,17.0,7.0,2,12,30,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,77.0,23,-0.0242539644241333,False,Oklahoma,TCU,17.0,7.0,1,0,41,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Passing Touchdown,,,13.0,87,2.3096418380737305,True,Oklahoma,TCU,17.0,7.0,1,3,54,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,31.0,69,0.9864301681518555,False,Oklahoma,TCU,10.0,7.0,1,4,55,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,77.0,23,3.368403673171997,False,Oklahoma,TCU,10.0,7.0,1,5,25,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,80.0,20,-0.4509485363960266,False,Oklahoma,TCU,10.0,7.0,1,6,0,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,26.0,74,1.0698895454406738,False,Oklahoma,TCU,3.0,7.0,1,9,14,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,26.0,74,-0.5742294788360596,False,Oklahoma,TCU,3.0,7.0,1,9,20,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,72.0,28,4.27121114730835,False,Oklahoma,TCU,3.0,7.0,1,9,50,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,78.0,22,0.06474483013153076,False,Oklahoma,TCU,3.0,7.0,1,10,13,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,32.0,68,-1.502364993095398,False,Oklahoma,TCU,0.0,0.0,1,11,41,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,32.0,68,-0.9038217067718506,False,Oklahoma,TCU,0.0,0.0,1,11,46,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,32.0,68,-0.6126766204833984,False,Oklahoma,TCU,0.0,0.0,1,12,20,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Reception,,,44.0,56,0.8811824321746826,False,Oklahoma,TCU,0.0,0.0,1,13,37,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934550.0,Pass Incompletion,,,44.0,56,-0.6453464031219482,False,Oklahoma,TCU,0.0,0.0,1,13,47,11,TCU,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,75.0,75,0.7973819971084595,False,Kansas,Oklahoma,41.0,3.0,4,2,14,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,18.0,18,-0.7179751396179199,False,Kansas,Oklahoma,38.0,3.0,4,5,27,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,21.0,21,0.15935564041137695,False,Kansas,Oklahoma,38.0,3.0,4,7,35,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,37.0,37,0.7864110469818115,False,Kansas,Oklahoma,38.0,3.0,4,8,14,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,80.0,80,-1.3057986497879028,False,Kansas,Oklahoma,38.0,3.0,4,10,8,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,40.0,40,0.698885440826416,False,Kansas,Oklahoma,31.0,3.0,4,12,32,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,10.0,10,-0.5827865600585938,False,Kansas,Oklahoma,28.0,3.0,4,14,56,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,34.0,34,0.9220681190490723,False,Kansas,Oklahoma,28.0,3.0,3,0,22,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,36.0,36,2.2450311183929443,False,Kansas,Oklahoma,28.0,3.0,3,0,44,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,36.0,36,-1.5826876163482666,False,Kansas,Oklahoma,28.0,3.0,3,0,49,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,42.0,42,0.22974371910095215,False,Kansas,Oklahoma,28.0,3.0,3,1,27,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,60.0,60,1.008155345916748,False,Kansas,Oklahoma,28.0,3.0,3,2,14,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,60.0,60,-0.5034418106079102,False,Kansas,Oklahoma,28.0,3.0,3,2,21,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Passing Touchdown,,,3.0,3,0.5096726417541504,True,Kansas,Oklahoma,28.0,3.0,3,4,52,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,36.0,36,1.5925183296203613,False,Kansas,Oklahoma,21.0,3.0,3,5,20,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,56.0,56,0.864316463470459,False,Kansas,Oklahoma,21.0,3.0,3,5,32,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,69.0,69,1.1437461376190186,False,Kansas,Oklahoma,21.0,3.0,3,6,7,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,83.0,83,1.5128428936004639,False,Kansas,Oklahoma,21.0,3.0,3,7,9,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,82.0,82,-0.9112794399261475,False,Kansas,Oklahoma,21.0,3.0,3,7,46,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Sack,,,65.0,65,-1.6228145360946655,False,Kansas,Oklahoma,21.0,3.0,3,9,58,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,70.0,70,1.1504871845245361,False,Kansas,Oklahoma,21.0,3.0,3,10,44,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,73.0,73,-0.29390621185302734,False,Kansas,Oklahoma,21.0,3.0,3,11,15,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Passing Touchdown,,,24.0,24,4.758500099182129,True,Kansas,Oklahoma,21.0,3.0,2,0,10,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,84.0,54,-0.8380550146102905,False,Kansas,Oklahoma,14.0,3.0,2,0,41,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,96.0,96,-0.7803891897201538,False,Kansas,Oklahoma,14.0,3.0,2,1,50,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,11.0,11,0.6864690780639648,False,Kansas,Oklahoma,7.0,3.0,2,8,44,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,71.0,71,-0.6567138433456421,False,Kansas,Oklahoma,7.0,3.0,2,10,28,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,71.0,71,-0.854167103767395,False,Kansas,Oklahoma,7.0,3.0,2,10,39,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,56.0,56,-1.5013141632080078,False,Kansas,Oklahoma,7.0,3.0,2,12,45,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,84.0,84,-0.6508349180221558,False,Kansas,Oklahoma,7.0,0.0,1,4,44,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Passing Touchdown,,,34.0,34,4.972193717956543,True,Kansas,Oklahoma,7.0,0.0,1,6,40,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,44.0,44,-1.3906235694885254,False,Kansas,Oklahoma,0.0,0.0,1,12,0,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Reception,,,70.0,70,1.7634299993515015,False,Kansas,Oklahoma,0.0,0.0,1,14,19,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934553.0,Pass Incompletion,,,70.0,70,-1.0688368082046509,False,Kansas,Oklahoma,0.0,0.0,1,14,27,12,Kansas,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Passing Touchdown,,,46.0,54,2.651484966278076,True,Oklahoma,West Virginia,59.0,24.0,3,1,25,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,52.0,48,0.3437356948852539,False,Oklahoma,West Virginia,52.0,24.0,3,2,0,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Passing Touchdown,,,18.0,82,1.30214262008667,True,Oklahoma,West Virginia,52.0,17.0,3,10,13,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,61.0,39,0.5761394500732422,False,Oklahoma,West Virginia,45.0,17.0,3,11,10,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,75.0,25,1.9319851398468018,False,Oklahoma,West Virginia,45.0,17.0,3,11,35,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Incompletion,,,75.0,25,-0.8996410369873047,False,Oklahoma,West Virginia,45.0,17.0,3,11,47,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Incompletion,,,75.0,25,-0.36756038665771484,False,Oklahoma,West Virginia,45.0,17.0,3,11,52,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Passing Touchdown,,,14.0,86,3.744736671447754,True,Oklahoma,West Virginia,42.0,10.0,2,0,13,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,22.0,78,0.9782605171203613,False,Oklahoma,West Virginia,35.0,10.0,2,0,20,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,36.0,64,0.8683638572692871,False,Oklahoma,West Virginia,35.0,10.0,2,0,30,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Incompletion,,,41.0,59,-0.3021111488342285,False,Oklahoma,West Virginia,35.0,10.0,2,0,42,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,49.0,51,0.30257129669189453,False,Oklahoma,West Virginia,35.0,10.0,2,0,51,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,73.0,27,0.525466799736023,False,Oklahoma,West Virginia,35.0,10.0,2,1,15,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,64.0,98,0.2744293212890625,False,Oklahoma,West Virginia,28.0,10.0,2,4,15,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,30.0,70,0.473907470703125,False,Oklahoma,West Virginia,21.0,10.0,2,9,0,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,44.0,56,1.1289446353912354,False,Oklahoma,West Virginia,21.0,10.0,2,10,0,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,80.0,20,2.4417643547058105,False,Oklahoma,West Virginia,14.0,3.0,1,0,30,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Passing Touchdown,,,8.0,92,1.926405906677246,True,Oklahoma,West Virginia,14.0,3.0,1,5,21,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400934560.0,Pass Reception,,,17.0,83,0.7218661308288574,False,Oklahoma,West Virginia,7.0,3.0,1,6,26,13,West Virginia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,21.0,79,0.08954811096191406,False,Oklahoma,Georgia,45.0,48.0,5,0,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,20.0,80,0.08174419403076172,False,Oklahoma,Georgia,48.0,48.0,6,0,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,15.0,85,-0.15046238899230957,False,Oklahoma,Georgia,48.0,48.0,6,0,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,17.0,83,0.43279266357421875,False,Oklahoma,Georgia,48.0,48.0,6,0,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,55.0,45,-0.8311128616333008,False,Oklahoma,Georgia,45.0,45.0,4,0,24,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,75.0,25,0.5140816569328308,False,Oklahoma,Georgia,45.0,45.0,4,0,45,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Passing Touchdown,,,11.0,89,2.2966294288635254,True,Oklahoma,Georgia,38.0,38.0,4,8,47,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,73.0,27,2.9142580032348633,False,Oklahoma,Georgia,31.0,38.0,4,10,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,73.0,27,-0.695106029510498,False,Oklahoma,Georgia,31.0,38.0,4,10,16,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,71.0,29,-0.646041989326477,False,Oklahoma,Georgia,31.0,38.0,4,12,40,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,75.0,25,-0.48395413160324097,False,Oklahoma,Georgia,31.0,38.0,4,13,30,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Interception Return,,,82.0,18,-5.21768045425415,False,Oklahoma,Georgia,31.0,31.0,4,14,48,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,82.0,18,-0.9854178428649902,False,Oklahoma,Georgia,31.0,31.0,3,0,1,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Sack,,,68.0,32,-1.3755567073822021,False,Oklahoma,Georgia,31.0,24.0,3,4,30,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Sack,,,60.0,40,-1.5042471885681152,False,Oklahoma,Georgia,31.0,24.0,3,5,15,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,87.0,13,-0.7105139493942261,False,Oklahoma,Georgia,31.0,24.0,3,7,3,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Sack,,,76.0,24,-2.135627269744873,False,Oklahoma,Georgia,31.0,24.0,3,11,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,82.0,18,-0.06711125373840332,False,Oklahoma,Georgia,31.0,24.0,3,11,50,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,85.0,15,-0.6174483299255371,False,Oklahoma,Georgia,31.0,17.0,3,13,25,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Passing Touchdown,,,2.0,98,2.5886993408203125,True,Oklahoma,Georgia,31.0,14.0,2,0,6,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,6.0,94,0.43637895584106445,False,Oklahoma,Georgia,24.0,14.0,2,0,18,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,13.0,87,0.6676592826843262,False,Oklahoma,Georgia,24.0,14.0,2,1,48,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,58.0,42,3.1125478744506836,False,Oklahoma,Georgia,24.0,14.0,2,2,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,60.0,40,-0.7669269442558289,False,Oklahoma,Georgia,24.0,14.0,2,6,40,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Sack,,,51.0,49,-2.1497280597686768,False,Oklahoma,Georgia,24.0,14.0,2,7,20,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Sack,,,12.0,88,-1.5852689743041992,False,Oklahoma,Georgia,21.0,14.0,2,9,35,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,12.0,88,-0.8296761512756348,False,Oklahoma,Georgia,21.0,14.0,2,9,55,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,29.0,71,2.0072073936462402,False,Oklahoma,Georgia,21.0,14.0,2,11,8,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,29.0,71,-0.7850167751312256,False,Oklahoma,Georgia,21.0,14.0,2,11,16,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,29.0,71,-0.4845716953277588,False,Oklahoma,Georgia,21.0,14.0,2,11,21,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,75.0,25,1.5737743377685547,False,Oklahoma,Georgia,21.0,14.0,2,13,40,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,52.0,48,0.3716704845428467,False,Oklahoma,Georgia,14.0,7.0,2,15,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,62.0,38,1.2853777408599854,False,Oklahoma,Georgia,14.0,7.0,1,0,45,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Incompletion,,,63.0,37,-0.6659694910049438,False,Oklahoma,Georgia,7.0,7.0,1,7,39,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,75.0,25,1.1435017585754395,False,Oklahoma,Georgia,7.0,7.0,1,8,20,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Passing Touchdown,,,13.0,87,2.2241740226745605,True,Oklahoma,Georgia,7.0,0.0,1,11,31,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,38.0,70,0.531867504119873,False,Oklahoma,Georgia,0.0,0.0,1,12,25,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,64.0,36,1.633036494255066,False,Oklahoma,Georgia,0.0,0.0,1,12,45,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400953412.0,Pass Reception,,,80.0,20,1.885609745979309,False,Oklahoma,Georgia,0.0,0.0,1,13,0,1,Georgia,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Incompletion,,,63.0,37,-1.179819107055664,False,Oklahoma,TCU,41.0,17.0,4,10,49,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Incompletion,,,40.0,60,-1.65708589553833,False,Oklahoma,TCU,38.0,17.0,3,5,30,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Incompletion,,,40.0,60,-1.082003116607666,False,Oklahoma,TCU,38.0,17.0,3,5,35,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,77.0,23,1.1890692710876465,False,Oklahoma,TCU,38.0,17.0,3,7,37,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Passing Touchdown,,,52.0,48,2.8978147506713867,True,Oklahoma,TCU,38.0,17.0,3,10,41,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Passing Touchdown,,,55.0,45,3.427922248840332,True,Oklahoma,TCU,31.0,17.0,3,14,26,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Passing Touchdown,,,6.0,94,2.1695213317871094,True,Oklahoma,TCU,24.0,14.0,2,3,45,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,41.0,59,0.7769465446472168,False,Oklahoma,TCU,17.0,14.0,2,7,22,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Fumble Recovery (Own),,,21.0,79,-1.659064769744873,False,Oklahoma,TCU,17.0,7.0,2,12,44,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Passing Touchdown,,,5.0,95,1.319934368133545,True,Oklahoma,TCU,17.0,0.0,1,2,29,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,21.0,79,0.7637729644775391,False,Oklahoma,TCU,10.0,0.0,1,3,47,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,39.0,61,0.9564323425292969,False,Oklahoma,TCU,10.0,0.0,1,4,24,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,49.0,51,-0.08062481880187988,False,Oklahoma,TCU,10.0,0.0,1,5,29,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,83.0,17,3.395907402038574,False,Oklahoma,TCU,10.0,0.0,1,7,1,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Incompletion,,,24.0,76,-1.3949551582336426,False,Oklahoma,TCU,0.0,0.0,1,10,35,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,30.0,70,0.08411073684692383,False,Oklahoma,TCU,0.0,0.0,1,11,8,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,46.0,54,-0.978366494178772,False,Oklahoma,TCU,0.0,0.0,1,12,54,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,50.0,50,-0.35509800910949707,False,Oklahoma,TCU,0.0,0.0,1,13,31,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Incompletion,,,50.0,50,-0.6670017242431641,False,Oklahoma,TCU,0.0,0.0,1,13,41,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,59.0,41,0.9519153833389282,False,Oklahoma,TCU,0.0,0.0,1,14,9,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Reception,,,71.0,29,2.059527635574341,False,Oklahoma,TCU,0.0,0.0,1,14,33,14,TCU,2017,Oklahoma,Baker Mayfield,2018
+400955157.0,Pass Incompletion,,,71.0,29,-1.0499768257141113,False,Oklahoma,TCU,0.0,0.0,1,14,37,14,TCU,2017,Oklahoma,Baker Mayfield,2018

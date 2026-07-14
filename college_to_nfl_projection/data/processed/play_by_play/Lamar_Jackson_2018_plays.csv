@@ -1,0 +1,458 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+400933935.0,Passing Touchdown,,,14.0,14,1.8780384063720703,True,Kentucky,Louisville,44.0,10.0,4,10,12,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,84.0,84,0.2219409942626953,False,Kentucky,Louisville,37.0,10.0,4,12,58,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Incompletion,,,62.0,62,-0.9105477333068848,False,Kentucky,Louisville,34.0,10.0,3,5,5,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Incompletion,,,62.0,62,-0.8527853488922119,False,Kentucky,Louisville,34.0,10.0,3,5,5,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,48.0,48,-0.13382577896118164,False,Kentucky,Louisville,34.0,10.0,3,5,5,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,29.0,29,0.907261848449707,False,Kentucky,Louisville,34.0,10.0,3,5,5,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,15.0,15,0.1765131950378418,False,Kentucky,Louisville,34.0,10.0,3,5,5,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Incompletion,,,69.0,69,-0.6615581512451172,False,Kentucky,Louisville,31.0,10.0,3,13,16,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Passing Touchdown,,,29.0,29,4.357010841369629,True,Kentucky,Louisville,31.0,7.0,2,0,39,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,77.0,77,-0.21484583616256714,False,Kentucky,Louisville,24.0,7.0,2,1,55,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Incompletion,,,56.0,56,-0.3056449890136719,False,Kentucky,Louisville,24.0,7.0,2,1,55,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,43.0,43,0.8828814029693604,False,Kentucky,Louisville,24.0,7.0,2,1,55,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,48.0,48,1.358863353729248,False,Kentucky,Louisville,14.0,7.0,1,2,30,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Incompletion,,,21.0,21,-0.5506901741027832,False,Kentucky,Louisville,14.0,7.0,1,2,30,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,63.0,63,0.5998828411102295,False,Kentucky,Louisville,7.0,0.0,1,9,59,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,39.0,39,0.5601358413696289,False,Kentucky,Louisville,7.0,0.0,1,9,59,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,26.0,26,1.2127737998962402,False,Kentucky,Louisville,7.0,0.0,1,9,59,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,68.0,68,1.4297560453414917,False,Kentucky,Louisville,0.0,0.0,1,15,0,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,49.0,49,1.4888744354248047,False,Kentucky,Louisville,0.0,0.0,1,15,0,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400933935.0,Pass Reception,,,38.0,38,2.393531322479248,False,Kentucky,Louisville,0.0,0.0,1,15,0,13,Kentucky,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,13.0,13,-0.7766399383544922,False,Purdue,Louisville,32.0,28.0,4,4,20,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,13.0,13,-0.7175276279449463,False,Purdue,Louisville,32.0,28.0,4,4,24,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,13.0,13,-0.4654874801635742,False,Purdue,Louisville,32.0,28.0,4,4,28,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,57.0,57,2.5028257369995117,False,Purdue,Louisville,32.0,28.0,4,6,30,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Passing Touchdown,,,20.0,20,2.36431884765625,True,Purdue,Louisville,32.0,28.0,4,9,1,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,71.0,71,3.809513807296753,False,Purdue,Louisville,25.0,28.0,4,10,0,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,75.0,75,-0.3483760952949524,False,Purdue,Louisville,25.0,28.0,4,10,30,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,76.0,76,-0.6442854404449463,False,Purdue,Louisville,25.0,21.0,4,14,46,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,76.0,76,0.2062537670135498,False,Purdue,Louisville,25.0,21.0,3,0,1,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,80.0,80,-0.27423667907714844,False,Purdue,Louisville,25.0,21.0,3,0,30,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,13.0,13,-0.35189390182495117,False,Purdue,Louisville,13.0,21.0,3,5,55,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,44.0,44,0.9443302154541016,False,Purdue,Louisville,13.0,21.0,3,6,45,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,44.0,44,-0.6431088447570801,False,Purdue,Louisville,13.0,21.0,3,7,7,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,60.0,60,2.651521682739258,False,Purdue,Louisville,13.0,21.0,3,7,15,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,60.0,60,-0.7634009122848511,False,Purdue,Louisville,13.0,21.0,3,7,32,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,62.0,62,0.580877423286438,False,Purdue,Louisville,13.0,21.0,3,8,0,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,75.0,75,1.6678647994995117,False,Purdue,Louisville,13.0,21.0,3,8,20,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,75.0,75,-0.5579461455345154,False,Purdue,Louisville,13.0,21.0,3,8,35,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Fumble Recovery (Opponent),,,74.0,74,-4.1607794761657715,False,Purdue,Louisville,13.0,14.0,3,10,29,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,76.0,76,-0.30451738834381104,False,Purdue,Louisville,13.0,14.0,3,11,0,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,35.0,35,3.8115501403808594,False,Purdue,Louisville,10.0,14.0,2,0,1,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,35.0,35,-0.5434929728507996,False,Purdue,Louisville,10.0,14.0,2,0,7,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,46.0,46,0.6480267643928528,False,Purdue,Louisville,10.0,14.0,2,0,22,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,75.0,75,0.6463840007781982,False,Purdue,Louisville,10.0,14.0,2,0,30,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,66.0,66,-1.4521684646606445,False,Purdue,Louisville,10.0,7.0,2,5,30,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,72.0,72,0.06598031520843506,False,Purdue,Louisville,10.0,7.0,2,6,0,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,83.0,83,0.44870805740356445,False,Purdue,Louisville,10.0,7.0,2,6,40,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,9.0,9,2.149125099182129,False,Purdue,Louisville,10.0,7.0,2,12,40,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,30.0,30,-0.5745413303375244,False,Purdue,Louisville,7.0,7.0,1,1,25,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,63.0,37,0.5745415687561035,False,Purdue,Louisville,7.0,7.0,1,1,35,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,78.0,78,1.7631988525390625,False,Purdue,Louisville,7.0,7.0,1,2,15,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,78.0,78,-0.6796113848686218,False,Purdue,Louisville,7.0,7.0,1,2,40,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Passing Touchdown,,,3.0,3,0.7710561752319336,True,Purdue,Louisville,7.0,7.0,1,3,39,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,13.0,13,0.8134722709655762,False,Purdue,Louisville,0.0,7.0,1,4,15,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,33.0,33,1.4776926040649414,False,Purdue,Louisville,0.0,7.0,1,6,50,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,43.0,43,1.2342472076416016,False,Purdue,Louisville,0.0,7.0,1,7,0,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,64.0,64,2.100327968597412,False,Purdue,Louisville,0.0,7.0,1,7,15,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,90.0,90,-1.499561071395874,False,Purdue,Louisville,0.0,0.0,1,9,0,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,30.0,30,0.7027344703674316,False,Purdue,Louisville,0.0,0.0,1,13,5,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Reception,,,52.0,52,2.4711313247680664,False,Purdue,Louisville,0.0,0.0,1,14,15,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400935238.0,Pass Incompletion,,,57.0,57,-0.6317064762115479,False,Purdue,Louisville,0.0,0.0,1,14,50,1,Purdue,2017,Louisville,Lamar Jackson,2018
+400937456.0,Passing Touchdown,,,30.0,30,4.1661505699157715,True,North Carolina,Louisville,40.0,28.0,4,9,32,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,32.0,32,-0.4967832565307617,False,North Carolina,Louisville,33.0,28.0,4,10,18,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,53.0,53,1.243535041809082,False,North Carolina,Louisville,33.0,28.0,4,10,50,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,70.0,70,0.8025084733963013,False,North Carolina,Louisville,33.0,28.0,4,11,20,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,38.0,38,0.7036073207855225,False,North Carolina,Louisville,27.0,28.0,3,1,16,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,50.0,50,2.0638513565063477,False,North Carolina,Louisville,27.0,28.0,3,1,44,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,75.0,75,2.128406286239624,False,North Carolina,Louisville,27.0,28.0,3,3,29,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Sack,,,41.0,41,-1.7008370161056519,False,North Carolina,Louisville,27.0,21.0,3,7,56,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,36.0,36,-1.4174046516418457,False,North Carolina,Louisville,27.0,21.0,3,8,42,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,69.0,69,2.445847511291504,False,North Carolina,Louisville,27.0,21.0,3,9,47,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,71.0,71,-0.6475166082382202,False,North Carolina,Louisville,27.0,21.0,3,10,30,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,51.0,51,0.19529294967651367,False,North Carolina,Louisville,20.0,14.0,3,11,22,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Sack,,,60.0,60,-0.2581718862056732,False,North Carolina,Louisville,20.0,14.0,2,0,22,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,67.0,67,-0.16749250888824463,False,North Carolina,Louisville,20.0,14.0,2,0,38,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,72.0,72,0.05195164680480957,False,North Carolina,Louisville,20.0,14.0,2,0,43,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,33.0,33,-2.3578109741210938,False,North Carolina,Louisville,20.0,14.0,2,2,14,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,33.0,33,-0.6163370609283447,False,North Carolina,Louisville,20.0,14.0,2,2,21,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,42.0,42,0.2591054439544678,False,North Carolina,Louisville,20.0,14.0,2,3,23,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,49.0,49,0.04584646224975586,False,North Carolina,Louisville,20.0,14.0,2,3,54,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,61.0,61,0.4963136911392212,False,North Carolina,Louisville,20.0,14.0,2,4,31,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,84.0,84,0.6828365325927734,False,North Carolina,Louisville,20.0,14.0,2,5,50,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,99.0,99,0.9917929172515869,False,North Carolina,Louisville,20.0,14.0,2,6,0,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Passing Touchdown,,,75.0,75,5.724053859710693,True,North Carolina,Louisville,20.0,14.0,2,9,16,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,2.0,2,-1.6284754276275635,False,North Carolina,Louisville,10.0,7.0,2,11,55,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,30.0,30,1.4459283351898193,False,North Carolina,Louisville,10.0,7.0,2,13,52,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,60.0,60,2.2066898345947266,False,North Carolina,Louisville,10.0,7.0,1,0,0,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,66.0,66,0.6678192615509033,False,North Carolina,Louisville,10.0,7.0,1,1,34,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,87.0,87,1.503249168395996,False,North Carolina,Louisville,10.0,7.0,1,2,4,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Passing Touchdown,,,9.0,9,3.0316765308380127,True,North Carolina,Louisville,10.0,7.0,1,4,3,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,29.0,29,2.102013349533081,False,North Carolina,Louisville,3.0,7.0,1,5,37,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,39.0,39,-2.0294511318206787,False,North Carolina,Louisville,3.0,7.0,1,6,50,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,45.0,45,0.318462610244751,False,North Carolina,Louisville,3.0,7.0,1,7,57,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,45.0,45,2.307072639465332,False,North Carolina,Louisville,0.0,0.0,1,13,41,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Reception,,,51.0,51,-0.0019042491912841797,False,North Carolina,Louisville,0.0,0.0,1,14,13,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937456.0,Pass Incompletion,,,51.0,51,-0.6832349300384521,False,North Carolina,Louisville,0.0,0.0,1,14,25,2,North Carolina,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,5.0,95,-2.6885106563568115,False,Louisville,Clemson,21.0,47.0,4,1,11,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,5.0,95,-1.6291618347167969,False,Louisville,Clemson,21.0,47.0,4,1,16,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,4.0,96,-0.43576669692993164,False,Louisville,Clemson,21.0,47.0,4,1,29,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,82.0,18,5.615267753601074,False,Louisville,Clemson,21.0,47.0,4,1,50,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,91.0,9,0.5091578960418701,False,Louisville,Clemson,21.0,47.0,4,2,43,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Sack,,,78.0,22,-0.6389420032501221,False,Louisville,Clemson,21.0,47.0,4,5,44,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,78.0,22,-0.7838073968887329,False,Louisville,Clemson,21.0,47.0,4,5,56,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Passing Touchdown,,,8.0,92,3.015188455581665,True,Louisville,Clemson,21.0,40.0,4,7,37,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,14.0,86,-0.6245100498199463,False,Louisville,Clemson,14.0,40.0,4,8,9,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,44.0,56,4.627063751220703,False,Louisville,Clemson,14.0,40.0,4,8,30,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,55.0,45,0.07173264026641846,False,Louisville,Clemson,14.0,40.0,4,9,6,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,51.0,49,-0.5943031311035156,False,Louisville,Clemson,14.0,40.0,4,9,53,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,73.0,27,2.9181571006774902,False,Louisville,Clemson,14.0,40.0,4,10,19,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,75.0,25,-0.06353139877319336,False,Louisville,Clemson,14.0,40.0,4,10,50,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Sack,,,73.0,27,-1.1915422677993774,False,Louisville,Clemson,14.0,40.0,4,11,19,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Passing Touchdown,,,36.0,64,4.311273574829102,True,Louisville,Clemson,14.0,33.0,4,13,45,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,46.0,54,-0.3714301586151123,False,Louisville,Clemson,7.0,33.0,4,14,49,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,51.0,49,2.277937412261963,False,Louisville,Clemson,7.0,33.0,3,0,0,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,75.0,25,-0.6804039478302002,False,Louisville,Clemson,7.0,26.0,3,8,53,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Interception Return Touchdown,,,66.0,34,-6.33483362197876,True,Louisville,Clemson,7.0,26.0,3,8,57,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,78.0,22,1.2128803730010986,False,Louisville,Clemson,7.0,19.0,3,9,27,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,75.0,25,2.221837282180786,False,Louisville,Clemson,7.0,19.0,3,10,22,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,81.0,19,0.27166616916656494,False,Louisville,Clemson,7.0,19.0,3,10,50,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Sack,,,58.0,42,-0.2138521671295166,False,Louisville,Clemson,7.0,19.0,2,0,0,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,69.0,31,1.2676537036895752,False,Louisville,Clemson,7.0,19.0,2,0,10,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,80.0,20,0.03778669983148575,False,Louisville,Clemson,7.0,19.0,2,0,16,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,61.0,39,-0.6071591973304749,False,Louisville,Clemson,7.0,16.0,2,3,30,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,75.0,25,-0.6372127532958984,False,Louisville,Clemson,7.0,10.0,2,5,44,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,75.0,25,-0.840996265411377,False,Louisville,Clemson,7.0,10.0,2,5,50,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,67.0,35,1.4764677286148071,False,Louisville,Clemson,7.0,10.0,2,6,21,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,79.0,21,0.6534291505813599,False,Louisville,Clemson,7.0,10.0,2,6,44,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,71.0,29,-1.3296585083007812,False,Louisville,Clemson,7.0,7.0,2,10,35,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,75.0,25,-0.5302325487136841,False,Louisville,Clemson,7.0,7.0,2,11,45,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Sack,,,74.0,26,-2.2443675994873047,False,Louisville,Clemson,7.0,7.0,1,0,0,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,80.0,20,-0.7027252912521362,False,Louisville,Clemson,7.0,7.0,1,0,46,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,95.0,5,0.9578061103820801,False,Louisville,Clemson,7.0,7.0,1,1,7,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Passing Touchdown,,,11.0,89,1.8200788497924805,True,Louisville,Clemson,7.0,7.0,1,4,22,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Reception,,,50.0,50,1.5515968799591064,False,Louisville,Clemson,0.0,7.0,1,5,10,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,95.0,5,-0.6174827814102173,False,Louisville,Clemson,0.0,7.0,1,6,15,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,73.0,27,-1.282829999923706,False,Louisville,Clemson,0.0,7.0,1,9,2,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937461.0,Pass Incompletion,,,67.0,33,-0.8887147903442383,False,Louisville,Clemson,0.0,0.0,1,14,13,3,Clemson,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Incompletion,,,80.0,20,-0.21414175629615784,False,Louisville,Kent State,42.0,3.0,4,3,46,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Incompletion,,,75.0,25,-0.43940192461013794,False,Louisville,Kent State,42.0,3.0,4,3,46,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,99.0,1,-0.48842716217041016,False,Louisville,Kent State,42.0,3.0,4,13,37,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,70.0,30,0.2811160087585449,False,Louisville,Kent State,42.0,3.0,4,13,37,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,58.0,42,0.5374100208282471,False,Louisville,Kent State,42.0,3.0,4,13,37,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Incompletion,,,43.0,57,-0.5120112895965576,False,Louisville,Kent State,42.0,3.0,4,13,37,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,43.0,57,-0.7469162940979004,False,Louisville,Kent State,42.0,3.0,4,13,37,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Fumble Recovery (Opponent),,,40.0,60,-1.1948140859603882,False,Louisville,Kent State,42.0,3.0,4,13,37,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Passing Touchdown,,,15.0,85,1.3232488632202148,True,Louisville,Kent State,42.0,3.0,3,2,23,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,66.0,34,0.4223008155822754,False,Louisville,Kent State,35.0,3.0,3,4,6,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,49.0,51,0.6765894889831543,False,Louisville,Kent State,35.0,3.0,3,4,6,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Interception Return,,,62.0,38,-3.4379711151123047,False,Louisville,Kent State,35.0,3.0,3,5,9,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Passing Touchdown,,,32.0,68,3.418386220932007,True,Louisville,Kent State,35.0,3.0,3,7,56,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Incompletion,,,71.0,29,-0.7905256748199463,False,Louisville,Kent State,28.0,3.0,3,11,16,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Sack,,,71.0,29,-2.448302745819092,False,Louisville,Kent State,28.0,3.0,3,11,16,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,63.0,37,0.9528627395629883,False,Louisville,Kent State,28.0,3.0,3,11,16,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,32.0,68,-0.8567919731140137,False,Louisville,Kent State,28.0,3.0,3,11,16,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,75.0,25,0.3820441961288452,False,Louisville,Kent State,21.0,3.0,2,3,58,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,66.0,34,0.30011558532714844,False,Louisville,Kent State,21.0,3.0,2,3,58,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,59.0,41,0.6893150806427002,False,Louisville,Kent State,21.0,3.0,2,3,58,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,44.0,56,0.5614128112792969,False,Louisville,Kent State,21.0,3.0,2,3,58,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Incompletion,,,35.0,65,-0.5114579200744629,False,Louisville,Kent State,21.0,3.0,2,3,58,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,22.0,78,0.8851637840270996,False,Louisville,Kent State,21.0,3.0,2,3,58,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,97.0,3,1.1982237100601196,False,Louisville,Kent State,21.0,0.0,2,9,3,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,76.0,24,-0.04184126853942871,False,Louisville,Kent State,21.0,0.0,2,9,3,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Interception Return,,,75.0,25,-3.453251600265503,False,Louisville,Kent State,21.0,0.0,2,9,3,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,85.0,15,1.8980382680892944,False,Louisville,Kent State,7.0,0.0,1,6,27,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,73.0,27,0.8633673191070557,False,Louisville,Kent State,7.0,0.0,1,6,27,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,62.0,38,1.4779179096221924,False,Louisville,Kent State,7.0,0.0,1,11,23,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,41.0,59,0.49352526664733887,False,Louisville,Kent State,7.0,0.0,1,11,23,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937474.0,Pass Reception,,,75.0,25,4.536899089813232,False,Louisville,Kent State,0.0,0.0,1,15,0,4,Kent State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,99.0,1,1.1809505224227905,False,Louisville,Murray State,48.0,10.0,4,8,36,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Sack,,,54.0,46,-1.0079416036605835,False,Louisville,Murray State,48.0,10.0,4,8,36,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,41.0,59,-0.4588449001312256,False,Louisville,Murray State,48.0,10.0,4,8,36,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,40.0,60,-1.069854736328125,False,Louisville,Murray State,48.0,10.0,4,8,36,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,65.0,35,1.2195963859558105,False,Louisville,Murray State,45.0,10.0,4,15,0,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,54.0,46,1.094343662261963,False,Louisville,Murray State,45.0,10.0,4,15,0,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,47.0,53,0.887000560760498,False,Louisville,Murray State,45.0,10.0,4,15,0,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,27.0,73,-0.8779118061065674,False,Louisville,Murray State,45.0,10.0,4,15,0,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,27.0,73,-1.088991641998291,False,Louisville,Murray State,45.0,10.0,4,15,0,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,70.0,30,-0.16108918190002441,False,Louisville,Murray State,45.0,10.0,3,1,28,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,51.0,49,-0.5328943729400635,False,Louisville,Murray State,45.0,10.0,3,4,48,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Sack,,,51.0,49,-1.499915361404419,False,Louisville,Murray State,45.0,10.0,3,4,48,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,57.0,43,-0.756689190864563,False,Louisville,Murray State,45.0,10.0,3,4,48,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,50.0,50,-1.4902509450912476,False,Louisville,Murray State,45.0,10.0,3,4,48,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Passing Touchdown,,,14.0,86,2.3083395957946777,True,Louisville,Murray State,45.0,10.0,3,7,10,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,56.0,44,0.4196815490722656,False,Louisville,Murray State,38.0,10.0,3,8,53,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,12.0,88,-1.007486343383789,False,Louisville,Murray State,38.0,10.0,3,8,53,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,75.0,25,0.7127065658569336,False,Louisville,Murray State,35.0,10.0,3,14,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,52.0,48,0.7415180206298828,False,Louisville,Murray State,35.0,10.0,3,14,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,37.0,63,1.0810518264770508,False,Louisville,Murray State,35.0,10.0,3,14,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,19.0,81,0.21695280075073242,False,Louisville,Murray State,35.0,10.0,3,14,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,21.0,79,-0.14527606964111328,False,Louisville,Murray State,35.0,10.0,3,14,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Sack,,,13.0,87,-1.6420974731445312,False,Louisville,Murray State,35.0,10.0,3,14,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,82.0,18,-0.3055354952812195,False,Louisville,Murray State,35.0,3.0,2,1,2,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,82.0,18,-0.13013142347335815,False,Louisville,Murray State,35.0,3.0,2,1,2,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,82.0,18,0.5536978244781494,False,Louisville,Murray State,35.0,3.0,2,1,2,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,71.0,29,-0.1252368688583374,False,Louisville,Murray State,35.0,3.0,2,1,2,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Fumble Recovery (Opponent),,,71.0,29,-0.6459531188011169,False,Louisville,Murray State,35.0,3.0,2,1,2,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,86.0,14,1.6135644912719727,False,Louisville,Murray State,28.0,3.0,2,6,30,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,52.0,48,0.8461663722991943,False,Louisville,Murray State,28.0,3.0,2,6,30,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,37.0,63,0.743680477142334,False,Louisville,Murray State,28.0,3.0,2,6,30,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,29.0,71,0.6829113960266113,False,Louisville,Murray State,28.0,3.0,2,6,30,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Passing Touchdown,,,8.0,92,1.3354010581970215,True,Louisville,Murray State,28.0,3.0,2,8,18,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,50.0,50,-0.8416085243225098,False,Louisville,Murray State,21.0,3.0,2,10,35,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,50.0,50,-1.4272255897521973,False,Louisville,Murray State,21.0,3.0,2,10,35,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,26.0,74,0.8820309638977051,False,Louisville,Murray State,21.0,3.0,2,10,35,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,56.0,44,-0.9623856544494629,False,Louisville,Murray State,14.0,3.0,2,14,42,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,46.0,54,0.4977853298187256,False,Louisville,Murray State,14.0,3.0,2,14,42,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,22.0,78,-0.5777463912963867,False,Louisville,Murray State,14.0,3.0,2,14,42,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,19.0,81,1.8521888256072998,False,Louisville,Murray State,14.0,3.0,2,14,42,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Passing Touchdown,,,9.0,91,1.3475799560546875,True,Louisville,Murray State,14.0,3.0,1,2,35,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,21.0,79,0.42601680755615234,False,Louisville,Murray State,7.0,3.0,1,3,5,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,72.0,28,0.8968192338943481,False,Louisville,Murray State,7.0,3.0,1,4,28,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Incompletion,,,66.0,34,-1.7789748907089233,False,Louisville,Murray State,7.0,3.0,1,4,28,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,77.0,23,-0.0731353759765625,False,Louisville,Murray State,0.0,0.0,1,12,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,68.0,32,1.2971909046173096,False,Louisville,Murray State,0.0,0.0,1,12,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937484.0,Pass Reception,,,42.0,58,1.6851062774658203,False,Louisville,Murray State,0.0,0.0,1,12,50,5,Murray State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,19.0,19,-2.024609327316284,False,NC State,Louisville,25.0,39.0,4,0,36,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,23.0,23,0.6697075366973877,False,NC State,Louisville,25.0,39.0,4,0,54,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,23.0,23,1.590834617614746,False,NC State,Louisville,25.0,39.0,4,1,20,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,23.0,23,-0.4383425712585449,False,NC State,Louisville,25.0,39.0,4,1,28,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,24.0,24,-0.28327417373657227,False,NC State,Louisville,25.0,39.0,4,1,30,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,56.0,39,0.28327417373657227,False,NC State,Louisville,25.0,39.0,4,1,35,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,56.0,56,-0.449038028717041,False,NC State,Louisville,25.0,39.0,4,1,44,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,62.0,62,-0.34808117151260376,False,NC State,Louisville,25.0,39.0,4,2,15,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,67.0,67,0.23112356662750244,False,NC State,Louisville,25.0,39.0,4,2,45,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Interception Return Touchdown,,,89.0,89,-6.656536102294922,True,NC State,Louisville,25.0,39.0,4,2,52,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,69.0,69,5.239071846008301,False,NC State,Louisville,19.0,32.0,4,5,10,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,69.0,69,-0.4917290210723877,False,NC State,Louisville,19.0,32.0,4,5,21,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,80.0,80,0.1515316516160965,False,NC State,Louisville,19.0,32.0,4,5,55,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,79.0,79,-0.7124853134155273,False,NC State,Louisville,19.0,32.0,4,9,19,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,75.0,75,-0.5210051536560059,False,NC State,Louisville,19.0,32.0,4,10,1,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,14.0,14,1.7520713806152344,False,NC State,Louisville,13.0,24.0,4,12,54,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,19.0,19,-0.7824852466583252,False,NC State,Louisville,13.0,24.0,4,13,13,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,50.0,50,-0.394895076751709,False,NC State,Louisville,13.0,24.0,3,0,41,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,31.0,31,-2.090543746948242,False,NC State,Louisville,10.0,17.0,3,5,25,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,43.0,43,0.9737122058868408,False,NC State,Louisville,10.0,17.0,3,7,29,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,69.0,69,1.7484705448150635,False,NC State,Louisville,10.0,17.0,3,8,0,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,32.0,32,3.222728729248047,False,NC State,Louisville,7.0,17.0,2,0,3,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,32.0,32,-0.21380198001861572,False,NC State,Louisville,7.0,17.0,2,0,8,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,32.0,32,-0.06145644187927246,False,NC State,Louisville,7.0,17.0,2,0,11,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,54.0,54,1.9759314060211182,False,NC State,Louisville,7.0,17.0,2,0,21,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,54.0,54,-0.38441938161849976,False,NC State,Louisville,7.0,17.0,2,0,29,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,68.0,68,0.09685558080673218,False,NC State,Louisville,7.0,17.0,2,1,9,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,79.0,79,0.23749899864196777,False,NC State,Louisville,7.0,17.0,2,1,37,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,68.0,68,-1.3621666431427002,False,NC State,Louisville,7.0,10.0,2,3,39,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,86.0,86,1.0025266408920288,False,NC State,Louisville,7.0,10.0,2,3,58,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Sack,,,75.0,75,-1.5885930061340332,False,NC State,Louisville,7.0,10.0,2,4,22,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Passing Touchdown,,,23.0,23,2.70768404006958,True,NC State,Louisville,7.0,7.0,2,7,27,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,62.0,62,0.5984216928482056,False,NC State,Louisville,0.0,7.0,2,9,20,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,57.0,57,-0.5274258852005005,False,NC State,Louisville,0.0,7.0,2,9,59,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,68.0,68,1.6871267557144165,False,NC State,Louisville,0.0,7.0,2,10,21,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,82.0,82,1.3210349082946777,False,NC State,Louisville,0.0,7.0,2,10,52,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Sack,,,75.0,75,-1.336366891860962,False,NC State,Louisville,0.0,7.0,2,11,20,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,81.0,81,-1.2545350790023804,False,NC State,Louisville,0.0,0.0,2,13,35,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,81.0,81,-0.9877172112464905,False,NC State,Louisville,0.0,0.0,2,13,39,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Incompletion,,,81.0,81,-0.7088162302970886,False,NC State,Louisville,0.0,0.0,2,13,45,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,98.0,98,1.3315091133117676,False,NC State,Louisville,0.0,0.0,2,13,59,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,41.0,41,1.1134233474731445,False,NC State,Louisville,0.0,0.0,1,4,41,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Sack,,,39.0,39,-1.2249729633331299,False,NC State,Louisville,0.0,0.0,1,5,30,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,64.0,64,0.8312441110610962,False,NC State,Louisville,0.0,0.0,1,7,3,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,81.0,81,0.15011554956436157,False,NC State,Louisville,0.0,0.0,1,8,3,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Pass Reception,,,81.0,81,-0.6675903797149658,False,NC State,Louisville,0.0,0.0,1,13,21,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937487.0,Sack,,,77.0,77,-1.6639106273651123,False,NC State,Louisville,0.0,0.0,1,14,16,6,NC State,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,83.0,17,-0.19499176740646362,False,Louisville,Boston College,42.0,42.0,4,2,50,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Fumble Recovery (Opponent),,,70.0,30,-5.023676872253418,False,Louisville,Boston College,42.0,42.0,4,2,50,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,70.0,30,1.710898995399475,False,Louisville,Boston College,35.0,42.0,4,7,24,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,79.0,21,0.9790446758270264,False,Louisville,Boston College,28.0,42.0,4,11,59,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,48.0,52,-0.6862070560455322,False,Louisville,Boston College,28.0,42.0,4,11,59,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,28.0,72,-0.6716153621673584,False,Louisville,Boston College,28.0,42.0,4,11,59,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,28.0,72,1.750270128250122,False,Louisville,Boston College,28.0,42.0,4,11,59,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Passing Touchdown,,,40.0,60,4.44270133972168,True,Louisville,Boston College,28.0,35.0,4,12,13,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,84.0,16,-0.5749727487564087,False,Louisville,Boston College,21.0,35.0,4,14,55,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,82.0,18,2.02994441986084,False,Louisville,Boston College,21.0,35.0,4,14,55,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,62.0,38,-0.1339879035949707,False,Louisville,Boston College,21.0,35.0,4,14,55,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,51.0,49,1.0639744997024536,False,Louisville,Boston College,21.0,35.0,4,14,55,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Interception Return,,,58.0,42,-4.966776371002197,False,Louisville,Boston College,21.0,28.0,3,2,28,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,82.0,18,-0.9757978916168213,False,Louisville,Boston College,21.0,21.0,3,5,3,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,77.0,23,-1.0595463514328003,False,Louisville,Boston College,21.0,14.0,3,11,23,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,41.0,59,-0.0905454158782959,False,Louisville,Boston College,21.0,14.0,2,0,11,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,41.0,59,-0.2987629771232605,False,Louisville,Boston College,21.0,14.0,2,0,11,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,75.0,25,1.0075945854187012,False,Louisville,Boston College,21.0,14.0,2,0,51,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,46.0,54,1.2938032150268555,False,Louisville,Boston College,21.0,14.0,2,0,51,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,75.0,25,-0.5023130178451538,False,Louisville,Boston College,21.0,7.0,2,4,14,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,75.0,25,0.08552652597427368,False,Louisville,Boston College,21.0,7.0,2,4,14,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,78.0,22,2.1185669898986816,False,Louisville,Boston College,14.0,7.0,2,12,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,67.0,33,0.7948694229125977,False,Louisville,Boston College,14.0,7.0,2,12,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,56.0,44,-0.5094799995422363,False,Louisville,Boston College,14.0,7.0,2,12,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,68.0,32,2.4265215396881104,False,Louisville,Boston College,7.0,0.0,1,5,59,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Passing Touchdown,,,22.0,78,3.1541922092437744,True,Louisville,Boston College,7.0,0.0,1,11,38,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,75.0,25,-0.6441683769226074,False,Louisville,Boston College,0.0,0.0,1,15,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,55.0,45,0.8647692203521729,False,Louisville,Boston College,0.0,0.0,1,15,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Incompletion,,,28.0,72,-0.9471666812896729,False,Louisville,Boston College,0.0,0.0,1,15,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937494.0,Pass Reception,,,28.0,72,-2.644233465194702,False,Louisville,Boston College,0.0,0.0,1,15,0,7,Boston College,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,28.0,28,0.19458293914794922,False,Florida State,Louisville,28.0,28.0,4,0,24,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,43.0,43,-0.44216346740722656,False,Florida State,Louisville,28.0,28.0,4,0,46,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,52.0,52,0.4295940399169922,False,Florida State,Louisville,28.0,28.0,4,1,20,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,76.0,76,0.16130053997039795,False,Florida State,Louisville,28.0,28.0,4,1,58,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,29.0,29,-0.578845739364624,False,Florida State,Louisville,28.0,28.0,4,5,25,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,74.0,74,3.0225183963775635,False,Florida State,Louisville,28.0,28.0,4,7,30,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,30.0,30,-0.5562229156494141,False,Florida State,Louisville,21.0,14.0,3,5,43,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Passing Touchdown,,,26.0,26,3.489577293395996,True,Florida State,Louisville,14.0,14.0,2,1,4,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,26.0,26,-0.8502283096313477,False,Florida State,Louisville,7.0,14.0,2,1,11,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Sack,,,37.0,37,-1.3245563507080078,False,Florida State,Louisville,7.0,14.0,2,1,40,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,49.0,49,0.4625823497772217,False,Florida State,Louisville,7.0,14.0,2,2,10,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,55.0,55,0.29408204555511475,False,Florida State,Louisville,7.0,14.0,2,2,25,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,62.0,62,0.18525171279907227,False,Florida State,Louisville,7.0,14.0,2,3,0,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,75.0,75,0.6789819598197937,False,Florida State,Louisville,7.0,14.0,2,4,0,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Sack,,,61.0,61,-1.3040425777435303,False,Florida State,Louisville,7.0,7.0,2,7,15,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,57.0,57,-0.6160353422164917,False,Florida State,Louisville,7.0,7.0,2,8,6,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,80.0,80,0.06755661964416504,False,Florida State,Louisville,7.0,7.0,2,10,25,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,32.0,32,-3.281210422515869,False,Florida State,Louisville,7.0,7.0,2,14,17,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,62.0,62,1.7410502433776855,False,Florida State,Louisville,7.0,7.0,1,1,29,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,62.0,62,-1.491049885749817,False,Florida State,Louisville,7.0,7.0,1,5,37,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Incompletion,,,65.0,65,-0.6580160856246948,False,Florida State,Louisville,7.0,7.0,1,6,26,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,51.0,51,-0.5861411094665527,False,Florida State,Louisville,0.0,0.0,1,13,30,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937500.0,Pass Reception,,,64.0,64,0.7430444955825806,False,Florida State,Louisville,0.0,0.0,1,14,0,8,Florida State,2017,Louisville,Lamar Jackson,2018
+400937507.0,Passing Touchdown,,,20.0,20,3.5751638412475586,True,Wake Forest,Louisville,32.0,42.0,4,0,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,62.0,62,0.779979944229126,False,Wake Forest,Louisville,25.0,42.0,4,0,57,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,46.0,46,1.9843097925186157,False,Wake Forest,Louisville,25.0,42.0,4,0,57,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,62.0,62,-0.689389169216156,False,Wake Forest,Louisville,17.0,35.0,4,1,59,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,62.0,62,-0.4456096887588501,False,Wake Forest,Louisville,17.0,35.0,4,1,59,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,62.0,62,-0.5070177912712097,False,Wake Forest,Louisville,17.0,35.0,4,1,59,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,89.0,89,-0.3567656874656677,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,89.0,89,2.164165735244751,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,65.0,65,1.0140327215194702,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,51.0,51,1.1028437614440918,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,40.0,40,0.7385952472686768,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Fumble Recovery (Own),,,26.0,26,-2.7815136909484863,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,33.0,33,3.903927803039551,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Sack,,,18.0,18,-1.9987068176269531,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,23.0,23,3.0850367546081543,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,5.0,5,-1.0407962799072266,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,6.0,6,-4.018937587738037,False,Wake Forest,Louisville,17.0,35.0,4,14,47,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,74.0,74,-0.779155969619751,False,Wake Forest,Louisville,17.0,35.0,3,2,20,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,74.0,74,-0.8883070945739746,False,Wake Forest,Louisville,17.0,35.0,3,2,20,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Sack,,,72.0,72,-1.0772608518600464,False,Wake Forest,Louisville,17.0,35.0,3,2,20,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,75.0,75,1.6628761291503906,False,Wake Forest,Louisville,10.0,35.0,3,10,21,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,56.0,56,0.9215527176856995,False,Wake Forest,Louisville,10.0,35.0,3,10,21,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,43.0,43,2.173924684524536,False,Wake Forest,Louisville,10.0,35.0,3,10,21,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,26.0,26,-1.4634655714035034,False,Wake Forest,Louisville,10.0,35.0,3,10,21,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,4.0,4,-0.5195140838623047,False,Wake Forest,Louisville,10.0,35.0,3,10,21,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,83.0,83,2.4738075733184814,False,Wake Forest,Louisville,10.0,28.0,3,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Sack,,,58.0,58,-1.433699131011963,False,Wake Forest,Louisville,10.0,28.0,3,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,60.0,60,-1.616880178451538,False,Wake Forest,Louisville,10.0,28.0,3,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,54.0,54,-0.28555840253829956,False,Wake Forest,Louisville,10.0,28.0,2,1,29,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Sack,,,54.0,54,-0.8351514339447021,False,Wake Forest,Louisville,10.0,28.0,2,1,29,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,70.0,70,-0.3234664499759674,False,Wake Forest,Louisville,3.0,21.0,2,6,36,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,70.0,70,0.47719910740852356,False,Wake Forest,Louisville,3.0,21.0,2,6,36,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,55.0,55,1.705561637878418,False,Wake Forest,Louisville,3.0,21.0,2,6,36,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,80.0,80,-0.2337409257888794,False,Wake Forest,Louisville,3.0,21.0,2,10,35,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Sack,,,75.0,75,-1.8210785388946533,False,Wake Forest,Louisville,3.0,21.0,2,10,35,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Interception Return,,,8.0,8,-6.757420539855957,False,Wake Forest,Louisville,3.0,14.0,2,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,75.0,75,1.0246765613555908,False,Wake Forest,Louisville,3.0,14.0,1,1,5,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,65.0,65,-0.5748493075370789,False,Wake Forest,Louisville,3.0,14.0,1,1,5,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,18.0,18,-0.7928414344787598,False,Wake Forest,Louisville,0.0,7.0,1,2,38,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,18.0,18,-1.0962958335876465,False,Wake Forest,Louisville,0.0,7.0,1,2,38,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,75.0,75,0.8348104953765869,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,67.0,67,0.6170203685760498,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,54.0,54,-0.9170204401016235,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,54.0,54,1.729069471359253,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,48.0,48,-0.6308479309082031,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,48.0,48,1.3053021430969238,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,38.0,38,0.0305938720703125,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Sack,,,34.0,34,-1.7125155925750732,False,Wake Forest,Louisville,0.0,7.0,1,7,14,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,64.0,64,0.7989434003829956,False,Wake Forest,Louisville,0.0,0.0,1,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,51.0,51,0.5646438598632812,False,Wake Forest,Louisville,0.0,0.0,1,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Reception,,,45.0,45,1.6085704565048218,False,Wake Forest,Louisville,0.0,0.0,1,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937507.0,Pass Incompletion,,,37.0,37,-1.8331024646759033,False,Wake Forest,Louisville,0.0,0.0,1,15,0,9,Wake Forest,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,67.0,33,2.004304885864258,False,Louisville,Virginia,38.0,14.0,4,11,44,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,27.0,73,-0.663585901260376,False,Louisville,Virginia,38.0,14.0,4,11,44,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,16.0,84,-1.6138336658477783,False,Louisville,Virginia,38.0,14.0,4,11,44,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,37.0,63,-1.0356802940368652,False,Louisville,Virginia,31.0,14.0,3,1,38,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,37.0,63,-1.1865917444229126,False,Louisville,Virginia,31.0,14.0,3,1,38,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Passing Touchdown,,,21.0,79,1.8376126289367676,True,Louisville,Virginia,31.0,14.0,3,3,58,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Passing Touchdown,,,24.0,76,2.397953987121582,True,Louisville,Virginia,24.0,14.0,3,6,51,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,70.0,30,0.4138956069946289,False,Louisville,Virginia,17.0,14.0,3,11,46,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Sack,,,43.0,57,-1.0467599630355835,False,Louisville,Virginia,17.0,14.0,3,11,46,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,44.0,56,2.17434024810791,False,Louisville,Virginia,17.0,14.0,3,11,46,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,35.0,65,0.975975513458252,False,Louisville,Virginia,17.0,14.0,2,0,13,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,64.0,36,-0.025781452655792236,False,Louisville,Virginia,17.0,14.0,2,0,31,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,64.0,36,1.6100033521652222,False,Louisville,Virginia,17.0,14.0,2,0,31,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,75.0,25,0.021540403366088867,False,Louisville,Virginia,17.0,14.0,2,0,48,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,72.0,28,0.3024255037307739,False,Louisville,Virginia,17.0,14.0,2,0,48,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,76.0,24,-0.4543718099594116,False,Louisville,Virginia,17.0,7.0,2,4,3,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Fumble Recovery (Own),,,76.0,24,-1.3517935276031494,False,Louisville,Virginia,17.0,7.0,2,4,3,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Passing Touchdown,,,14.0,86,2.6492137908935547,True,Louisville,Virginia,17.0,7.0,2,5,52,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,63.0,37,1.0535141229629517,False,Louisville,Virginia,10.0,7.0,2,10,46,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,49.0,51,1.253998041152954,False,Louisville,Virginia,10.0,7.0,2,10,46,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,33.0,67,-0.5148072242736816,False,Louisville,Virginia,10.0,7.0,2,10,46,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,23.0,77,-0.5836007595062256,False,Louisville,Virginia,7.0,7.0,2,13,19,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,40.0,60,0.6107211112976074,False,Louisville,Virginia,7.0,7.0,1,1,14,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,32.0,68,-1.4200468063354492,False,Louisville,Virginia,7.0,7.0,1,1,14,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,45.0,55,-0.6651461124420166,False,Louisville,Virginia,7.0,7.0,1,7,17,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Reception,,,45.0,55,-0.8623933792114258,False,Louisville,Virginia,7.0,7.0,1,7,17,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,74.0,26,-1.096950650215149,False,Louisville,Virginia,0.0,0.0,1,15,0,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937518.0,Pass Incompletion,,,74.0,26,-1.5184249877929688,False,Louisville,Virginia,0.0,0.0,1,15,0,11,Virginia,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,70.0,30,0.22332853078842163,False,Louisville,Syracuse,56.0,10.0,4,5,10,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Passing Touchdown,,,29.0,71,3.0117030143737793,True,Louisville,Syracuse,56.0,3.0,4,9,49,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,74.0,26,-0.42418718338012695,False,Louisville,Syracuse,49.0,3.0,4,15,0,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,75.0,25,-0.4185488224029541,False,Louisville,Syracuse,49.0,3.0,3,0,48,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,75.0,25,-0.1341536045074463,False,Louisville,Syracuse,42.0,3.0,3,6,32,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,72.0,28,1.9189741611480713,False,Louisville,Syracuse,42.0,3.0,3,6,32,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,19.0,81,-0.7814702987670898,False,Louisville,Syracuse,35.0,3.0,3,12,48,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Passing Touchdown,,,34.0,66,6.256927490234375,True,Louisville,Syracuse,35.0,3.0,2,0,55,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Sack,,,51.0,49,-1.0696353912353516,False,Louisville,Syracuse,28.0,3.0,2,3,30,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,60.0,40,1.754297137260437,False,Louisville,Syracuse,28.0,3.0,2,3,30,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,34.0,66,-0.5537997484207153,False,Louisville,Syracuse,28.0,3.0,2,3,30,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,34.0,66,-0.9368776679039001,False,Louisville,Syracuse,28.0,3.0,2,3,30,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Passing Touchdown,,,72.0,28,5.632048606872559,True,Louisville,Syracuse,28.0,3.0,2,5,50,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,62.0,38,-0.13996124267578125,False,Louisville,Syracuse,14.0,3.0,2,13,5,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,57.0,43,2.2148830890655518,False,Louisville,Syracuse,14.0,3.0,2,13,5,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,33.0,67,-0.5610601902008057,False,Louisville,Syracuse,14.0,3.0,2,13,5,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,43.0,57,-0.9040651321411133,False,Louisville,Syracuse,7.0,3.0,2,15,0,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,80.0,20,1.787276268005371,False,Louisville,Syracuse,7.0,3.0,1,3,23,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,59.0,41,0.9359135627746582,False,Louisville,Syracuse,7.0,3.0,1,3,23,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,59.0,41,-0.6358118057250977,False,Louisville,Syracuse,7.0,3.0,1,6,15,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,57.0,43,3.2686100006103516,False,Louisville,Syracuse,7.0,3.0,1,6,15,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,33.0,67,-0.9452941417694092,False,Louisville,Syracuse,7.0,3.0,1,6,15,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,33.0,67,-1.4974539279937744,False,Louisville,Syracuse,7.0,3.0,1,6,15,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,33.0,67,-2.704011917114258,False,Louisville,Syracuse,7.0,3.0,1,6,15,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,75.0,25,0.8221484422683716,False,Louisville,Syracuse,7.0,3.0,1,8,31,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,67.0,33,2.800968647003174,False,Louisville,Syracuse,7.0,3.0,1,8,31,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,33.0,67,-2.289034843444824,False,Louisville,Syracuse,7.0,0.0,1,11,2,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Reception,,,57.0,43,0.9365482330322266,False,Louisville,Syracuse,7.0,0.0,1,12,51,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400937524.0,Pass Incompletion,,,33.0,67,-1.4890109300613403,False,Louisville,Syracuse,7.0,0.0,1,12,51,12,Syracuse,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,76.0,76,0.4551407992839813,False,Mississippi State,Louisville,27.0,31.0,4,0,20,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Sack,,,67.0,67,-0.36151301860809326,False,Mississippi State,Louisville,27.0,31.0,4,0,40,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Sack,,,57.0,57,-1.2224808931350708,False,Mississippi State,Louisville,27.0,31.0,4,1,15,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,75.0,75,0.571122944355011,False,Mississippi State,Louisville,27.0,31.0,4,3,20,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,14.0,14,-1.3805198669433594,False,Mississippi State,Louisville,24.0,24.0,4,7,43,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,20.0,20,-0.5864448547363281,False,Mississippi State,Louisville,24.0,24.0,4,8,29,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,35.0,35,-0.5390894412994385,False,Mississippi State,Louisville,24.0,24.0,4,10,30,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,53.0,53,1.253015398979187,False,Mississippi State,Louisville,24.0,24.0,4,12,0,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Interception Return,,,75.0,75,-6.4516801834106445,False,Mississippi State,Louisville,24.0,17.0,4,14,20,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,99.0,99,1.2066844701766968,False,Mississippi State,Louisville,24.0,17.0,3,0,10,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,5.0,5,-1.6767857074737549,False,Mississippi State,Louisville,21.0,17.0,3,3,19,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,18.0,18,0.8675527572631836,False,Mississippi State,Louisville,21.0,17.0,3,5,0,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,54.0,54,-1.1340802907943726,False,Mississippi State,Louisville,21.0,17.0,3,6,35,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Fumble Recovery (Own),,,55.0,55,-1.5097906589508057,False,Mississippi State,Louisville,21.0,17.0,3,8,0,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Sack,,,13.0,13,-2.0951051712036133,False,Mississippi State,Louisville,21.0,17.0,3,9,25,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,20.0,20,-0.5829715728759766,False,Mississippi State,Louisville,21.0,17.0,3,10,16,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Sack,,,76.0,76,-1.5716278553009033,False,Mississippi State,Louisville,21.0,17.0,3,10,40,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Sack,,,80.0,80,-1.1166880130767822,False,Mississippi State,Louisville,21.0,17.0,3,12,10,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Passing Touchdown,,,11.0,11,2.9725289344787598,True,Mississippi State,Louisville,21.0,17.0,2,0,19,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Interception Return,,,57.0,57,-3.5316622257232666,False,Mississippi State,Louisville,14.0,17.0,2,2,59,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Interception Return,,,76.0,76,-3.5413401126861572,False,Mississippi State,Louisville,14.0,14.0,2,7,45,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,76.0,76,-0.9313212633132935,False,Mississippi State,Louisville,14.0,14.0,2,7,55,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,25.0,25,1.5678424835205078,False,Mississippi State,Louisville,7.0,14.0,2,10,55,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,25.0,25,-0.8237037658691406,False,Mississippi State,Louisville,7.0,14.0,2,10,59,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,79.0,44,0.04617929458618164,False,Mississippi State,Louisville,7.0,14.0,2,11,50,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,71.0,71,-1.2352125644683838,False,Mississippi State,Louisville,7.0,14.0,1,2,17,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,71.0,71,-0.9486639499664307,False,Mississippi State,Louisville,7.0,14.0,1,2,21,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Passing Touchdown,,,5.0,5,1.6043481826782227,True,Mississippi State,Louisville,7.0,7.0,1,6,35,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,24.0,24,3.32889986038208,False,Mississippi State,Louisville,0.0,7.0,1,8,0,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,34.0,34,1.0988789796829224,False,Mississippi State,Louisville,0.0,7.0,1,8,28,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Reception,,,50.0,50,3.0496606826782227,False,Mississippi State,Louisville,0.0,7.0,1,10,20,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,65.0,65,-1.7272913455963135,False,Mississippi State,Louisville,0.0,0.0,1,13,6,1,Mississippi State,2017,Louisville,Lamar Jackson,2018
+400953405.0,Pass Incompletion,,,86.0,86,-0.8202033638954163,False,Mississippi State,Louisville,0.0,0.0,1,14,49,1,Mississippi State,2017,Louisville,Lamar Jackson,2018

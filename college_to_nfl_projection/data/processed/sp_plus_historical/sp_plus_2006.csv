@@ -1,0 +1,121 @@
+season,team,conference,overall_rating,offense_rating,defense_rating,special_teams_rating
+2006,LSU,SEC,31.6,39.2,6.8,-0.7
+2006,USC,Big Ten,30.3,37.8,9.3,1.8
+2006,Louisville,ACC,27.3,41.3,14.4,0.5
+2006,Ohio State,Big Ten,27.0,37.2,12.1,1.9
+2006,Florida,SEC,26.5,36.0,8.4,-1.1
+2006,West Virginia,Big 12,25.4,41.2,17.3,1.5
+2006,Oklahoma,SEC,23.5,34.3,12.5,1.7
+2006,Michigan,Big Ten,22.6,32.3,9.9,0.2
+2006,BYU,Big 12,21.9,37.5,16.6,1.0
+2006,Texas,SEC,21.9,37.4,16.4,1.0
+2006,Virginia Tech,ACC,21.0,23.6,4.6,2.0
+2006,Arkansas,SEC,20.6,34.4,13.1,-0.7
+2006,Auburn,SEC,19.4,32.4,15.1,2.1
+2006,Wisconsin,Big Ten,19.1,28.9,11.2,1.3
+2006,South Carolina,SEC,19.1,38.0,20.2,1.4
+2006,Tennessee,SEC,18.9,35.9,18.3,1.3
+2006,Boise State,Mountain West,18.7,35.9,18.6,1.3
+2006,Texas Tech,Big 12,17.9,37.2,19.9,0.5
+2006,Georgia,SEC,17.8,28.7,11.3,0.4
+2006,California,ACC,17.6,35.7,19.9,1.9
+2006,TCU,Big 12,17.3,29.2,12.7,0.8
+2006,Clemson,ACC,16.7,31.5,13.7,-1.1
+2006,Boston College,ACC,14.8,29.5,14.6,-0.1
+2006,Rutgers,Big Ten,14.8,27.9,14.1,1.1
+2006,Nebraska,Big Ten,14.7,31.5,17.7,0.9
+2006,Missouri,SEC,14.4,32.1,18.2,0.4
+2006,Pittsburgh,ACC,14.4,31.9,18.8,1.4
+2006,Miami,ACC,13.9,23.6,9.3,-0.3
+2006,Oklahoma State,Big 12,13.7,35.6,23.9,2.0
+2006,Georgia Tech,ACC,13.5,26.2,13.2,0.5
+2006,Iowa,Big Ten,13.4,32.0,18.4,-0.1
+2006,Arizona State,Big 12,13.3,31.7,19.7,1.3
+2006,Hawai'i,Mountain West,13.1,42.6,30.0,0.5
+2006,Penn State,Big Ten,12.7,24.9,12.0,-0.2
+2006,Utah,Big 12,12.0,29.8,19.5,1.7
+2006,Florida State,ACC,11.9,25.5,13.9,0.3
+2006,Notre Dame,FBS Independents,11.5,34.2,22.1,-0.6
+2006,Alabama,SEC,11.4,28.7,16.5,-0.8
+2006,Oregon State,Pac-12,11.3,31.0,21.0,1.3
+2006,Oregon,Big Ten,11.2,33.3,21.5,-0.5
+2006,South Florida,American Athletic,10.7,25.4,12.8,-1.9
+2006,Texas A&M,SEC,10.1,33.6,23.6,0.1
+2006,UCLA,Big Ten,8.8,23.4,15.9,1.3
+2006,Cincinnati,Big 12,7.9,23.6,16.7,1.0
+2006,Houston,Big 12,7.6,33.9,25.2,-1.1
+2006,Washington State,Pac-12,7.4,28.5,19.2,-1.9
+2006,Kansas,Big 12,6.9,27.4,21.6,1.1
+2006,Wake Forest,ACC,6.5,23.6,18.4,1.2
+2006,Kansas State,Big 12,5.8,23.9,19.7,1.6
+2006,Virginia,ACC,4.6,17.0,12.3,-0.2
+2006,Maryland,Big Ten,4.6,25.2,22.1,1.5
+2006,Purdue,Big Ten,4.4,33.2,28.2,-0.6
+2006,Minnesota,Big Ten,3.8,31.9,27.5,-0.6
+2006,Tulsa,American Athletic,2.1,27.0,25.0,0.2
+2006,Vanderbilt,SEC,1.9,25.6,22.5,-1.3
+2006,Colorado,Big 12,1.8,20.1,18.9,0.6
+2006,Kentucky,SEC,1.7,33.3,30.8,-0.8
+2006,Nevada,Mountain West,0.9,25.4,23.8,-0.8
+2006,Washington,Big Ten,0.3,23.3,24.1,1.1
+2006,Wyoming,Mountain West,0.3,18.6,17.7,-0.6
+2006,NC State,ACC,0.2,18.7,19.1,0.6
+2006,Southern Miss,Sun Belt,-0.3,23.3,23.1,-0.5
+2006,New Mexico,Mountain West,-0.5,19.8,21.5,1.2
+2006,East Carolina,American Athletic,-0.9,23.6,24.3,-0.2
+2006,Arizona,Big 12,-1.0,15.4,17.8,1.5
+2006,Michigan State,Big Ten,-1.3,25.0,26.7,0.4
+2006,San José State,Mountain West,-1.8,24.0,26.1,0.3
+2006,Navy,American Athletic,-1.9,27.0,28.3,-0.7
+2006,Northern Illinois,Mid-American,-2.5,22.6,25.2,0.0
+2006,Illinois,Big Ten,-2.8,20.1,22.3,-0.5
+2006,UConn,FBS Independents,-2.9,20.8,22.2,-1.5
+2006,Ole Miss,SEC,-3.2,20.1,23.7,0.4
+2006,Baylor,Big 12,-3.6,22.6,27.8,1.6
+2006,Syracuse,ACC,-3.6,20.2,25.7,1.9
+2006,Northwestern,Big Ten,-4.9,21.3,25.0,-1.2
+2006,Colorado State,Mountain West,-5.4,18.9,23.2,-1.1
+2006,Akron,Mid-American,-6.1,18.0,22.3,-1.8
+2006,Central Michigan,Mid-American,-6.1,23.5,28.8,-0.7
+2006,North Carolina,ACC,-6.2,19.8,27.3,1.2
+2006,Kent State,Mid-American,-6.2,18.2,22.2,-2.3
+2006,UTEP,Conference USA,-6.2,25.9,32.0,-0.2
+2006,Iowa State,Big 12,-6.7,24.7,31.5,0.1
+2006,Mississippi State,SEC,-6.7,16.5,21.7,-1.5
+2006,Western Michigan,Mid-American,-7.1,14.8,21.4,-0.4
+2006,Ball State,Mid-American,-7.5,22.6,32.0,1.9
+2006,SMU,ACC,-7.7,20.9,30.3,1.7
+2006,Marshall,Sun Belt,-7.9,26.7,34.2,-0.3
+2006,Fresno State,Mountain West,-8.1,21.6,29.4,-0.3
+2006,Air Force,Mountain West,-8.8,24.0,31.7,-1.1
+2006,Ohio,Mid-American,-9.5,12.6,23.2,1.1
+2006,Toledo,Mid-American,-9.6,16.2,26.2,0.4
+2006,Indiana,Big Ten,-9.9,21.6,31.2,-0.3
+2006,New Mexico State,Conference USA,-10.2,26.6,35.7,-1.2
+2006,UCF,Big 12,-10.3,21.8,32.1,0.0
+2006,Rice,American Athletic,-10.5,25.1,34.4,-1.3
+2006,UAB,American Athletic,-11.3,19.9,31.9,0.7
+2006,Troy,Sun Belt,-11.5,16.0,27.7,0.2
+2006,Miami (OH),Mid-American,-13.0,16.1,27.5,-1.6
+2006,Memphis,American Athletic,-13.2,23.1,35.4,-0.8
+2006,San Diego State,Mountain West,-13.2,14.1,25.6,-1.7
+2006,Middle Tennessee,Conference USA,-13.5,14.8,28.1,-0.2
+2006,Bowling Green,Mid-American,-14.1,17.2,28.7,-2.6
+2006,Stanford,ACC,-14.1,14.8,27.6,-1.3
+2006,UNLV,Mountain West,-14.5,17.1,30.1,-1.5
+2006,UL Monroe,Sun Belt,-15.0,17.4,32.5,0.2
+2006,Tulane,American Athletic,-15.0,18.9,32.6,-1.3
+2006,Louisiana,Sun Belt,-19.3,11.4,30.3,-0.3
+2006,Duke,ACC,-19.5,13.8,31.6,-1.6
+2006,Florida Atlantic,American Athletic,-19.6,9.8,28.2,-1.2
+2006,Arkansas State,Sun Belt,-21.8,11.0,31.0,-1.8
+2006,Eastern Michigan,Mid-American,-22.0,10.6,33.5,0.9
+2006,Louisiana Tech,Conference USA,-22.2,18.9,39.7,-1.3
+2006,Idaho,Big Sky,-23.7,14.6,37.2,-1.1
+2006,Army,American Athletic,-24.3,8.4,33.5,0.8
+2006,North Texas,American Athletic,-24.5,6.9,31.5,0.1
+2006,Florida International,Conference USA,-29.7,-0.5,26.5,-2.7
+2006,Buffalo,Mid-American,-30.3,10.0,39.0,-1.3
+2006,Utah State,Mountain West,-32.1,10.6,39.7,-3.0
+2006,Temple,American Athletic,-33.3,7.7,38.7,-2.3
+2006,nationalAverages,,1.3260504201680672,24.442016806722688,23.112605042016806,0.0016806722689075631

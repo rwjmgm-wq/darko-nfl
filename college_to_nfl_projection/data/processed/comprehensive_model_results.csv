@@ -1,0 +1,391 @@
+aggregation_method,outcome,outcome_type,feature_combo,n_features,features,n_samples,r,r_squared,cv_r2,rmse,auc,accuracy
+final_season,Rookie LEAF,regression,solo_epa_per_play,1,epa_per_play,102,0.04861184065534637,0.0023631110519007864,-0.13688359581543486,0.4738319496673063,,
+final_season,Rookie LEAF,regression,solo_attempts,1,attempts,102,0.15429016631438133,0.02380545542131945,-0.08898933248748564,0.46871222345887986,,
+final_season,Rookie LEAF,regression,solo_big_play_rate,1,big_play_rate,102,0.06007972741527227,0.003609573646293418,-0.11196148289422699,0.4735358507541545,,
+final_season,Rookie LEAF,regression,solo_red_zone_epa,1,red_zone_epa,102,0.010366896793142863,0.00010747254911967577,-0.1400641073016798,0.47436730985332726,,
+final_season,Rookie LEAF,regression,solo_high_leverage_epa,1,high_leverage_epa,102,0.010366896793142863,0.00010747254911967577,-0.1400641073016798,0.47436730985332726,,
+final_season,Rookie LEAF,regression,solo_success_rate,1,success_rate,102,0.10394383959809285,0.010804321790394054,-0.12218883582219338,0.4718230965598231,,
+final_season,Rookie LEAF,regression,pair_epa_volume,2,"epa_per_play, attempts",102,0.1565538966456661,0.024509122554941903,-0.10166517013099252,0.4685432628529555,,
+final_season,Rookie LEAF,regression,pair_epa_bigplay,2,"epa_per_play, big_play_rate",102,0.12311583344783895,0.015157508445556021,-0.0938731901467762,0.4707837679705306,,
+final_season,Rookie LEAF,regression,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",102,0.06493448392956613,0.004216487203199082,-0.1501944329815763,0.47339161055611856,,
+final_season,Rookie LEAF,regression,pair_volume_bigplay,2,"attempts, big_play_rate",102,0.16238521091137686,0.02636895672273235,-0.07885997404487868,0.46809639628730626,,
+final_season,Rookie LEAF,regression,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",102,0.17872693401646111,0.031943316942924446,-0.08129913654791102,0.46675446932755427,,
+final_season,Rookie LEAF,regression,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",102,0.13967137757388262,0.01950809371338608,-0.14816165380278834,0.4697427629673061,,
+final_season,Rookie LEAF,regression,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",102,0.22845818628684977,0.05219314288147695,-0.12037713048432093,0.4618468805272853,,
+final_season,85+ Starts,classification,solo_epa_per_play,1,epa_per_play,81,0.09439198281680507,,,,0.5714285714285714,0.7777777777777778
+final_season,85+ Starts,classification,solo_attempts,1,attempts,81,0.14035761424875765,,,,0.6093474426807761,0.7777777777777778
+final_season,85+ Starts,classification,solo_big_play_rate,1,big_play_rate,81,0.08073750956922279,,,,0.5229276895943563,0.7777777777777778
+final_season,85+ Starts,classification,solo_red_zone_epa,1,red_zone_epa,81,0.007650407436447176,,,,0.47178130511463845,0.7777777777777778
+final_season,85+ Starts,classification,solo_high_leverage_epa,1,high_leverage_epa,81,0.007650407436447176,,,,0.47178130511463845,0.7777777777777778
+final_season,85+ Starts,classification,solo_success_rate,1,success_rate,81,0.1781769385053549,,,,0.6455026455026455,0.7777777777777778
+final_season,85+ Starts,classification,pair_epa_volume,2,"epa_per_play, attempts",81,0.16523926027749347,,,,0.6437389770723103,0.7777777777777778
+final_season,85+ Starts,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",81,0.09787571811549765,,,,0.562610229276896,0.7777777777777778
+final_season,85+ Starts,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",81,0.11410627361838968,,,,0.5529100529100529,0.7777777777777778
+final_season,85+ Starts,classification,pair_volume_bigplay,2,"attempts, big_play_rate",81,0.1534606382033028,,,,0.6181657848324514,0.7777777777777778
+final_season,85+ Starts,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",81,0.16679335292115754,,,,0.6393298059964727,0.7777777777777778
+final_season,85+ Starts,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",81,0.23921808732042604,,,,0.6534391534391534,0.7777777777777778
+final_season,85+ Starts,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",81,0.25516926818019453,,,,0.6913580246913581,0.7777777777777778
+final_season,Bust,classification,solo_epa_per_play,1,epa_per_play,110,0.14125825371790943,,,,0.578125,0.6272727272727273
+final_season,Bust,classification,solo_attempts,1,attempts,110,0.12877873367394846,,,,0.5844089673913043,0.6181818181818182
+final_season,Bust,classification,solo_big_play_rate,1,big_play_rate,110,0.08541224983755352,,,,0.5319293478260869,0.6
+final_season,Bust,classification,solo_red_zone_epa,1,red_zone_epa,110,0.008078965246085519,,,,0.508491847826087,0.5818181818181818
+final_season,Bust,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.008078965246085519,,,,0.508491847826087,0.5818181818181818
+final_season,Bust,classification,solo_success_rate,1,success_rate,110,0.1869033425332588,,,,0.6103940217391305,0.6090909090909091
+final_season,Bust,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.17716916581264705,,,,0.6209239130434782,0.6090909090909091
+final_season,Bust,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.14123651666238546,,,,0.5798233695652174,0.6272727272727273
+final_season,Bust,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.17197640751950435,,,,0.5879755434782609,0.6181818181818182
+final_season,Bust,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.1550502272537594,,,,0.6024116847826088,0.6181818181818182
+final_season,Bust,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.1779289859842276,,,,0.6168478260869565,0.6181818181818182
+final_season,Bust,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.21668979439497957,,,,0.6239809782608695,0.6545454545454545
+final_season,Bust,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.23523313533866483,,,,0.6531929347826086,0.6181818181818182
+final_season,Elite Peak,classification,solo_epa_per_play,1,epa_per_play,110,0.25268138889814046,,,,0.6480388753904894,0.7
+final_season,Elite Peak,classification,solo_attempts,1,attempts,110,0.23088471818776676,,,,0.6402290871225269,0.6545454545454545
+final_season,Elite Peak,classification,solo_big_play_rate,1,big_play_rate,110,0.19519937474980562,,,,0.6022214508851094,0.6636363636363637
+final_season,Elite Peak,classification,solo_red_zone_epa,1,red_zone_epa,110,0.0790315880100635,,,,0.5452967719541826,0.6181818181818182
+final_season,Elite Peak,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.0790315880100635,,,,0.5452967719541826,0.6181818181818182
+final_season,Elite Peak,classification,solo_success_rate,1,success_rate,110,0.27162447311295346,,,,0.6605345366192295,0.6636363636363637
+final_season,Elite Peak,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.326830955873132,,,,0.7053106560222144,0.6818181818181818
+final_season,Elite Peak,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.2564221608989563,,,,0.6483859770912876,0.6818181818181818
+final_season,Elite Peak,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.2571055592477089,,,,0.6341548073585561,0.6909090909090909
+final_season,Elite Peak,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.3090891025973001,,,,0.6860465116279071,0.6636363636363637
+final_season,Elite Peak,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.33700567162296513,,,,0.7070461645262061,0.6636363636363637
+final_season,Elite Peak,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.2784600205286661,,,,0.6473446719888928,0.6818181818181818
+final_season,Elite Peak,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.34467790383182684,,,,0.7160708087469629,0.6909090909090909
+final_season,Sustained Starter,classification,solo_epa_per_play,1,epa_per_play,110,0.22287200609599966,,,,0.628948281846581,0.6818181818181818
+final_season,Sustained Starter,classification,solo_attempts,1,attempts,110,0.05361004193804841,,,,0.534363068379035,0.6090909090909091
+final_season,Sustained Starter,classification,solo_big_play_rate,1,big_play_rate,110,0.23261655620618135,,,,0.604998264491496,0.6909090909090909
+final_season,Sustained Starter,classification,solo_red_zone_epa,1,red_zone_epa,110,0.023202114899579365,,,,0.5168344324887192,0.6090909090909091
+final_season,Sustained Starter,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.023202114899579365,,,,0.5168344324887192,0.6090909090909091
+final_season,Sustained Starter,classification,solo_success_rate,1,success_rate,110,0.27905054186253664,,,,0.6692120791391879,0.6545454545454545
+final_season,Sustained Starter,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.22378475758865768,,,,0.6282540784449844,0.6818181818181818
+final_season,Sustained Starter,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.25254772151970134,,,,0.619576535925026,0.6909090909090909
+final_season,Sustained Starter,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.24656329608134472,,,,0.6254772648385978,0.6545454545454545
+final_season,Sustained Starter,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.24300341053984653,,,,0.6138493578618536,0.6727272727272727
+final_season,Sustained Starter,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.2572451653222759,,,,0.6306837903505728,0.6909090909090909
+final_season,Sustained Starter,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.3048341970941349,,,,0.6782367233599444,0.6818181818181818
+final_season,Sustained Starter,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.32109684256871285,,,,0.6907323845886845,0.6454545454545455
+career_average,Rookie LEAF,regression,solo_epa_per_play,1,epa_per_play,102,0.2096729834043177,0.04396275996966729,-0.18063848351394812,0.4638477946894591,,
+career_average,Rookie LEAF,regression,solo_attempts,1,attempts,102,0.09771172181042306,0.009547580579157507,-0.13559008184842225,0.47212271943953665,,
+career_average,Rookie LEAF,regression,solo_big_play_rate,1,big_play_rate,102,0.09347231921496181,0.008737074459423719,-0.17068386822952952,0.47231585345270327,,
+career_average,Rookie LEAF,regression,solo_red_zone_epa,1,red_zone_epa,102,0.05779034472737524,0.003339723943708867,-0.12836629661417204,0.4735999696248632,,
+career_average,Rookie LEAF,regression,solo_high_leverage_epa,1,high_leverage_epa,102,0.05779034472737524,0.003339723943708867,-0.12836629661417204,0.4735999696248632,,
+career_average,Rookie LEAF,regression,solo_success_rate,1,success_rate,102,0.1610935988596749,0.025951147593561846,-0.11521197302166904,0.4681968213775093,,
+career_average,Rookie LEAF,regression,pair_epa_volume,2,"epa_per_play, attempts",102,0.21822318168206403,0.047621357023443125,-0.21303152158027414,0.4629594093925313,,
+career_average,Rookie LEAF,regression,pair_epa_bigplay,2,"epa_per_play, big_play_rate",102,0.21242738296480343,0.04512539303327526,-0.19057975372192332,0.46356566716592457,,
+career_average,Rookie LEAF,regression,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",102,0.21171791658225222,0.04482447620192951,-0.21372919098550627,0.4636387048833343,,
+career_average,Rookie LEAF,regression,pair_volume_bigplay,2,"attempts, big_play_rate",102,0.13524554759134078,0.018291358143281623,-0.19235046355428106,0.4700341348381686,,
+career_average,Rookie LEAF,regression,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",102,0.21980756319299,0.04831536483684029,-0.23607076417117115,0.4627906970824254,,
+career_average,Rookie LEAF,regression,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",102,0.2121028778975117,0.044987630812406754,-0.3136618963509529,0.4635991058667495,,
+career_average,Rookie LEAF,regression,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",102,0.22071854180991815,0.04871667469869659,-0.37356791689107116,0.46269311115584116,,
+career_average,85+ Starts,classification,solo_epa_per_play,1,epa_per_play,81,0.03242320137018353,,,,0.5388007054673721,0.7777777777777778
+career_average,85+ Starts,classification,solo_attempts,1,attempts,81,0.012663205708565606,,,,0.5348324514991182,0.7777777777777778
+career_average,85+ Starts,classification,solo_big_play_rate,1,big_play_rate,81,0.15468834841178636,,,,0.5652557319223985,0.7777777777777778
+career_average,85+ Starts,classification,solo_red_zone_epa,1,red_zone_epa,81,0.07987694818266522,,,,0.5229276895943562,0.7777777777777778
+career_average,85+ Starts,classification,solo_high_leverage_epa,1,high_leverage_epa,81,0.07987694818266522,,,,0.5229276895943562,0.7777777777777778
+career_average,85+ Starts,classification,solo_success_rate,1,success_rate,81,0.21895214967003743,,,,0.6604938271604939,0.7654320987654321
+career_average,85+ Starts,classification,pair_epa_volume,2,"epa_per_play, attempts",81,0.03563086950048022,,,,0.570546737213404,0.7777777777777778
+career_average,85+ Starts,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",81,0.18179265889997254,,,,0.5811287477954146,0.7777777777777778
+career_average,85+ Starts,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",81,0.1182019563345368,,,,0.5423280423280423,0.7777777777777778
+career_average,85+ Starts,classification,pair_volume_bigplay,2,"attempts, big_play_rate",81,0.15632734427512934,,,,0.5687830687830687,0.7777777777777778
+career_average,85+ Starts,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",81,0.182052988122473,,,,0.5784832451499118,0.7777777777777778
+career_average,85+ Starts,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",81,0.37210231789492476,,,,0.7345679012345679,0.7901234567901234
+career_average,85+ Starts,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",81,0.40171052403444,,,,0.7495590828924162,0.7901234567901234
+career_average,Bust,classification,solo_epa_per_play,1,epa_per_play,110,0.16799022037752137,,,,0.600883152173913,0.5909090909090909
+career_average,Bust,classification,solo_attempts,1,attempts,110,0.07049272843861537,,,,0.563179347826087,0.5727272727272728
+career_average,Bust,classification,solo_big_play_rate,1,big_play_rate,110,0.11278332270414566,,,,0.5584239130434783,0.6090909090909091
+career_average,Bust,classification,solo_red_zone_epa,1,red_zone_epa,110,0.10288849481448104,,,,0.5669157608695653,0.5727272727272728
+career_average,Bust,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.10288849481448104,,,,0.5669157608695653,0.5727272727272728
+career_average,Bust,classification,solo_success_rate,1,success_rate,110,0.2596590363103831,,,,0.6396059782608695,0.6636363636363637
+career_average,Bust,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.1727961733761198,,,,0.615828804347826,0.6
+career_average,Bust,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.16960376646985423,,,,0.6049592391304349,0.6272727272727273
+career_average,Bust,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.17365368977450876,,,,0.6063179347826088,0.6090909090909091
+career_average,Bust,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.13074311428350674,,,,0.5757472826086957,0.5909090909090909
+career_average,Bust,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.17525646558790392,,,,0.6165081521739131,0.6090909090909091
+career_average,Bust,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.284489630501453,,,,0.6589673913043479,0.6454545454545455
+career_average,Bust,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.29435498348292427,,,,0.6627038043478262,0.6363636363636364
+career_average,Elite Peak,classification,solo_epa_per_play,1,epa_per_play,110,0.24939954552525484,,,,0.6310308920513712,0.6363636363636364
+career_average,Elite Peak,classification,solo_attempts,1,attempts,110,0.048298887935824854,,,,0.5503297466157585,0.6090909090909091
+career_average,Elite Peak,classification,solo_big_play_rate,1,big_play_rate,110,0.18503073289589117,,,,0.598750433877126,0.6545454545454545
+career_average,Elite Peak,classification,solo_red_zone_epa,1,red_zone_epa,110,0.12349348926138383,,,,0.5748004165220411,0.5909090909090909
+career_average,Elite Peak,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.12349348926138383,,,,0.5748004165220411,0.5909090909090909
+career_average,Elite Peak,classification,solo_success_rate,1,success_rate,110,0.3051726148088741,,,,0.6629642485248178,0.6727272727272727
+career_average,Elite Peak,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.24981963242078103,,,,0.6327664005553626,0.6272727272727273
+career_average,Elite Peak,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.25502521282619667,,,,0.6365845192641444,0.6363636363636364
+career_average,Elite Peak,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.2519549465872258,,,,0.6369316209649427,0.6272727272727273
+career_average,Elite Peak,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.1905739743567497,,,,0.6015272474835127,0.6545454545454545
+career_average,Elite Peak,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.2560419308972819,,,,0.6404026379729262,0.6454545454545455
+career_average,Elite Peak,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.31333810915470045,,,,0.6699062825407844,0.6545454545454545
+career_average,Elite Peak,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.3184584820281434,,,,0.6733772995487678,0.6545454545454545
+career_average,Sustained Starter,classification,solo_epa_per_play,1,epa_per_play,110,0.27555581917894867,,,,0.6605345366192295,0.6454545454545455
+career_average,Sustained Starter,classification,solo_attempts,1,attempts,110,0.09238038134718596,,,,0.5791391877820201,0.6
+career_average,Sustained Starter,classification,solo_big_play_rate,1,big_play_rate,110,0.2366243044559916,,,,0.6327664005553627,0.6727272727272727
+career_average,Sustained Starter,classification,solo_red_zone_epa,1,red_zone_epa,110,0.1354459026732408,,,,0.5876431794515794,0.5909090909090909
+career_average,Sustained Starter,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.1354459026732408,,,,0.5876431794515794,0.5909090909090909
+career_average,Sustained Starter,classification,solo_success_rate,1,success_rate,110,0.38768668257647915,,,,0.7171121138493579,0.6818181818181818
+career_average,Sustained Starter,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2805096764850313,,,,0.6688649774383895,0.6363636363636364
+career_average,Sustained Starter,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.29120785941994204,,,,0.6695591808399861,0.6363636363636364
+career_average,Sustained Starter,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.2790886253929211,,,,0.6619229434224227,0.6636363636363637
+career_average,Sustained Starter,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.2521158897848512,,,,0.6459562651856994,0.6909090909090909
+career_average,Sustained Starter,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.2994029479461096,,,,0.6730301978479695,0.6545454545454545
+career_average,Sustained Starter,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.4119617457296308,,,,0.7344671988892745,0.7
+career_average,Sustained Starter,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.42816045235938094,,,,0.7445331482124262,0.7272727272727273
+recency_weighted,Rookie LEAF,regression,solo_epa_per_play,1,epa_per_play,102,0.15852216308611242,0.025129276189500022,-0.13727894304520258,0.46839430451311004,,
+recency_weighted,Rookie LEAF,regression,solo_attempts,1,attempts,102,0.12914871951526155,0.0166793917524317,-0.11677310668473997,0.4704198747732339,,
+recency_weighted,Rookie LEAF,regression,solo_big_play_rate,1,big_play_rate,102,0.04085368657776884,0.0016690237069945698,-0.16174220883766624,0.4739967508992168,,
+recency_weighted,Rookie LEAF,regression,solo_red_zone_epa,1,red_zone_epa,102,0.05179939424653712,0.002683177244308183,-0.1301645859547118,0.4737559351596914,,
+recency_weighted,Rookie LEAF,regression,solo_high_leverage_epa,1,high_leverage_epa,102,0.05179939424653712,0.002683177244308183,-0.1301645859547118,0.4737559351596914,,
+recency_weighted,Rookie LEAF,regression,solo_success_rate,1,success_rate,102,0.17607947164194024,0.031003980333704835,-0.11299589453820309,0.4669808678751743,,
+recency_weighted,Rookie LEAF,regression,pair_epa_volume,2,"epa_per_play, attempts",102,0.18990169031770918,0.03606265198552312,-0.14369199120891457,0.46576032928578454,,
+recency_weighted,Rookie LEAF,regression,pair_epa_bigplay,2,"epa_per_play, big_play_rate",102,0.17355734814063437,0.03012215309360936,-0.1297273782237873,0.4671933056954089,,
+recency_weighted,Rookie LEAF,regression,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",102,0.16002756488988212,0.025608821524585434,-0.15957611748356676,0.46827908721938116,,
+recency_weighted,Rookie LEAF,regression,pair_volume_bigplay,2,"attempts, big_play_rate",102,0.13819921579776806,0.019099023247118065,-0.15831916084361147,0.4698407433032477,,
+recency_weighted,Rookie LEAF,regression,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",102,0.19632929085329134,0.03854519044695627,-0.15427610361718663,0.4651601796177498,,
+recency_weighted,Rookie LEAF,regression,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",102,0.17710421441336383,0.03136590276297475,-0.16972444435194,0.46689365047121456,,
+recency_weighted,Rookie LEAF,regression,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",102,0.2146642249408537,0.04608072946945743,-0.2154140469967806,0.4633337141987697,,
+recency_weighted,85+ Starts,classification,solo_epa_per_play,1,epa_per_play,81,0.06355432075087213,,,,0.5370370370370371,0.7777777777777778
+recency_weighted,85+ Starts,classification,solo_attempts,1,attempts,81,0.057001066125537,,,,0.5714285714285714,0.7777777777777778
+recency_weighted,85+ Starts,classification,solo_big_play_rate,1,big_play_rate,81,0.14045246488769206,,,,0.5458553791887125,0.7777777777777778
+recency_weighted,85+ Starts,classification,solo_red_zone_epa,1,red_zone_epa,81,0.07873070033657166,,,,0.49470899470899476,0.7777777777777778
+recency_weighted,85+ Starts,classification,solo_high_leverage_epa,1,high_leverage_epa,81,0.07873070033657166,,,,0.49470899470899476,0.7777777777777778
+recency_weighted,85+ Starts,classification,solo_success_rate,1,success_rate,81,0.2014306422879124,,,,0.6428571428571428,0.7654320987654321
+recency_weighted,85+ Starts,classification,pair_epa_volume,2,"epa_per_play, attempts",81,0.08672664012292126,,,,0.6014109347442681,0.7777777777777778
+recency_weighted,85+ Starts,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",81,0.1443869923664055,,,,0.544973544973545,0.7777777777777778
+recency_weighted,85+ Starts,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",81,0.14666822463870632,,,,0.5546737213403881,0.7777777777777778
+recency_weighted,85+ Starts,classification,pair_volume_bigplay,2,"attempts, big_play_rate",81,0.15546112430645098,,,,0.5943562610229278,0.7777777777777778
+recency_weighted,85+ Starts,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",81,0.1574474962700164,,,,0.5934744268077602,0.7777777777777778
+recency_weighted,85+ Starts,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",81,0.3402288773342641,,,,0.7010582010582012,0.7901234567901234
+recency_weighted,85+ Starts,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",81,0.3600748069427064,,,,0.7398589065255732,0.8024691358024691
+recency_weighted,Bust,classification,solo_epa_per_play,1,epa_per_play,110,0.16561057946949725,,,,0.5981657608695652,0.6090909090909091
+recency_weighted,Bust,classification,solo_attempts,1,attempts,110,0.0867161088213898,,,,0.5658967391304348,0.5727272727272728
+recency_weighted,Bust,classification,solo_big_play_rate,1,big_play_rate,110,0.09163746816910168,,,,0.53125,0.5909090909090909
+recency_weighted,Bust,classification,solo_red_zone_epa,1,red_zone_epa,110,0.06192932854070503,,,,0.5400815217391304,0.6
+recency_weighted,Bust,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.06192932854070503,,,,0.5400815217391304,0.6
+recency_weighted,Bust,classification,solo_success_rate,1,success_rate,110,0.25287027798334616,,,,0.6494565217391304,0.6272727272727273
+recency_weighted,Bust,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.1750968016455286,,,,0.6182065217391304,0.6545454545454545
+recency_weighted,Bust,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.16563888617118191,,,,0.5981657608695652,0.6090909090909091
+recency_weighted,Bust,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.1657269393210556,,,,0.594429347826087,0.6090909090909091
+recency_weighted,Bust,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.12753438871101455,,,,0.5594429347826088,0.6090909090909091
+recency_weighted,Bust,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.17508033418440802,,,,0.6178668478260869,0.6545454545454545
+recency_weighted,Bust,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.2701590809591751,,,,0.6494565217391305,0.6454545454545455
+recency_weighted,Bust,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.27981646477837235,,,,0.6627038043478262,0.6272727272727273
+recency_weighted,Elite Peak,classification,solo_epa_per_play,1,epa_per_play,110,0.2702686692979097,,,,0.6417910447761195,0.6636363636363637
+recency_weighted,Elite Peak,classification,solo_attempts,1,attempts,110,0.10047348546441165,,,,0.5772301284276293,0.6
+recency_weighted,Elite Peak,classification,solo_big_play_rate,1,big_play_rate,110,0.19671169194848817,,,,0.5907670947587643,0.6545454545454545
+recency_weighted,Elite Peak,classification,solo_red_zone_epa,1,red_zone_epa,110,0.11990828958006579,,,,0.5883373828531759,0.6
+recency_weighted,Elite Peak,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.11990828958006579,,,,0.5883373828531759,0.6
+recency_weighted,Elite Peak,classification,solo_success_rate,1,success_rate,110,0.3161341985427892,,,,0.6758070114543562,0.6545454545454545
+recency_weighted,Elite Peak,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.27977930842414095,,,,0.6563693162096493,0.6545454545454545
+recency_weighted,Elite Peak,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.2738078243266936,,,,0.6390142311697328,0.6727272727272727
+recency_weighted,Elite Peak,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.2708449572353987,,,,0.6428323498785145,0.6636363636363637
+recency_weighted,Elite Peak,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.22767659250650688,,,,0.6192294342242277,0.6727272727272727
+recency_weighted,Elite Peak,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.2864201709043453,,,,0.6598403332176328,0.6545454545454545
+recency_weighted,Elite Peak,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.31760176141070434,,,,0.6768483165567512,0.6636363636363637
+recency_weighted,Elite Peak,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.3295954790104617,,,,0.6806664352655328,0.6909090909090909
+recency_weighted,Sustained Starter,classification,solo_epa_per_play,1,epa_per_play,110,0.26497114684223544,,,,0.6508156889968761,0.6636363636363637
+recency_weighted,Sustained Starter,classification,solo_attempts,1,attempts,110,0.08006168676830622,,,,0.5652551197500868,0.6090909090909091
+recency_weighted,Sustained Starter,classification,solo_big_play_rate,1,big_play_rate,110,0.23680979106744893,,,,0.6098576883026726,0.6727272727272727
+recency_weighted,Sustained Starter,classification,solo_red_zone_epa,1,red_zone_epa,110,0.09210260606421929,,,,0.5629989586948976,0.6272727272727273
+recency_weighted,Sustained Starter,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.09210260606421929,,,,0.5629989586948976,0.6272727272727273
+recency_weighted,Sustained Starter,classification,solo_success_rate,1,success_rate,110,0.3738141953188198,,,,0.7191947240541479,0.6909090909090909
+recency_weighted,Sustained Starter,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.26873395929530514,,,,0.6539396043040612,0.6727272727272727
+recency_weighted,Sustained Starter,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.28262006157176184,,,,0.6494272821936827,0.6818181818181818
+recency_weighted,Sustained Starter,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.2643064020217199,,,,0.6452620617841027,0.6727272727272727
+recency_weighted,Sustained Starter,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.25673782802897194,,,,0.6126345019090593,0.6818181818181818
+recency_weighted,Sustained Starter,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.29198281582881136,,,,0.6553280111072545,0.6818181818181818
+recency_weighted,Sustained Starter,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.3940283508881631,,,,0.7254425546685179,0.6909090909090909
+recency_weighted,Sustained Starter,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.4080962615881524,,,,0.7282193682749045,0.7090909090909091
+cumulative,Rookie LEAF,regression,solo_epa_per_play,1,epa_per_play,102,0.15828994163271198,0.025055705622087365,-0.12843825096923742,0.46841197833579745,,
+cumulative,Rookie LEAF,regression,solo_attempts,1,attempts,102,0.13162383419315182,0.017324833727706324,-0.12609606454721453,0.4702654599406135,,
+cumulative,Rookie LEAF,regression,solo_big_play_rate,1,big_play_rate,102,0.05436735400586239,0.002955809181598761,-0.16389201650809898,0.4736911764873704,,
+cumulative,Rookie LEAF,regression,solo_red_zone_epa,1,red_zone_epa,102,0.06733881444128743,0.0045345159303581415,-0.1409554625511722,0.47331600970914806,,
+cumulative,Rookie LEAF,regression,solo_high_leverage_epa,1,high_leverage_epa,102,0.06733881444128743,0.0045345159303581415,-0.1409554625511722,0.47331600970914806,,
+cumulative,Rookie LEAF,regression,solo_success_rate,1,success_rate,102,0.19508435575560137,0.03805790586057804,-0.12704265267430948,0.4652780409416035,,
+cumulative,Rookie LEAF,regression,pair_epa_volume,2,"epa_per_play, attempts",102,0.22470645761547364,0.05049299209409465,-0.1861902865766659,0.46226091927643853,,
+cumulative,Rookie LEAF,regression,pair_epa_bigplay,2,"epa_per_play, big_play_rate",102,0.171194973444069,0.029307718932515492,-0.13459048937927842,0.46738942232180913,,
+cumulative,Rookie LEAF,regression,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",102,0.15950510572536505,0.025441878752459884,-0.1442753844744728,0.4683192007089583,,
+cumulative,Rookie LEAF,regression,pair_volume_bigplay,2,"attempts, big_play_rate",102,0.16539150004147588,0.027354348285969516,-0.1876723661238403,0.4678594610491516,,
+cumulative,Rookie LEAF,regression,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",102,0.22582841787314392,0.05099847431908731,-0.2100199923194322,0.462137857633431,,
+cumulative,Rookie LEAF,regression,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",102,0.19673232505383012,0.03870360772108587,-0.1931028891628683,0.46512185621314145,,
+cumulative,Rookie LEAF,regression,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",102,0.2923556356879729,0.08547181771851874,-0.4913957555541028,0.45366642388492023,,
+cumulative,85+ Starts,classification,solo_epa_per_play,1,epa_per_play,81,0.1022942629349569,,,,0.5582010582010583,0.7777777777777778
+cumulative,85+ Starts,classification,solo_attempts,1,attempts,81,0.00519489778324044,,,,0.5551146384479719,0.7777777777777778
+cumulative,85+ Starts,classification,solo_big_play_rate,1,big_play_rate,81,0.16992608188721792,,,,0.5537918871252204,0.7777777777777778
+cumulative,85+ Starts,classification,solo_red_zone_epa,1,red_zone_epa,81,0.07644373859703153,,,,0.5026455026455027,0.7777777777777778
+cumulative,85+ Starts,classification,solo_high_leverage_epa,1,high_leverage_epa,81,0.07644373859703153,,,,0.5026455026455027,0.7777777777777778
+cumulative,85+ Starts,classification,solo_success_rate,1,success_rate,81,0.19400345212118922,,,,0.609347442680776,0.7777777777777778
+cumulative,85+ Starts,classification,pair_epa_volume,2,"epa_per_play, attempts",81,0.10563146696194986,,,,0.5828924162257496,0.7777777777777778
+cumulative,85+ Starts,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",81,0.16892777173610007,,,,0.5520282186948853,0.7777777777777778
+cumulative,85+ Starts,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",81,0.20637941670536106,,,,0.5758377425044092,0.7777777777777778
+cumulative,85+ Starts,classification,pair_volume_bigplay,2,"attempts, big_play_rate",81,0.18891318757134992,,,,0.5943562610229277,0.7777777777777778
+cumulative,85+ Starts,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",81,0.18814564766354203,,,,0.5890652557319224,0.7777777777777778
+cumulative,85+ Starts,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",81,0.2854788390623748,,,,0.6243386243386244,0.8024691358024691
+cumulative,85+ Starts,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",81,0.3171939261846102,,,,0.6710758377425045,0.7901234567901234
+cumulative,Bust,classification,solo_epa_per_play,1,epa_per_play,110,0.18526941252040607,,,,0.6117527173913043,0.6363636363636364
+cumulative,Bust,classification,solo_attempts,1,attempts,110,0.05460091958565475,,,,0.5591032608695653,0.5818181818181818
+cumulative,Bust,classification,solo_big_play_rate,1,big_play_rate,110,0.1335950483964199,,,,0.545516304347826,0.6272727272727273
+cumulative,Bust,classification,solo_red_zone_epa,1,red_zone_epa,110,0.08467335791387927,,,,0.5777853260869565,0.5818181818181818
+cumulative,Bust,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.08467335791387927,,,,0.5777853260869565,0.5818181818181818
+cumulative,Bust,classification,solo_success_rate,1,success_rate,110,0.22652236252839258,,,,0.6345108695652173,0.6272727272727273
+cumulative,Bust,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2056247313374495,,,,0.6368885869565217,0.6636363636363637
+cumulative,Bust,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.18602645477147955,,,,0.6008831521739131,0.6363636363636364
+cumulative,Bust,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.18529772807102624,,,,0.6100543478260869,0.6272727272727273
+cumulative,Bust,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.17018360118675388,,,,0.6015625,0.6181818181818182
+cumulative,Bust,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.21187133329035568,,,,0.6304347826086957,0.6272727272727273
+cumulative,Bust,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.22774554733685506,,,,0.6368885869565217,0.6272727272727273
+cumulative,Bust,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.2739896203359476,,,,0.670516304347826,0.6909090909090909
+cumulative,Elite Peak,classification,solo_epa_per_play,1,epa_per_play,110,0.27459505162208514,,,,0.647691773689691,0.6545454545454545
+cumulative,Elite Peak,classification,solo_attempts,1,attempts,110,0.016059922214970778,,,,0.48542172856647,0.6090909090909091
+cumulative,Elite Peak,classification,solo_big_play_rate,1,big_play_rate,110,0.24072871787282646,,,,0.6053453661922944,0.6727272727272727
+cumulative,Elite Peak,classification,solo_red_zone_epa,1,red_zone_epa,110,0.09977154714073426,,,,0.5866018743491844,0.6
+cumulative,Elite Peak,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.09977154714073426,,,,0.5866018743491844,0.6
+cumulative,Elite Peak,classification,solo_success_rate,1,success_rate,110,0.2905200444084568,,,,0.6619229434224227,0.6545454545454545
+cumulative,Elite Peak,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2785828656533394,,,,0.6539396043040612,0.6545454545454545
+cumulative,Elite Peak,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.2832631239873961,,,,0.6417910447761196,0.6545454545454545
+cumulative,Elite Peak,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.27629720232920624,,,,0.6442207566817078,0.6636363636363637
+cumulative,Elite Peak,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.2537488336219396,,,,0.6233946546338077,0.6909090909090909
+cumulative,Elite Peak,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.294090190356545,,,,0.6515098923984728,0.6545454545454545
+cumulative,Elite Peak,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.29382915689778855,,,,0.6556751128080528,0.6363636363636364
+cumulative,Elite Peak,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.3179265896528998,,,,0.6709475876431795,0.6545454545454545
+cumulative,Sustained Starter,classification,solo_epa_per_play,1,epa_per_play,110,0.25614454120205027,,,,0.6431794515793128,0.6545454545454545
+cumulative,Sustained Starter,classification,solo_attempts,1,attempts,110,0.02212563198484458,,,,0.5489413398125651,0.6090909090909091
+cumulative,Sustained Starter,classification,solo_big_play_rate,1,big_play_rate,110,0.2578606266278341,,,,0.6167997223186393,0.6909090909090909
+cumulative,Sustained Starter,classification,solo_red_zone_epa,1,red_zone_epa,110,0.09268119697151372,,,,0.583130857341201,0.6
+cumulative,Sustained Starter,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.09268119697151372,,,,0.583130857341201,0.6
+cumulative,Sustained Starter,classification,solo_success_rate,1,success_rate,110,0.30631083029197026,,,,0.6782367233599444,0.6636363636363637
+cumulative,Sustained Starter,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2672896494313963,,,,0.6577577230128427,0.6545454545454545
+cumulative,Sustained Starter,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.2808224304401401,,,,0.6410968413745227,0.6636363636363637
+cumulative,Sustained Starter,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.25698885636906327,,,,0.6376258243665394,0.6545454545454545
+cumulative,Sustained Starter,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.28695980793736126,,,,0.6508156889968759,0.6818181818181818
+cumulative,Sustained Starter,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.3076958292017404,,,,0.6664352655328012,0.6454545454545455
+cumulative,Sustained Starter,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.3068075727958436,,,,0.6796251301631376,0.6545454545454545
+cumulative,Sustained Starter,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.3696170210474449,,,,0.7080874696286013,0.6909090909090909
+best_season,Rookie LEAF,regression,solo_epa_per_play,1,epa_per_play,102,0.39269267751158227,0.15420753897121556,-0.19588557328866027,0.4362847132915152,,
+best_season,Rookie LEAF,regression,solo_attempts,1,attempts,102,0.006119284433602119,3.74456419793252e-05,-0.16773939707938648,0.47438392058550927,,
+best_season,Rookie LEAF,regression,solo_big_play_rate,1,big_play_rate,102,0.06603677201229906,0.004360855257804364,-0.1968557544819987,0.47335729330630916,,
+best_season,Rookie LEAF,regression,solo_red_zone_epa,1,red_zone_epa,100,0.028037325849026833,0.0007860916407645082,-0.18730350694646203,0.4173761965901204,,
+best_season,Rookie LEAF,regression,solo_high_leverage_epa,1,high_leverage_epa,100,0.028037325849026833,0.0007860916407645082,-0.18730350694646203,0.4173761965901204,,
+best_season,Rookie LEAF,regression,solo_success_rate,1,success_rate,102,0.0496968415225487,0.0024697760573173205,-0.12775877493312207,0.47380661848767125,,
+best_season,Rookie LEAF,regression,pair_epa_volume,2,"epa_per_play, attempts",102,0.4001248696747976,0.16009991133227378,-0.35302281357036847,0.43476232737754406,,
+best_season,Rookie LEAF,regression,pair_epa_bigplay,2,"epa_per_play, big_play_rate",102,0.417262045343253,0.17410761448403492,-0.16887300507506975,0.43112163978046164,,
+best_season,Rookie LEAF,regression,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",100,0.1683310547617976,0.028335343997219303,-0.1521951866339201,0.41158225735512644,,
+best_season,Rookie LEAF,regression,pair_volume_bigplay,2,"attempts, big_play_rate",102,0.06626404225209762,0.004390923295587778,-0.24867920984900166,0.47335014562006433,,
+best_season,Rookie LEAF,regression,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",102,0.4274729794201288,0.18273314813432184,-0.3306925042178305,0.42886443616626513,,
+best_season,Rookie LEAF,regression,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",100,0.16849435087196557,0.028390346275765043,-0.17267146378844683,0.41157060812913304,,
+best_season,Rookie LEAF,regression,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",100,0.2643275670960437,0.0698690627269135,-0.34348061241947236,0.4026896679547379,,
+best_season,85+ Starts,classification,solo_epa_per_play,1,epa_per_play,81,0.016424775929881116,,,,0.5264550264550265,0.7777777777777778
+best_season,85+ Starts,classification,solo_attempts,1,attempts,81,0.04128830392148954,,,,0.5343915343915344,0.7777777777777778
+best_season,85+ Starts,classification,solo_big_play_rate,1,big_play_rate,81,0.005702009831949701,,,,0.49647266313932986,0.7777777777777778
+best_season,85+ Starts,classification,solo_red_zone_epa,1,red_zone_epa,80,0.1357754771525435,,,,0.5350140056022409,0.7875
+best_season,85+ Starts,classification,solo_high_leverage_epa,1,high_leverage_epa,80,0.1357754771525435,,,,0.5350140056022409,0.7875
+best_season,85+ Starts,classification,solo_success_rate,1,success_rate,81,0.15776080737868786,,,,0.6499118165784832,0.7654320987654321
+best_season,85+ Starts,classification,pair_epa_volume,2,"epa_per_play, attempts",81,0.04909796685488156,,,,0.5749559082892416,0.7777777777777778
+best_season,85+ Starts,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",81,0.016771037782858527,,,,0.5246913580246914,0.7777777777777778
+best_season,85+ Starts,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",80,0.1887417907496709,,,,0.607843137254902,0.7875
+best_season,85+ Starts,classification,pair_volume_bigplay,2,"attempts, big_play_rate",81,0.04507933283728898,,,,0.564373897707231,0.7777777777777778
+best_season,85+ Starts,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",81,0.04887469827759227,,,,0.570546737213404,0.7777777777777778
+best_season,85+ Starts,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",80,0.21696333032132625,,,,0.6601307189542485,0.775
+best_season,85+ Starts,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",80,0.23918259445914625,,,,0.673202614379085,0.775
+best_season,Bust,classification,solo_epa_per_play,1,epa_per_play,110,0.09647329835169648,,,,0.5886548913043479,0.6
+best_season,Bust,classification,solo_attempts,1,attempts,110,0.03602762491949538,,,,0.5054347826086956,0.5818181818181818
+best_season,Bust,classification,solo_big_play_rate,1,big_play_rate,110,0.0003806578885083457,,,,0.4977921195652174,0.5818181818181818
+best_season,Bust,classification,solo_red_zone_epa,1,red_zone_epa,108,0.061945052885893796,,,,0.5386243386243386,0.5833333333333334
+best_season,Bust,classification,solo_high_leverage_epa,1,high_leverage_epa,108,0.061945052885893796,,,,0.5386243386243386,0.5833333333333334
+best_season,Bust,classification,solo_success_rate,1,success_rate,110,0.21216734233419746,,,,0.6143002717391305,0.6181818181818182
+best_season,Bust,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.09854185820575913,,,,0.5923913043478262,0.5818181818181818
+best_season,Bust,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.10830375710687133,,,,0.5720108695652174,0.5909090909090909
+best_season,Bust,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",108,0.1884489298587438,,,,0.6045855379188712,0.6296296296296297
+best_season,Bust,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.036029162648263655,,,,0.5049252717391304,0.5818181818181818
+best_season,Bust,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.1092101339938969,,,,0.5754076086956521,0.5909090909090909
+best_season,Bust,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",108,0.20187569463390365,,,,0.6024691358024691,0.6296296296296297
+best_season,Bust,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",108,0.20185932864291203,,,,0.6070546737213404,0.6018518518518519
+best_season,Elite Peak,classification,solo_epa_per_play,1,epa_per_play,110,0.1943468063374716,,,,0.6428323498785145,0.6272727272727273
+best_season,Elite Peak,classification,solo_attempts,1,attempts,110,0.12073231761022907,,,,0.5511975008677543,0.6181818181818182
+best_season,Elite Peak,classification,solo_big_play_rate,1,big_play_rate,110,0.10961211784260944,,,,0.5668170774036793,0.6181818181818182
+best_season,Elite Peak,classification,solo_red_zone_epa,1,red_zone_epa,108,0.15910421589526244,,,,0.575036075036075,0.6296296296296297
+best_season,Elite Peak,classification,solo_high_leverage_epa,1,high_leverage_epa,108,0.15910421589526244,,,,0.575036075036075,0.6296296296296297
+best_season,Elite Peak,classification,solo_success_rate,1,success_rate,110,0.26189024231252844,,,,0.6416174939257203,0.6545454545454545
+best_season,Elite Peak,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2161603567817389,,,,0.6494272821936827,0.6454545454545455
+best_season,Elite Peak,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.19485404806189824,,,,0.6397084345713293,0.6272727272727273
+best_season,Elite Peak,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",108,0.30133402036741297,,,,0.6684704184704184,0.6759259259259259
+best_season,Elite Peak,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.15572991236282038,,,,0.5819160013884068,0.6363636363636364
+best_season,Elite Peak,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.21711208982922772,,,,0.6490801804928845,0.6363636363636364
+best_season,Elite Peak,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",108,0.30640239330000735,,,,0.6695526695526696,0.6759259259259259
+best_season,Elite Peak,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",108,0.3140353818083742,,,,0.6735209235209236,0.6759259259259259
+best_season,Sustained Starter,classification,solo_epa_per_play,1,epa_per_play,110,0.160782072350663,,,,0.6233946546338077,0.6272727272727273
+best_season,Sustained Starter,classification,solo_attempts,1,attempts,110,0.004896117085587816,,,,0.5045123221103782,0.6090909090909091
+best_season,Sustained Starter,classification,solo_big_play_rate,1,big_play_rate,110,0.14252223388129914,,,,0.5713293995140576,0.6454545454545455
+best_season,Sustained Starter,classification,solo_red_zone_epa,1,red_zone_epa,108,0.06573274350189492,,,,0.5324675324675325,0.6111111111111112
+best_season,Sustained Starter,classification,solo_high_leverage_epa,1,high_leverage_epa,108,0.06573274350189492,,,,0.5324675324675325,0.6111111111111112
+best_season,Sustained Starter,classification,solo_success_rate,1,success_rate,110,0.26205399476363034,,,,0.6494272821936827,0.6363636363636364
+best_season,Sustained Starter,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.163870608127916,,,,0.6216591461298161,0.6363636363636364
+best_season,Sustained Starter,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.17285151895676243,,,,0.6095105866018744,0.6454545454545455
+best_season,Sustained Starter,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",108,0.2633071867219211,,,,0.632034632034632,0.6851851851851852
+best_season,Sustained Starter,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.14361394827566235,,,,0.5739326622700452,0.6454545454545455
+best_season,Sustained Starter,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.1749031317611254,,,,0.6098576883026727,0.6363636363636364
+best_season,Sustained Starter,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",108,0.2676375902297143,,,,0.6352813852813852,0.6574074074074074
+best_season,Sustained Starter,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",108,0.2947327082226211,,,,0.6414141414141414,0.7037037037037037
+volume_weighted,Rookie LEAF,regression,solo_epa_per_play,1,epa_per_play,102,0.15829415418103954,0.025057039247890718,-0.12844067877475224,0.46841165796543477,,
+volume_weighted,Rookie LEAF,regression,solo_attempts,1,attempts,102,0.1508983556250818,0.022770313730353656,-0.11418636407075633,0.4689606652341957,,
+volume_weighted,Rookie LEAF,regression,solo_big_play_rate,1,big_play_rate,102,0.05436735400586263,0.0029558091815987874,-0.1638920165080991,0.47369117648737036,,
+volume_weighted,Rookie LEAF,regression,solo_red_zone_epa,1,red_zone_epa,102,0.08053772803328502,0.006486325636763384,-0.13448689219787963,0.4728517665605027,,
+volume_weighted,Rookie LEAF,regression,solo_high_leverage_epa,1,high_leverage_epa,102,0.08053772803328502,0.006486325636763384,-0.13448689219787963,0.4728517665605027,,
+volume_weighted,Rookie LEAF,regression,solo_success_rate,1,success_rate,102,0.1950898152786246,0.038060036025447865,-0.1270484121780923,0.465277525775726,,
+volume_weighted,Rookie LEAF,regression,pair_epa_volume,2,"epa_per_play, attempts",102,0.20719810131289204,0.042931053187667476,-0.13338012514378222,0.4640980076817713,,
+volume_weighted,Rookie LEAF,regression,pair_epa_bigplay,2,"epa_per_play, big_play_rate",102,0.1712007359300281,0.029309691982983214,-0.13459304873493952,0.4673889473085609,,
+volume_weighted,Rookie LEAF,regression,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",102,0.15829560581816607,0.025057498821340212,-0.14087053637472846,0.4684115475643162,,
+volume_weighted,Rookie LEAF,regression,pair_volume_bigplay,2,"attempts, big_play_rate",102,0.16350233502073744,0.026733013557233464,-0.14448725438286664,0.46800887359246324,,
+volume_weighted,Rookie LEAF,regression,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",102,0.21151956954165457,0.04474052829908685,-0.15179753783101774,0.46365907843816373,,
+volume_weighted,Rookie LEAF,regression,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",102,0.19958736513279618,0.039835116320652106,-0.19234583524718002,0.46484803622128945,,
+volume_weighted,Rookie LEAF,regression,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",102,0.2598313196499771,0.06751231467104857,-0.3701290684617041,0.4580993166796801,,
+volume_weighted,85+ Starts,classification,solo_epa_per_play,1,epa_per_play,81,0.1022877683398432,,,,0.5582010582010583,0.7777777777777778
+volume_weighted,85+ Starts,classification,solo_attempts,1,attempts,81,0.04128486102223786,,,,0.5767195767195767,0.7777777777777778
+volume_weighted,85+ Starts,classification,solo_big_play_rate,1,big_play_rate,81,0.16992608188721786,,,,0.5537918871252204,0.7777777777777778
+volume_weighted,85+ Starts,classification,solo_red_zone_epa,1,red_zone_epa,81,0.058271286153543184,,,,0.49118165784832457,0.7777777777777778
+volume_weighted,85+ Starts,classification,solo_high_leverage_epa,1,high_leverage_epa,81,0.058271286153543184,,,,0.49118165784832457,0.7777777777777778
+volume_weighted,85+ Starts,classification,solo_success_rate,1,success_rate,81,0.1939894174646642,,,,0.609347442680776,0.7777777777777778
+volume_weighted,85+ Starts,classification,pair_epa_volume,2,"epa_per_play, attempts",81,0.11284600763798372,,,,0.6049382716049383,0.7777777777777778
+volume_weighted,85+ Starts,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",81,0.16892790680039133,,,,0.5520282186948853,0.7777777777777778
+volume_weighted,85+ Starts,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",81,0.1809052272087572,,,,0.5670194003527337,0.7777777777777778
+volume_weighted,85+ Starts,classification,pair_volume_bigplay,2,"attempts, big_play_rate",81,0.1842991567660729,,,,0.6102292768959436,0.7777777777777778
+volume_weighted,85+ Starts,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",81,0.1836340575084613,,,,0.6137566137566137,0.7777777777777778
+volume_weighted,85+ Starts,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",81,0.2750947900703712,,,,0.6313932980599648,0.7901234567901234
+volume_weighted,85+ Starts,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",81,0.29159359204836166,,,,0.6746031746031746,0.7901234567901234
+volume_weighted,Bust,classification,solo_epa_per_play,1,epa_per_play,110,0.18526215063089285,,,,0.6117527173913043,0.6363636363636364
+volume_weighted,Bust,classification,solo_attempts,1,attempts,110,0.11626889267839222,,,,0.5974864130434782,0.5818181818181818
+volume_weighted,Bust,classification,solo_big_play_rate,1,big_play_rate,110,0.13359504839642,,,,0.545516304347826,0.6272727272727273
+volume_weighted,Bust,classification,solo_red_zone_epa,1,red_zone_epa,110,0.09964878399247099,,,,0.5913722826086957,0.5727272727272728
+volume_weighted,Bust,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.09964878399247099,,,,0.5913722826086957,0.5727272727272728
+volume_weighted,Bust,classification,solo_success_rate,1,success_rate,110,0.2265068451592708,,,,0.6345108695652173,0.6272727272727273
+volume_weighted,Bust,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2085021170308984,,,,0.6474184782608695,0.6181818181818182
+volume_weighted,Bust,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.18601969910765973,,,,0.6008831521739131,0.6363636363636364
+volume_weighted,Bust,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.18583939267989275,,,,0.6114130434782609,0.6363636363636364
+volume_weighted,Bust,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.18291424898690714,,,,0.6073369565217391,0.6272727272727273
+volume_weighted,Bust,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.21254298346602346,,,,0.6467391304347826,0.6090909090909091
+volume_weighted,Bust,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.23104116869793967,,,,0.6402853260869565,0.6272727272727273
+volume_weighted,Bust,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.26432364080512427,,,,0.6694972826086958,0.6545454545454545
+volume_weighted,Elite Peak,classification,solo_epa_per_play,1,epa_per_play,110,0.27458806114872225,,,,0.647691773689691,0.6545454545454545
+volume_weighted,Elite Peak,classification,solo_attempts,1,attempts,110,0.12506168501308734,,,,0.6063866712946894,0.6
+volume_weighted,Elite Peak,classification,solo_big_play_rate,1,big_play_rate,110,0.24072871787282654,,,,0.6053453661922944,0.6727272727272727
+volume_weighted,Elite Peak,classification,solo_red_zone_epa,1,red_zone_epa,110,0.09975572490742421,,,,0.590419993057966,0.6
+volume_weighted,Elite Peak,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.09975572490742421,,,,0.590419993057966,0.6
+volume_weighted,Elite Peak,classification,solo_success_rate,1,success_rate,110,0.29050452370543667,,,,0.6619229434224227,0.6545454545454545
+volume_weighted,Elite Peak,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2947482114125076,,,,0.6796251301631377,0.6818181818181818
+volume_weighted,Elite Peak,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.2832576922915578,,,,0.6417910447761196,0.6545454545454545
+volume_weighted,Elite Peak,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.27549208485605015,,,,0.6469975702880945,0.6636363636363637
+volume_weighted,Elite Peak,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.28356375710351733,,,,0.6497743838944812,0.6818181818181818
+volume_weighted,Elite Peak,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.3110631717274161,,,,0.6765012148559527,0.6636363636363637
+volume_weighted,Elite Peak,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.29315666090231957,,,,0.6563693162096494,0.6363636363636364
+volume_weighted,Elite Peak,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.32713584442374727,,,,0.681013536966331,0.6818181818181818
+volume_weighted,Sustained Starter,classification,solo_epa_per_play,1,epa_per_play,110,0.2561374572209973,,,,0.6431794515793128,0.6545454545454545
+volume_weighted,Sustained Starter,classification,solo_attempts,1,attempts,110,0.06410933844175895,,,,0.5595279416869143,0.6090909090909091
+volume_weighted,Sustained Starter,classification,solo_big_play_rate,1,big_play_rate,110,0.2578606266278343,,,,0.6167997223186393,0.6909090909090909
+volume_weighted,Sustained Starter,classification,solo_red_zone_epa,1,red_zone_epa,110,0.10143094721880384,,,,0.589378687955571,0.6
+volume_weighted,Sustained Starter,classification,solo_high_leverage_epa,1,high_leverage_epa,110,0.10143094721880384,,,,0.589378687955571,0.6
+volume_weighted,Sustained Starter,classification,solo_success_rate,1,success_rate,110,0.3062950255341692,,,,0.6782367233599444,0.6636363636363637
+volume_weighted,Sustained Starter,classification,pair_epa_volume,2,"epa_per_play, attempts",110,0.2588569636428953,,,,0.6459562651856994,0.6545454545454545
+volume_weighted,Sustained Starter,classification,pair_epa_bigplay,2,"epa_per_play, big_play_rate",110,0.28081823496657965,,,,0.6407497396737244,0.6636363636363637
+volume_weighted,Sustained Starter,classification,pair_epa_leverage,2,"epa_per_play, high_leverage_epa",110,0.25576575441653066,,,,0.6407497396737244,0.6545454545454545
+volume_weighted,Sustained Starter,classification,pair_volume_bigplay,2,"attempts, big_play_rate",110,0.2743651228044976,,,,0.6331135022561611,0.6727272727272727
+volume_weighted,Sustained Starter,classification,triple_epa_vol_bp,3,"epa_per_play, attempts, big_play_rate",110,0.2902954841800767,,,,0.6549809094064561,0.6818181818181818
+volume_weighted,Sustained Starter,classification,triple_epa_lev_sr,3,"epa_per_play, high_leverage_epa, success_rate",110,0.30748047572333836,,,,0.6799722318639361,0.6545454545454545
+volume_weighted,Sustained Starter,classification,five_no_situational,5,"epa_per_play, attempts, big_play_rate, high_leverage_epa, success_rate",110,0.3390403097374043,,,,0.6837903505727179,0.7

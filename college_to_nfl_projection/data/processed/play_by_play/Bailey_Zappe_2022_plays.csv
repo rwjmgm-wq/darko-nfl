@@ -1,0 +1,606 @@
+play_id,play_type,down,distance,yards_to_goal,yard_line,ppa,scoring,home,away,offense_score,defense_score,period,clock_minutes,clock_seconds,week,opponent,season,team,player_name,draft_year
+401282156.0,Interception Return,,,47.0,47,-0.5279858708381653,False,UTSA,Western Kentucky,41.0,49.0,4,0,7,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,78.0,78,-0.40344172716140747,False,UTSA,Western Kentucky,41.0,49.0,4,1,5,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,78.0,78,0.06763800978660583,False,UTSA,Western Kentucky,41.0,49.0,4,1,5,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Sack,,,71.0,71,-1.078311800956726,False,UTSA,Western Kentucky,41.0,49.0,4,1,5,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,76.0,76,1.939033031463623,False,UTSA,Western Kentucky,41.0,49.0,4,1,5,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,57.0,57,0.6285083889961243,False,UTSA,Western Kentucky,41.0,49.0,4,1,5,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Passing Touchdown,,,34.0,34,4.201573371887207,True,UTSA,Western Kentucky,41.0,49.0,4,3,58,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,50.0,50,1.2216928005218506,False,UTSA,Western Kentucky,34.0,49.0,4,4,24,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,34.0,34,-0.5050854682922363,False,UTSA,Western Kentucky,34.0,49.0,4,4,24,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Sack,,,72.0,72,-1.516764760017395,False,UTSA,Western Kentucky,34.0,49.0,4,6,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,77.0,77,-0.41909050941467285,False,UTSA,Western Kentucky,34.0,49.0,4,6,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,68.0,0,2.9627645015716553,False,UTSA,Western Kentucky,34.0,49.0,4,6,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,60.0,60,1.2984479665756226,False,UTSA,Western Kentucky,34.0,49.0,4,6,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,71.0,71,-0.835968017578125,False,UTSA,Western Kentucky,26.0,42.0,4,12,11,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,71.0,71,5.003342151641846,False,UTSA,Western Kentucky,26.0,42.0,4,12,11,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,21.0,21,0.6034822463989258,False,UTSA,Western Kentucky,26.0,42.0,4,12,11,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,14.0,14,1.5107102394104004,False,UTSA,Western Kentucky,26.0,42.0,4,12,11,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Passing Touchdown,,,13.0,13,1.7685070037841797,True,UTSA,Western Kentucky,26.0,42.0,3,3,1,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,59.0,59,0.8455032110214233,False,UTSA,Western Kentucky,20.0,42.0,3,5,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,50.0,50,-0.3779938519001007,False,UTSA,Western Kentucky,20.0,42.0,3,5,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,33.0,33,-0.20738768577575684,False,UTSA,Western Kentucky,20.0,42.0,3,5,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,29.0,29,-1.095850944519043,False,UTSA,Western Kentucky,20.0,42.0,3,5,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,29.0,29,2.9534912109375,False,UTSA,Western Kentucky,20.0,42.0,3,5,18,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Passing Touchdown,,,12.0,12,5.243002414703369,True,UTSA,Western Kentucky,20.0,42.0,3,8,17,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,12.0,12,-1.7626723051071167,False,UTSA,Western Kentucky,13.0,42.0,3,8,35,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,66.0,66,-1.4313362836837769,False,UTSA,Western Kentucky,13.0,42.0,3,10,16,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,51.0,51,3.9416632652282715,False,UTSA,Western Kentucky,13.0,42.0,3,10,16,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,16.0,16,-0.19555187225341797,False,UTSA,Western Kentucky,13.0,42.0,3,10,16,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Interception Return,,,80.0,80,-3.576749324798584,False,UTSA,Western Kentucky,13.0,35.0,3,11,13,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,53.0,53,0.980034351348877,False,UTSA,Western Kentucky,13.0,28.0,2,0,46,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,39.0,39,-0.21407759189605713,False,UTSA,Western Kentucky,13.0,28.0,2,0,46,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,35.0,35,-1.0381429195404053,False,UTSA,Western Kentucky,13.0,28.0,2,0,46,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,87.0,87,0.26152050495147705,False,UTSA,Western Kentucky,13.0,28.0,2,1,10,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,71.0,71,0.5806204676628113,False,UTSA,Western Kentucky,13.0,28.0,2,1,10,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,75.0,75,-0.15276861190795898,False,UTSA,Western Kentucky,13.0,28.0,2,9,10,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,65.0,65,-0.35006797313690186,False,UTSA,Western Kentucky,13.0,28.0,2,9,10,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,75.0,75,2.763312339782715,False,UTSA,Western Kentucky,13.0,21.0,2,11,50,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,42.0,42,-0.6545056104660034,False,UTSA,Western Kentucky,13.0,21.0,2,11,50,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Sack,,,42.0,42,-1.4455907344818115,False,UTSA,Western Kentucky,13.0,21.0,2,11,50,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,50.0,50,-0.12625956535339355,False,UTSA,Western Kentucky,13.0,21.0,2,11,50,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,75.0,75,1.1836574077606201,False,UTSA,Western Kentucky,10.0,14.0,1,4,59,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,56.0,56,0.731926679611206,False,UTSA,Western Kentucky,10.0,14.0,1,4,59,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,43.0,43,-0.9870389699935913,False,UTSA,Western Kentucky,10.0,14.0,1,4,59,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,48.0,48,3.4545459747314453,False,UTSA,Western Kentucky,10.0,14.0,1,4,59,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,27.0,27,-0.0001163482666015625,False,UTSA,Western Kentucky,10.0,14.0,1,4,59,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,20.0,20,1.9181084632873535,False,UTSA,Western Kentucky,10.0,14.0,1,4,59,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,64.0,64,3.476663112640381,False,UTSA,Western Kentucky,7.0,7.0,1,11,49,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,19.0,19,-0.6098804473876953,False,UTSA,Western Kentucky,7.0,7.0,1,11,49,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,19.0,19,-0.2450270652770996,False,UTSA,Western Kentucky,7.0,7.0,1,11,49,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,15.0,15,-1.272310495376587,False,UTSA,Western Kentucky,7.0,7.0,1,11,49,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Passing Touchdown,,,60.0,60,4.608175277709961,True,UTSA,Western Kentucky,7.0,0.0,1,14,4,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,78.0,78,-0.6929668188095093,False,UTSA,Western Kentucky,0.0,0.0,1,15,0,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Incompletion,,,78.0,78,-1.0436536073684692,False,UTSA,Western Kentucky,0.0,0.0,1,15,0,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282156.0,Pass Reception,,,78.0,78,1.058023452758789,False,UTSA,Western Kentucky,0.0,0.0,1,15,0,14,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,54.0,46,5.493592262268066,True,Western Kentucky,UT Martin,59.0,21.0,4,5,36,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,3.0,97,0.8294978141784668,True,Western Kentucky,UT Martin,52.0,14.0,4,14,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,38.0,62,1.7039227485656738,False,Western Kentucky,UT Martin,45.0,14.0,3,1,18,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,77.0,23,1.0380377769470215,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,63.0,37,0.3082404136657715,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,51.0,49,1.1106629371643066,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,36.0,64,-0.5737013816833496,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,30.0,70,1.4879536628723145,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Incompletion,,,10.0,90,-0.5504517555236816,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Incompletion,,,12.0,88,-1.0199170112609863,False,Western Kentucky,UT Martin,42.0,14.0,3,8,8,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,45.0,55,2.869574546813965,True,Western Kentucky,UT Martin,42.0,14.0,3,11,10,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,7.0,93,1.093759536743164,True,Western Kentucky,UT Martin,35.0,14.0,3,12,51,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,28.0,72,-3.509256362915039,False,Western Kentucky,UT Martin,28.0,14.0,3,15,0,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,8.0,92,2.322472095489502,True,Western Kentucky,UT Martin,28.0,7.0,2,1,43,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,73.0,27,3.0458717346191406,False,Western Kentucky,UT Martin,21.0,7.0,2,5,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,20.0,80,-0.03974151611328125,False,Western Kentucky,UT Martin,21.0,7.0,2,5,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Incompletion,,,8.0,92,-0.6758894920349121,False,Western Kentucky,UT Martin,21.0,7.0,2,5,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,89.0,11,-0.565692663192749,False,Western Kentucky,UT Martin,21.0,7.0,2,6,41,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,85.0,15,0.779678463935852,False,Western Kentucky,UT Martin,21.0,7.0,2,6,41,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,78.0,22,-0.5552473068237305,False,Western Kentucky,UT Martin,21.0,7.0,2,6,41,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Incompletion,,,78.0,22,-0.9556868076324463,False,Western Kentucky,UT Martin,21.0,7.0,2,6,41,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,22.0,78,2.4322257041931152,True,Western Kentucky,UT Martin,21.0,7.0,2,9,31,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,57.0,43,0.9058740139007568,False,Western Kentucky,UT Martin,14.0,7.0,2,12,11,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,42.0,58,1.4365935325622559,False,Western Kentucky,UT Martin,14.0,7.0,2,12,11,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,10.0,90,2.951803684234619,True,Western Kentucky,UT Martin,14.0,7.0,2,14,56,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,51.0,49,1.1760644912719727,False,Western Kentucky,UT Martin,7.0,7.0,1,2,32,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,41.0,59,3.0496816635131836,False,Western Kentucky,UT Martin,7.0,7.0,1,2,32,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,1.0,99,-1.1143569946289062,False,Western Kentucky,UT Martin,7.0,7.0,1,2,32,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,5.0,95,-1.6061780452728271,False,Western Kentucky,UT Martin,7.0,7.0,1,2,32,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Passing Touchdown,,,73.0,27,6.450955390930176,True,Western Kentucky,UT Martin,7.0,7.0,1,4,9,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,61.0,39,1.136760950088501,False,Western Kentucky,UT Martin,0.0,7.0,1,9,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,53.0,47,0.3786492347717285,False,Western Kentucky,UT Martin,0.0,7.0,1,9,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Incompletion,,,47.0,53,-0.9251712560653687,False,Western Kentucky,UT Martin,0.0,7.0,1,9,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Incompletion,,,47.0,53,-1.9357542991638184,False,Western Kentucky,UT Martin,0.0,7.0,1,9,17,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Pass Reception,,,74.0,26,1.1953612565994263,False,Western Kentucky,UT Martin,0.0,7.0,1,10,58,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282180.0,Interception Return,,,58.0,42,-3.699155330657959,False,Western Kentucky,UT Martin,0.0,7.0,1,10,58,1,UT Martin,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,75.0,75,0.40949416160583496,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,64.0,64,0.6083770990371704,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,49.0,49,-0.0262906551361084,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,44.0,44,1.2706021070480347,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,22.0,22,0.9283461570739746,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,10.0,10,-0.4826972484588623,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,5.0,5,0.19036245346069336,False,Army,Western Kentucky,28.0,38.0,4,1,52,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Passing Touchdown,,,14.0,14,3.120274782180786,True,Army,Western Kentucky,28.0,35.0,4,4,58,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Sack,,,63.0,63,-1.6218537092208862,False,Army,Western Kentucky,21.0,35.0,4,6,21,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,67.0,67,3.6199169158935547,False,Army,Western Kentucky,21.0,35.0,4,6,21,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,45.0,45,2.213756561279297,False,Army,Western Kentucky,21.0,35.0,4,6,21,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Sack,,,10.0,10,-1.3392524719238281,False,Army,Western Kentucky,21.0,35.0,4,6,21,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Passing Touchdown,,,21.0,21,2.879063606262207,True,Army,Western Kentucky,21.0,35.0,4,8,5,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,75.0,75,0.6666161417961121,False,Army,Western Kentucky,14.0,35.0,4,10,31,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,67.0,67,-0.7354446649551392,False,Army,Western Kentucky,14.0,35.0,4,10,31,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,50.0,50,0.07306563854217529,False,Army,Western Kentucky,14.0,35.0,4,10,31,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,41.0,41,-0.6622937917709351,False,Army,Western Kentucky,14.0,35.0,4,10,31,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,65.0,65,0.24237877130508423,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,56.0,56,1.225116491317749,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,46.0,46,0.987480640411377,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,37.0,37,-0.7162342071533203,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,36.0,36,0.8568704128265381,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,29.0,29,-1.6106698513031006,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,29.0,29,-3.8374762535095215,False,Army,Western Kentucky,14.0,28.0,3,8,57,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,75.0,75,0.9202930927276611,False,Army,Western Kentucky,7.0,21.0,2,2,7,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Sack,,,51.0,51,-0.9501391649246216,False,Army,Western Kentucky,7.0,21.0,2,2,7,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,58.0,58,-0.41142046451568604,False,Army,Western Kentucky,7.0,21.0,2,2,7,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,58.0,58,2.6367526054382324,False,Army,Western Kentucky,7.0,21.0,2,2,7,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,30.0,30,1.565307855606079,False,Army,Western Kentucky,7.0,21.0,2,2,7,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Passing Touchdown,,,72.0,72,7.858096122741699,True,Army,Western Kentucky,7.0,14.0,2,10,40,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,72.0,72,-0.909795880317688,False,Army,Western Kentucky,0.0,14.0,2,11,30,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,73.0,73,-1.2111384868621826,False,Army,Western Kentucky,0.0,7.0,2,13,43,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,75.0,75,-0.8393747806549072,False,Army,Western Kentucky,0.0,7.0,2,14,51,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,90.0,90,0.7161400318145752,False,Army,Western Kentucky,0.0,0.0,1,8,2,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,80.0,80,1.9339178800582886,False,Army,Western Kentucky,0.0,0.0,1,8,2,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,52.0,52,0.9174954891204834,False,Army,Western Kentucky,0.0,0.0,1,8,2,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,42.0,42,-0.9946508407592773,False,Army,Western Kentucky,0.0,0.0,1,8,2,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Incompletion,,,38.0,38,-2.134608030319214,False,Army,Western Kentucky,0.0,0.0,1,8,2,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,76.0,76,2.1320178508758545,False,Army,Western Kentucky,0.0,0.0,1,15,0,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,64.0,64,0.8805145025253296,False,Army,Western Kentucky,0.0,0.0,1,15,0,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Pass Reception,,,45.0,45,0.8102083206176758,False,Army,Western Kentucky,0.0,0.0,1,15,0,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282193.0,Interception Return,,,36.0,36,-2.9663093090057373,False,Army,Western Kentucky,0.0,0.0,1,15,0,2,Army,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Passing Touchdown,,,19.0,81,3.8862781524658203,True,Western Kentucky,Indiana,31.0,33.0,4,2,43,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,75.0,25,-0.5127949714660645,False,Western Kentucky,Indiana,24.0,33.0,4,4,27,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,75.0,25,-0.5169768333435059,False,Western Kentucky,Indiana,24.0,33.0,4,4,27,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,72.0,28,-1.0590288639068604,False,Western Kentucky,Indiana,24.0,33.0,4,4,27,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,72.0,28,4.691830635070801,False,Western Kentucky,Indiana,24.0,33.0,4,4,27,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,34.0,66,0.7783963680267334,False,Western Kentucky,Indiana,24.0,33.0,4,4,27,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,22.0,78,-0.49384284019470215,False,Western Kentucky,Indiana,24.0,33.0,4,4,27,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,62.0,38,0.9432410001754761,False,Western Kentucky,Indiana,24.0,26.0,4,11,42,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,94.0,6,0.22080689668655396,False,Western Kentucky,Indiana,24.0,26.0,4,14,6,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,88.0,12,0.5708798766136169,False,Western Kentucky,Indiana,24.0,26.0,4,14,6,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,84.0,16,0.6451846361160278,False,Western Kentucky,Indiana,24.0,26.0,4,14,6,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,62.0,38,-0.8532471656799316,False,Western Kentucky,Indiana,24.0,26.0,4,14,6,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,79.0,21,-0.9770999550819397,False,Western Kentucky,Indiana,24.0,26.0,3,2,20,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,84.0,16,-0.8520207405090332,False,Western Kentucky,Indiana,24.0,26.0,3,2,20,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,16.0,84,-0.37810277938842773,False,Western Kentucky,Indiana,21.0,26.0,3,7,17,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,75.0,25,-0.5719109177589417,False,Western Kentucky,Indiana,21.0,26.0,3,9,10,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,75.0,25,-0.20111125707626343,False,Western Kentucky,Indiana,21.0,26.0,3,9,10,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,70.0,30,2.034363269805908,False,Western Kentucky,Indiana,21.0,26.0,3,9,10,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,59.0,41,-0.5838978290557861,False,Western Kentucky,Indiana,21.0,26.0,3,9,10,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,32.0,68,0.9892735481262207,False,Western Kentucky,Indiana,21.0,26.0,3,9,10,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Passing Touchdown,,,13.0,87,2.0423688888549805,True,Western Kentucky,Indiana,21.0,23.0,3,13,13,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,71.0,29,3.2146737575531006,False,Western Kentucky,Indiana,14.0,23.0,3,14,53,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,32.0,68,0.4718160629272461,False,Western Kentucky,Indiana,14.0,23.0,3,14,53,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,24.0,76,-3.522925615310669,False,Western Kentucky,Indiana,14.0,23.0,3,14,53,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Passing Touchdown,,,25.0,75,4.717886924743652,True,Western Kentucky,Indiana,14.0,20.0,2,0,55,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,72.0,28,-0.33086079359054565,False,Western Kentucky,Indiana,7.0,20.0,2,2,37,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,60.0,40,1.1926759481430054,False,Western Kentucky,Indiana,7.0,20.0,2,2,37,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,36.0,64,0.6795580387115479,False,Western Kentucky,Indiana,7.0,20.0,2,2,37,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Sack,,,16.0,84,-2.1813395023345947,False,Western Kentucky,Indiana,7.0,20.0,2,2,37,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,65.0,35,2.02536678314209,False,Western Kentucky,Indiana,7.0,17.0,2,9,49,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,37.0,63,0.45824170112609863,False,Western Kentucky,Indiana,7.0,17.0,2,9,49,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,32.0,68,0.7191240787506104,False,Western Kentucky,Indiana,7.0,17.0,2,9,49,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,77.0,23,0.5304152965545654,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,57.0,43,-0.1427266001701355,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,53.0,47,1.0286273956298828,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,47.0,53,-0.1370563507080078,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,43.0,57,1.2077317237854004,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,34.0,66,-0.43070292472839355,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Reception,,,13.0,87,0.3989377021789551,False,Western Kentucky,Indiana,0.0,14.0,1,4,56,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,75.0,25,-0.5536106824874878,False,Western Kentucky,Indiana,0.0,7.0,1,10,15,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,75.0,25,-0.9415963888168335,False,Western Kentucky,Indiana,0.0,7.0,1,10,15,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282214.0,Pass Incompletion,,,80.0,20,-0.9114477634429932,False,Western Kentucky,Indiana,0.0,7.0,1,10,15,4,Indiana,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Incompletion,,,92.0,92,-0.19914352893829346,False,Michigan State,Western Kentucky,31.0,48.0,4,1,25,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Incompletion,,,40.0,40,-1.833603024482727,False,Michigan State,Western Kentucky,31.0,48.0,4,3,8,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,75.0,75,0.24877974390983582,False,Michigan State,Western Kentucky,31.0,48.0,4,4,46,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,69.0,69,0.871513307094574,False,Michigan State,Western Kentucky,31.0,48.0,4,4,46,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,60.0,60,0.15117907524108887,False,Michigan State,Western Kentucky,31.0,48.0,4,4,46,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,54.0,54,0.8608139753341675,False,Michigan State,Western Kentucky,31.0,48.0,4,4,46,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Passing Touchdown,,,1.0,1,1.1231179237365723,True,Michigan State,Western Kentucky,31.0,45.0,4,8,24,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,55.0,55,-0.6218563318252563,False,Michigan State,Western Kentucky,24.0,45.0,4,10,52,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,55.0,55,1.0983762741088867,False,Michigan State,Western Kentucky,24.0,45.0,4,10,52,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,13.0,13,-0.07083535194396973,False,Michigan State,Western Kentucky,24.0,45.0,4,10,52,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Passing Touchdown,,,28.0,28,4.951207160949707,True,Michigan State,Western Kentucky,24.0,45.0,4,13,13,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,51.0,51,2.195046901702881,False,Michigan State,Western Kentucky,16.0,45.0,4,13,29,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Sack,,,69.0,69,-1.7491730451583862,False,Michigan State,Western Kentucky,16.0,45.0,3,0,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,75.0,75,-0.22916626930236816,False,Michigan State,Western Kentucky,16.0,45.0,4,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,69.0,69,2.6767241954803467,False,Michigan State,Western Kentucky,16.0,45.0,4,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,53.0,53,0.5687277317047119,False,Michigan State,Western Kentucky,16.0,45.0,4,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,20.0,20,-3.081406831741333,False,Michigan State,Western Kentucky,16.0,42.0,3,6,32,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,80.0,80,0.904261589050293,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,69.0,69,0.8201598525047302,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,57.0,57,1.9698128700256348,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,42.0,42,0.7850499153137207,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,35.0,35,0.33794116973876953,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,31.0,31,1.1499955654144287,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,22.0,22,-1.8300517797470093,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,19.0,19,0.3328084945678711,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,23.0,23,-0.20942604541778564,False,Michigan State,Western Kentucky,16.0,42.0,3,12,14,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,53.0,53,2.8694674968719482,False,Michigan State,Western Kentucky,16.0,42.0,2,0,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,58.0,58,-0.2799738049507141,False,Michigan State,Western Kentucky,16.0,42.0,2,0,19,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,75.0,75,0.12071117758750916,False,Michigan State,Western Kentucky,16.0,42.0,2,0,33,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,68.0,68,0.5420790314674377,False,Michigan State,Western Kentucky,16.0,42.0,2,0,33,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Sack,,,52.0,52,-0.47016042470932007,False,Michigan State,Western Kentucky,16.0,42.0,2,0,33,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,74.0,74,0.37023431062698364,False,Michigan State,Western Kentucky,16.0,35.0,2,2,39,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,75.0,75,-0.5759862065315247,False,Michigan State,Western Kentucky,13.0,28.0,2,9,10,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,75.0,75,1.5123035907745361,False,Michigan State,Western Kentucky,13.0,28.0,2,9,10,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,64.0,64,2.5651044845581055,False,Michigan State,Western Kentucky,13.0,28.0,2,9,10,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,30.0,30,1.1976301670074463,False,Michigan State,Western Kentucky,13.0,28.0,2,9,10,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,35.0,35,0.9989886283874512,False,Michigan State,Western Kentucky,10.0,21.0,2,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,21.0,21,0.10375595092773438,False,Michigan State,Western Kentucky,10.0,21.0,2,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,16.0,16,-0.29906415939331055,False,Michigan State,Western Kentucky,10.0,21.0,2,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,70.0,70,-0.6255676746368408,False,Michigan State,Western Kentucky,10.0,21.0,1,1,35,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,68.0,68,2.9921956062316895,False,Michigan State,Western Kentucky,10.0,21.0,1,1,35,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Passing Touchdown,,,4.0,4,1.6891050338745117,True,Michigan State,Western Kentucky,10.0,21.0,1,2,57,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,5.0,5,-0.33882617950439453,False,Michigan State,Western Kentucky,3.0,21.0,1,3,1,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,65.0,65,4.8612213134765625,False,Michigan State,Western Kentucky,3.0,21.0,1,3,54,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,26.0,26,1.4409241676330566,False,Michigan State,Western Kentucky,0.0,14.0,1,6,40,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Incompletion,,,10.0,10,-0.5940437316894531,False,Michigan State,Western Kentucky,0.0,14.0,1,6,40,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Sack,,,10.0,10,-2.171710968017578,False,Michigan State,Western Kentucky,0.0,14.0,1,6,40,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,36.0,36,2.0853958129882812,False,Michigan State,Western Kentucky,0.0,14.0,1,6,40,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,64.0,64,1.9388742446899414,False,Michigan State,Western Kentucky,0.0,14.0,1,8,26,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,41.0,41,0.31206703186035156,False,Michigan State,Western Kentucky,0.0,14.0,1,8,26,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Incompletion,,,69.0,69,-0.8513887524604797,False,Michigan State,Western Kentucky,0.0,7.0,1,13,32,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Reception,,,75.0,75,0.23594993352890015,False,Michigan State,Western Kentucky,0.0,0.0,1,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282223.0,Pass Incompletion,,,73.0,73,0.7442026138305664,False,Michigan State,Western Kentucky,0.0,0.0,1,15,0,5,Michigan State,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,70.0,30,-0.1391432285308838,False,Western Kentucky,UTSA,46.0,52.0,4,3,21,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,39.0,61,-0.3790268898010254,False,Western Kentucky,UTSA,46.0,52.0,4,3,21,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,33.0,67,0.7197177410125732,False,Western Kentucky,UTSA,46.0,52.0,4,3,21,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,29.0,71,2.1697194576263428,False,Western Kentucky,UTSA,46.0,52.0,4,3,21,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,20.0,80,-1.0396859645843506,False,Western Kentucky,UTSA,46.0,52.0,4,3,21,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Interception Return,,,15.0,85,-2.947157859802246,False,Western Kentucky,UTSA,46.0,52.0,4,3,21,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,75.0,25,2.190432071685791,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,52.0,48,-0.4461439847946167,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,52.0,48,1.2658997774124146,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,29.0,71,0.93813157081604,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,15.0,85,-0.5240888595581055,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,20.0,80,0.8512203693389893,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,9.0,91,-1.4458043575286865,False,Western Kentucky,UTSA,43.0,52.0,4,6,39,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Passing Touchdown,,,20.0,80,1.6600518226623535,True,Western Kentucky,UTSA,43.0,45.0,4,8,4,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,75.0,25,-0.0140305757522583,False,Western Kentucky,UTSA,37.0,45.0,4,10,1,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,64.0,36,-0.47666728496551514,False,Western Kentucky,UTSA,37.0,45.0,4,10,1,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,64.0,36,1.8470743894577026,False,Western Kentucky,UTSA,37.0,45.0,4,10,1,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,43.0,57,1.4474406242370605,False,Western Kentucky,UTSA,37.0,45.0,4,10,1,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Passing Touchdown,,,40.0,60,3.1125268936157227,True,Western Kentucky,UTSA,37.0,42.0,3,0,50,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,95.0,5,3.1980679035186768,False,Western Kentucky,UTSA,31.0,42.0,3,1,23,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,40.0,60,-0.6213288307189941,False,Western Kentucky,UTSA,31.0,42.0,3,1,23,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,78.0,22,1.0974336862564087,False,Western Kentucky,UTSA,31.0,42.0,3,5,58,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,69.0,31,-0.0813978910446167,False,Western Kentucky,UTSA,31.0,42.0,3,5,58,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,67.0,33,-0.7351359128952026,False,Western Kentucky,UTSA,31.0,42.0,3,5,58,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,67.0,33,1.6758489608764648,False,Western Kentucky,UTSA,31.0,42.0,3,5,58,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,53.0,47,0.20688283443450928,False,Western Kentucky,UTSA,31.0,42.0,3,5,58,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,49.0,51,-2.3563144207000732,False,Western Kentucky,UTSA,31.0,42.0,3,5,58,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,72.0,28,-0.9255486130714417,False,Western Kentucky,UTSA,31.0,35.0,3,10,30,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,72.0,28,-1.3516051769256592,False,Western Kentucky,UTSA,31.0,35.0,3,10,30,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Passing Touchdown,,,24.0,76,4.305707931518555,True,Western Kentucky,UTSA,31.0,28.0,3,12,46,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,24.0,76,-0.8077728748321533,False,Western Kentucky,UTSA,24.0,28.0,3,13,38,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,75.0,25,0.4884509742259979,False,Western Kentucky,UTSA,24.0,28.0,3,14,53,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,70.0,30,-1.0184693336486816,False,Western Kentucky,UTSA,24.0,28.0,3,14,53,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,80.0,20,-0.9142597913742065,False,Western Kentucky,UTSA,24.0,28.0,3,14,53,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,44.0,56,-0.027983665466308594,False,Western Kentucky,UTSA,24.0,28.0,2,0,17,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,44.0,56,-0.13782358169555664,False,Western Kentucky,UTSA,24.0,28.0,2,0,17,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,44.0,56,-0.03793150186538696,False,Western Kentucky,UTSA,24.0,28.0,2,0,17,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Sack,,,66.0,34,-0.44283533096313477,False,Western Kentucky,UTSA,24.0,28.0,2,0,34,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,73.0,27,0.4970141053199768,False,Western Kentucky,UTSA,24.0,28.0,2,0,34,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,63.0,37,0.7522745132446289,False,Western Kentucky,UTSA,24.0,28.0,2,0,34,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Passing Touchdown,,,33.0,67,3.45650315284729,True,Western Kentucky,UTSA,24.0,21.0,2,4,47,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,69.0,31,0.19888520240783691,False,Western Kentucky,UTSA,17.0,21.0,2,8,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,58.0,42,-0.5735697746276855,False,Western Kentucky,UTSA,17.0,21.0,2,8,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,58.0,42,1.3442639112472534,False,Western Kentucky,UTSA,17.0,21.0,2,8,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,47.0,53,-0.10527420043945312,False,Western Kentucky,UTSA,17.0,21.0,2,8,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,62.0,38,0.7352613210678101,False,Western Kentucky,UTSA,10.0,14.0,2,14,48,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,50.0,50,0.5113236904144287,False,Western Kentucky,UTSA,10.0,14.0,2,14,48,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,43.0,57,0.5384511947631836,False,Western Kentucky,UTSA,10.0,14.0,2,14,48,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Passing Touchdown,,,3.0,97,1.260849952697754,True,Western Kentucky,UTSA,10.0,14.0,1,0,49,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,24.0,76,0.14697504043579102,False,Western Kentucky,UTSA,3.0,14.0,1,2,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,20.0,80,0.0016932487487792969,False,Western Kentucky,UTSA,3.0,14.0,1,2,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,17.0,83,2.0362610816955566,False,Western Kentucky,UTSA,3.0,14.0,1,2,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,3.0,97,-0.4547872543334961,False,Western Kentucky,UTSA,3.0,14.0,1,2,19,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,27.0,73,0.6560497283935547,False,Western Kentucky,UTSA,3.0,14.0,1,4,4,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,58.0,42,0.9294395446777344,False,Western Kentucky,UTSA,3.0,14.0,1,4,53,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Incompletion,,,37.0,63,-0.6728832721710205,False,Western Kentucky,UTSA,3.0,14.0,1,4,53,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,70.0,30,1.48440420627594,False,Western Kentucky,UTSA,0.0,7.0,1,14,7,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,36.0,64,1.0770716667175293,False,Western Kentucky,UTSA,0.0,7.0,1,14,7,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282228.0,Pass Reception,,,28.0,72,0.49115514755249023,False,Western Kentucky,UTSA,0.0,7.0,1,14,7,6,UTSA,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Passing Touchdown,,,17.0,17,3.1030478477478027,True,Old Dominion,Western Kentucky,43.0,20.0,4,3,51,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,65.0,65,-0.36086463928222656,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,55.0,55,-0.3842191696166992,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,46.0,46,0.6415529251098633,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,41.0,41,-0.21741795539855957,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,36.0,36,-1.7662098407745361,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,36.0,36,3.4451348781585693,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,26.0,26,-0.30385398864746094,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,23.0,23,-0.7791457176208496,False,Old Dominion,Western Kentucky,33.0,20.0,4,10,12,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,11.0,11,0.5484886169433594,False,Old Dominion,Western Kentucky,30.0,6.0,3,10,37,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Interception Return,,,1.0,1,-6.2904534339904785,False,Old Dominion,Western Kentucky,30.0,6.0,3,10,37,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,40.0,40,1.7900643348693848,False,Old Dominion,Western Kentucky,27.0,3.0,2,1,16,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,31.0,31,2.96817684173584,False,Old Dominion,Western Kentucky,27.0,3.0,2,1,16,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Passing Touchdown,,,74.0,74,5.588557720184326,True,Old Dominion,Western Kentucky,27.0,3.0,2,1,48,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Passing Touchdown,,,15.0,15,1.8094391822814941,True,Old Dominion,Western Kentucky,21.0,0.0,2,5,23,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,41.0,41,-0.1237187385559082,False,Old Dominion,Western Kentucky,14.0,0.0,2,6,25,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,29.0,29,-2.6466379165649414,False,Old Dominion,Western Kentucky,14.0,0.0,2,7,57,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,65.0,65,0.6939289569854736,False,Old Dominion,Western Kentucky,14.0,0.0,2,10,34,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,48.0,48,0.4960508346557617,False,Old Dominion,Western Kentucky,14.0,0.0,2,10,34,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,36.0,36,-0.08490419387817383,False,Old Dominion,Western Kentucky,14.0,0.0,2,10,34,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,29.0,29,-1.5153214931488037,False,Old Dominion,Western Kentucky,14.0,0.0,2,10,34,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Passing Touchdown,,,9.0,9,1.9719929695129395,True,Old Dominion,Western Kentucky,14.0,0.0,1,4,24,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,81.0,81,1.3121296167373657,False,Old Dominion,Western Kentucky,7.0,0.0,1,7,54,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,67.0,67,0.6690247058868408,False,Old Dominion,Western Kentucky,7.0,0.0,1,7,54,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,41.0,41,-0.032929420471191406,False,Old Dominion,Western Kentucky,7.0,0.0,1,7,54,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,36.0,36,3.1713080406188965,False,Old Dominion,Western Kentucky,7.0,0.0,1,7,54,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,30.0,30,0.12134027481079102,False,Old Dominion,Western Kentucky,7.0,0.0,1,7,54,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Incompletion,,,9.0,9,-0.638063907623291,False,Old Dominion,Western Kentucky,7.0,0.0,1,7,54,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Passing Touchdown,,,26.0,26,3.2469842433929443,True,Old Dominion,Western Kentucky,7.0,0.0,1,9,16,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,60.0,60,0.4427335262298584,False,Old Dominion,Western Kentucky,0.0,0.0,1,12,58,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,50.0,50,-0.05048656463623047,False,Old Dominion,Western Kentucky,0.0,0.0,1,12,58,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,46.0,46,0.9897382259368896,False,Old Dominion,Western Kentucky,0.0,0.0,1,12,58,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,36.0,36,0.0035316944122314453,False,Old Dominion,Western Kentucky,0.0,0.0,1,12,58,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,32.0,32,-0.35680460929870605,False,Old Dominion,Western Kentucky,0.0,0.0,1,12,58,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,29.0,29,-0.39222145080566406,False,Old Dominion,Western Kentucky,0.0,0.0,1,12,58,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,75.0,75,3.052110195159912,False,Old Dominion,Western Kentucky,0.0,0.0,1,15,0,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Reception,,,30.0,30,0.11252808570861816,False,Old Dominion,Western Kentucky,0.0,0.0,1,15,0,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Incompletion,,,25.0,25,-0.9166901111602783,False,Old Dominion,Western Kentucky,0.0,0.0,1,15,0,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282232.0,Pass Incompletion,,,25.0,25,-3.1081488132476807,False,Old Dominion,Western Kentucky,0.0,0.0,1,15,0,7,Old Dominion,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,14.0,86,2.40240478515625,False,Western Kentucky,Charlotte,38.0,13.0,4,8,18,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,23.0,77,0.5383362770080566,False,Western Kentucky,Charlotte,35.0,13.0,4,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,10.0,90,-0.5527887344360352,False,Western Kentucky,Charlotte,35.0,13.0,4,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,10.0,90,-0.5176305770874023,False,Western Kentucky,Charlotte,35.0,13.0,4,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,16.0,84,-0.4385964870452881,False,Western Kentucky,Charlotte,35.0,13.0,4,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,34.0,66,0.20734357833862305,False,Western Kentucky,Charlotte,35.0,13.0,3,0,20,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Passing Touchdown,,,9.0,91,1.7148761749267578,True,Western Kentucky,Charlotte,35.0,13.0,3,2,4,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,62.0,38,-0.931286096572876,False,Western Kentucky,Charlotte,28.0,13.0,3,4,50,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,60.0,40,1.3291306495666504,False,Western Kentucky,Charlotte,28.0,13.0,3,4,50,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,33.0,67,0.49929237365722656,False,Western Kentucky,Charlotte,28.0,13.0,3,4,50,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,19.0,81,0.9563584327697754,False,Western Kentucky,Charlotte,28.0,13.0,3,4,50,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,80.0,20,-0.4716975688934326,False,Western Kentucky,Charlotte,28.0,13.0,3,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,78.0,22,-1.1411685943603516,False,Western Kentucky,Charlotte,28.0,13.0,3,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,63.0,37,0.5327394008636475,False,Western Kentucky,Charlotte,28.0,13.0,3,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,52.0,48,0.4982607364654541,False,Western Kentucky,Charlotte,28.0,13.0,3,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,57.0,43,-1.1481988430023193,False,Western Kentucky,Charlotte,28.0,13.0,3,15,0,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,96.0,4,0.260261595249176,False,Western Kentucky,Charlotte,28.0,13.0,2,0,55,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,86.0,14,0.40097543597221375,False,Western Kentucky,Charlotte,28.0,13.0,2,0,55,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,72.0,28,0.39202165603637695,False,Western Kentucky,Charlotte,28.0,13.0,2,0,55,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Passing Touchdown,,,21.0,79,4.184206962585449,True,Western Kentucky,Charlotte,28.0,13.0,2,1,27,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,75.0,25,0.8248337507247925,False,Western Kentucky,Charlotte,21.0,13.0,2,3,6,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,57.0,43,1.9160094261169434,False,Western Kentucky,Charlotte,21.0,13.0,2,3,6,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,27.0,73,-0.3761444091796875,False,Western Kentucky,Charlotte,21.0,13.0,2,3,6,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,27.0,73,0.32512426376342773,False,Western Kentucky,Charlotte,21.0,13.0,2,3,6,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,68.0,32,1.0614813566207886,False,Western Kentucky,Charlotte,21.0,10.0,2,9,40,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,60.0,40,0.37602782249450684,False,Western Kentucky,Charlotte,21.0,10.0,2,9,40,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,52.0,48,0.1990528106689453,False,Western Kentucky,Charlotte,21.0,10.0,2,9,40,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,49.0,51,0.5279836654663086,False,Western Kentucky,Charlotte,21.0,10.0,2,9,40,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,39.0,61,-0.5610413551330566,False,Western Kentucky,Charlotte,21.0,10.0,2,9,40,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Interception Return,,,33.0,67,-2.343107223510742,False,Western Kentucky,Charlotte,21.0,10.0,2,9,40,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Passing Touchdown,,,13.0,87,1.6078295707702637,True,Western Kentucky,Charlotte,21.0,3.0,2,13,9,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,49.0,51,1.4956114292144775,False,Western Kentucky,Charlotte,14.0,3.0,1,0,29,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,32.0,68,-0.587904691696167,False,Western Kentucky,Charlotte,14.0,3.0,1,0,29,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,25.0,75,1.3958899974822998,False,Western Kentucky,Charlotte,14.0,3.0,1,0,29,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,73.0,27,2.0214271545410156,False,Western Kentucky,Charlotte,7.0,3.0,1,2,50,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,13.0,87,-0.7628059387207031,False,Western Kentucky,Charlotte,7.0,3.0,1,2,50,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,75.0,25,1.039925456047058,False,Western Kentucky,Charlotte,7.0,3.0,1,6,39,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,83.0,17,-1.0211446285247803,False,Western Kentucky,Charlotte,7.0,3.0,1,6,39,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Interception Return,,,78.0,22,-0.7458858489990234,False,Western Kentucky,Charlotte,7.0,3.0,1,6,39,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Passing Touchdown,,,11.0,89,1.5811309814453125,True,Western Kentucky,Charlotte,7.0,0.0,1,11,44,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Incompletion,,,37.0,63,-0.6346743106842041,False,Western Kentucky,Charlotte,0.0,0.0,1,14,3,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,37.0,63,0.5952057838439941,False,Western Kentucky,Charlotte,0.0,0.0,1,14,3,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,29.0,71,0.7396104335784912,False,Western Kentucky,Charlotte,0.0,0.0,1,14,3,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,25.0,75,-0.9237558841705322,False,Western Kentucky,Charlotte,0.0,0.0,1,14,3,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282241.0,Pass Reception,,,26.0,74,1.603149175643921,False,Western Kentucky,Charlotte,0.0,0.0,1,14,3,9,Charlotte,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,70.0,30,-0.7576839923858643,False,Western Kentucky,Middle Tennessee,48.0,21.0,4,13,28,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,68.0,32,-0.7853226661682129,False,Western Kentucky,Middle Tennessee,48.0,21.0,4,13,28,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Sack,,,68.0,32,-2.0686047077178955,False,Western Kentucky,Middle Tennessee,48.0,21.0,4,13,28,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,48.0,52,-1.6561251878738403,False,Western Kentucky,Middle Tennessee,48.0,14.0,4,15,0,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,75.0,25,-0.6253230571746826,False,Western Kentucky,Middle Tennessee,48.0,14.0,3,4,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,74.0,26,1.1400787830352783,False,Western Kentucky,Middle Tennessee,48.0,14.0,3,4,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,69.0,31,0.09519648551940918,False,Western Kentucky,Middle Tennessee,48.0,14.0,3,4,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,64.0,36,1.3005805015563965,False,Western Kentucky,Middle Tennessee,48.0,14.0,3,4,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,55.0,45,0.30408263206481934,False,Western Kentucky,Middle Tennessee,48.0,14.0,3,4,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,47.0,53,-0.9369611740112305,False,Western Kentucky,Middle Tennessee,48.0,14.0,3,4,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,25.0,75,-1.5545778274536133,False,Western Kentucky,Middle Tennessee,45.0,14.0,3,8,35,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,33.0,67,-0.8269429206848145,False,Western Kentucky,Middle Tennessee,38.0,14.0,3,10,34,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,33.0,67,-0.8029711246490479,False,Western Kentucky,Middle Tennessee,38.0,14.0,3,10,34,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,36.0,64,2.909651279449463,False,Western Kentucky,Middle Tennessee,38.0,14.0,3,10,34,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Passing Touchdown,,,28.0,72,1.9417409896850586,True,Western Kentucky,Middle Tennessee,38.0,14.0,3,11,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,68.0,32,1.8388277292251587,False,Western Kentucky,Middle Tennessee,31.0,14.0,3,15,0,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,45.0,55,-3.156522512435913,False,Western Kentucky,Middle Tennessee,31.0,14.0,3,15,0,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,88.0,12,1.1331915855407715,False,Western Kentucky,Middle Tennessee,31.0,14.0,2,0,42,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,36.0,64,-1.8172869682312012,False,Western Kentucky,Middle Tennessee,31.0,14.0,2,1,20,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,36.0,64,-0.9101020693778992,False,Western Kentucky,Middle Tennessee,31.0,14.0,2,1,30,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,67.0,33,0.10784304141998291,False,Western Kentucky,Middle Tennessee,31.0,14.0,2,2,39,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,61.0,39,1.5000743865966797,False,Western Kentucky,Middle Tennessee,31.0,14.0,2,2,39,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Passing Touchdown,,,10.0,90,2.5066471099853516,True,Western Kentucky,Middle Tennessee,31.0,14.0,2,3,35,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,10.0,90,-0.7346506118774414,False,Western Kentucky,Middle Tennessee,24.0,14.0,2,3,44,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,71.0,29,-0.7658607959747314,False,Western Kentucky,Middle Tennessee,21.0,14.0,2,9,2,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,70.0,30,-0.8663210868835449,False,Western Kentucky,Middle Tennessee,21.0,14.0,2,9,2,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,55.0,45,-0.47158145904541016,False,Western Kentucky,Middle Tennessee,21.0,14.0,2,9,2,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,47.0,53,1.270761489868164,False,Western Kentucky,Middle Tennessee,21.0,14.0,2,9,2,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,81.0,19,0.7815790176391602,False,Western Kentucky,Middle Tennessee,21.0,7.0,2,12,56,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,66.0,34,-0.23245501518249512,False,Western Kentucky,Middle Tennessee,21.0,7.0,2,12,56,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,62.0,38,0.7397451400756836,False,Western Kentucky,Middle Tennessee,21.0,7.0,2,12,56,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,53.0,47,-0.5576612949371338,False,Western Kentucky,Middle Tennessee,21.0,7.0,2,12,56,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,53.0,47,-1.284864902496338,False,Western Kentucky,Middle Tennessee,21.0,7.0,2,12,56,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,48.0,52,-2.0806925296783447,False,Western Kentucky,Middle Tennessee,21.0,7.0,2,12,56,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,70.0,30,-0.9938344955444336,False,Western Kentucky,Middle Tennessee,14.0,7.0,1,4,36,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,70.0,30,-1.1250028610229492,False,Western Kentucky,Middle Tennessee,14.0,7.0,1,4,36,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Passing Touchdown,,,5.0,95,0.907963752746582,True,Western Kentucky,Middle Tennessee,14.0,7.0,1,6,9,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,19.0,81,0.8318924903869629,False,Western Kentucky,Middle Tennessee,7.0,7.0,1,6,45,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,79.0,21,0.06283944845199585,False,Western Kentucky,Middle Tennessee,7.0,7.0,1,8,57,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,74.0,26,-1.0798503160476685,False,Western Kentucky,Middle Tennessee,7.0,7.0,1,8,57,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,74.0,26,-1.712897539138794,False,Western Kentucky,Middle Tennessee,7.0,7.0,1,8,57,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Passing Touchdown,,,17.0,83,2.537167549133301,True,Western Kentucky,Middle Tennessee,7.0,7.0,1,10,21,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,68.0,32,0.40088021755218506,False,Western Kentucky,Middle Tennessee,0.0,7.0,1,11,43,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,57.0,43,-0.5951168537139893,False,Western Kentucky,Middle Tennessee,0.0,7.0,1,11,43,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Reception,,,57.0,43,2.73539400100708,False,Western Kentucky,Middle Tennessee,0.0,7.0,1,11,43,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282251.0,Pass Incompletion,,,17.0,83,-0.611234188079834,False,Western Kentucky,Middle Tennessee,0.0,7.0,1,11,43,10,Middle Tennessee,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,68.0,68,-0.44422221183776855,False,Rice,Western Kentucky,42.0,14.0,4,3,19,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,68.0,68,-0.49010348320007324,False,Rice,Western Kentucky,42.0,14.0,4,3,19,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Interception Return,,,7.0,7,-4.565710544586182,False,Rice,Western Kentucky,42.0,14.0,4,6,24,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,26.0,26,0.8533172607421875,False,Rice,Western Kentucky,42.0,14.0,4,8,8,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,13.0,13,-0.5243158340454102,False,Rice,Western Kentucky,42.0,14.0,4,8,8,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Passing Touchdown,,,5.0,5,1.0890679359436035,True,Rice,Western Kentucky,42.0,14.0,4,8,18,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,23.0,23,1.3438854217529297,False,Rice,Western Kentucky,35.0,14.0,4,8,53,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,77.0,77,0.22783994674682617,False,Rice,Western Kentucky,35.0,14.0,4,11,38,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Passing Touchdown,,,9.0,9,1.202242374420166,True,Rice,Western Kentucky,35.0,7.0,4,14,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Sack,,,59.0,59,-1.2357923984527588,False,Rice,Western Kentucky,25.0,0.0,3,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,24.0,24,-0.5804004669189453,False,Rice,Western Kentucky,25.0,0.0,3,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,21.0,21,-0.042722463607788086,False,Rice,Western Kentucky,28.0,6.0,3,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,21.0,21,1.9115240573883057,False,Rice,Western Kentucky,28.0,7.0,3,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,77.0,77,0.5781867504119873,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,66.0,66,0.3443613052368164,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,52.0,52,0.2916722297668457,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,44.0,44,0.17342424392700195,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,40.0,40,-0.47185564041137695,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,37.0,37,0.9639086723327637,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,24.0,24,-0.5876278877258301,False,Rice,Western Kentucky,28.0,7.0,3,3,11,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Sack,,,59.0,59,-1.3262555599212646,False,Rice,Western Kentucky,28.0,0.0,3,8,35,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,69.0,69,0.7883780002593994,False,Rice,Western Kentucky,28.0,0.0,3,8,35,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Fumble Recovery (Opponent),,,56.0,56,-2.61681866645813,False,Rice,Western Kentucky,28.0,0.0,3,12,44,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,60.0,60,-0.2734220027923584,False,Rice,Western Kentucky,28.0,0.0,3,13,26,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,51.0,51,-0.25875619053840637,False,Rice,Western Kentucky,6.0,0.0,2,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,38.0,38,-0.07553619146347046,False,Rice,Western Kentucky,6.0,0.0,2,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,98.0,98,-0.003914985805749893,False,Rice,Western Kentucky,25.0,0.0,2,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,87.0,87,-0.0268341563642025,False,Rice,Western Kentucky,25.0,0.0,2,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,30.0,30,-0.9701989889144897,False,Rice,Western Kentucky,25.0,0.0,2,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,45.0,45,-0.4563596844673157,False,Rice,Western Kentucky,25.0,0.0,2,0,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,98.0,98,-0.43123239278793335,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,98.0,98,0.3716832995414734,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,87.0,87,-0.38981056213378906,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,87.0,87,0.9021701216697693,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,76.0,76,1.0982719659805298,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,62.0,62,0.23122799396514893,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,50.0,50,1.075451374053955,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,30.0,30,-0.3871631622314453,False,Rice,Western Kentucky,28.0,0.0,2,2,39,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Passing Touchdown,,,7.0,7,1.3489370346069336,True,Rice,Western Kentucky,28.0,0.0,2,6,19,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,34.0,34,1.4845662117004395,False,Rice,Western Kentucky,21.0,0.0,2,6,51,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Passing Touchdown,,,65.0,65,4.503701210021973,True,Rice,Western Kentucky,21.0,0.0,2,7,36,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,70.0,70,-0.003511667251586914,False,Rice,Western Kentucky,14.0,0.0,2,8,10,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Passing Touchdown,,,13.0,13,1.7627654075622559,True,Rice,Western Kentucky,14.0,0.0,2,10,12,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,51.0,51,-0.9137117862701416,False,Rice,Western Kentucky,7.0,0.0,2,14,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Incompletion,,,51.0,51,-1.6495413780212402,False,Rice,Western Kentucky,7.0,0.0,2,14,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,91.0,91,1.5235759019851685,False,Rice,Western Kentucky,0.0,0.0,1,5,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,74.0,74,1.3283610343933105,False,Rice,Western Kentucky,0.0,0.0,1,5,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,52.0,52,0.703157901763916,False,Rice,Western Kentucky,0.0,0.0,1,5,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,44.0,44,1.7410686016082764,False,Rice,Western Kentucky,0.0,0.0,1,5,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,11.0,11,1.00120210647583,False,Rice,Western Kentucky,0.0,0.0,1,5,56,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Interception Return,,,8.0,8,-6.103592872619629,False,Rice,Western Kentucky,0.0,0.0,1,12,26,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,75.0,75,0.9478898644447327,False,Rice,Western Kentucky,0.0,0.0,1,15,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,65.0,65,-0.6563647985458374,False,Rice,Western Kentucky,0.0,0.0,1,15,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,63.0,63,1.3402132987976074,False,Rice,Western Kentucky,0.0,0.0,1,15,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,53.0,53,0.702582597732544,False,Rice,Western Kentucky,0.0,0.0,1,15,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282259.0,Pass Reception,,,34.0,34,-3.681119680404663,False,Rice,Western Kentucky,0.0,0.0,1,15,0,11,Rice,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,78.0,22,2.0559072494506836,False,Western Kentucky,Florida Atlantic,45.0,17.0,4,9,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,28.0,72,-1.2339990139007568,False,Western Kentucky,Florida Atlantic,45.0,17.0,4,9,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,23.0,77,1.8798518180847168,False,Western Kentucky,Florida Atlantic,45.0,17.0,4,9,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Passing Touchdown,,,7.0,93,1.495612621307373,True,Western Kentucky,Florida Atlantic,45.0,17.0,4,12,15,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,55.0,45,0.3170936107635498,False,Western Kentucky,Florida Atlantic,38.0,17.0,4,14,55,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,42.0,58,-0.36359119415283203,False,Western Kentucky,Florida Atlantic,38.0,17.0,4,14,55,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,39.0,61,1.4921221733093262,False,Western Kentucky,Florida Atlantic,38.0,17.0,4,14,55,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,12.0,88,-0.050997257232666016,False,Western Kentucky,Florida Atlantic,38.0,17.0,4,14,55,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Passing Touchdown,,,27.0,73,2.3460607528686523,True,Western Kentucky,Florida Atlantic,38.0,17.0,3,1,59,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,50.0,50,1.0317983627319336,False,Western Kentucky,Florida Atlantic,31.0,17.0,3,3,56,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,75.0,25,0.1871631145477295,False,Western Kentucky,Florida Atlantic,31.0,17.0,3,5,29,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,67.0,33,-1.0080692768096924,False,Western Kentucky,Florida Atlantic,31.0,17.0,3,5,29,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,67.0,33,2.2308404445648193,False,Western Kentucky,Florida Atlantic,31.0,17.0,3,5,29,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Fumble Recovery (Opponent),,,53.0,47,-5.522158145904541,False,Western Kentucky,Florida Atlantic,31.0,17.0,3,5,29,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,94.0,6,0.47749388217926025,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,11,20,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,79.0,21,-0.5638489723205566,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,14,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,79.0,21,1.0113837718963623,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,14,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,68.0,32,-0.8435781002044678,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,14,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,69.0,31,-0.4887816905975342,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,14,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,61.0,39,-0.5912566184997559,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,14,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Interception Return,,,61.0,39,-3.1792068481445312,False,Western Kentucky,Florida Atlantic,31.0,10.0,3,14,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,8.0,92,-0.946068525314331,False,Western Kentucky,Florida Atlantic,28.0,10.0,2,1,44,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,2.0,98,-0.33140134811401367,False,Western Kentucky,Florida Atlantic,28.0,10.0,2,2,34,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,36.0,64,3.3493123054504395,False,Western Kentucky,Florida Atlantic,28.0,10.0,2,3,13,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Passing Touchdown,,,3.0,97,1.1096649169921875,True,Western Kentucky,Florida Atlantic,28.0,10.0,2,3,15,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,76.0,24,0.971889853477478,False,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,51,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,66.0,34,0.42768096923828125,False,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,51,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,58.0,42,0.2102811336517334,False,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,51,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,54.0,46,0.06740689277648926,False,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,51,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,49.0,51,-0.09703636169433594,False,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,51,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,42.0,58,2.641477584838867,False,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,51,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Interception Return Touchdown,,,42.0,58,-9.094698905944824,True,Western Kentucky,Florida Atlantic,21.0,10.0,2,7,58,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,66.0,34,0.429640531539917,False,Western Kentucky,Florida Atlantic,21.0,3.0,2,10,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,55.0,45,0.41971826553344727,False,Western Kentucky,Florida Atlantic,21.0,3.0,2,10,48,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Passing Touchdown,,,3.0,97,0.6929445266723633,True,Western Kentucky,Florida Atlantic,21.0,3.0,2,13,34,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,19.0,81,0.15886640548706055,False,Western Kentucky,Florida Atlantic,14.0,3.0,2,15,0,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,13.0,87,0.9839720726013184,False,Western Kentucky,Florida Atlantic,14.0,3.0,2,15,0,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,84.0,16,1.311293363571167,False,Western Kentucky,Florida Atlantic,14.0,3.0,1,2,26,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,65.0,35,-0.5631756782531738,False,Western Kentucky,Florida Atlantic,14.0,3.0,1,2,26,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Incompletion,,,65.0,35,-0.9355453252792358,False,Western Kentucky,Florida Atlantic,14.0,3.0,1,2,26,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,65.0,35,2.0770606994628906,False,Western Kentucky,Florida Atlantic,14.0,3.0,1,2,26,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,51.0,49,1.3126749992370605,False,Western Kentucky,Florida Atlantic,14.0,3.0,1,2,26,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Passing Touchdown,,,8.0,92,1.2516961097717285,True,Western Kentucky,Florida Atlantic,14.0,3.0,1,4,13,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,50.0,50,0.5392587184906006,False,Western Kentucky,Florida Atlantic,7.0,3.0,1,5,33,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,44.0,56,1.6118190288543701,False,Western Kentucky,Florida Atlantic,7.0,3.0,1,5,33,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Passing Touchdown,,,1.0,99,0.41185569763183594,True,Western Kentucky,Florida Atlantic,7.0,0.0,1,10,52,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,92.0,8,0.8459856510162354,False,Western Kentucky,Florida Atlantic,0.0,0.0,1,13,8,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,83.0,17,2.063192844390869,False,Western Kentucky,Florida Atlantic,0.0,0.0,1,13,8,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,58.0,42,1.8560669422149658,False,Western Kentucky,Florida Atlantic,0.0,0.0,1,13,8,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,30.0,70,0.8757014274597168,False,Western Kentucky,Florida Atlantic,0.0,0.0,1,13,8,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282263.0,Pass Reception,,,12.0,88,1.412238597869873,False,Western Kentucky,Florida Atlantic,0.0,0.0,1,13,8,12,Florida Atlantic,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Passing Touchdown,,,8.0,8,1.3254079818725586,True,Marshall,Western Kentucky,36.0,14.0,4,14,18,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,20.0,20,0.1882610321044922,False,Marshall,Western Kentucky,29.0,14.0,3,0,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,13.0,13,0.9702534675598145,False,Marshall,Western Kentucky,29.0,14.0,4,15,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,78.0,78,0.07200074195861816,False,Marshall,Western Kentucky,29.0,14.0,3,2,48,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,46.0,46,2.2977964878082275,False,Marshall,Western Kentucky,26.0,14.0,3,6,55,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Sack,,,33.0,33,-1.682743787765503,False,Marshall,Western Kentucky,26.0,14.0,3,6,55,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,46.0,46,-1.0057293176651,False,Marshall,Western Kentucky,26.0,14.0,3,6,55,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Passing Touchdown,,,50.0,50,2.749171733856201,True,Marshall,Western Kentucky,26.0,14.0,3,7,28,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,3.0,3,-4.780149459838867,False,Marshall,Western Kentucky,18.0,14.0,3,7,28,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Passing Touchdown,,,14.0,14,3.2829067707061768,True,Marshall,Western Kentucky,20.0,14.0,3,9,10,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,83.0,83,3.3489513397216797,False,Marshall,Western Kentucky,13.0,14.0,3,11,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,50.0,50,1.2919673919677734,False,Marshall,Western Kentucky,13.0,14.0,3,11,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,30.0,30,-0.5721697807312012,False,Marshall,Western Kentucky,13.0,14.0,3,11,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,21.0,21,0.6098976135253906,False,Marshall,Western Kentucky,13.0,14.0,3,11,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,14.0,14,-0.579923152923584,False,Marshall,Western Kentucky,13.0,14.0,3,11,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Passing Touchdown,,,47.0,47,4.003989219665527,True,Marshall,Western Kentucky,13.0,14.0,3,13,41,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,81.0,81,0.31800585985183716,False,Marshall,Western Kentucky,6.0,14.0,2,1,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,74.0,74,0.6703892946243286,False,Marshall,Western Kentucky,6.0,14.0,2,1,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,61.0,61,1.5905835628509521,False,Marshall,Western Kentucky,6.0,14.0,2,1,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,33.0,33,0.054509639739990234,False,Marshall,Western Kentucky,6.0,14.0,2,1,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,29.0,29,-0.6247611045837402,False,Marshall,Western Kentucky,6.0,14.0,2,1,31,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,57.0,57,0.6005701422691345,False,Marshall,Western Kentucky,3.0,14.0,2,6,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,49.0,49,1.5175285339355469,False,Marshall,Western Kentucky,3.0,14.0,2,6,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,40.0,40,-1.4386074542999268,False,Marshall,Western Kentucky,3.0,14.0,2,6,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,44.0,44,1.3929064273834229,False,Marshall,Western Kentucky,3.0,14.0,2,6,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,48.0,48,0.8741238117218018,False,Marshall,Western Kentucky,0.0,14.0,2,10,1,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,34.0,34,0.5937714576721191,False,Marshall,Western Kentucky,0.0,14.0,2,10,1,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,50.0,50,-0.9058362245559692,False,Marshall,Western Kentucky,0.0,14.0,2,12,33,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,58.0,58,-0.8870518207550049,False,Marshall,Western Kentucky,0.0,14.0,2,14,22,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,58.0,58,-1.7187082767486572,False,Marshall,Western Kentucky,0.0,14.0,2,14,22,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,43.0,43,-2.072397232055664,False,Marshall,Western Kentucky,0.0,7.0,1,3,19,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,57.0,57,-0.9563656449317932,False,Marshall,Western Kentucky,0.0,7.0,1,5,57,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,58.0,58,0.8336676955223083,False,Marshall,Western Kentucky,0.0,7.0,1,5,57,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,43.0,43,-1.1192880868911743,False,Marshall,Western Kentucky,0.0,7.0,1,5,57,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,43.0,43,-1.875198245048523,False,Marshall,Western Kentucky,0.0,7.0,1,5,57,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,70.0,70,-0.77994704246521,False,Marshall,Western Kentucky,0.0,7.0,1,7,1,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,70.0,70,0.7134362459182739,False,Marshall,Western Kentucky,0.0,7.0,1,7,1,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Reception,,,62.0,62,-1.333298921585083,False,Marshall,Western Kentucky,0.0,7.0,1,7,1,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,70.0,70,-0.8427770733833313,False,Marshall,Western Kentucky,0.0,0.0,1,15,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401282272.0,Pass Incompletion,,,64.0,64,-0.7657939195632935,False,Marshall,Western Kentucky,0.0,0.0,1,15,0,13,Marshall,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,20.0,20,-1.6986865997314453,False,Appalachian State,Western Kentucky,52.0,31.0,4,10,6,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,44.0,44,1.2038002014160156,False,Appalachian State,Western Kentucky,52.0,31.0,4,12,49,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Passing Touchdown,,,37.0,37,2.2048306465148926,True,Appalachian State,Western Kentucky,52.0,31.0,3,2,43,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,49.0,49,0.342665433883667,False,Appalachian State,Western Kentucky,45.0,31.0,3,3,26,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,61.0,61,0.9289267063140869,False,Appalachian State,Western Kentucky,45.0,31.0,3,4,15,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Passing Touchdown,,,2.0,2,1.0472397804260254,True,Appalachian State,Western Kentucky,45.0,24.0,3,5,56,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,2.0,2,-0.7625441551208496,False,Appalachian State,Western Kentucky,38.0,24.0,3,6,34,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,2.0,2,-0.2591719627380371,False,Appalachian State,Western Kentucky,38.0,24.0,3,6,40,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,20.0,20,-0.8761177062988281,False,Appalachian State,Western Kentucky,38.0,24.0,3,7,47,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,23.0,23,-0.3393740653991699,False,Appalachian State,Western Kentucky,38.0,24.0,3,8,15,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,56.0,56,1.485482931137085,False,Appalachian State,Western Kentucky,38.0,24.0,3,8,40,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,73.0,73,0.5200543403625488,False,Appalachian State,Western Kentucky,38.0,24.0,3,10,25,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Passing Touchdown,,,10.0,10,3.579775094985962,True,Appalachian State,Western Kentucky,31.0,24.0,2,0,29,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,12.0,12,-0.35424232482910156,False,Appalachian State,Western Kentucky,24.0,24.0,2,0,54,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,55.0,55,2.4281063079833984,False,Appalachian State,Western Kentucky,24.0,24.0,2,1,24,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,57.0,57,-0.9823106527328491,False,Appalachian State,Western Kentucky,24.0,24.0,2,1,40,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,66.0,66,0.3183596134185791,False,Appalachian State,Western Kentucky,24.0,24.0,2,2,9,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Passing Touchdown,,,5.0,5,2.838684558868408,True,Appalachian State,Western Kentucky,24.0,21.0,2,6,54,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,3.0,3,-1.4124321937561035,False,Appalachian State,Western Kentucky,17.0,21.0,2,7,32,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,63.0,63,2.4424567222595215,False,Appalachian State,Western Kentucky,17.0,21.0,2,8,13,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,75.0,75,0.1602521538734436,False,Appalachian State,Western Kentucky,17.0,21.0,2,8,52,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,6.0,6,-1.2782907485961914,False,Appalachian State,Western Kentucky,14.0,14.0,2,11,52,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,6.0,6,-0.9089202880859375,False,Appalachian State,Western Kentucky,14.0,14.0,2,11,59,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,39.0,39,2.136782646179199,False,Appalachian State,Western Kentucky,14.0,14.0,2,12,11,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,45.0,45,0.3036322593688965,False,Appalachian State,Western Kentucky,14.0,14.0,2,12,39,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,76.0,76,-1.076949119567871,False,Appalachian State,Western Kentucky,14.0,14.0,2,14,43,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,71.0,71,-1.0591495037078857,False,Appalachian State,Western Kentucky,14.0,14.0,1,0,32,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,75.0,75,-0.07824325561523438,False,Appalachian State,Western Kentucky,14.0,14.0,1,1,4,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Passing Touchdown,,,75.0,75,4.7906622886657715,True,Appalachian State,Western Kentucky,14.0,7.0,1,3,11,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Sack,,,76.0,76,-1.3526241779327393,False,Appalachian State,Western Kentucky,7.0,0.0,1,6,47,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,73.0,73,-1.2851742506027222,False,Appalachian State,Western Kentucky,7.0,0.0,1,7,40,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,72.0,72,-0.9735276699066162,False,Appalachian State,Western Kentucky,7.0,0.0,1,8,38,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,77.0,77,0.20340943336486816,False,Appalachian State,Western Kentucky,7.0,0.0,1,8,54,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,85.0,85,0.3645448684692383,False,Appalachian State,Western Kentucky,7.0,0.0,1,9,2,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Passing Touchdown,,,1.0,1,0.7891778945922852,True,Appalachian State,Western Kentucky,7.0,0.0,1,13,14,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,1.0,1,-0.2954902648925781,False,Appalachian State,Western Kentucky,0.0,0.0,1,13,54,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,40.0,40,3.294121503829956,False,Appalachian State,Western Kentucky,0.0,0.0,1,14,7,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,40.0,40,-0.5998260974884033,False,Appalachian State,Western Kentucky,0.0,0.0,1,14,16,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,57.0,57,1.2433547973632812,False,Appalachian State,Western Kentucky,0.0,0.0,1,14,22,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Reception,,,74.0,74,2.949463129043579,False,Appalachian State,Western Kentucky,0.0,0.0,1,14,37,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,74.0,74,-1.0709794759750366,False,Appalachian State,Western Kentucky,0.0,0.0,1,14,44,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
+401331166.0,Pass Incompletion,,,74.0,74,-0.8908118605613708,False,Appalachian State,Western Kentucky,0.0,0.0,1,14,48,1,Appalachian State,2021,Western Kentucky,Bailey Zappe,2022
