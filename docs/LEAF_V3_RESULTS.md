@@ -217,3 +217,57 @@ horizons (single-game, matchup-specific) where its mechanisms operate.
 **Final program status after A1 + A2 + A3/A3b:** LEAF v3 (r = 0.468,
 RMSE-best, calibrated intervals) is the confirmed frontier. Three campaigns,
 seventeen ideas, zero improvements, three informative rejections.
+
+## Amendment A4 results — environment layer (frozen pass, 2019-2025)
+
+Provenance: leaf_v3_ratings.csv was regenerated 2026-07-14 (weekly data refresh), so the T1 universe here is 200 pairs / 60 QBs vs the published 199 / 61; LEAF v3 raw re-scores slightly differently than the frozen table for that reason alone. Team-fallback pairs excluded per deviation 2 (5 train, 1 test).
+
+T1 pairs scored: n = 199 (60 QBs). All three predictors scored on this identical set.
+
+| Predictor | r | 95% CI | RMSE |
+|---|---|---|---|
+| LEAF v3 (raw) | +0.466 | [+0.327, +0.582] | 0.113 |
+| LEAF v3-recal (control) | +0.463 | [+0.335, +0.584] | 0.113 |
+| LEAF v4 env | +0.480 | [+0.347, +0.586] | 0.112 |
+
+**Primary: dr(v4 − v3-recal) = +0.016 [-0.017, +0.049]. Secondary: dr(v4 − v3 raw) = +0.014 [-0.019, +0.049]. Verdict: NULL.**
+
+Per-target-season breakdown:
+
+| Season | n | r v3-recal | r v4 | dr |
+|---|---|---|---|---|
+| 2019 | 27 | +0.344 | +0.381 | +0.037 |
+| 2020 | 29 | +0.528 | +0.516 | -0.012 |
+| 2021 | 27 | +0.635 | +0.630 | -0.005 |
+| 2022 | 30 | +0.441 | +0.484 | +0.043 |
+| 2023 | 26 | +0.507 | +0.522 | +0.015 |
+| 2024 | 29 | +0.491 | +0.536 | +0.044 |
+| 2025 | 31 | +0.404 | +0.420 | +0.016 |
+
+Season-demeaned (within-season) pooled r: v3-recal +0.475, v4 +0.494, dr +0.019 — isolates QB-specific environment signal from league-trend tracking.
+
+Walk-forward coefficients (env standardized on train):
+
+| target_season | n_train | intercept | leaf_v3 | e1_new_team | e2_coach_change | e3_ret_rec_epa | e4_team_pass_env | e5_sched_def | recal_int | recal_slope |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2019.0 | 306.0 | 0.0054 | 0.8845 | -0.0344 | -0.0064 | -0.0014 | 0.0101 | -0.003 | -0.0088 | 1.0258 |
+| 2020.0 | 333.0 | 0.0094 | 0.8649 | -0.0323 | -0.0138 | -0.0018 | 0.0095 | -0.0019 | -0.0063 | 1.0072 |
+| 2021.0 | 362.0 | 0.0115 | 0.8645 | -0.0258 | -0.0145 | -0.0014 | 0.0109 | -0.0012 | -0.0045 | 1.0198 |
+| 2022.0 | 389.0 | 0.0081 | 0.9022 | -0.0355 | -0.0118 | -0.0003 | 0.0075 | -0.0002 | -0.0077 | 1.0372 |
+| 2023.0 | 419.0 | 0.0088 | 0.8693 | -0.0408 | -0.0105 | 0.002 | 0.0067 | 0.0011 | -0.0087 | 1.0188 |
+| 2024.0 | 445.0 | 0.008 | 0.827 | -0.0382 | -0.0086 | 0.0023 | 0.0109 | 0.0051 | -0.0114 | 1.02 |
+| 2025.0 | 474.0 | 0.0114 | 0.7756 | -0.034 | -0.0093 | 0.0005 | 0.0168 | 0.0022 | -0.0109 | 1.0197 |
+
+### Program status after A4
+
+Four campaigns, twenty-two ideas. A4 is the first to produce a positive
+point estimate of any size: dr = +0.016 [-0.017, +0.049] vs the recalibrated
+control, positive in 5 of 7 test seasons, with +0.019 of it surviving
+season-demeaning (QB-specific environment, not league-trend tracking) and
+sign-stable coefficients across all seven walk-forward fits (new team
+~ -0.034 EPA/play, new coach ~ -0.011, team environment ~ +0.010/SD).
+Under the pre-registered criteria it is NULL: the sample cannot certify an
+effect this small. The honest summary is that the environment layer likely
+carries a real but small signal (~ +0.01-0.02 r) that seven seasons of
+test data cannot distinguish from zero. It does not ship in LEAF; the
+result stands as registered.

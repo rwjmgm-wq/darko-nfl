@@ -178,6 +178,91 @@ training shortage) but adaptive; the verdict will say so, and A3b is FINAL for
 this campaign regardless of outcome. Baseline (LEAF v3 alone) is re-scored
 under the identical rolling protocol for a fair delta.
 
+## Amendment A4 — environment layer (registered July 23, 2026, before any construction or evaluation)
+
+**Motivation.** The r ≈ 0.52 disattenuated-persistence ceiling binds predictors
+built from the QB's own performance history. The T1 target is next-season RAW
+EPA/play — skill x environment x sampling noise. Part of the Y+1 environment
+is public knowledge at Y+1 kickoff, before any Y+1 snap: the QB's team, the
+head coach, the Week-1 roster, and the full schedule. These are information
+channels outside the QB's history, so the relevant cap for a skill+environment
+model is the measurement cap (r ≈ 0.81), not 0.52. A1-A3 never touched this
+lane.
+
+**Forecast origin (declared).** Predictions for season Y+1 are made at Y+1
+kickoff. All skill states use games through end of Y (unchanged). Environment
+covariates may use only facts public before Y+1 Week 1. Data proxies: the
+QB's Y+1 team is taken from the Y+1 Week-1 roster (fallback: posteam of his
+first Y+1 game); the Y+1 coach is taken from the team's first Y+1 scheduled
+game. Both proxy real preseason knowledge; fallback counts will be disclosed.
+Franchise relocations (STL→LA 2016, SD→LAC 2017, OAK→LV 2020) are mapped to
+stable franchise codes before any cross-season comparison.
+
+**Covariates (fixed in advance — no selection, no additions after this point):**
+- **E1 new_team** — 1 if the QB's Y+1 team differs from the team of his last Y game.
+- **E2 coach_change** — 1 if the Y+1 team's Week-1 head coach differs from that
+  franchise's final-game Y coach.
+- **E3 ret_rec_epa** — sum of season-Y total receiving EPA (nflverse weekly
+  player stats) over WR/TE/RB on the Y+1 team's Week-1 roster, scaled /17.
+  Players without Y stats contribute 0 (that IS the preseason information state).
+- **E4 team_pass_env** — the Y+1 team's season-Y team pass EPA/dropback
+  (qb_games_base aggregated by posteam). Collinear with the QB's own state for
+  stay-put QBs; most informative for movers. Disclosed, kept.
+- **E5 sched_def** — mean over the Y+1 team's scheduled opponents of the
+  opponent's season-Y defensive EPA/dropback allowed (qb_games_base by defteam),
+  one term per scheduled game.
+
+If a covariate cannot be built from available data it is DROPPED and logged as
+a deviation — never replaced or redefined.
+
+**Model.** LEAF v4 = walk-forward OLS: `target ~ leaf_v3 + E1..E5`, continuous
+covariates standardized on training data only. For each test target season
+s in 2019-2025: train on all pairs with target season ≤ s-1 (target ≥ 2008),
+predict pairs with target season = s. Plain OLS, 7 parameters, no
+regularization, therefore NO hyperparameters and no tuning-contamination risk.
+Rolling-origin refitting is estimation, not tuning (A3b precedent).
+
+**Honesty control (registered).** OLS on top of any predictor improves RMSE by
+recalibration alone. The fair comparator is therefore **LEAF v3-recal**: the
+identical walk-forward OLS with leaf_v3 as the sole feature. The environment
+claim is measured as v4 vs v3-recal; v4 vs raw v3 is reported but secondary.
+
+**Evaluation.** ONE frozen pass on the identical T1 pair set (both seasons
+≥ 150 plays), restricted to pairs with non-null env features. LEAF v3 and
+v3-recal re-scored on the same restricted set. Cluster bootstrap by QB (2000
+resamples) on r and on Δr. T2 is skipped: env covariates are season-indexed
+and T2 windows cross season boundaries.
+
+**Success criteria:** decisive — Δr(v4 − v3-recal) 95% CI excludes zero;
+suggestive — point Δr ≥ +0.02 with CI including zero; otherwise null. RMSE
+and per-fold coefficient stability reported alongside. A4 is final for this
+campaign regardless of outcome; a null is published as a null.
+
 ## Deviations
 
-(none yet)
+All logged July 23, 2026, BEFORE the A4 frozen evaluation ran. Sources:
+feature-build diagnostics and a pre-run adversarial audit (4 confirmed
+findings out of 22 raised).
+
+1. **(A4, pre-eval) Team-code harmonization fix.** Older nflverse roster
+   files use PFR-style codes (CLV/BLT/SL/ARZ/HST); the first feature build
+   mis-flagged moves and dropped coach/env lookups for those franchises.
+   Franchise map extended, features rebuilt. No evaluation had run.
+2. **(A4, pre-eval) Fallback pairs excluded.** Audit showed the registered
+   first-game team fallback can inject post-origin information for QBs
+   unsigned at Y+1 kickoff (one frozen-era pair: Flacco 2022→2023, signed
+   by CLE in Nov 2023 — all five covariates would have encoded that signing,
+   in v4's favor). A `team_fallback` flag was added to the feature file and
+   flagged pairs are EXCLUDED from training and test, counts disclosed in
+   the results. Stricter than the registered include-and-disclose.
+3. **(A4, pre-eval) Verdict statistic clarified.** The registered "point Δr"
+   is the plug-in correlation difference; the first evaluator draft
+   mistakenly fed the bootstrap-mean Δr to the verdict thresholds. Fixed:
+   plug-in point estimate, bootstrap for the CI only.
+4. **(A4, pre-eval) Disclosure-only reporting added to the same pass:**
+   per-target-season n/r/Δr, season-demeaned pooled r for v4 and the
+   control (audit showed e5 is ~65% between-season variance, so pooled Δr
+   could reflect league-trend tracking rather than QB-specific environment),
+   v3-recal fold coefficients, and a provenance note — leaf_v3_ratings.csv
+   was regenerated 2026-07-14 (weekly data refresh), so the T1 universe is
+   200 pairs / 60 QBs vs the published 199 / 61.

@@ -143,3 +143,43 @@ Logged after implementation, before RESULTS_V3.md was written:
    player row removed; (d) undrafted players whose class-year age implies they
    are not draft-eligible (year <= 2) are excluded from deployed projections
    rather than extrapolated.
+
+## H3 — landing-spot block (registered July 23, 2026, before any construction or evaluation)
+
+**Hypothesis.** The drafting team's situation at draft day carries information
+about starter outcomes that is not in college stats and only partially in
+draft position (bad teams pick early, but "bad with a settled coach and QB"
+differs from "bad, new coach, three starters in three years"). All covariates
+are frozen to information public on draft day.
+
+**Covariates (exactly three, fixed in advance — the ~60-event dev sample
+affords no more):**
+- **L1 team_pass_epa_prev** — drafting team's QB-dropback EPA/play in season
+  draft_year−1 (parent project's qb_games_base aggregation).
+- **L2 hc_new** — 1 if the drafting team's Week-1 head coach in draft_year
+  differs from its final-game coach in draft_year−1 (nflverse schedules).
+  Proxy note: Week-1 coach stands in for coach-of-record at draft day; HC
+  hires close by February, so mismatches are rare. Disclosed, not corrected.
+- **L3 qb_churn3** — number of distinct primary passers (most pass attempts
+  for that team-season, nflverse weekly player stats) across seasons
+  draft_year−3..−1.
+
+Teams come from nflverse draft picks joined on (draft_year, pick number) — no
+name matching. Franchise relocations mapped to stable codes. QBs whose team
+join fails get median-imputed covariates (count disclosed).
+
+**Models.** Same discrete-time hazard, C=1.0, fold-standardized, identical
+person-periods. M3 = draft block + landing; M4 = college + draft + landing.
+Landing columns are treated exactly like college columns in the Featurizer
+(median imputation + z-scoring inside each training fold).
+
+**Evaluation (one frozen pass).** LODCO OOF for classes 2007–2021: AUC with
+class-cluster bootstrap CIs; DeLong M3 vs M0 (primary) and M4 vs M2
+(secondary). Quasi-holdout classes 2022–2024 at observed horizons:
+directional only (M3 AUC vs M0 AUC; ~14 events, no significance claims).
+Landing coefficients from the full 2007–2021 fit reported, no selection.
+
+**Success criteria:** confirmatory — DeLong p < 0.05 for M3 > M0 on OOF AND
+same-direction gain on the holdout; suggestive — OOF AUC gain ≥ +0.01 with
+same-direction holdout; otherwise null. H3 is final regardless of outcome;
+a null is published as a null.

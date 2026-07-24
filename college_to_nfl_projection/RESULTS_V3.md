@@ -121,3 +121,16 @@ information, opponent-adjusted college production still does.**
   v2→v3 direction itself was informed by v2 results on overlapping data; the
   quasi-holdout classes (2022–2024) are the only fully untouched test set, and
   they agree with the headline ordering.
+
+## H3 — landing-spot block (July 2026, pre-registered; NULL)
+
+Tested whether the drafting team's draft-day situation (prior-season pass
+EPA, new-head-coach flag, 3-year QB churn) adds discrimination beyond draft
+position. Full spec in SPEC_V3.md (H3); full results in
+results/v3_landing_report.md. Frozen pass: M3 (draft + landing) OOF AUC
+0.875 vs M0 0.887 (DeLong p = 0.185); adding landing to the combined model
+made it significantly WORSE (M4 0.881 vs M2 0.894, p = 0.013); holdout
+directional +0.010 on 29 QBs (noise). Coefficient directions were sensible
+(churn and a strong incumbent offense both lower a rookie's starter odds)
+but everything they know, pick number already knows. Verdict: NULL —
+draft position remains unbeaten on average. Published as registered.
