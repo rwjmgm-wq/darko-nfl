@@ -12,11 +12,11 @@ scripts/v3_honest/build_leaf_v3.py -> data/production/leaf_v3_ratings.csv
   retracted everywhere it was quoted.
 - **On ranking (r), LEAF v3 ties the best naive baselines** - the pre-registered
   bar for claiming an edge (bootstrap CI on the difference excluding zero) was
-  NOT met on either target (T1: dr = -0.018 [-0.088, +0.049]; T2: dr = +0.027
-  [-0.034, +0.093]).
+  NOT met on either target (T1: dr = -0.009 [-0.079, +0.055]; T2: dr = +0.030
+  [-0.026, +0.094]).
 - **On calibration (RMSE), LEAF v3 is clearly the best predictor on both
-  targets**: T1 RMSE 0.115 vs 0.126-0.157 for the baselines; T2 0.106 vs
-  0.117-0.281. Ranking QBs is easy; being right about the LEVEL of future
+  targets**: T1 RMSE 0.113 vs 0.123-0.153 for the baselines; T2 0.105 vs
+  0.111-0.282. Ranking QBs is easy; being right about the LEVEL of future
   EPA is where the state-space machinery earns its keep.
 - Layer-by-layer: opponent adjustment adds a hair (+0.005 r), informed
   priors/age another hair (+0.004), fusion converts r into RMSE. Nothing is
@@ -29,41 +29,41 @@ scripts/v3_honest/build_leaf_v3.py -> data/production/leaf_v3_ratings.csv
   #57/60"); uniform vs gentle exponential is a coin flip.
 
 
-## Frozen test-era results (2019�2025)
+## Frozen test-era results (2019-2025)
 
-All predictors walk-forward; all hyperparameters tuned on 2006�2018 only.
+All predictors walk-forward; all hyperparameters tuned on 2006-2018 only.
 
-### T1: next-season EPA/play (n = 199, 61 QBs)
-
-| Predictor | r | 95% CI | RMSE |
-|---|---|---|---|
-| B1 expanding mean | +0.457 | [+0.319, +0.579] | 0.126 |
-| B2 prev-season EPA | +0.468 | [+0.346, +0.569] | 0.133 |
-| B3 EWMA (hl=3) | +0.395 | [+0.259, +0.536] | 0.157 |
-| B4 last-12 mean | +0.483 | [+0.373, +0.582] | 0.133 |
-| V1 Kalman raw EPA | +0.471 | [+0.343, +0.581] | 0.120 |
-| V2 Kalman opp-adj | +0.476 | [+0.352, +0.596] | 0.120 |
-| V3 + priors/age | +0.480 | [+0.343, +0.595] | 0.119 |
-| LEAF v3 (fused) | +0.468 | [+0.342, +0.574] | 0.115 |
-
-**LEAF v3 vs best baseline (B4 last-12 mean):** dr = -0.018 [-0.088, +0.049] � CI includes zero.
-
-80% predictive-interval coverage (state variance only): 35%. State variance alone under-covers because the target season has its own sampling noise; a full predictive interval adds target noise variance.
-
-### T2: next-16-games EPA/play (n = 287, 54 QBs)
+### T1: next-season EPA/play (n = 200, 60 QBs)
 
 | Predictor | r | 95% CI | RMSE |
 |---|---|---|---|
-| B1 expanding mean | +0.421 | [+0.218, +0.582] | 0.117 |
-| B2 prev-season EPA | +0.145 | [+0.022, +0.399] | 0.281 |
-| B3 EWMA (hl=3) | +0.285 | [+0.130, +0.435] | 0.178 |
-| B4 last-12 mean | +0.413 | [+0.260, +0.548] | 0.129 |
-| V1 Kalman raw EPA | +0.447 | [+0.271, +0.584] | 0.112 |
-| V2 Kalman opp-adj | +0.452 | [+0.281, +0.594] | 0.112 |
-| V3 + priors/age | +0.456 | [+0.267, +0.606] | 0.112 |
-| LEAF v3 (fused) | +0.446 | [+0.282, +0.588] | 0.106 |
+| B1 expanding mean | +0.464 | [+0.325, +0.583] | 0.123 |
+| B2 prev-season EPA | +0.468 | [+0.335, +0.584] | 0.131 |
+| B3 EWMA (hl=3) | +0.400 | [+0.263, +0.524] | 0.153 |
+| B4 last-12 mean | +0.474 | [+0.358, +0.582] | 0.132 |
+| V1 Kalman raw EPA | +0.476 | [+0.342, +0.590] | 0.117 |
+| V2 Kalman opp-adj | +0.480 | [+0.344, +0.588] | 0.117 |
+| V3 + priors/age | +0.485 | [+0.348, +0.596] | 0.116 |
+| LEAF v3 (fused) | +0.469 | [+0.329, +0.583] | 0.113 |
 
-**LEAF v3 vs best baseline (B1 expanding mean):** dr = +0.027 [-0.034, +0.093] � CI includes zero.
+**LEAF v3 vs best baseline (B4 last-12 mean):** dr = -0.009 [-0.079, +0.055] — CI includes zero.
+
+80% predictive-interval coverage (state variance only): 36%. State variance alone under-covers because the target season has its own sampling noise; a full predictive interval adds target noise variance.
+
+### T2: next-16-games EPA/play (n = 312, 57 QBs)
+
+| Predictor | r | 95% CI | RMSE |
+|---|---|---|---|
+| B1 expanding mean | +0.436 | [+0.249, +0.584] | 0.116 |
+| B2 prev-season EPA | +0.145 | [+0.031, +0.380] | 0.282 |
+| B3 EWMA (hl=3) | +0.295 | [+0.152, +0.429] | 0.176 |
+| B4 last-12 mean | +0.431 | [+0.286, +0.557] | 0.128 |
+| V1 Kalman raw EPA | +0.465 | [+0.314, +0.595] | 0.111 |
+| V2 Kalman opp-adj | +0.469 | [+0.305, +0.599] | 0.111 |
+| V3 + priors/age | +0.474 | [+0.312, +0.607] | 0.110 |
+| LEAF v3 (fused) | +0.465 | [+0.311, +0.601] | 0.105 |
+
+**LEAF v3 vs best baseline (B1 expanding mean):** dr = +0.030 [-0.026, +0.094] — CI includes zero.
 
 ## Fair weight-scheme re-test (corrected orientation)
 

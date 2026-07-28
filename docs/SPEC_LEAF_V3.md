@@ -266,3 +266,37 @@ findings out of 22 raised).
    v3-recal fold coefficients, and a provenance note — leaf_v3_ratings.csv
    was regenerated 2026-07-14 (weekly data refresh), so the T1 universe is
    200 pairs / 60 QBs vs the published 199 / 61.
+
+5. **(Data correction, July 28, 2026) Split QB-games repaired; engine retuned.**
+   The base-data builder used `passer_player_name` as a grouping key, but
+   nflverse spells one `passer_player_id` inconsistently inside a single game
+   ("M.Ryan"/"Ryan", "Ale.Smith"/"Alex Smith", and the old "(3rd QB)" suffix).
+   That split 8 QB-games into 16 partial rows — e.g. Alex Smith's 2011 Week 3
+   became a 4-play row plus a 31-play row instead of one 35-play game. All 8
+   fall in 2008-2011, i.e. the TRAINING era; no frozen-era game was affected.
+   Fixed by grouping on identity and attaching the modal name per id
+   (`refresh_game_data.py` and the explorer's `pipeline/update_all.py`,
+   kept identical). Base rows 13,230 -> 13,222; zero split games remain.
+
+   The engine was retuned end-to-end on the corrected data and the frozen
+   evaluation re-scored. This is a data-quality correction, not a model
+   search, and both sets of numbers are published here:
+
+   | Metric | before fix | after fix |
+   |---|---|---|
+   | T1 LEAF v3 r | +0.4694 | +0.4689 |
+   | T1 LEAF v3 RMSE | 0.1131 | 0.1132 |
+   | T2 LEAF v3 r | +0.4611 | +0.4655 |
+   | T2 LEAF v3 RMSE | 0.1050 | 0.1045 |
+
+   Selected hyperparameters were unchanged (defense half-life/k, all four
+   Kalman triples, EWMA half-life, rookie prior, age drift); only the fusion
+   weights moved, on 819 training pairs instead of 821. The headline r = 0.47
+   claim is unaffected.
+
+   **Campaign provenance:** A1-A4 and the college H3 campaign were evaluated
+   on the pre-correction dataset. They are NOT re-run — each spec declares its
+   pass final, and re-scoring a closed frozen campaign after seeing its verdict
+   is exactly the adaptive-analysis risk those specs exist to prevent. Their
+   registered verdicts stand as recorded; the correction is training-era only
+   and cannot plausibly move a verdict that was null by a wide margin.

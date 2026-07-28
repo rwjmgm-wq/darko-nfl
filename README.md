@@ -17,7 +17,7 @@ Each position has its own validated metric combination:
 
 | Position | Metrics | Predictive Power (r) |
 |----------|---------|---------------------|
-| **QB (LEAF v3)** | EPA, CPOE, Success Rate | r=0.47 next-season, r=0.45 next-16-games (walk-forward, frozen 2019-2025 test era; see docs/LEAF_V3_RESULTS.md) |
+| **QB (LEAF v3)** | EPA, CPOE, Success Rate | r=0.47 next-season, r=0.47 next-16-games (walk-forward, frozen 2019-2025 test era; see docs/LEAF_V3_RESULTS.md) |
 | **WR*** | Receiving EPA, Targets, Air Yards, Receptions | r=0.692 |
 | **RB** | Rushing EPA, Attempts, Receiving Targets | r=0.554 |
 | **TE** | Receiving EPA, Targets, Receptions, Air Yards | r=0.621 |
