@@ -59,6 +59,31 @@
     "skill_change_var": 0.008530175958835732,
     "play_noise_var": 2.7563489938101755
   },
+  "interval_calibration": {
+    "mode": "forecast_origin",
+    "expected_inv_plays": 0.002454445748752249,
+    "implied_expected_plays": 407.4239573265629,
+    "calibration_seasons": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "note": "variance = scale * (state_var + skill_change_var + play_noise_var * E[1/plays]); scale is fit to rolling out-of-fold TRAINING residuals and absorbs fusion coefficient/covariance/residual error jointly rather than assuming independence among the EPA/CPOE/success states",
+    "leaf_v34": {
+      "scale": 0.7454677235139485,
+      "n_oof_residuals": 203,
+      "oof_residual_sd": 0.10954619835721187
+    },
+    "k_informed": {
+      "scale": 0.7916479555025278,
+      "n_oof_residuals": 203,
+      "oof_residual_sd": 0.1149269173976589
+    }
+  },
   "train_max_season": 2018,
   "population": "regular season only, QB passers only"
 }

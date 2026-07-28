@@ -35,6 +35,22 @@ SEASONS = range(2006, 2026)
 PROD = ROOT / 'data' / 'production'
 
 
+def output_paths(include_postseason: bool, keep_non_qb: bool):
+    """Resolve output paths so that EVERY population combination writes to a
+    distinct file. Both the season-type choice and the passer-population choice
+    are encoded, so no non-default run can overwrite the default artifact.
+
+    default (REG, QB only)      -> qb_games_base_v34.csv
+    REG, all passers            -> qb_games_base_v34_allpassers.csv
+    REG+POST, QB only           -> qb_games_base_v34_withpost.csv
+    REG+POST, all passers       -> qb_games_base_v34_withpost_allpassers.csv
+    """
+    suffix = ('_withpost' if include_postseason else '') + \
+             ('_allpassers' if keep_non_qb else '')
+    stem = f'qb_games_base_v34{suffix}'
+    return PROD / f'{stem}.csv', PROD / f'{stem}_dropreport.csv'
+
+
 def build(include_postseason: bool, keep_non_qb: bool):
     meta = pd.read_csv(ROOT / 'data' / 'raw' / 'player_meta.csv')
     pos = meta.set_index('gsis_id')['position']
@@ -96,12 +112,10 @@ def build(include_postseason: bool, keep_non_qb: bool):
         del df, p
 
     out = pd.concat(frames, ignore_index=True)
-    suffix = '_withpost' if include_postseason else ''
-    path = PROD / f'qb_games_base_v34{suffix}.csv'
+    path, dr_path = output_paths(include_postseason, keep_non_qb)
     out.to_csv(path, index=False, float_format='%.6f')
 
     dr = pd.DataFrame(drops)
-    dr_path = PROD / f'qb_games_base_v34{suffix}_dropreport.csv'
     dr.to_csv(dr_path, index=False)
 
     print(f'\n[OK] {len(out):,} QB-games -> {path.name}')

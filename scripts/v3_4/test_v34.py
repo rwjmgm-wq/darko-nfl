@@ -176,6 +176,169 @@ def t5_train_only_fitting():
           f'{int(ratings.season.min())}-{int(ratings.season.max())}')
 
 
+# ---------------------------------------------------------------- T6
+def t6_output_path_safety():
+    """No population combination may overwrite another's artifact."""
+    print('\nT6: CLI population combinations map to distinct files')
+    import build_base_v34 as B
+    combos = [(False, False), (False, True), (True, False), (True, True)]
+    paths = {}
+    for post, nonqb in combos:
+        data, drop = B.output_paths(post, nonqb)
+        label = f'postseason={post}, keep_non_qb={nonqb}'
+        paths[label] = (data.name, drop.name)
+        print(f'    {label:42s} -> {data.name}')
+    datas = [v[0] for v in paths.values()]
+    drops = [v[1] for v in paths.values()]
+    check('all 4 data paths distinct', len(set(datas)) == 4, str(sorted(datas)))
+    check('all 4 drop-report paths distinct', len(set(drops)) == 4)
+    check('no non-default run can claim the default filename',
+          sum(n == 'qb_games_base_v34.csv' for n in datas) == 1)
+    check('default is REG + QB only',
+          B.output_paths(False, False)[0].name == 'qb_games_base_v34.csv')
+
+
+# ---------------------------------------------------------------- T7
+def t7_interval_modes():
+    """Forecast-origin intervals must not depend on realized volume, and the
+    fused interval must not be raw k_informed_var."""
+    print('\nT7: interval-mode validity (Phase 1.1 finding 1)')
+    import inspect
+    import evaluate_v34 as EV
+
+    params = json.load(open(PROD / 'leaf_v34_params.json'))
+    df = pd.read_csv(PROD / 'leaf_v34_ratings.csv')
+    d = EV.build_t1(df, list(EV.PREDICTORS.values()))
+
+    # --- structural: no parameter and no source reference to target_plays ---
+    sig = inspect.signature(EV.interval_forecast_origin)
+    check('forecast-origin signature has no target_plays parameter',
+          'target_plays' not in sig.parameters, str(list(sig.parameters)))
+    src = inspect.getsource(EV.interval_forecast_origin)
+    check('forecast-origin source never references target_plays',
+          'target_plays' not in src)
+
+    # --- causal: corrupting realized volume cannot move the interval ---
+    sd_a = EV.interval_forecast_origin(d['state_var'], 'leaf_v34', params)
+    d_bad = d.copy()
+    d_bad['target_plays'] = 1.0        # absurd realized volume
+    sd_a2 = EV.interval_forecast_origin(d_bad['state_var'], 'leaf_v34', params)
+    check('forecast-origin interval unchanged when realized volume is corrupted',
+          np.allclose(sd_a, sd_a2), f'max delta = {np.max(np.abs(sd_a-sd_a2)):.2e}')
+
+    sd_b = EV.interval_conditional_realized(d['state_var'], d['target_plays'], params)
+    sd_b2 = EV.interval_conditional_realized(d_bad['state_var'], d_bad['target_plays'], params)
+    check('diagnostic mode DOES depend on realized volume (mode B is distinct)',
+          not np.allclose(sd_b, sd_b2))
+
+    # --- fused interval is not raw state sd ---
+    raw = np.sqrt(d['state_var'])
+    check('fused forecast interval is not sqrt(k_informed_var) alone',
+          not np.allclose(sd_a, raw),
+          f'mean fused sd {sd_a.mean():.4f} vs raw state sd {raw.mean():.4f}')
+    check('fused sd is materially wider than raw state sd',
+          sd_a.mean() > 2 * raw.mean(),
+          f'ratio {sd_a.mean()/raw.mean():.2f}x')
+
+    # --- calibration is actually consulted, and is mean-specific ---
+    p2 = json.loads(json.dumps(params))
+    p2['interval_calibration']['leaf_v34']['scale'] *= 4.0
+    sd_a3 = EV.interval_forecast_origin(d['state_var'], 'leaf_v34', p2)
+    check('changing the fused calibration scale changes fused intervals',
+          not np.allclose(sd_a, sd_a3))
+    check('fused and informed means have separate calibrations',
+          params['interval_calibration']['leaf_v34']['scale']
+          != params['interval_calibration']['k_informed']['scale'],
+          f"{params['interval_calibration']['leaf_v34']['scale']:.4f} vs "
+          f"{params['interval_calibration']['k_informed']['scale']:.4f}")
+
+    cal = params['interval_calibration']
+    check('calibration seasons are all train-era',
+          max(cal['calibration_seasons']) <= E.TRAIN_MAX_SEASON,
+          f'max = {max(cal["calibration_seasons"])}')
+    check('calibration used out-of-fold residuals', cal['leaf_v34']['n_oof_residuals'] > 0,
+          f"n = {cal['leaf_v34']['n_oof_residuals']}")
+
+
+# ---------------------------------------------------------------- T8
+def t8_all_train_fits_immune():
+    """Perturb ONLY 2019+ observations; every train-fit quantity must be
+    bit-identical (Phase 1.1 finding 5)."""
+    print('\nT8: all train-fit quantities immune to frozen-era perturbation')
+    print('    (re-runs tuning twice; this is the slow test)')
+    df = E.load_games()
+    d2 = df.copy()
+    frozen = d2['season'] >= 2019
+    d2.loc[frozen, 'epa'] += 3.0
+    d2.loc[frozen, 'cpoe'] += 25.0
+    d2.loc[frozen, 'success'] = 0.99
+
+    # defense hyperparameters
+    hl1, k1, r1 = E.tune_defense(df)
+    hl2, k2, r2 = E.tune_defense(d2)
+    check('defense hyperparameters unchanged', (hl1, k1) == (hl2, k2),
+          f'{(hl1, k1)} vs {(hl2, k2)}')
+    check('train-era defense ratings unchanged',
+          np.allclose(r1[(df.season <= E.TRAIN_MAX_SEASON).values],
+                      r2[(df.season <= E.TRAIN_MAX_SEASON).values]))
+
+    for d_ in (df, d2):
+        d_['def_rating'] = r1 if d_ is df else r2
+        d_['adj_epa'] = d_['epa'] - d_['def_rating']
+
+    # EWMA half-life
+    check('EWMA half-life unchanged', E.tune_ewma(df) == E.tune_ewma(d2))
+
+    # Kalman hyperparameters (adj_epa channel; the slowest single check)
+    kq1 = E.tune_kalman(df, 'adj_epa', prior_mean=-0.05)
+    kq2 = E.tune_kalman(d2, 'adj_epa', prior_mean=-0.05)
+    check('Kalman hyperparameters unchanged (adj_epa)', kq1 == kq2,
+          f'{kq1} vs {kq2}')
+
+    # rookie prior + age drift
+    a1, b1 = E.fit_rookie_prior(df)
+    a2, b2 = E.fit_rookie_prior(d2)
+    check('rookie prior unchanged', np.isclose(a1, a2) and np.isclose(b1, b2))
+    dr1, dr2 = E.fit_age_drift(df), E.fit_age_drift(d2)
+    check('age drift unchanged', all(np.isclose(dr1[k], dr2[k]) for k in dr1))
+
+    # fusion coefficients + interval calibration, from the persisted pair file
+    pairs = pd.read_csv(PROD / 'leaf_v34_fusion_pairs.csv')
+    params = json.load(open(PROD / 'leaf_v34_params.json'))
+    span = params['fusion']['max_target_span_days']
+    elig = ((pairs.target_end_season <= E.TRAIN_MAX_SEASON)
+            & (pairs.target_span_days <= span))
+    pb = pairs.copy()
+    pb.loc[pb.target_end_season >= 2019, ['y', 'k_informed', 'k_cpoe', 'k_success']] += 5.0
+    beta1 = E.fit_fusion(pairs[elig], 'clean')
+    beta2 = E.fit_fusion(pb[elig], 'frozen-perturbed')
+    check('fusion coefficients unchanged', np.allclose(beta1, beta2),
+          f'max delta = {np.max(np.abs(np.array(beta1)-np.array(beta2))):.2e}')
+    check('deployed fusion_beta matches the clean train-only fit',
+          np.allclose(beta1, params['fusion_beta']),
+          f'max delta = {np.max(np.abs(np.array(beta1)-np.array(params["fusion_beta"]))):.2e}')
+
+    # interval calibration parameters
+    r = pd.read_csv(PROD / 'leaf_v34_ratings.csv')
+    r['game_date'] = pd.to_datetime(r['game_date'])
+    rb = r.copy()
+    fz = rb['season'] >= 2019
+    rb.loc[fz, ['epa', 'k_informed', 'k_cpoe', 'k_success']] += 5.0
+    pi = params['predictive_interval']
+    c1 = E.calibrate_forecast_origin_intervals(r, pairs, pi['skill_change_var'],
+                                               pi['play_noise_var'])
+    c2 = E.calibrate_forecast_origin_intervals(rb, pairs, pi['skill_change_var'],
+                                               pi['play_noise_var'])
+    check('interval calibration scale unchanged (fused)',
+          np.isclose(c1['leaf_v34']['scale'], c2['leaf_v34']['scale']),
+          f"{c1['leaf_v34']['scale']:.6f} vs {c2['leaf_v34']['scale']:.6f}")
+    check('E[1/plays] prior unchanged',
+          np.isclose(c1['expected_inv_plays'], c2['expected_inv_plays']))
+    check('persisted calibration matches a clean recomputation',
+          np.isclose(c1['leaf_v34']['scale'],
+                     params['interval_calibration']['leaf_v34']['scale']))
+
+
 if __name__ == '__main__':
     print('=' * 72)
     print('LEAF v3.4 INVARIANT TESTS')
@@ -184,6 +347,9 @@ if __name__ == '__main__':
     t2_no_same_game_leak()
     t3_t4_population()
     t5_train_only_fitting()
+    t6_output_path_safety()
+    t7_interval_modes()
+    t8_all_train_fits_immune()
     print('\n' + '=' * 72)
     if FAILURES:
         print(f'{len(FAILURES)} FAILURE(S): ' + '; '.join(FAILURES))

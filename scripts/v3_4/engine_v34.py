@@ -315,6 +315,103 @@ def build_fusion_pairs(df):
     return pd.DataFrame(rows)
 
 
+def build_season_pairs(df, max_target_season):
+    """T1-shaped (season Y -> Y+1) pairs whose TARGET season is <= the cap.
+
+    Used only to calibrate forecast-origin intervals on the training era; the
+    frozen era is never touched here.
+    """
+    rows = []
+    for pid, g in df.groupby('passer_player_id'):
+        seas = g.groupby('season')['plays'].sum()
+        for y, p in seas.items():
+            if p < 150 or (y + 1) not in seas or seas[y + 1] < 150:
+                continue
+            if y + 1 > max_target_season:
+                continue
+            gy, gy1 = g[g.season == y], g[g.season == y + 1]
+            rows.append({'passer_player_id': pid, 'target_season': int(y + 1),
+                         'target': np.average(gy1['epa'], weights=gy1['plays']),
+                         'target_plays': float(gy1['plays'].sum()),
+                         'state_var': float(gy['k_informed_var'].iloc[-1]),
+                         'k_informed': float(gy['k_informed'].iloc[-1]),
+                         'k_cpoe': float(gy['k_cpoe'].iloc[-1]),
+                         'k_success': float(gy['k_success'].iloc[-1])})
+    return pd.DataFrame(rows)
+
+
+def calibrate_forecast_origin_intervals(df, fusion_pairs, skill_change_var,
+                                        play_noise_var, first_cal_season=2012):
+    """Calibrate FORECAST-ORIGIN predictive variance on the training era only.
+
+    Two properties this must satisfy, both required by the Phase 1.1 review:
+
+    1. It may not use realized future play volume. A forecast made at the
+       origin does not know how many plays the QB will take next season, so the
+       sampling-noise term uses the TRAIN-ERA expectation E[1/plays] over
+       qualifying seasons rather than the realized value.
+
+    2. For the FUSED rating it may not reuse k_informed_var as if it were the
+       fused variance. leaf_v34 is a linear combination of three Kalman states
+       whose errors are correlated, plus a fusion residual. Rather than assert
+       an independence structure we do not model, we calibrate TOTAL forecast
+       variance empirically against rolling out-of-fold training residuals:
+       for each calibration season s, fusion weights are refit on pairs whose
+       targets end at or before s-1 and used to predict season s. The resulting
+       scale therefore absorbs fusion-coefficient uncertainty, CPOE/success
+       state error, their covariance, and fusion residual error together.
+
+    Returns a dict of per-mean calibration entries.
+    """
+    season_pairs = build_season_pairs(df, TRAIN_MAX_SEASON)
+    # expectation of the sampling-noise multiplier at the origin
+    expected_inv_plays = float((1.0 / season_pairs['target_plays']).mean())
+
+    dense = fusion_pairs['target_span_days'] <= MAX_TARGET_SPAN_DAYS
+    resid = {'leaf_v34': [], 'k_informed': []}
+    base = {'leaf_v34': [], 'k_informed': []}
+
+    cal_seasons = [s for s in sorted(season_pairs['target_season'].unique())
+                   if s >= first_cal_season]
+    for s in cal_seasons:
+        hist = fusion_pairs[dense & (fusion_pairs['target_end_season'] <= s - 1)]
+        if len(hist) < 50:
+            continue
+        X = np.column_stack([np.ones(len(hist)), hist['k_informed'],
+                             hist['k_cpoe'], hist['k_success']])
+        b = np.linalg.lstsq(X, hist['y'].values, rcond=None)[0]
+        te = season_pairs[season_pairs['target_season'] == s]
+        if not len(te):
+            continue
+        pred_fused = (b[0] + b[1] * te['k_informed'] + b[2] * te['k_cpoe']
+                      + b[3] * te['k_success'])
+        common = te['state_var'] + skill_change_var + play_noise_var * expected_inv_plays
+        resid['leaf_v34'].extend((te['target'] - pred_fused).tolist())
+        base['leaf_v34'].extend(common.tolist())
+        resid['k_informed'].extend((te['target'] - te['k_informed']).tolist())
+        base['k_informed'].extend(common.tolist())
+
+    cal = {'mode': 'forecast_origin',
+           'expected_inv_plays': expected_inv_plays,
+           'implied_expected_plays': float(1.0 / expected_inv_plays),
+           'calibration_seasons': [int(s) for s in cal_seasons],
+           'note': ('variance = scale * (state_var + skill_change_var + '
+                    'play_noise_var * E[1/plays]); scale is fit to rolling '
+                    'out-of-fold TRAINING residuals and absorbs fusion '
+                    'coefficient/covariance/residual error jointly rather than '
+                    'assuming independence among the EPA/CPOE/success states')}
+    for k in resid:
+        r = np.asarray(resid[k]); bv = np.asarray(base[k])
+        scale = float(np.mean(r ** 2 / bv)) if len(r) else 1.0
+        cal[k] = {'scale': scale, 'n_oof_residuals': int(len(r)),
+                  'oof_residual_sd': float(r.std()) if len(r) else float('nan')}
+        print(f'  [{k}] OOF n={len(r)} residual sd={r.std():.4f} '
+              f'variance scale={scale:.3f}')
+    print(f'  E[1/plays]={expected_inv_plays:.6f} '
+          f'(implied ~{1/expected_inv_plays:.0f} plays); NO realized volume used')
+    return cal
+
+
 def fit_fusion(pairs, label):
     X = np.column_stack([np.ones(len(pairs)), pairs['k_informed'],
                          pairs['k_cpoe'], pairs['k_success']])
@@ -397,8 +494,16 @@ def main():
                       + beta[2] * df['k_cpoe'] + beta[3] * df['k_success'])
     df['leaf_v34_pre'] = (beta[0] + beta[1] * df['k_informed_pre']
                           + beta[2] * df['k_cpoe_pre'] + beta[3] * df['k_success_pre'])
+    # Clean UNRESTRICTED next-16-appearances fit, carried so the evaluator can
+    # report both target definitions side by side. Both are leak-free; the
+    # choice between them is NOT made using frozen-era outcomes.
+    df['leaf_v34_unrestricted'] = (beta_all[0] + beta_all[1] * df['k_informed']
+                                   + beta_all[2] * df['k_cpoe']
+                                   + beta_all[3] * df['k_success'])
 
     # ---- predictive-interval components, fit on TRAIN ERA ONLY (finding E) ----
+    # (calibration of the FORECAST-ORIGIN interval happens after this block;
+    #  see calibrate_forecast_origin_intervals)
     tr = df[df['season'] <= TRAIN_MAX_SEASON]
     seas = tr.groupby(['passer_player_id', 'season']).apply(
         lambda g: pd.Series({'epa': np.average(g['epa'], weights=g['plays']),
@@ -413,16 +518,20 @@ def main():
     resid = gm['epa'] - gm.groupby(['passer_player_id', 'season'])['epa'].transform('mean')
     play_noise_var = float(np.average(resid ** 2, weights=gm['plays']) * gm['plays'].mean())
     skill_change_var = float(max(consec.var() - 2 * play_noise_var / 500.0, 1e-6))
-    print(f'\n[intervals] train-only: skill_change_var={skill_change_var:.5f}, '
-          f'play_noise_var={play_noise_var:.3f}')
+    print(f'\n[intervals] train-only variance components: '
+          f'skill_change_var={skill_change_var:.5f}, play_noise_var={play_noise_var:.3f}')
+    print('[intervals] forecast-origin calibration (rolling OOF, train era only)')
+    interval_cal = calibrate_forecast_origin_intervals(
+        df, pairs, skill_change_var, play_noise_var)
 
     out_cols = ['game_id', 'game_date', 'season', 'season_type', 'week',
                 'passer_player_id', 'passer_player_name', 'posteam', 'defteam',
                 'plays', 'epa', 'cpoe', 'success', 'age', 'log_pick',
                 'def_rating', 'adj_epa', 'b1_expanding', 'b2_prev_season',
                 'b3_ewma', 'b4_last12', 'k_epa', 'k_adj_epa', 'k_adj_epa_var',
+                'k_cpoe', 'k_success',
                 'k_informed', 'k_informed_pre', 'k_informed_var',
-                'leaf_v34', 'leaf_v34_pre']
+                'leaf_v34', 'leaf_v34_pre', 'leaf_v34_unrestricted']
     out = ROOT / 'data' / 'production' / 'leaf_v34_ratings.csv'
     df[out_cols].to_csv(out, index=False, float_format='%.6f')
 
@@ -441,6 +550,7 @@ def main():
                    'n_excluded_for_target_leakage': n_leaky},
         'predictive_interval': {'skill_change_var': skill_change_var,
                                 'play_noise_var': play_noise_var},
+        'interval_calibration': interval_cal,
         'train_max_season': TRAIN_MAX_SEASON,
         'population': 'regular season only, QB passers only',
     }
