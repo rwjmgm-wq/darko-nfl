@@ -53,8 +53,12 @@ def main():
         'plays': df['plays'],
         'age': df['age'],
     })
+    # 6dp on floats: full repr differs in the last bits between numpy builds,
+    # so an unrounded export rewrites all ~12k rows on every weekly CI run
+    # (~5MB of git history a week for data that barely changed). 6 decimals is
+    # far more precision than any displayed or downstream use needs.
     games_path = APP_DATA / f'leaf_v3_game_by_game_{STAMP}.csv'
-    games.to_csv(games_path, index=False)
+    games.to_csv(games_path, index=False, float_format='%.6f')
     print(f'[OK] {len(games):,} rows -> {games_path.name}')
 
     last = df.groupby('passer_player_id').last()
@@ -71,7 +75,7 @@ def main():
         'total_attempts': agg['total_attempts'].values,
     })
     cur_path = APP_DATA / f'leaf_v3_current_ratings_{STAMP}.csv'
-    current.to_csv(cur_path, index=False)
+    current.to_csv(cur_path, index=False, float_format='%.6f')
     print(f'[OK] {len(current)} QBs -> {cur_path.name}')
 
     shutil.copy(ROOT / 'data' / 'production' / 'leaf_v3_params.json',
