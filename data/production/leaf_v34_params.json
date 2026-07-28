@@ -1,0 +1,64 @@
+{
+  "model_version": "v3.4",
+  "defense": {
+    "halflife_days": 180,
+    "k_shrink": 600,
+    "update": "date-batched, one update per game-defense"
+  },
+  "ewma_halflife": 3,
+  "kalman": {
+    "adj_epa": {
+      "q": 5e-05,
+      "r_play": 1.0,
+      "p0": 0.005
+    },
+    "epa": {
+      "q": 5e-05,
+      "r_play": 1.0,
+      "p0": 0.005
+    },
+    "cpoe": {
+      "q": 5e-05,
+      "r_play": 2.0,
+      "p0": 0.005
+    },
+    "success": {
+      "q": 5e-05,
+      "r_play": 1.0,
+      "p0": 0.005
+    }
+  },
+  "rookie_prior": {
+    "intercept": -0.03492920650881891,
+    "log_pick_slope": -0.008210260925875863
+  },
+  "age_drift": {
+    "u25": 0.009420958305135617,
+    "25_32": -0.006321951049062683,
+    "o32": -0.02142947961360645
+  },
+  "fusion_beta": [
+    -0.06465823628293758,
+    0.36634527345967755,
+    0.008428478178509719,
+    0.2682687971782154
+  ],
+  "fusion_beta_long_span_reported_only": [
+    -0.26306291720308006,
+    0.36302227539974097,
+    0.005935272700208361,
+    0.6877959963671678
+  ],
+  "fusion": {
+    "target": "next-16-appearances, dense variant",
+    "max_target_span_days": 730,
+    "n_primary_pairs": 595,
+    "n_excluded_for_target_leakage": 92
+  },
+  "predictive_interval": {
+    "skill_change_var": 0.008530175958835732,
+    "play_noise_var": 2.7563489938101755
+  },
+  "train_max_season": 2018,
+  "population": "regular season only, QB passers only"
+}
